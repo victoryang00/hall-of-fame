@@ -15,45 +15,59 @@ cur_year = datetime.datetime.now().year
 
 last5 = datetime.datetime.now().year - 5
 next_year = datetime.datetime.now().year + 1
-print last5
+print(last5)
 
 # Get publication data from DBLP for each version of the
 # conference. You might have to poke around DBLP XML entries for your
 # conference to identify the "crossref" (conf/sosp) and "booktitle"
 # (SOSP) for the conference you are interested in
-for y in range(1969, next_year, 2):
-    print "SOSP", y
-    a = dblp.getvenueauthors("/conf/sosp/" + str(y), "SOSP")
-    for x in a:
-        sosp[x] = sosp.get(x, 0) + 1
-        total[x] = total.get(x, 0) + 1
-        if y >= last5:
-            total5[x] = total5.get(x, 0) + 1
+for y in range(1969, 2023, 2):
+    print("SOSP", y)
+    try:
+        a = dblp.searchvenue("/conf/sosp/" + str(y), "SOSP")
+        for x in a:
+            sosp[x] = sosp.get(x, 0) + 1
+            total[x] = total.get(x, 0) + 1
+            if y >= last5:
+                total5[x] = total5.get(x, 0) + 1
+    except Exception as e:
+        print(e)
 
-for y in range(1994, 2021, 2):
-    print "OSDI", y
-    a = dblp.getvenueauthors("/conf/osdi/" + str(y), "OSDI")
-    for x in a:
-        osdi[x] = osdi.get(x, 0) + 1
+for y in range(2023, next_year, 1):
+    print("SOSP", y)
+    try:
+        a = dblp.searchvenue("/conf/sosp/" + str(y))
+        for x in a:
+            sosp[x] = sosp.get(x, 0) + 1
+            total[x] = total.get(x, 0) + 1
+            if y >= last5:
+                total5[x] = total5.get(x, 0) + 1
+    except Exception as e:
+        print(e)
+for y in range(1994, 2020, 2):
+    print("OSDI", y)
+    try:
+        a = dblp.searchvenue("/conf/osdi/" + str(y))
+        for x in a:
+            osdi[x] = osdi.get(x, 0) + 1
         total[x] = total.get(x, 0) + 1
         if y >= last5:
             total5[x] = total5.get(x, 0) + 1
+    except Exception as e:
+        print(e)
 
 # OSDI becomes annual
-for y in range(2021, next_year, 1):
-    print "OSDI", y
-    a = dblp.getvenueauthors("/conf/osdi/" + str(y), "OSDI")
-    for x in a:
-        osdi[x] = osdi.get(x, 0) + 1
+for y in range(2020, next_year, 1):
+    print("OSDI", y)
+    try:
+        a = dblp.searchvenue("/conf/osdi/osdi" + str(y))
+        for x in a:
+            osdi[x] = osdi.get(x, 0) + 1
         total[x] = total.get(x, 0) + 1
         if y >= last5:
             total5[x] = total5.get(x, 0) + 1
-
-#Some manual adjustments
-osdi["Guoqing Harry Xu"] += osdi["Guoqing Xu 0001"]
-sosp["Guoqing Harry Xu"] += sosp["Guoqing Xu 0001"]
-total["Guoqing Harry Xu"] += total["Guoqing Xu 0001"]
-total5["Guoqing Harry Xu"] += total5["Guoqing Xu 0001"]
+    except Exception as e:
+        print(e)
             
 sosp_file = open("sosp.data", 'wb')
 osdi_file = open("osdi.data", 'wb')

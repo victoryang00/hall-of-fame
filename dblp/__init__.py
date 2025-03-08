@@ -21,7 +21,7 @@ class LazyAPIData(object):
             if self.data is None:
                 self.load_data()
             return self.data[key]
-        raise AttributeError, key
+        raise AttributeError(key)
 
     def load_data(self):
         pass
@@ -45,10 +45,10 @@ class Author(LazyAPIData):
 
     def load_data(self):
         resp = requests.get(DBLP_PERSON_URL.format(urlpt=self.urlpt))
-        print self.urlpt
+        print(self.urlpt)
         # TODO error handling
         xml = resp.content
-        print xml
+        print(xml)
         self.xml = xml
         root = etree.fromstring(xml)
         data = {
@@ -154,10 +154,10 @@ class Publication(LazyAPIData):
 
 def search(author_str):
     resp = requests.get(DBLP_AUTHOR_SEARCH_URL, params={'xauthor':author_str})
-    print resp
+    print(resp)
     #TODO error handling
     root = etree.fromstring(resp.content)
-    print root
+    print(root)
     return [Author(urlpt) for urlpt in root.xpath('/authors/author/@urlpt')]
 
 def searchvenue(venue_str):
@@ -168,7 +168,8 @@ def searchvenue(venue_str):
 
 def getvenueauthors(venue_str, venue_short):
     resp = requests.get(DBLP_PUB_SEARCH_URL, params={'q':venue_str, 'h':100})
-    #TODO error handling
+    #TODO error handlin
+    resp.raise_for_status()
     root = etree.fromstring(resp.content)
     ans = []
     for x in root.findall(".//info/[venue='" + venue_short + "']/../"):
