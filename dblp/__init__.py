@@ -168,8 +168,8 @@ def searchvenue(venue_str):
     return [Publication(url) for url in root.xpath('//info/key/text()')]
 
 def getvenueauthors(venue_str, venue_short):
-    cache_filename = f"{venue_short}_{venue_str}_cache.xml"
-    
+    cache_filename = f"{venue_str}_cache.xml"
+    os.makedirs(os.path.dirname(cache_filename), exist_ok=True)
     # 2. If the file exists, read from it; otherwise, request from DBLP and save it
     if os.path.exists(cache_filename):
         with open(cache_filename, "rb") as f:
