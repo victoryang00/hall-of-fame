@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="286872">conf* sosp* 1973*</query>
+<status code="200">OK</status>
+<time unit="msecs">116.12</time>
+<completions total="1" computed="1" sent="1">
+<c sc="21" dc="21" oc="21" id="58179470">1973</c>
+</completions>
+<hits total="21" computed="21" sent="21" first="0">
+<hit score="3" id="7724864">
+<info><authors><author pid="a/Arvind">Arvind</author><author pid="33/4788">Richard Y. Kain</author><author pid="10/5548">Eitan Sadeh</author></authors><title>On Reference String Generation Processes.</title><venue>SOSP</venue><pages>80-87</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ArvindKS73</key><doi>10.1145/800009.808053</doi><ee>https://doi.org/10.1145/800009.808053</ee><url>https://dblp.org/rec/conf/sosp/ArvindKS73</url></info>
+<url>URL#7724864</url>
+</hit>
+<hit score="3" id="7724865">
+<info><authors><author pid="b/JohnLBruno">John L. Bruno</author><author pid="c/EdwardGCoffmanJr">Edward G. Coffman Jr.</author><author pid="34/3026">Ravi Sethi</author></authors><title>Scheduling Independent Tasks to Reduce Mean Finishing Time (Extended Abstract).</title><venue>SOSP</venue><pages>102-103</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BrunoCS73</key><doi>10.1145/800009.808056</doi><ee>https://doi.org/10.1145/800009.808056</ee><url>https://dblp.org/rec/conf/sosp/BrunoCS73</url></info>
+<url>URL#7724865</url>
+</hit>
+<hit score="3" id="7724866">
+<info><authors><author pid="c/DDChamberlin">Donald D. Chamberlin</author><author pid="11/4922">Samuel H. Fuller</author><author pid="99/4551">Leonard Y. Liu</author></authors><title>A Page Allocation Strategy for Multiprogramming Systems with Virtual Memory.</title><venue>SOSP</venue><pages>66-72</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChamberlinFL73</key><doi>10.1145/800009.808051</doi><ee>https://doi.org/10.1145/800009.808051</ee><url>https://dblp.org/rec/conf/sosp/ChamberlinFL73</url></info>
+<url>URL#7724866</url>
+</hit>
+<hit score="3" id="7724867">
+<info><authors><author pid="85/2329">Paul Day</author><author pid="23/5608">John Hines</author></authors><title>ARGOS: An Operating System for a Computer Utility Supporting Interactive Instrument Control.</title><venue>SOSP</venue><pages>28-37</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DayH73</key><doi>10.1145/800009.808046</doi><ee>https://doi.org/10.1145/800009.808046</ee><url>https://dblp.org/rec/conf/sosp/DayH73</url></info>
+<url>URL#7724867</url>
+</hit>
+<hit score="3" id="7724868">
+<info><authors><author pid="d/PJDenning">Peter J. Denning</author><author pid="01/3979">Jeffrey R. Spirn</author></authors><title>Dynamic Storage Partitioning.</title><venue>SOSP</venue><pages>73-79</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DenningS73</key><doi>10.1145/800009.808052</doi><ee>https://doi.org/10.1145/800009.808052</ee><url>https://dblp.org/rec/conf/sosp/DenningS73</url></info>
+<url>URL#7724868</url>
+</hit>
+<hit score="3" id="7724869">
+<info><authors><author pid="e/ClarenceAEllis">Clarence A. Ellis</author></authors><title>On the Propability of Deadline in Computer Systems.</title><venue>SOSP</venue><pages>88-95</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Ellis73</key><doi>10.1145/800009.808054</doi><ee>https://doi.org/10.1145/800009.808054</ee><url>https://dblp.org/rec/conf/sosp/Ellis73</url></info>
+<url>URL#7724869</url>
+</hit>
+<hit score="3" id="7724870">
+<info><authors><author pid="31/5053">Robert S. Fabry</author></authors><title>The Case for Capability-Based Computers.</title><venue>SOSP</venue><pages>120</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Fabry73</key><doi>10.1145/800009.808060</doi><ee>https://doi.org/10.1145/800009.808060</ee><url>https://dblp.org/rec/conf/sosp/Fabry73</url></info>
+<url>URL#7724870</url>
+</hit>
+<hit score="3" id="7724871">
+<info><authors><author pid="11/4922">Samuel H. Fuller</author></authors><title>Random Arrival and the MTPT Drum Scheduling Discipline.</title><venue>SOSP</venue><pages>54-57</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Fuller73</key><doi>10.1145/800009.808049</doi><ee>https://doi.org/10.1145/800009.808049</ee><url>https://dblp.org/rec/conf/sosp/Fuller73</url></info>
+<url>URL#7724871</url>
+</hit>
+<hit score="3" id="7724872">
+<info><authors><author pid="g/MRGarey">M. R. Garey</author><author pid="g/RLGraham">Ronald L. Graham</author></authors><title>Bounds on Scheduling with Limited Resources.</title><venue>SOSP</venue><pages>104-111</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GareyG73</key><doi>10.1145/800009.808057</doi><ee>https://doi.org/10.1145/800009.808057</ee><url>https://dblp.org/rec/conf/sosp/GareyG73</url></info>
+<url>URL#7724872</url>
+</hit>
+<hit score="3" id="7724873">
+<info><authors><author pid="k/SRaoKosaraju">S. Rao Kosaraju</author></authors><title>Limitations of Dijkstra&apos;s Semaphore Primitives and Petri Nets.</title><venue>SOSP</venue><pages>122-136</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Kosaraju73</key><doi>10.1145/800009.808062</doi><ee>https://doi.org/10.1145/800009.808062</ee><url>https://dblp.org/rec/conf/sosp/Kosaraju73</url></info>
+<url>URL#7724873</url>
+</hit>
+<hit score="3" id="7724874">
+<info><authors><author pid="51/5700">K. L. Krause</author><author pid="s/VincentYunShen">Vincent Y. Shen</author><author pid="15/549">Herbert D. Schwetman</author></authors><title>A Task Scheduling Algorithm for a Multiprogramming Computer System.</title><venue>SOSP</venue><pages>112-118</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KrauseSS73</key><doi>10.1145/800009.808058</doi><ee>https://doi.org/10.1145/800009.808058</ee><url>https://dblp.org/rec/conf/sosp/KrauseSS73</url></info>
+<url>URL#7724874</url>
+</hit>
+<hit score="3" id="7724875">
+<info><authors><author pid="62/6214">Gerald J. Popek</author><author pid="34/1564">Robert P. Goldberg</author></authors><title>Formal Requirements for Virtualizable Third Generation Architectures.</title><venue>SOSP</venue><pages>121</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PopekG73</key><doi>10.1145/800009.808061</doi><ee>https://doi.org/10.1145/800009.808061</ee><url>https://dblp.org/rec/conf/sosp/PopekG73</url></info>
+<url>URL#7724875</url>
+</hit>
+<hit score="3" id="7724876">
+<info><authors><author pid="r/DennisRitchie">Dennis Ritchie</author><author pid="t/KenThompson">Ken Thompson</author></authors><title>The UNIX Time-Sharing System (Abstract).</title><venue>SOSP</venue><pages>27</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RitchieT73</key><doi>10.1145/800009.808045</doi><ee>https://doi.org/10.1145/800009.808045</ee><url>https://dblp.org/rec/conf/sosp/RitchieT73</url></info>
+<url>URL#7724876</url>
+</hit>
+<hit score="3" id="7724877">
+<info><authors><author pid="s/JeromeHSaltzer">Jerome H. Saltzer</author></authors><title>Protection and the Control of Information Sharing in MULTICS.</title><venue>SOSP</venue><pages>119</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Saltzer73</key><doi>10.1145/800009.808059</doi><ee>https://doi.org/10.1145/800009.808059</ee><url>https://dblp.org/rec/conf/sosp/Saltzer73</url></info>
+<url>URL#7724877</url>
+</hit>
+<hit score="3" id="7724878">
+<info><authors><author pid="78/1004">Lee J. Scheffler</author></authors><title>Optimal Folding of a Paging Drum in a Three Level Memory System.</title><venue>SOSP</venue><pages>58-65</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Scheffler73</key><doi>10.1145/800009.808050</doi><ee>https://doi.org/10.1145/800009.808050</ee><url>https://dblp.org/rec/conf/sosp/Scheffler73</url></info>
+<url>URL#7724878</url>
+</hit>
+<hit score="3" id="7724879">
+<info><authors><author pid="76/3827">Paul G. Sorenson</author></authors><title>Interprocess Communication in Real-Time Systems.</title><venue>SOSP</venue><pages>1-7</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Sorenson73</key><doi>10.1145/800009.808042</doi><ee>https://doi.org/10.1145/800009.808042</ee><url>https://dblp.org/rec/conf/sosp/Sorenson73</url></info>
+<url>URL#7724879</url>
+</hit>
+<hit score="3" id="7724880">
+<info><authors><author pid="36/3426">Michael J. Spier</author><author pid="73/3403">Thomas N. Hastings</author><author pid="87/5215">David N. Cutler</author></authors><title>An Experimental Implementation on the Kernel/Domain Architecture.</title><venue>SOSP</venue><pages>8-21</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SpierHC73</key><doi>10.1145/800009.808043</doi><ee>https://doi.org/10.1145/800009.808043</ee><url>https://dblp.org/rec/conf/sosp/SpierHC73</url></info>
+<url>URL#7724880</url>
+</hit>
+<hit score="3" id="7724881">
+<info><authors><author pid="63/4810">C. J. Stephenson</author></authors><title>On the Structure and Control of Commands.</title><venue>SOSP</venue><pages>22-26</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Stephenson73</key><doi>10.1145/800009.808044</doi><ee>https://doi.org/10.1145/800009.808044</ee><url>https://dblp.org/rec/conf/sosp/Stephenson73</url></info>
+<url>URL#7724881</url>
+</hit>
+<hit score="3" id="7724882">
+<info><authors><author pid="76/5566">Liba Svobodova</author></authors><title>Online System Performance Measurements with Software and Hybrid Monitors.</title><venue>SOSP</venue><pages>45-53</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Svobodova73</key><doi>10.1145/800009.808048</doi><ee>https://doi.org/10.1145/800009.808048</ee><url>https://dblp.org/rec/conf/sosp/Svobodova73</url></info>
+<url>URL#7724882</url>
+</hit>
+<hit score="3" id="7724883">
+<info><authors><author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author></authors><title>Polynomial Complete Scheduling Problems.</title><venue>SOSP</venue><pages>96-101</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Ullman73</key><doi>10.1145/800009.808055</doi><ee>https://doi.org/10.1145/800009.808055</ee><url>https://dblp.org/rec/conf/sosp/Ullman73</url></info>
+<url>URL#7724883</url>
+</hit>
+<hit score="3" id="7724884">
+<info><authors><author pid="57/233">W. Walther</author></authors><title>Multiprocessor Self Diagnosis, Surgery, and Recovery in Air Traffic Control.</title><venue>SOSP</venue><pages>38-44</pages><year>1973</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Walther73</key><doi>10.1145/800009.808047</doi><ee>https://doi.org/10.1145/800009.808047</ee><url>https://dblp.org/rec/conf/sosp/Walther73</url></info>
+<url>URL#7724884</url>
+</hit>
+</hits>
+</result>
