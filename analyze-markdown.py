@@ -83,7 +83,7 @@ print("|:----:|:----|:--------| ----:|----:|:----")
 # The function that prints each author
 def mprint(i, rank, x, c, c5):
     flame_bar = "&nbsp;"
-    for f in range(0, c5/5):
+    for f in range(0, c5//5):
         flame_bar += "&#128293;";
     flame_bar +="|"
 
