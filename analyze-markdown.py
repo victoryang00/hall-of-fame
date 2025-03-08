@@ -101,9 +101,6 @@ def mprint(i, rank, x, c, c5):
  
     if x in authors:
         ans += "|" + mypadding + authors[x]
-    if x == "David Mazières":
-        ans = "|" + str(i) + "|" + str(rank) + "|" + ''.join(("David Mazi&egrave;res", "|", str(c) ,"|", str(c5))).encode('utf-8').strip()
-        ans += "|" + mypadding + "Stanford"
     print(ans)
     
 i = 1

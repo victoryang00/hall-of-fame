@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287281">conf* sosp* 2007*</query>
+<status code="200">OK</status>
+<time unit="msecs">13.37</time>
+<completions total="1" computed="1" sent="1">
+<c sc="40" dc="40" oc="40" id="58181699">2007</c>
+</completions>
+<hits total="40" computed="40" sent="40" first="0">
+<hit score="4" id="6186291">
+<info><authors><author pid="57/863">Daniel Lohmann</author><author pid="43/5080">Jochen Streicher</author><author pid="30/7454">Wanja Hofer</author><author pid="s/OlafSpinczyk">Olaf Spinczyk</author><author pid="26/6488">Wolfgang Schröder-Preikschat</author></authors><title>Configurable memory protection by aspects.</title><venue>PLOS@SOSP</venue><pages>3:1-3:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LohmannSHSS07</key><doi>10.1145/1376789.1376794</doi><ee>https://doi.org/10.1145/1376789.1376794</ee><url>https://dblp.org/rec/conf/sosp/LohmannSHSS07</url></info>
+<url>URL#6186291</url>
+</hit>
+<hit score="4" id="6186301">
+<info><authors><author pid="60/2464">Ya-Yunn Su</author><author pid="44/6870">Mona Attariyan</author><author pid="14/85">Jason Flinn</author></authors><title>AutoBash: improving configuration management with operating system causality analysis.</title><venue>SOSP</venue><pages>237-250</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SuAF07</key><doi>10.1145/1294261.1294284</doi><ee>https://doi.org/10.1145/1294261.1294284</ee><url>https://dblp.org/rec/conf/sosp/SuAF07</url></info>
+<url>URL#6186301</url>
+</hit>
+<hit score="3" id="6129417">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>Averaged Conservative Boosting: Introducing a New Method to Build Ensembles of Neural Networks.</title><venue>ICANN</venue><pages>309-318</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icann/Torres-SospedraHF07</key><doi>10.1007/978-3-540-74690-4_32</doi><ee>https://doi.org/10.1007/978-3-540-74690-4_32</ee><url>https://dblp.org/rec/conf/icann/Torres-SospedraHF07</url></info>
+<url>URL#6129417</url>
+</hit>
+<hit score="3" id="6129418">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>Stacking MF Networks to Combine the Outputs Provided by RBF Networks.</title><venue>ICANN</venue><pages>450-459</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icann/Torres-SospedraHF07a</key><doi>10.1007/978-3-540-74690-4_46</doi><ee>https://doi.org/10.1007/978-3-540-74690-4_46</ee><url>https://dblp.org/rec/conf/icann/Torres-SospedraHF07a</url></info>
+<url>URL#6129418</url>
+</hit>
+<hit score="3" id="6150278">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>Mixing Aveboost and Conserboost to Improve Boosting Methods.</title><venue>IJCNN</venue><pages>672-677</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ijcnn/Torres-SospedraHF07</key><doi>10.1109/IJCNN.2007.4371037</doi><ee>https://doi.org/10.1109/IJCNN.2007.4371037</ee><url>https://dblp.org/rec/conf/ijcnn/Torres-SospedraHF07</url></info>
+<url>URL#6150278</url>
+</hit>
+<hit score="3" id="6150279">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>Designing a Multilayer Feedforward Ensemble with the Weighted Conservative Boosting Algorithm.</title><venue>IJCNN</venue><pages>684-689</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ijcnn/Torres-SospedraHF07a</key><doi>10.1109/IJCNN.2007.4371039</doi><ee>https://doi.org/10.1109/IJCNN.2007.4371039</ee><url>https://dblp.org/rec/conf/ijcnn/Torres-SospedraHF07a</url></info>
+<url>URL#6150279</url>
+</hit>
+<hit score="3" id="6161887">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>Improving Adaptive Boosting with a Relaxed Equation to Update the Sampling Distribution.</title><venue>IWANN</venue><pages>119-126</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwann/Torres-SospedraHF07</key><doi>10.1007/978-3-540-73007-1_15</doi><ee>https://doi.org/10.1007/978-3-540-73007-1_15</ee><url>https://dblp.org/rec/conf/iwann/Torres-SospedraHF07</url></info>
+<url>URL#6161887</url>
+</hit>
+<hit score="3" id="6186272">
+<info><authors><author pid="10/553">Marcos Kawazoe Aguilera</author><author pid="40/3294">Arif Merchant</author><author pid="s/MehulAShah">Mehul A. Shah</author><author pid="28/2712">Alistair C. Veitch</author><author pid="44/5092">Christos T. Karamanolis</author></authors><title>Sinfonia: a new paradigm for building scalable distributed systems.</title><venue>SOSP</venue><pages>159-174</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AguileraMSVK07</key><doi>10.1145/1294261.1294278</doi><ee>https://doi.org/10.1145/1294261.1294278</ee><url>https://dblp.org/rec/conf/sosp/AguileraMSVK07</url></info>
+<url>URL#6186272</url>
+</hit>
+<hit score="3" id="6186273">
+<info><authors><author pid="28/337">Kevin Bierhoff</author><author pid="22/3053">Chris Hawblitzel</author></authors><title>Checking the hardware-software interface in spec#.</title><venue>PLOS@SOSP</venue><pages>9:1-9:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BierhoffH07</key><doi>10.1145/1376789.1376802</doi><ee>https://doi.org/10.1145/1376789.1376802</ee><url>https://dblp.org/rec/conf/sosp/BierhoffH07</url></info>
+<url>URL#6186273</url>
+</hit>
+<hit score="3" id="6186274">
+<info><authors><author pid="90/611">Luc Bläser</author></authors><title>A high-performance operating system for structured concurrent programs.</title><venue>PLOS@SOSP</venue><pages>8:1-8:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Blaser07</key><doi>10.1145/1376789.1376800</doi><ee>https://doi.org/10.1145/1376789.1376800</ee><url>https://dblp.org/rec/conf/sosp/Blaser07</url></info>
+<url>URL#6186274</url>
+</hit>
+<hit score="3" id="6186275">
+<info><authors><author pid="13/2794">Stephen Chong</author><author pid="20/5913">Jed Liu</author><author pid="m/AndrewCMyers">Andrew C. Myers</author><author pid="63/216-12">Xin Qi 0012</author><author pid="25/378">K. Vikram</author><author pid="95/3594">Lantian Zheng</author><author pid="13/6922">Xin Zheng</author></authors><title>Secure web application via automatic partitioning.</title><venue>SOSP</venue><pages>31-44</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChongLMQVZZ07</key><doi>10.1145/1294261.1294265</doi><ee>https://doi.org/10.1145/1294261.1294265</ee><url>https://dblp.org/rec/conf/sosp/ChongLMQVZZ07</url></info>
+<url>URL#6186275</url>
+</hit>
+<hit score="3" id="6186276">
+<info><authors><author pid="34/3515">Byung-Gon Chun</author><author pid="m/PetrosManiatis">Petros Maniatis</author><author pid="34/5593">Scott Shenker</author><author pid="k/JohnKubiatowicz">John Kubiatowicz</author></authors><title>Attested append-only memory: making adversaries stick to their word.</title><venue>SOSP</venue><pages>189-204</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChunMSK07</key><doi>10.1145/1294261.1294280</doi><ee>https://doi.org/10.1145/1294261.1294280</ee><url>https://dblp.org/rec/conf/sosp/ChunMSK07</url></info>
+<url>URL#6186276</url>
+</hit>
+<hit score="3" id="6186277">
+<info><authors><author pid="35/6770">Manuel Costa</author><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="z/LidongZhou">Lidong Zhou</author><author pid="94/5689">Lintao Zhang</author><author pid="56/6925">Marcus Peinado</author></authors><title>Bouncer: securing software by blocking bad input.</title><venue>SOSP</venue><pages>117-130</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CostaCZZP07</key><doi>10.1145/1294261.1294274</doi><ee>https://doi.org/10.1145/1294261.1294274</ee><url>https://dblp.org/rec/conf/sosp/CostaCZZP07</url></info>
+<url>URL#6186277</url>
+</hit>
+<hit score="3" id="6186278">
+<info><authors><author pid="30/2206">Olivier Crameri</author><author pid="47/5273">Nikola Knezevic</author><author pid="03/3188">Dejan Kostic</author><author pid="85/2722">Ricardo Bianchini</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author></authors><title>Staged deployment in mirage, an integrated software upgrade testing and distribution system.</title><venue>SOSP</venue><pages>221-236</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CrameriKKBZ07</key><doi>10.1145/1294261.1294283</doi><ee>https://doi.org/10.1145/1294261.1294283</ee><url>https://dblp.org/rec/conf/sosp/CrameriKKBZ07</url></info>
+<url>URL#6186278</url>
+</hit>
+<hit score="3" id="6186279">
+<info><authors><author pid="03/2122">John Criswell</author><author pid="15/2621">Andrew Lenharth</author><author pid="15/179">Dinakar Dhurjati</author><author pid="78/4438">Vikram S. Adve</author></authors><title>Secure virtual architecture: a safe execution environment for commodity operating systems.</title><venue>SOSP</venue><pages>351-366</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CriswellLDA07</key><doi>10.1145/1294261.1294295</doi><ee>https://doi.org/10.1145/1294261.1294295</ee><url>https://dblp.org/rec/conf/sosp/CriswellLDA07</url></info>
+<url>URL#6186279</url>
+</hit>
+<hit score="3" id="6186280">
+<info><authors><author pid="48/6538">Giuseppe DeCandia</author><author pid="92/3883">Deniz Hastorun</author><author pid="98/2015">Madan Jampani</author><author pid="76/4775">Gunavardhan Kakulapati</author><author pid="56/524">Avinash Lakshman</author><author pid="34/3015">Alex Pilchin</author><author pid="65/4806">Swaminathan Sivasubramanian</author><author pid="97/7007">Peter Vosshall</author><author pid="v/WernerVogels">Werner Vogels</author></authors><title>Dynamo: amazon&apos;s highly available key-value store.</title><venue>SOSP</venue><pages>205-220</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DeCandiaHJKLPSVV07</key><doi>10.1145/1294261.1294281</doi><ee>https://doi.org/10.1145/1294261.1294281</ee><url>https://dblp.org/rec/conf/sosp/DeCandiaHJKLPSVV07</url></info>
+<url>URL#6186280</url>
+</hit>
+<hit score="3" id="6186281">
+<info><authors><author pid="25/4240">Iavor S. Diatchki</author><author pid="81/528">Thomas Hallgren</author><author pid="j/MarkPJones">Mark P. Jones</author><author pid="33/729">Rebekah Leslie</author><author pid="t/AndrewPTolmach">Andrew Tolmach</author></authors><title>Writing systems software in a functional language: an experience report.</title><venue>PLOS@SOSP</venue><pages>1:1-1:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DiatchkiHJLT07</key><doi>10.1145/1376789.1376791</doi><ee>https://doi.org/10.1145/1376789.1376791</ee><url>https://dblp.org/rec/conf/sosp/DiatchkiHJLT07</url></info>
+<url>URL#6186281</url>
+</hit>
+<hit score="3" id="6186282">
+<info><authors><author pid="69/6042-1">Christopher Frost 0001</author><author pid="18/4125">Mike Mammarella</author><author pid="78/5231">Eddie Kohler</author><author pid="91/1149">Andrew de los Reyes</author><author pid="11/6201">Shant Hovsepian</author><author pid="20/5901">Andrew Matsuoka</author><author pid="97/8704">Lei Zhang</author></authors><title>Generalized file system dependencies.</title><venue>SOSP</venue><pages>307-320</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FrostMKRHMZ07</key><doi>10.1145/1294261.1294291</doi><ee>https://doi.org/10.1145/1294261.1294291</ee><url>https://dblp.org/rec/conf/sosp/FrostMKRHMZ07</url></info>
+<url>URL#6186282</url>
+</hit>
+<hit score="3" id="6186283">
+<info><authors><author pid="84/5664">Haryadi S. Gunawi</author><author pid="93/843">Vijayan Prabhakaran</author><author pid="23/6826">Swetha Krishnan</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Improving file system reliability with I/O shepherding.</title><venue>SOSP</venue><pages>293-306</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GunawiPKAA07</key><doi>10.1145/1294261.1294290</doi><ee>https://doi.org/10.1145/1294261.1294290</ee><url>https://dblp.org/rec/conf/sosp/GunawiPKAA07</url></info>
+<url>URL#6186283</url>
+</hit>
+<hit score="3" id="6186284">
+<info><authors><author pid="60/4358">Andreas Haeberlen</author><author pid="k/PetrKouznetsov">Petr Kouznetsov</author><author pid="d/PDruschel">Peter Druschel</author></authors><title>PeerReview: practical accountability for distributed systems.</title><venue>SOSP</venue><pages>175-188</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HaeberlenKD07</key><doi>10.1145/1294261.1294279</doi><ee>https://doi.org/10.1145/1294261.1294279</ee><url>https://dblp.org/rec/conf/sosp/HaeberlenKD07</url></info>
+<url>URL#6186284</url>
+</hit>
+<hit score="3" id="6186285">
+<info><authors><author pid="81/4016">James Hendricks</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="r/MichaelKReiter">Michael K. Reiter</author></authors><title>Low-overhead byzantine fault-tolerant storage.</title><venue>SOSP</venue><pages>73-86</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HendricksGR07</key><doi>10.1145/1294261.1294269</doi><ee>https://doi.org/10.1145/1294261.1294269</ee><url>https://dblp.org/rec/conf/sosp/HendricksGR07</url></info>
+<url>URL#6186285</url>
+</hit>
+<hit score="3" id="6186286">
+<info><authors><author pid="89/1263">Emre Kiciman</author><author pid="46/2924">V. Benjamin Livshits</author></authors><title>AjaxScope: a platform for remotely monitoring the client-side behavior of web 2.0 applications.</title><venue>SOSP</venue><pages>17-30</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KicimanL07</key><doi>10.1145/1294261.1294264</doi><ee>https://doi.org/10.1145/1294261.1294264</ee><url>https://dblp.org/rec/conf/sosp/KicimanL07</url></info>
+<url>URL#6186286</url>
+</hit>
+<hit score="3" id="6186287">
+<info><authors><author pid="31/191">Kevin Klues</author><author pid="42/2058">Vlado Handziski</author><author pid="88/683">Chenyang Lu 0001</author><author pid="w/AdamWolisz">Adam Wolisz</author><author pid="c/DavidECuller">David E. Culler</author><author pid="98/3981">David Gay</author><author pid="91/2665">Philip Alexander Levis</author></authors><title>Integrating concurrency control and energy management in device drivers.</title><venue>SOSP</venue><pages>251-264</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KluesHLWCGL07</key><doi>10.1145/1294261.1294286</doi><ee>https://doi.org/10.1145/1294261.1294286</ee><url>https://dblp.org/rec/conf/sosp/KluesHLWCGL07</url></info>
+<url>URL#6186287</url>
+</hit>
+<hit score="3" id="6186288">
+<info><authors><author pid="15/5513">Ramakrishna Kotla</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="d/MDahlin">Michael Dahlin</author><author pid="17/597">Allen Clement</author><author pid="84/527">Edmund L. Wong</author></authors><title>Zyzzyva: speculative byzantine fault tolerance.</title><venue>SOSP</venue><pages>45-58</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KotlaADCW07</key><doi>10.1145/1294261.1294267</doi><ee>https://doi.org/10.1145/1294261.1294267</ee><url>https://dblp.org/rec/conf/sosp/KotlaADCW07</url></info>
+<url>URL#6186288</url>
+</hit>
+<hit score="3" id="6186289">
+<info><authors><author pid="19/4756">Maxwell N. Krohn</author><author pid="24/1123">Alexander Yip</author><author pid="15/657">Micah Z. Brodsky</author><author pid="30/869">Natan Cliffer</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="78/5231">Eddie Kohler</author><author pid="82/11191">Robert Morris 0005</author></authors><title>Information flow control for standard OS abstractions.</title><venue>SOSP</venue><pages>321-334</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KrohnYBCKKM07</key><doi>10.1145/1294261.1294293</doi><ee>https://doi.org/10.1145/1294261.1294293</ee><url>https://dblp.org/rec/conf/sosp/KrohnYBCKKM07</url></info>
+<url>URL#6186289</url>
+</hit>
+<hit score="3" id="6186290">
+<info><authors><author pid="60/729">Oren Laadan</author><author pid="57/377">Ricardo A. Baratto</author><author pid="56/5910">Dan B. Phung</author><author pid="10/5504">Shaya Potter</author><author pid="n/JasonNieh">Jason Nieh</author></authors><title>DejaView: a personal virtual computer recorder.</title><venue>SOSP</venue><pages>279-292</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LaadanBPPN07</key><doi>10.1145/1294261.1294289</doi><ee>https://doi.org/10.1145/1294261.1294289</ee><url>https://dblp.org/rec/conf/sosp/LaadanBPPN07</url></info>
+<url>URL#6186290</url>
+</hit>
+<hit score="3" id="6186292">
+<info><authors><author pid="31/5916-1">Shan Lu 0001</author><author pid="03/6317">Soyeon Park</author><author pid="31/4365">Chongfeng Hu</author><author pid="35/573-14">Xiao Ma 0014</author><author pid="64/5433">Weihang Jiang</author><author pid="41/2867">Zhenmin Li</author><author pid="91/275">Raluca A. Popa</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author></authors><title>MUVI: automatically inferring multi-variable access correlations and detecting related semantic and concurrency bugs.</title><venue>SOSP</venue><pages>103-116</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LuPHMJLPZ07</key><doi>10.1145/1294261.1294272</doi><ee>https://doi.org/10.1145/1294261.1294272</ee><url>https://dblp.org/rec/conf/sosp/LuPHMJLPZ07</url></info>
+<url>URL#6186292</url>
+</hit>
+<hit score="3" id="6186293">
+<info><authors><author pid="63/4671">Kevin Marquet</author><author pid="g/GGrimaud">Gilles Grimaud</author></authors><title>A DSL approach for object memory management of small devices.</title><venue>PLOS@SOSP</venue><pages>4:1-4:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MarquetG07</key><doi>10.1145/1376789.1376795</doi><ee>https://doi.org/10.1145/1376789.1376795</ee><url>https://dblp.org/rec/conf/sosp/MarquetG07</url></info>
+<url>URL#6186293</url>
+</hit>
+<hit score="3" id="6186294">
+<info><authors><author pid="12/1073">Paul E. McKenney</author><author pid="m/MMMichael">Maged M. Michael</author><author pid="50/3443">Jonathan Walpole</author></authors><title>Why the grass may not be greener on the other side: a comparison of locking vs. transactional memory.</title><venue>PLOS@SOSP</venue><pages>6:1-6:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/McKenneyMW07</key><doi>10.1145/1376789.1376798</doi><ee>https://doi.org/10.1145/1376789.1376798</ee><url>https://dblp.org/rec/conf/sosp/McKenneyMW07</url></info>
+<url>URL#6186294</url>
+</hit>
+<hit score="3" id="6186295">
+<info><authors><author pid="49/2281">Ripal Nathuji</author><author pid="s/KarstenSchwan">Karsten Schwan</author></authors><title>VirtualPower: coordinated power management in virtualized enterprise systems.</title><venue>SOSP</venue><pages>265-278</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NathujiS07</key><doi>10.1145/1294261.1294287</doi><ee>https://doi.org/10.1145/1294261.1294287</ee><url>https://dblp.org/rec/conf/sosp/NathujiS07</url></info>
+<url>URL#6186295</url>
+</hit>
+<hit score="3" id="6186296">
+<info><authors><author pid="46/991">Christopher J. Rossbach</author><author pid="80/77">Owen S. Hofmann</author><author pid="08/4732">Donald E. Porter</author><author pid="36/6103">Hany E. Ramadan</author><author pid="84/605">Bhandari Aditya</author><author pid="76/6082">Emmett Witchel</author></authors><title>TxLinux: using and managing hardware transactional memory in an operating system.</title><venue>SOSP</venue><pages>87-102</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RossbachHPRAW07</key><doi>10.1145/1294261.1294271</doi><ee>https://doi.org/10.1145/1294261.1294271</ee><url>https://dblp.org/rec/conf/sosp/RossbachHPRAW07</url></info>
+<url>URL#6186296</url>
+</hit>
+<hit score="3" id="6186297">
+<info><authors><author pid="91/7451">Leonid Ryzhyk</author><author pid="28/6197">Ihor Kuz</author><author pid="h/GernotHeiser">Gernot Heiser</author></authors><title>Formalising device driver interfaces.</title><venue>PLOS@SOSP</venue><pages>10:1-10:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RyzhykKH07</key><doi>10.1145/1376789.1376803</doi><ee>https://doi.org/10.1145/1376789.1376803</ee><url>https://dblp.org/rec/conf/sosp/RyzhykKH07</url></info>
+<url>URL#6186297</url>
+</hit>
+<hit score="3" id="6186298">
+<info><authors><author pid="04/3992">Arvind Seshadri</author><author pid="03/6525">Mark Luk</author><author pid="78/2388">Ning Qu</author><author pid="16/6873">Adrian Perrig</author></authors><title>SecVisor: a tiny hypervisor to provide lifetime kernel code integrity for commodity OSes.</title><venue>SOSP</venue><pages>335-350</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SeshadriLQP07</key><doi>10.1145/1294261.1294294</doi><ee>https://doi.org/10.1145/1294261.1294294</ee><url>https://dblp.org/rec/conf/sosp/SeshadriLQP07</url></info>
+<url>URL#6186298</url>
+</hit>
+<hit score="3" id="6186299">
+<info><authors><author pid="70/7913">Tyler Sondag</author><author pid="61/7972">Viswanath Krishnamurthy</author><author pid="r/HrideshRajan">Hridesh Rajan</author></authors><title>Predictive thread-to-core assignment on a heterogeneous multi-core processor.</title><venue>PLOS@SOSP</venue><pages>7:1-7:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SondagKR07</key><doi>10.1145/1376789.1376799</doi><ee>https://doi.org/10.1145/1376789.1376799</ee><url>https://dblp.org/rec/conf/sosp/SondagKR07</url></info>
+<url>URL#6186299</url>
+</hit>
+<hit score="3" id="6186300">
+<info><authors><author pid="70/7892">Henrik Stuart</author><author pid="06/6678">René Rydhof Hansen</author><author pid="l/JuliaLLawall">Julia L. Lawall</author><author pid="73/5608">Jesper Andersen</author><author pid="24/4849">Yoann Padioleau</author><author pid="27/4405">Gilles Muller</author></authors><title>Towards easing the diagnosis of bugs in OS code.</title><venue>PLOS@SOSP</venue><pages>2:1-2:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/StuartHLAPM07</key><doi>10.1145/1376789.1376792</doi><ee>https://doi.org/10.1145/1376789.1376792</ee><url>https://dblp.org/rec/conf/sosp/StuartHLAPM07</url></info>
+<url>URL#6186300</url>
+</hit>
+<hit score="3" id="6186302">
+<info><authors><author pid="13/3957-1">Lin Tan 0001</author><author pid="230/9043-4">Ding Yuan 0004</author><author pid="80/597">Gopal Krishna</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author></authors><title>/*icomment: bugs or bad comments?*/.</title><venue>SOSP</venue><pages>145-158</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TanYKZ07</key><doi>10.1145/1294261.1294276</doi><ee>https://doi.org/10.1145/1294261.1294276</ee><url>https://dblp.org/rec/conf/sosp/TanYKZ07</url></info>
+<url>URL#6186302</url>
+</hit>
+<hit score="3" id="6186303">
+<info><authors><author pid="78/7202">Joseph A. Tucek</author><author pid="31/5916-1">Shan Lu 0001</author><author pid="70/5914">Chengdu Huang</author><author pid="25/1978">Spiros Xanthos</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author></authors><title>Triage: diagnosing production run failures at the user&apos;s site.</title><venue>SOSP</venue><pages>131-144</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TucekLHXZ07</key><doi>10.1145/1294261.1294275</doi><ee>https://doi.org/10.1145/1294261.1294275</ee><url>https://dblp.org/rec/conf/sosp/TucekLHXZ07</url></info>
+<url>URL#6186303</url>
+</hit>
+<hit score="3" id="6186304">
+<info><authors><author pid="75/206">Ben Vandiver</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author><author pid="l/BarbaraLiskov">Barbara Liskov</author><author pid="m/SamuelMadden">Samuel Madden 0001</author></authors><title>Tolerating byzantine faults in transaction processing systems using commit barrier scheduling.</title><venue>SOSP</venue><pages>59-72</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VandiverBLM07</key><doi>10.1145/1294261.1294268</doi><ee>https://doi.org/10.1145/1294261.1294268</ee><url>https://dblp.org/rec/conf/sosp/VandiverBLM07</url></info>
+<url>URL#6186304</url>
+</hit>
+<hit score="3" id="6186305">
+<info><authors><author pid="217/7094">Sean Walton</author><author pid="e/EricEide">Eric Eide</author></authors><title>Resource management aspects for sensor network software.</title><venue>PLOS@SOSP</venue><pages>5:1-5:5</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WaltonE07</key><doi>10.1145/1376789.1376796</doi><ee>https://doi.org/10.1145/1376789.1376796</ee><url>https://dblp.org/rec/conf/sosp/WaltonE07</url></info>
+<url>URL#6186305</url>
+</hit>
+<hit score="3" id="6186306">
+<info><authors><author pid="w/HelenJWang">Helen J. Wang</author><author pid="80/3681">Xiaofeng Fan</author><author pid="55/3274">Jon Howell</author><author pid="45/4319">Collin Jackson</author></authors><title>Protection and communication abstractions for web browsers in MashupOS.</title><venue>SOSP</venue><pages>1-16</pages><year>2007</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WangFHJ07</key><doi>10.1145/1294261.1294263</doi><ee>https://doi.org/10.1145/1294261.1294263</ee><url>https://dblp.org/rec/conf/sosp/WangFHJ07</url></info>
+<url>URL#6186306</url>
+</hit>
+</hits>
+</result>

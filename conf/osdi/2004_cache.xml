@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287446">conf* osdi* 2004*</query>
+<status code="200">OK</status>
+<time unit="msecs">11.65</time>
+<completions total="1" computed="1" sent="1">
+<c sc="27" dc="27" oc="27" id="58181542">2004</c>
+</completions>
+<hits total="27" computed="27" sent="27" first="0">
+<hit score="4" id="6657515">
+<info><authors><author pid="76/326">Andrew Whitaker</author><author pid="76/3931">Richard S. Cox</author><author pid="g/StevenDGribble">Steven D. Gribble</author></authors><title>Configuration Debugging as Search: Finding the Needle in the Haystack.</title><venue>OSDI</venue><pages>77-90</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WhitakerCG04</key><ee>http://www.usenix.org/events/osdi04/tech/whitaker.html</ee><url>https://dblp.org/rec/conf/osdi/WhitakerCG04</url></info>
+<url>URL#6657515</url>
+</hit>
+<hit score="3" id="6657481">
+<info><authors><author pid="b/PaulBarham">Paul Barham 0001</author><author pid="21/2604">Austin Donnelly</author><author pid="89/4883">Rebecca Isaacs</author><author pid="28/5155">Richard Mortier</author></authors><title>Using Magpie for Request Extraction and Workload Modelling.</title><venue>OSDI</venue><pages>259-272</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BarhamDIM04</key><ee>http://www.usenix.org/events/osdi04/tech/barham.html</ee><url>https://dblp.org/rec/conf/osdi/BarhamDIM04</url></info>
+<url>URL#6657481</url>
+</hit>
+<hit score="3" id="6657482">
+<info><authors><author pid="91/800">Herbert Bos</author><author pid="86/4441">Willem de Bruijn</author><author pid="83/1786">Mihai-Lucian Cristea</author><author pid="98/2634">Trung Nguyen</author><author pid="44/3319">Georgios Portokalidis</author></authors><title>FFPF: Fairly Fast Packet Filters.</title><venue>OSDI</venue><pages>347-363</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BosBCNP04</key><ee>http://www.usenix.org/events/osdi04/tech/bos.html</ee><url>https://dblp.org/rec/conf/osdi/BosBCNP04</url></info>
+<url>URL#6657482</url>
+</hit>
+<hit score="3" id="6657484">
+<info><authors><author pid="c/GeorgeCandea">George Candea</author><author pid="71/3137">Shinichi Kawamoto</author><author pid="41/1809">Yuichi Fujiki</author><author pid="01/3802">Greg Friedman</author><author pid="90/5133">Armando Fox</author></authors><title>Microreboot - A Technique for Cheap Recovery.</title><venue>OSDI</venue><pages>31-44</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CandeaKFFF04</key><ee>http://www.usenix.org/events/osdi04/tech/candea.html</ee><url>https://dblp.org/rec/conf/osdi/CandeaKFFF04</url></info>
+<url>URL#6657484</url>
+</hit>
+<hit score="3" id="6657486">
+<info><authors><author pid="91/5001">Ira Cohen</author><author pid="c/JSChase">Jeffrey S. Chase</author><author pid="37/1288">Moisés Goldszmidt</author><author pid="64/5765">Terence Kelly</author><author pid="48/6862">Julie Symons</author></authors><title>Correlating Instrumentation Data to System States: A Building Block for Automated Diagnosis and Control.</title><venue>OSDI</venue><pages>231-244</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CohenCGKS04</key><ee>http://www.usenix.org/events/osdi04/tech/cohen.html</ee><url>https://dblp.org/rec/conf/osdi/CohenCGKS04</url></info>
+<url>URL#6657486</url>
+</hit>
+<hit score="3" id="6657487">
+<info><authors><author pid="d/JeffreyDean">Jeffrey Dean</author><author pid="g/SGhemawat">Sanjay Ghemawat</author></authors><title>MapReduce: Simplified Data Processing on Large Clusters.</title><venue>OSDI</venue><pages>137-150</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/DeanG04</key><ee>http://www.usenix.org/events/osdi04/tech/dean.html</ee><url>https://dblp.org/rec/conf/osdi/DeanG04</url></info>
+<url>URL#6657487</url>
+</hit>
+<hit score="3" id="6657488">
+<info><authors><author pid="10/3285">John Dunagan</author><author pid="93/4141">Nicholas J. A. Harvey</author><author pid="j/MichaelBJones">Michael B. Jones</author><author pid="03/3188">Dejan Kostic</author><author pid="56/724">Marvin Theimer</author><author pid="06/915">Alec Wolman</author></authors><title>FUSE: Lightweight Guaranteed Distributed Failure Notification.</title><venue>OSDI</venue><pages>151-166</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/DunaganHJKTW04</key><ee>http://www.usenix.org/events/osdi04/tech/dunagan.html</ee><url>https://dblp.org/rec/conf/osdi/DunaganHJKTW04</url></info>
+<url>URL#6657488</url>
+</hit>
+<hit score="3" id="6657489">
+<info><authors><author pid="92/1381">Chris Gniady</author><author pid="b/AliRazaButt">Ali Raza Butt</author><author pid="93/89">Y. Charlie Hu</author></authors><title>Program-Counter-Based Pattern Classification in Buffer Caching.</title><venue>OSDI</venue><pages>395-408</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GniadyBH04</key><ee>http://www.usenix.org/events/osdi04/tech/gnaidy.html</ee><url>https://dblp.org/rec/conf/osdi/GniadyBH04</url></info>
+<url>URL#6657489</url>
+</hit>
+<hit score="3" id="6657491">
+<info><authors><author pid="g/PKrishnaGummadi">P. Krishna Gummadi</author><author pid="45/2026">Harsha V. Madhyastha</author><author pid="g/StevenDGribble">Steven D. Gribble</author><author pid="l/HenryMLevy">Henry M. Levy</author><author pid="w/DavidWetherall">David Wetherall</author></authors><title>Improving the Reliability of Internet Paths with One-hop Source Routing.</title><venue>OSDI</venue><pages>183-198</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GummadiMGLW04</key><ee>http://www.usenix.org/events/osdi04/tech/gummadi.html</ee><url>https://dblp.org/rec/conf/osdi/GummadiMGLW04</url></info>
+<url>URL#6657491</url>
+</hit>
+<hit score="3" id="6657492">
+<info><authors><author pid="84/5664">Haryadi S. Gunawi</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Deploying Safe User-Level Network Services with icTCP.</title><venue>OSDI</venue><pages>317-332</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GunawiAA04</key><ee>http://www.usenix.org/events/osdi04/tech/gunawi.html</ee><url>https://dblp.org/rec/conf/osdi/GunawiAA04</url></info>
+<url>URL#6657492</url>
+</hit>
+<hit score="3" id="6657496">
+<info><authors><author pid="50/6780">Joshua LeVasseur</author><author pid="37/5148">Volkmar Uhlig</author><author pid="52/5030">Jan Stoess</author><author pid="57/1034-4">Stefan Götz 0004</author></authors><title>Unmodified Device Driver Reuse and Improved System Dependability via Virtual Machines.</title><venue>OSDI</venue><pages>17-30</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LevasseurUSG04</key><ee>http://www.usenix.org/events/osdi04/tech/levasseur.html</ee><url>https://dblp.org/rec/conf/osdi/LevasseurUSG04</url></info>
+<url>URL#6657496</url>
+</hit>
+<hit score="3" id="6657497">
+<info><authors><author pid="78/1480">Jinyuan Li</author><author pid="19/4756">Maxwell N. Krohn</author><author pid="m/DMazieres">David Mazières</author><author pid="s/DennisShasha">Dennis E. Shasha</author></authors><title>Secure Untrusted Data Repository (SUNDR).</title><venue>OSDI</venue><pages>121-136</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LiKMS04</key><ee>http://www.usenix.org/events/osdi04/tech/li_j.html</ee><url>https://dblp.org/rec/conf/osdi/LiKMS04</url></info>
+<url>URL#6657497</url>
+</hit>
+<hit score="3" id="6657498">
+<info><authors><author pid="41/2867">Zhenmin Li</author><author pid="31/5916-1">Shan Lu 0001</author><author pid="34/4470">Suvda Myagmar</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author></authors><title>CP-Miner: A Tool for Finding Copy-paste and Related Bugs in Operating System Code.</title><venue>OSDI</venue><pages>289-302</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LiLMZ04</key><ee>http://www.usenix.org/events/osdi04/tech/li_z.html</ee><url>https://dblp.org/rec/conf/osdi/LiLMZ04</url></info>
+<url>URL#6657498</url>
+</hit>
+<hit score="3" id="6657499">
+<info><authors><author pid="17/429">John MacCormick</author><author pid="15/2269">Nick Murphy</author><author pid="n/MarcNajork">Marc Najork</author><author pid="13/3927">Chandramohan A. Thekkath</author><author pid="z/LidongZhou">Lidong Zhou</author></authors><title>Boxwood: Abstractions as the Foundation for Storage Infrastructure.</title><venue>OSDI</venue><pages>105-120</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MacCormickMNTZ04</key><ee>http://www.usenix.org/events/osdi04/tech/maccormick.html</ee><url>https://dblp.org/rec/conf/osdi/MacCormickMNTZ04</url></info>
+<url>URL#6657499</url>
+</hit>
+<hit score="3" id="6657501">
+<info><authors><author pid="63/201">Kiran Nagaraja</author><author pid="05/2943">Fábio Oliveira</author><author pid="85/2722">Ricardo Bianchini</author><author pid="55/3942">Richard P. Martin</author><author pid="n/ThuDNguyen">Thu D. Nguyen</author></authors><title>Understanding and Dealing with Operator Mistakes in Internet Services.</title><venue>OSDI</venue><pages>61-76</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/NagarajaOBMN04</key><ee>http://www.usenix.org/events/osdi04/tech/naragaraja.html</ee><url>https://dblp.org/rec/conf/osdi/NagarajaOBMN04</url></info>
+<url>URL#6657501</url>
+</hit>
+<hit score="3" id="6657502">
+<info><authors><author pid="97/1336">Edmund B. Nightingale</author><author pid="14/85">Jason Flinn</author></authors><title>Energy-Efficiency and Storage Flexibility in the Blue File System.</title><venue>OSDI</venue><pages>363-378</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/NightingaleF04</key><ee>http://www.usenix.org/events/osdi04/tech/nightingale.html</ee><url>https://dblp.org/rec/conf/osdi/NightingaleF04</url></info>
+<url>URL#6657502</url>
+</hit>
+<hit score="3" id="6657503">
+<info><authors><author pid="99/5854">David P. Olshefski</author><author pid="n/JasonNieh">Jason Nieh</author><author pid="06/2055">Erich M. Nahum</author></authors><title>ksniffer: Determining the Remote Client Perceived Response Time from Live Packet Streams.</title><venue>OSDI</venue><pages>333-346</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/OlshefskiNN04</key><ee>http://www.usenix.org/events/osdi04/tech/olshefski.html</ee><url>https://dblp.org/rec/conf/osdi/OlshefskiNN04</url></info>
+<url>URL#6657503</url>
+</hit>
+<hit score="3" id="6657506">
+<info><authors><author pid="67/4936">KyoungSoo Park</author><author pid="00/1016">Vivek S. Pai</author><author pid="p/LLPeterson">Larry L. Peterson</author><author pid="75/3158">Zhe Wang</author></authors><title>CoDNS: Improving DNS Performance and Reliability via Cooperative Lookups.</title><venue>OSDI</venue><pages>199-214</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ParkPPW04</key><ee>http://www.usenix.org/events/osdi04/tech/park.html</ee><url>https://dblp.org/rec/conf/osdi/ParkPPW04</url></info>
+<url>URL#6657506</url>
+</hit>
+<hit score="3" id="6657507">
+<info><authors><author pid="r/RvRenesse">Robbert van Renesse</author><author pid="s/FredBSchneider">Fred B. Schneider</author></authors><title>Chain Replication for Supporting High Throughput and Availability.</title><venue>OSDI</venue><pages>91-104</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/RenesseS04</key><ee>http://www.usenix.org/events/osdi04/tech/renesse.html</ee><url>https://dblp.org/rec/conf/osdi/RenesseS04</url></info>
+<url>URL#6657507</url>
+</hit>
+<hit score="3" id="6657508">
+<info><authors><author pid="r/MartinCRinard">Martin C. Rinard</author><author pid="86/4141">Cristian Cadar</author><author pid="68/4071">Daniel Dumitran</author><author pid="04/2068">Daniel M. Roy 0001</author><author pid="31/6731">Tudor Leu</author><author pid="46/5700">William S. Beebee</author></authors><title>Enhancing Server Availability and Security Through Failure-Oblivious Computing.</title><venue>OSDI</venue><pages>303-316</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/RinardCDRLB04</key><ee>http://www.usenix.org/events/osdi04/tech/rinard.html</ee><url>https://dblp.org/rec/conf/osdi/RinardCDRLB04</url></info>
+<url>URL#6657508</url>
+</hit>
+<hit score="3" id="6657509">
+<info><authors><author pid="93/2536">Sumeet Singh</author><author pid="e/CristianEstan">Cristian Estan</author><author pid="v/GeorgeVarghese">George Varghese</author><author pid="s/StefanSavage">Stefan Savage</author></authors><title>Automated Worm Fingerprinting.</title><venue>OSDI</venue><pages>45-60</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SinghEVS04</key><ee>http://www.usenix.org/events/osdi04/tech/singh.html</ee><url>https://dblp.org/rec/conf/osdi/SinghEVS04</url></info>
+<url>URL#6657509</url>
+</hit>
+<hit score="3" id="6657510">
+<info><authors><author pid="s/MuthianSivathanu">Muthian Sivathanu</author><author pid="94/6213">Lakshmi N. Bairavasundaram</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Life or Death at Block-Level.</title><venue>OSDI</venue><pages>379-394</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SivathanuBAA04</key><ee>http://www.usenix.org/events/osdi04/tech/sivathanu.html</ee><url>https://dblp.org/rec/conf/osdi/SivathanuBAA04</url></info>
+<url>URL#6657510</url>
+</hit>
+<hit score="3" id="6657511">
+<info><authors><author pid="s/MichaelMSwift">Michael M. Swift</author><author pid="45/3276">Muthukaruppan Annamalai</author><author pid="b/BNBershad">Brian N. Bershad</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Recovering Device Drivers (Awarded Best Paper!).</title><venue>OSDI</venue><pages>1-16</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SwiftABL04</key><ee>http://www.usenix.org/events/osdi04/tech/swift.html</ee><url>https://dblp.org/rec/conf/osdi/SwiftABL04</url></info>
+<url>URL#6657511</url>
+</hit>
+<hit score="3" id="6657512">
+<info><authors><author pid="00/2879">Michael Walfish</author><author pid="74/3199">Jeremy Stribling</author><author pid="19/4756">Maxwell N. Krohn</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author><author pid="82/11191">Robert Morris 0005</author><author pid="34/5593">Scott Shenker</author></authors><title>Middleboxes No Longer Considered Harmful.</title><venue>OSDI</venue><pages>215-230</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WalfishSKBMS04</key><ee>http://www.usenix.org/events/osdi04/tech/walfish.html</ee><url>https://dblp.org/rec/conf/osdi/WalfishSKBMS04</url></info>
+<url>URL#6657512</url>
+</hit>
+<hit score="3" id="6657513">
+<info><authors><author pid="w/HelenJWang">Helen J. Wang</author><author pid="27/1418">John C. Platt</author><author pid="87/1254">Yu Chen</author><author pid="28/875">Ruyun Zhang</author><author pid="91/1356">Yi-Min Wang</author></authors><title>Automatic Misconfiguration Troubleshooting with PeerPressure.</title><venue>OSDI</venue><pages>245-258</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WangPCZW04</key><ee>http://www.usenix.org/events/osdi04/tech/wang.html</ee><url>https://dblp.org/rec/conf/osdi/WangPCZW04</url></info>
+<url>URL#6657513</url>
+</hit>
+<hit score="3" id="6657518">
+<info><authors><author pid="71/3724">Junfeng Yang</author><author pid="09/2839">Paul Twohey</author><author pid="e/DREngler">Dawson R. Engler</author><author pid="95/6578">Madanlal Musuvathi</author></authors><title>Using Model Checking to Find Serious File System Errors (Awarded Best Paper!).</title><venue>OSDI</venue><pages>273-288</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/YangTEM04</key><ee>http://www.usenix.org/events/osdi04/tech/yang.html</ee><url>https://dblp.org/rec/conf/osdi/YangTEM04</url></info>
+<url>URL#6657518</url>
+</hit>
+<hit score="3" id="6657519">
+<info><authors><author pid="73/1844-5">Ming Zhang 0005</author><author pid="91/195-70">Chi Zhang 0070</author><author pid="00/1016">Vivek S. Pai</author><author pid="p/LLPeterson">Larry L. Peterson</author><author pid="69/1132">Randolph Y. Wang</author></authors><title>PlanetSeer: Internet Path Failure Monitoring and Characterization in Wide-Area Services.</title><venue>OSDI</venue><pages>167-182</pages><year>2004</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhangZPPW04</key><ee>http://www.usenix.org/events/osdi04/tech/zhang.html</ee><url>https://dblp.org/rec/conf/osdi/ZhangZPPW04</url></info>
+<url>URL#6657519</url>
+</hit>
+</hits>
+</result>

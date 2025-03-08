@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287533">conf* osdi* 2018*</query>
+<status code="200">OK</status>
+<time unit="msecs">23.86</time>
+<completions total="1" computed="1" sent="1">
+<c sc="47" dc="47" oc="47" id="58183669">2018</c>
+</completions>
+<hits total="47" computed="47" sent="47" first="0">
+<hit score="4" id="3214184">
+<info><authors><author pid="139/0607">Atalay Mert Ileri</author><author pid="141/9176">Tej Chajed</author><author pid="52/796">Adam Chlipala</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Proving confidentiality in a file system using DiskSec.</title><venue>OSDI</venue><pages>323-338</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/IleriCCKZ18</key><ee>https://www.usenix.org/conference/osdi18/presentation/ileri</ee><url>https://dblp.org/rec/conf/osdi/IleriCCKZ18</url></info>
+<url>URL#3214184</url>
+</hit>
+<hit score="3" id="3214169">
+<info><authors><author pid="84/6889-48">Jie Zhang 0048</author><author pid="188/9926">Miryeong Kwon</author><author pid="225/1021">Donghyun Gouk</author><author pid="206/6370">Sungjoon Koh</author><author pid="228/0271">Changlim Lee</author><author pid="181/8776">Mohammad Alian</author><author pid="228/0270">Myoungjun Chun</author><author pid="k/MahmutTKandemir">Mahmut Taylan Kandemir</author><author pid="18/1402">Nam Sung Kim</author><author pid="74/2683">Jihong Kim 0001</author><author pid="115/6279">Myoungsoo Jung</author></authors><title>FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for Ultra-Low Latency SSDs.</title><venue>OSDI</venue><pages>477-492</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/0048KGKLACKKKJ18</key><ee>https://www.usenix.org/conference/osdi18/presentation/zhang</ee><url>https://dblp.org/rec/conf/osdi/0048KGKLACKKKJ18</url></info>
+<url>URL#3214169</url>
+</hit>
+<hit score="3" id="3214170">
+<info><authors><author pid="154/0847">Ramnatthan Alagappan</author><author pid="150/3388">Aishwarya Ganesan</author><author pid="72/2590">Jing Liu</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Fault-Tolerance, Fast and Slow: Exploiting Failure Asynchrony in Distributed Systems.</title><venue>OSDI</venue><pages>390-408</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AlagappanGLAA18</key><ee>https://www.usenix.org/conference/osdi18/presentation/alagappan</ee><url>https://dblp.org/rec/conf/osdi/AlagappanGLAA18</url></info>
+<url>URL#3214170</url>
+</hit>
+<hit score="3" id="3214171">
+<info><authors><author pid="228/0283">Ahmed Alquraan</author><author pid="228/0293">Hatem Takruri</author><author pid="209/2399">Mohammed Alfatafta</author><author pid="67/4560">Samer Al-Kiswany</author></authors><title>An Analysis of Network-Partitioning Failures in Cloud Systems.</title><venue>OSDI</venue><pages>51-68</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AlquraanTAA18</key><ee>https://www.usenix.org/conference/osdi18/presentation/alquraan</ee><url>https://dblp.org/rec/conf/osdi/AlquraanTAA18</url></info>
+<url>URL#3214171</url>
+</hit>
+<hit score="3" id="3214172">
+<info><authors><author pid="45/3276">Muthukaruppan Annamalai</author><author pid="07/9927-3">Kaushik Ravichandran 0003</author><author pid="228/0261">Harish Srinivas</author><author pid="228/0255">Igor Zinkovsky</author><author pid="228/0289">Luning Pan</author><author pid="62/65">Tony Savor</author><author pid="55/1314">David Nagle</author><author pid="82/5150">Michael Stumm</author></authors><title>Sharding the Shards: Managing Datastore Locality at Scale with Akkio.</title><venue>OSDI</venue><pages>445-460</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AnnamalaiRSZPSN18</key><ee>https://www.usenix.org/conference/osdi18/presentation/annamalai</ee><url>https://dblp.org/rec/conf/osdi/AnnamalaiRSZPSN18</url></info>
+<url>URL#3214172</url>
+</hit>
+<hit score="3" id="3214173">
+<info><authors><author pid="142/2630">Daniel S. Berger</author><author pid="203/8647">Benjamin Berg</author><author pid="121/1838">Timothy Zhu</author><author pid="58/968">Siddhartha Sen 0001</author><author pid="01/3967">Mor Harchol-Balter</author></authors><title>RobinHood: Tail Latency Aware Caching - Dynamic Reallocation from Cache-Rich to Cache-Poor.</title><venue>OSDI</venue><pages>195-212</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BergerBZ0H18</key><ee>https://www.usenix.org/conference/osdi18/presentation/berger</ee><url>https://dblp.org/rec/conf/osdi/BergerBZ0H18</url></info>
+<url>URL#3214173</url>
+</hit>
+<hit score="3" id="3214174">
+<info><authors><author pid="94/5385">Ranjita Bhagwan</author><author pid="92/5081-2">Rahul Kumar 0002</author><author pid="203/9619">Chandra Shekhar Maddila</author><author pid="171/4483">Adithya Abraham Philip</author></authors><title>Orca: Differential Bug Localization in Large-Scale Services.</title><venue>OSDI</venue><pages>493-509</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BhagwanKMP18</key><ee>https://www.usenix.org/conference/osdi18/presentation/bhagwan</ee><url>https://dblp.org/rec/conf/osdi/BhagwanKMP18</url></info>
+<url>URL#3214174</url>
+</hit>
+<hit score="3" id="3214175">
+<info><authors><author pid="141/9176">Tej Chajed</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="l/ButlerWLampson">Butler W. Lampson</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Verifying concurrent software using movers in CSPEC.</title><venue>OSDI</venue><pages>306-322</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ChajedKLZ18</key><ee>https://www.usenix.org/conference/osdi18/presentation/chajed</ee><url>https://dblp.org/rec/conf/osdi/ChajedKLZ18</url></info>
+<url>URL#3214175</url>
+</hit>
+<hit score="3" id="3214176">
+<info><authors><author pid="94/8023-1">Tianqi Chen 0001</author><author pid="87/3135">Thierry Moreau</author><author pid="14/8980">Ziheng Jiang</author><author pid="211/7027">Lianmin Zheng</author><author pid="161/3140">Eddie Q. Yan</author><author pid="34/8397">Haichen Shen</author><author pid="202/1675">Meghan Cowan</author><author pid="165/7400">Leyuan Wang</author><author pid="120/1114">Yuwei Hu</author><author pid="95/5263">Luis Ceze</author><author pid="38/769">Carlos Guestrin</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author></authors><title>TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.</title><venue>OSDI</venue><pages>578-594</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ChenMJZYSCWHCGK18</key><ee>https://www.usenix.org/conference/osdi18/presentation/chen</ee><url>https://dblp.org/rec/conf/osdi/ChenMJZYSCWHCGK18</url></info>
+<url>URL#3214176</url>
+</hit>
+<hit score="3" id="3214177">
+<info><authors><author pid="161/0113">Natacha Crooks</author><author pid="207/1878-1">Matthew Burke 0001</author><author pid="177/2245">Ethan Cecchetti</author><author pid="227/2811">Sitar Harel</author><author pid="41/5447-1">Rachit Agarwal 0001</author><author pid="a/LAlvisi">Lorenzo Alvisi</author></authors><title>Obladi: Oblivious Serializable Transactions in the Cloud.</title><venue>OSDI</venue><pages>727-743</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Crooks0CHAA18</key><ee>https://www.usenix.org/conference/osdi18/presentation/crooks</ee><url>https://dblp.org/rec/conf/osdi/Crooks0CHAA18</url></info>
+<url>URL#3214177</url>
+</hit>
+<hit score="3" id="3214178">
+<info><authors><author pid="50/549">Weidong Cui</author><author pid="59/10134">Xinyang Ge</author><author pid="31/11029">Baris Kasikci</author><author pid="90/4149-7">Ben Niu 0007</author><author pid="228/0290">Upamanyu Sharma</author><author pid="127/9829">Ruoyu Wang 0001</author><author pid="119/7670">Insu Yun</author></authors><title>REPT: Reverse Debugging of Failures in Deployed Software.</title><venue>OSDI</venue><pages>17-32</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CuiGKNSWY18</key><ee>https://www.usenix.org/conference/osdi18/presentation/weidong</ee><url>https://dblp.org/rec/conf/osdi/CuiGKNSWY18</url></info>
+<url>URL#3214178</url>
+</hit>
+<hit score="3" id="3214179">
+<info><authors><author pid="137/0882">Cody Cutler</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="27/7070">Robert T. Morris</author></authors><title>The benefits and costs of writing a POSIX kernel in a high-level language.</title><venue>OSDI</venue><pages>89-105</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CutlerKM18</key><ee>https://www.usenix.org/conference/osdi18/presentation/cutler</ee><url>https://dblp.org/rec/conf/osdi/CutlerKM18</url></info>
+<url>URL#3214179</url>
+</hit>
+<hit score="3" id="3214180">
+<info><authors><author pid="187/9576">Grégory M. Essertel</author><author pid="18/8896">Ruby Y. Tahboub</author><author pid="198/0881">James M. Decker</author><author pid="30/9116">Kevin J. Brown</author><author pid="o/KunleOlukotun">Kunle Olukotun</author><author pid="19/7373">Tiark Rompf</author></authors><title>Flare: Optimizing Apache Spark with Native Compilation for Scale-Up Architectures and Medium-Size Data.</title><venue>OSDI</venue><pages>799-815</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/EssertelTDBOR18</key><ee>https://www.usenix.org/conference/osdi18/presentation/essertel</ee><url>https://dblp.org/rec/conf/osdi/EssertelTDBOR18</url></info>
+<url>URL#3214180</url>
+</hit>
+<hit score="3" id="3214181">
+<info><authors><author pid="150/3082">Jon Gjengset</author><author pid="49/7988">Malte Schwarzkopf</author><author pid="206/4545">Jonathan Behrens</author><author pid="228/0259">Lara Timbó Araújo</author><author pid="228/0274">Martin Ek</author><author pid="78/5231">Eddie Kohler</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="82/11191">Robert Morris 0005</author></authors><title>Noria: dynamic, partially-stateful data-flow for high-performance web applications.</title><venue>OSDI</venue><pages>213-231</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GjengsetSBAEKKM18</key><ee>https://www.usenix.org/conference/osdi18/presentation/gjengset</ee><url>https://dblp.org/rec/conf/osdi/GjengsetSBAEKKM18</url></info>
+<url>URL#3214181</url>
+</hit>
+<hit score="3" id="3214182">
+<info><authors><author pid="173/8396">Kevin Hsieh</author><author pid="08/5351">Ganesh Ananthanarayanan</author><author pid="b/PeterBodik">Peter Bodík</author><author pid="65/8569">Shivaram Venkataraman</author><author pid="b/ParamvirBahl">Paramvir Bahl</author><author pid="p/MPhilipose">Matthai Philipose</author><author pid="g/PhillipBGibbons">Phillip B. Gibbons</author><author pid="m/OnurMutlu">Onur Mutlu</author></authors><title>Focus: Querying Large Video Datasets with Low Latency and Low Cost.</title><venue>OSDI</venue><pages>269-286</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/HsiehABVBPGM18</key><ee>https://www.usenix.org/conference/osdi18/presentation/hsieh</ee><url>https://dblp.org/rec/conf/osdi/HsiehABVBPGM18</url></info>
+<url>URL#3214182</url>
+</hit>
+<hit score="3" id="3214183">
+<info><authors><author pid="29/1726-5">Peng Huang 0005</author><author pid="95/4962">Chuanxiong Guo</author><author pid="25/3228">Jacob R. Lorch</author><author pid="z/LidongZhou">Lidong Zhou</author><author pid="47/10488">Yingnong Dang</author></authors><title>Capturing and Enhancing In Situ System Observability for Failure Detection.</title><venue>OSDI</venue><pages>1-16</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/HuangGLZD18</key><ee>https://www.usenix.org/conference/osdi18/presentation/huang</ee><url>https://dblp.org/rec/conf/osdi/HuangGLZD18</url></info>
+<url>URL#3214183</url>
+</hit>
+<hit score="3" id="3214185">
+<info><authors><author pid="72/309">Anand Padmanabha Iyer</author><author pid="166/6255">Zaoxing Liu</author><author pid="68/3340-8">Xin Jin 0008</author><author pid="65/8569">Shivaram Venkataraman</author><author pid="14/4758">Vladimir Braverman</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>ASAP: Fast, Approximate Graph Pattern Mining at Scale.</title><venue>OSDI</venue><pages>745-761</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/IyerL0VBS18</key><ee>https://www.usenix.org/conference/osdi18/presentation/iyer</ee><url>https://dblp.org/rec/conf/osdi/IyerL0VBS18</url></info>
+<url>URL#3214185</url>
+</hit>
+<hit score="3" id="3214186">
+<info><authors><author pid="132/6943">Vasiliki Kalavri</author><author pid="95/9170">John Liagouris</author><author pid="188/9957-1">Moritz Hoffmann 0001</author><author pid="66/4739">Desislava C. Dimitrova</author><author pid="125/6236">Matthew Forshaw</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author></authors><title>Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows.</title><venue>OSDI</venue><pages>783-798</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KalavriLHDFR18</key><ee>https://www.usenix.org/conference/osdi18/presentation/kalavri</ee><url>https://dblp.org/rec/conf/osdi/KalavriLHDFR18</url></info>
+<url>URL#3214186</url>
+</hit>
+<hit score="3" id="3214187">
+<info><authors><author pid="162/0850">Ahmed Khawaja</author><author pid="205/2367">Joshua Landgraf</author><author pid="228/0267">Rohith Prakash</author><author pid="132/0329">Michael Wei</author><author pid="33/3357">Eric Schkufza</author><author pid="46/991">Christopher J. Rossbach</author></authors><title>Sharing, Protection, and Compatibility for Reconfigurable Fabric with AmorphOS.</title><venue>OSDI</venue><pages>107-127</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KhawajaLPWSR18</key><ee>https://www.usenix.org/conference/osdi18/presentation/khawaja</ee><url>https://dblp.org/rec/conf/osdi/KhawajaLPWSR18</url></info>
+<url>URL#3214187</url>
+</hit>
+<hit score="3" id="3214188">
+<info><authors><author pid="140/2247">Ana Klimovic</author><author pid="11/7449">Yawen Wang</author><author pid="15/601">Patrick Stuedi</author><author pid="86/11040">Animesh Trivedi</author><author pid="159/6308">Jonas Pfefferle</author><author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author></authors><title>Pocket: Elastic Ephemeral Storage for Serverless Analytics.</title><venue>OSDI</venue><pages>427-444</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KlimovicWSTPK18</key><ee>https://www.usenix.org/conference/osdi18/presentation/klimovic</ee><url>https://dblp.org/rec/conf/osdi/KlimovicWSTPK18</url></info>
+<url>URL#3214188</url>
+</hit>
+<hit score="3" id="3214189">
+<info><authors><author pid="199/8970">Radhesh Krishnan Konoth</author><author pid="84/9636">Marco Oliverio</author><author pid="223/0853">Andrei Tatar</author><author pid="131/5092">Dennis Andriesse</author><author pid="91/800">Herbert Bos</author><author pid="75/8194">Cristiano Giuffrida</author><author pid="121/2685">Kaveh Razavi</author></authors><title>ZebRAM: Comprehensive and Compatible Software Protection Against Rowhammer Attacks.</title><venue>OSDI</venue><pages>697-710</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KonothOTABGR18</key><ee>https://www.usenix.org/conference/osdi18/presentation/konoth</ee><url>https://dblp.org/rec/conf/osdi/KonothOTABGR18</url></info>
+<url>URL#3214189</url>
+</hit>
+<hit score="3" id="3214190">
+<info><authors><author pid="23/4804-2">Chinmay Kulkarni 0002</author><author pid="116/4105">Sara Moore</author><author pid="201/4800">Mazhar Naqvi</author><author pid="13/2913-5">Tian Zhang 0005</author><author pid="37/2827">Robert Ricci</author><author pid="02/1650">Ryan Stutsman</author></authors><title>Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.</title><venue>OSDI</venue><pages>627-643</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KulkarniMNZRS18</key><ee>https://www.usenix.org/conference/osdi18/presentation/kulkarni</ee><url>https://dblp.org/rec/conf/osdi/KulkarniMNZRS18</url></info>
+<url>URL#3214190</url>
+</hit>
+<hit score="3" id="3214191">
+<info><authors><author pid="117/9944">David Lazar</author><author pid="84/7357">Yossi Gilad</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis.</title><venue>OSDI</venue><pages>711-725</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LazarGZ18</key><ee>https://www.usenix.org/conference/osdi18/presentation/lazar</ee><url>https://dblp.org/rec/conf/osdi/LazarGZ18</url></info>
+<url>URL#3214191</url>
+</hit>
+<hit score="3" id="3214192">
+<info><authors><author pid="144/8351">Yunseong Lee</author><author pid="141/9129">Alberto Scolari</author><author pid="34/3515">Byung-Gon Chun</author><author pid="94/5486">Marco Domenico Santambrogio</author><author pid="89/6502">Markus Weimer</author><author pid="49/10034">Matteo Interlandi</author></authors><title>PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems.</title><venue>OSDI</venue><pages>611-626</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LeeSCSWI18</key><ee>https://www.usenix.org/conference/osdi18/presentation/lee</ee><url>https://dblp.org/rec/conf/osdi/LeeSCSWI18</url></info>
+<url>URL#3214192</url>
+</hit>
+<hit score="3" id="3214193">
+<info><authors><author pid="180/8181">Joshua Lockerman</author><author pid="147/1195">Jose M. Faleiro</author><author pid="59/8200">Juno Kim</author><author pid="228/0279">Soham Sankaran</author><author pid="a/DJAbadi">Daniel J. Abadi</author><author pid="a/JamesAspnes">James Aspnes</author><author pid="58/968">Siddhartha Sen 0001</author><author pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</author></authors><title>The FuzzyLog: A Partially Ordered Shared Log.</title><venue>OSDI</venue><pages>357-372</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LockermanFKSAA018</key><ee>https://www.usenix.org/conference/osdi18/presentation/lockerman</ee><url>https://dblp.org/rec/conf/osdi/LockermanFKSAA018</url></info>
+<url>URL#3214193</url>
+</hit>
+<hit score="3" id="3214194">
+<info><authors><author pid="200/5551">Kiwan Maeng</author><author pid="18/6801">Brandon Lucia</author></authors><title>Adaptive Dynamic Checkpointing for Safe Efficient Intermittent Computing.</title><venue>OSDI</venue><pages>129-144</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MaengL18</key><ee>https://www.usenix.org/conference/osdi18/presentation/maeng</ee><url>https://dblp.org/rec/conf/osdi/MaengL18</url></info>
+<url>URL#3214194</url>
+</hit>
+<hit score="3" id="3214195">
+<info><authors><author pid="161/0737">Kshiteej Mahajan</author><author pid="42/1518">Mosharaf Chowdhury</author><author pid="a/AdityaAkella">Aditya Akella</author><author pid="c/ShuchiChawla">Shuchi Chawla 0001</author></authors><title>Dynamic Query Re-Planning using QOOP.</title><venue>OSDI</venue><pages>253-267</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MahajanCA018</key><ee>https://www.usenix.org/conference/osdi18/presentation/mahajan</ee><url>https://dblp.org/rec/conf/osdi/MahajanCA018</url></info>
+<url>URL#3214195</url>
+</hit>
+<hit score="3" id="3214196">
+<info><authors><author pid="228/0265">Aleksander Maricq</author><author pid="151/5510">Dmitry Duplyakin</author><author pid="17/4858">Ivo Jimenez</author><author pid="83/2134">Carlos Maltzahn</author><author pid="02/1650">Ryan Stutsman</author><author pid="37/2827">Robert Ricci</author><author pid="140/2247">Ana Klimovic</author></authors><title>Taming Performance Variability.</title><venue>OSDI</venue><pages>409-425</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MaricqDJMSRK18</key><ee>https://www.usenix.org/conference/osdi18/presentation/maricq</ee><url>https://dblp.org/rec/conf/osdi/MaricqDJMSRK18</url></info>
+<url>URL#3214196</url>
+</hit>
+<hit score="3" id="3214197">
+<info><authors><author pid="168/3415">Jayashree Mohan</author><author pid="203/1816">Ashlie Martinez</author><author pid="223/0854">Soujanya Ponnapalli</author><author pid="207/1870">Pandian Raju</author><author pid="07/10563">Vijay Chidambaram</author></authors><title>Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing.</title><venue>OSDI</venue><pages>33-50</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MohanMPRC18</key><ee>https://www.usenix.org/conference/osdi18/presentation/mohan</ee><url>https://dblp.org/rec/conf/osdi/MohanMPRC18</url></info>
+<url>URL#3214197</url>
+</hit>
+<hit score="3" id="3214198">
+<info><authors><author pid="159/2099">Philipp Moritz</author><author pid="147/4809">Robert Nishihara</author><author pid="175/6757">Stephanie Wang</author><author pid="41/6224">Alexey Tumanov</author><author pid="179/2214">Richard Liaw</author><author pid="29/2973">Eric Liang</author><author pid="228/0272">Melih Elibol</author><author pid="181/5822">Zongheng Yang</author><author pid="06/4334">William Paul</author><author pid="j/MichaelIJordan">Michael I. Jordan</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Ray: A Distributed Framework for Emerging AI Applications.</title><venue>OSDI</venue><pages>561-577</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MoritzNWTLLEYPJ18</key><ee>https://www.usenix.org/conference/osdi18/presentation/nishihara</ee><url>https://dblp.org/rec/conf/osdi/MoritzNWTLLEYPJ18</url></info>
+<url>URL#3214198</url>
+</hit>
+<hit score="3" id="3214199">
+<info><authors><author pid="127/3128">Phitchaya Mangpo Phothilimthana</author><author pid="20/2039-27">Ming Liu 0027</author><author pid="145/5081">Antoine Kaufmann</author><author pid="43/3917">Simon Peter 0001</author><author pid="20/1858">Rastislav Bodík</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author></authors><title>Floem: A Programming System for NIC-Accelerated Network Applications.</title><venue>OSDI</venue><pages>663-679</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PhothilimthanaL18</key><ee>https://www.usenix.org/conference/osdi18/presentation/phothilimthana</ee><url>https://dblp.org/rec/conf/osdi/PhothilimthanaL18</url></info>
+<url>URL#3214199</url>
+</hit>
+<hit score="3" id="3214200">
+<info><authors><author pid="59/1863">Henry Qin</author><author pid="69/5902-27">Qian Li 0027</author><author pid="228/0268">Jacqueline Speiser</author><author pid="62/4022">Peter Kraft</author><author pid="o/JohnKOusterhout">John K. Ousterhout</author></authors><title>Arachne: Core-Aware Thread Management.</title><venue>OSDI</venue><pages>145-160</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/QinLSKO18</key><ee>https://www.usenix.org/conference/osdi18/presentation/qin</ee><url>https://dblp.org/rec/conf/osdi/QinLSKO18</url></info>
+<url>URL#3214200</url>
+</hit>
+<hit score="3" id="3214201">
+<info><authors><author pid="150/3134-1">Andrew Quinn 0001</author><author pid="14/85">Jason Flinn</author><author pid="82/231">Michael J. Cafarella</author></authors><title>Sledgehammer: Cluster-Fueled Debugging.</title><venue>OSDI</venue><pages>545-560</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/QuinnFC18</key><ee>https://www.usenix.org/conference/osdi18/presentation/quinn</ee><url>https://dblp.org/rec/conf/osdi/QuinnFC18</url></info>
+<url>URL#3214201</url>
+</hit>
+<hit score="3" id="3214202">
+<info><authors><author pid="68/8463">Srinath T. V. Setty</author><author pid="132/8480">Sebastian Angel</author><author pid="20/7539">Trinabh Gupta</author><author pid="30/3557-3">Jonathan Lee 0003</author></authors><title>Proving the correct execution of concurrent services in zero-knowledge.</title><venue>OSDI</venue><pages>339-356</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SettyAGL18</key><ee>https://www.usenix.org/conference/osdi18/presentation/setty</ee><url>https://dblp.org/rec/conf/osdi/SettyAGL18</url></info>
+<url>URL#3214202</url>
+</hit>
+<hit score="3" id="3214203">
+<info><authors><author pid="206/4531">Yizhou Shan</author><author pid="206/4540">Yutong Huang</author><author pid="86/2531">Yilun Chen</author><author pid="64/3770-5">Yiying Zhang 0005</author></authors><title>LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation.</title><venue>OSDI</venue><pages>69-87</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ShanHCZ18</key><ee>https://www.usenix.org/conference/osdi18/presentation/shan</ee><url>https://dblp.org/rec/conf/osdi/ShanHCZ18</url></info>
+<url>URL#3214203</url>
+</hit>
+<hit score="3" id="3214204">
+<info><authors><author pid="150/6007">Helgi Sigurbjarnarson</author><author pid="194/6735">Luke Nelson</author><author pid="228/0262">Bruno Castro-Karney</author><author pid="142/3208">James Bornholt</author><author pid="55/1457">Emina Torlak</author><author pid="08/5760-5">Xi Wang 0005</author></authors><title>Nickel: A Framework for Design and Verification of Information Flow Control Systems.</title><venue>OSDI</venue><pages>287-305</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Sigurbjarnarson18</key><ee>https://www.usenix.org/conference/osdi18/presentation/sigurbjarnarson</ee><url>https://dblp.org/rec/conf/osdi/Sigurbjarnarson18</url></info>
+<url>URL#3214204</url>
+</hit>
+<hit score="3" id="3214205">
+<info><authors><author pid="178/3217">Akshitha Sriraman</author><author pid="01/1282">Thomas F. Wenisch</author></authors><title>µTune: Auto-Tuned Threading for OLDI Microservices.</title><venue>OSDI</venue><pages>177-194</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SriramanW18</key><ee>https://www.usenix.org/conference/osdi18/presentation/sriraman</ee><url>https://dblp.org/rec/conf/osdi/SriramanW18</url></info>
+<url>URL#3214205</url>
+</hit>
+<hit score="3" id="3214206">
+<info><authors><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="25/1821">Justin Meza</author><author pid="189/0126">Scott Michelson</author><author pid="80/11029">Sankaralingam Panneerselvam</author><author pid="129/8214">Alex Gyori</author><author pid="130/1368">David Chou</author><author pid="189/0000">Sonia Margulis</author><author pid="133/3718">Daniel Obenshain</author><author pid="127/9035">Shruti Padmanabha</author><author pid="01/2068">Ashish Shah</author><author pid="93/2816">Yee Jiun Song</author><author pid="90/7566">Tianyin Xu</author></authors><title>Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently.</title><venue>OSDI</venue><pages>373-389</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/VeeraraghavanMM18</key><ee>https://www.usenix.org/conference/osdi18/presentation/veeraraghavan</ee><url>https://dblp.org/rec/conf/osdi/VeeraraghavanMM18</url></info>
+<url>URL#3214206</url>
+</hit>
+<hit score="3" id="3214207">
+<info><authors><author pid="77/11029">Stavros Volos</author><author pid="48/1784">Kapil Vaswani</author><author pid="161/9002">Rodrigo Bruno</author></authors><title>Graviton: Trusted Execution Environments on GPUs.</title><venue>OSDI</venue><pages>681-696</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/VolosVB18</key><ee>https://www.usenix.org/conference/osdi18/presentation/volos</ee><url>https://dblp.org/rec/conf/osdi/VolosVB18</url></info>
+<url>URL#3214207</url>
+</hit>
+<hit score="3" id="3214208">
+<info><authors><author pid="78/2022-29">Kai Wang 0029</author><author pid="10/964-2">Zhiqiang Zuo 0002</author><author pid="228/0264">John Thorpe</author><author pid="228/0278">Tien Quang Nguyen</author><author pid="90/8705">Guoqing Harry Xu</author></authors><title>RStream: Marrying Relational Algebra with Streaming for Efficient Graph Mining on A Single Machine.</title><venue>OSDI</venue><pages>763-782</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WangZTNX18</key><ee>https://www.usenix.org/conference/osdi18/presentation/wang</ee><url>https://dblp.org/rec/conf/osdi/WangZTNX18</url></info>
+<url>URL#3214208</url>
+</hit>
+<hit score="3" id="3214209">
+<info><authors><author pid="168/9037">Xingda Wei</author><author pid="43/8717">Zhiyuan Dong</author><author pid="22/6904-1">Rong Chen 0001</author><author pid="31/6601-1">Haibo Chen 0001</author></authors><title>Deconstructing RDMA-enabled Distributed Transactions: Hybrid is Better!</title><venue>OSDI</venue><pages>233-251</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WeiD0C18</key><ee>https://www.usenix.org/conference/osdi18/presentation/wei</ee><url>https://dblp.org/rec/conf/osdi/WeiD0C18</url></info>
+<url>URL#3214209</url>
+</hit>
+<hit score="3" id="3214210">
+<info><authors><author pid="44/10603">Abhilash Jindal</author><author pid="93/89">Y. Charlie Hu</author></authors><title>Differential Energy Profiling: Energy Optimization via Diffing Similar Apps.</title><venue>OSDI</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/X18</key><ee>https://www.usenix.org/conference/osdi18/presentation/jindal</ee><url>https://dblp.org/rec/conf/osdi/X18</url></info>
+<url>URL#3214210</url>
+</hit>
+<hit score="3" id="3214211">
+<info><authors><author pid="167/7982">Wencong Xiao</author><author pid="157/7605">Romil Bhardwaj</author><author pid="97/117">Ramachandran Ramjee</author><author pid="s/MuthianSivathanu">Muthian Sivathanu</author><author pid="53/6666">Nipun Kwatra</author><author pid="147/1606">Zhenhua Han</author><author pid="201/1831">Pratyush Patel</author><author pid="187/8797">Xuan Peng</author><author pid="222/8149">Hanyu Zhao</author><author pid="165/8284">Quanlu Zhang</author><author pid="29/3081-24">Fan Yang 0024</author><author pid="z/LidongZhou">Lidong Zhou</author></authors><title>Gandiva: Introspective Cluster Scheduling for Deep Learning.</title><venue>OSDI</venue><pages>595-610</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/XiaoBRSKHPPZZYZ18</key><ee>https://www.usenix.org/conference/osdi18/presentation/xiao</ee><url>https://dblp.org/rec/conf/osdi/XiaoBRSKHPPZZYZ18</url></info>
+<url>URL#3214211</url>
+</hit>
+<hit score="3" id="3214212">
+<info><authors><author pid="141/9196">Suli Yang</author><author pid="72/2590">Jing Liu</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Principled Schedulability Analysis for Distributed Storage Systems using Thread Architecture Models.</title><venue>OSDI</venue><pages>161-176</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/YangLAA18</key><ee>https://www.usenix.org/conference/osdi18/presentation/yang</ee><url>https://dblp.org/rec/conf/osdi/YangLAA18</url></info>
+<url>URL#3214212</url>
+</hit>
+<hit score="3" id="3214213">
+<info><authors><author pid="209/8653">Hyunho Yeo</author><author pid="228/0277">Youngmok Jung</author><author pid="75/3644-2">Jaehong Kim 0002</author><author pid="31/7062">Jinwoo Shin</author><author pid="12/5388">Dongsu Han</author></authors><title>Neural Adaptive Content-aware Internet Video Delivery.</title><venue>OSDI</venue><pages>645-661</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/YeoJKSH18</key><ee>https://www.usenix.org/conference/osdi18/presentation/yeo</ee><url>https://dblp.org/rec/conf/osdi/YeoJKSH18</url></info>
+<url>URL#3214213</url>
+</hit>
+<hit score="3" id="3214214">
+<info><authors><author pid="89/1615">Fang Zhou</author><author pid="228/0256">Yifan Gan</author><author pid="152/9545">Sixiang Ma</author><author pid="w/YangWang9">Yang Wang 0009</author></authors><title>wPerf: Generic Off-CPU Analysis to Identify Bottleneck Waiting Events.</title><venue>OSDI</venue><pages>527-543</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhouGMW18</key><ee>https://www.usenix.org/conference/osdi18/presentation/zhou</ee><url>https://dblp.org/rec/conf/osdi/ZhouGMW18</url></info>
+<url>URL#3214214</url>
+</hit>
+<hit score="3" id="3214215">
+<info><authors><author pid="157/4426">Pengfei Zuo</author><author pid="52/3115-1">Yu Hua 0001</author><author pid="w/JieWu-22">Jie Wu 0022</author></authors><title>Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory.</title><venue>OSDI</venue><pages>461-476</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Zuo0W18</key><ee>https://www.usenix.org/conference/osdi18/presentation/zuo</ee><url>https://dblp.org/rec/conf/osdi/Zuo0W18</url></info>
+<url>URL#3214215</url>
+</hit>
+</hits>
+</result>

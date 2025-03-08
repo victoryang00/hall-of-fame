@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287407">conf* sosp* 2019*</query>
+<status code="200">OK</status>
+<time unit="msecs">25.50</time>
+<completions total="1" computed="1" sent="1">
+<c sc="59" dc="59" oc="59" id="58184004">2019</c>
+</completions>
+<hits total="59" computed="59" sent="59" first="0">
+<hit score="3" id="2791552">
+<info><authors><author pid="04/8300">Antonio Ramón Jiménez</author><author pid="49/8300">Fernando Seco</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>Tools for smartphone multi-sensor data registration and GT mapping for positioning applications.</title><venue>IPIN</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/JimenezST19</key><doi>10.1109/IPIN.2019.8911784</doi><ee>https://doi.org/10.1109/IPIN.2019.8911784</ee><url>https://dblp.org/rec/conf/ipin/JimenezST19</url></info>
+<url>URL#2791552</url>
+</hit>
+<hit score="3" id="2791574">
+<info><authors><author pid="86/4984">Ki-Joune Li</author><author pid="51/6988">Sisi Zlatanova</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="171/3059">Antoni Pérez-Navarro</author><author pid="22/7429">Christos Laoudias</author><author pid="45/5350">Adriano J. C. Moreira</author></authors><title>Survey on Indoor Map Standards and Formats.</title><venue>IPIN</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/LiZTPLM19</key><doi>10.1109/IPIN.2019.8911796</doi><ee>https://doi.org/10.1109/IPIN.2019.8911796</ee><url>https://dblp.org/rec/conf/ipin/LiZTPLM19</url></info>
+<url>URL#2791574</url>
+</hit>
+<hit score="3" id="2791612">
+<info><authors><author pid="254/4694">Jordi Rojo</author><author pid="254/4572">Carmen Corvalán</author><author pid="254/4687">Florian Unger</author><author pid="254/4574">Sara Marín López</author><author pid="34/8557">Ignacio Soteras</author><author pid="254/4586">Daniel Castejón Bravo</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="190/3100">Germán Martín Mendoza-Silva</author><author pid="254/4698">Gabriel Ristow Cidral</author><author pid="254/4678">Jorma Laiapea</author><author pid="254/4640">Gerardo Parrello</author><author pid="254/4682">Arnau Simó</author><author pid="254/4579">Laura Stupin</author><author pid="254/4703">Deniz Minican</author><author pid="254/4724">María Farrés</author></authors><title>Machine Learning applied to Wi-Fi fingerprinting: The experiences of the Ubiqum Challenge.</title><venue>IPIN</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/RojoCULSBTMCLPS19</key><doi>10.1109/IPIN.2019.8911761</doi><ee>https://doi.org/10.1109/IPIN.2019.8911761</ee><url>https://dblp.org/rec/conf/ipin/RojoCULSBTMCLPS19</url></info>
+<url>URL#2791612</url>
+</hit>
+<hit score="3" id="2791628">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="45/5350">Adriano J. C. Moreira</author><author pid="190/3100">Germán M. Mendoza-Silva</author><author pid="81/3210">Maria João Nicolau</author><author pid="245/5303">Miguel Matey-Sanz</author><author pid="210/3811">Ivo Silva</author><author pid="67/3031">Joaquín Huerta</author><author pid="150/0796">Cristiano G. Pendão</author></authors><title>Exploiting Different Combinations of Complementary Sensor&apos;s data for Fingerprint-based Indoor Positioning in Industrial Environments.</title><venue>IPIN</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/Torres-Sospedra19</key><doi>10.1109/IPIN.2019.8911758</doi><ee>https://doi.org/10.1109/IPIN.2019.8911758</ee><url>https://dblp.org/rec/conf/ipin/Torres-Sospedra19</url></info>
+<url>URL#2791628</url>
+</hit>
+<hit score="3" id="2843240">
+<info><authors><author pid="159/2251">Abutalib Aghayev</author><author pid="166/9556">Sage A. Weil</author><author pid="228/8029">Michael Kuchnik</author><author pid="70/5191-2">Mark Nelson 0002</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="20/11514">George Amvrosiadis</author></authors><title>File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution.</title><venue>SOSP</venue><pages>353-369</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AghayevWKNGA19</key><doi>10.1145/3341301.3359656</doi><ee>https://doi.org/10.1145/3341301.3359656</ee><url>https://dblp.org/rec/conf/sosp/AghayevWKNGA19</url></info>
+<url>URL#2843240</url>
+</hit>
+<hit score="3" id="2843241">
+<info><authors><author pid="213/7293">Remzi Can Aksoy</author><author pid="23/6695">Manos Kapritsos</author></authors><title>Aegean: replication beyond the client-server model.</title><venue>SOSP</venue><pages>385-398</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AksoyK19</key><doi>10.1145/3341301.3359663</doi><ee>https://doi.org/10.1145/3341301.3359663</ee><url>https://dblp.org/rec/conf/sosp/AksoyK19</url></info>
+<url>URL#2843241</url>
+</hit>
+<hit score="3" id="2843242">
+<info><authors><author pid="161/5920">Omid Alipourfard</author><author pid="125/2840">Jiaqi Gao</author><author pid="153/2656">Jérémie Koenig</author><author pid="199/2237">Chris Harshaw</author><author pid="v/AminVahdat">Amin Vahdat</author><author pid="89/6345">Minlan Yu</author></authors><title>Risk based planning of network changes in evolving data centers.</title><venue>SOSP</venue><pages>414-429</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AlipourfardGKHV19</key><doi>10.1145/3341301.3359664</doi><ee>https://doi.org/10.1145/3341301.3359664</ee><url>https://dblp.org/rec/conf/sosp/AlipourfardGKHV19</url></info>
+<url>URL#2843242</url>
+</hit>
+<hit score="3" id="2843243">
+<info><authors><author pid="203/8790">Anish Athalye</author><author pid="14/8279">Adam Belay</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="82/11191">Robert Morris 0005</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Notary: a device for secure transaction approval.</title><venue>SOSP</venue><pages>97-113</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AthalyeBKMZ19</key><doi>10.1145/3341301.3359661</doi><ee>https://doi.org/10.1145/3341301.3359661</ee><url>https://dblp.org/rec/conf/sosp/AthalyeBKMZ19</url></info>
+<url>URL#2843243</url>
+</hit>
+<hit score="3" id="2843244">
+<info><authors><author pid="10/6854">Ahmed Awad</author><author pid="06/5980">Brad Karp</author></authors><title>Execution integrity without implicit trust of system software.</title><venue>SysTEX@SOSP</venue><pages>5:1-5:6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AwadK19</key><doi>10.1145/3342559.3365337</doi><ee>https://doi.org/10.1145/3342559.3365337</ee><url>https://dblp.org/rec/conf/sosp/AwadK19</url></info>
+<url>URL#2843244</url>
+</hit>
+<hit score="3" id="2843245">
+<info><authors><author pid="132/0327">Antonio Barbalace</author><author pid="97/9808">Pierre Olivier</author><author pid="61/2985">Binoy Ravindran</author></authors><title>Rethinking Communication in Multiple-kernel OSes for New Shared Memory Interconnects.</title><venue>PLOS@SOSP</venue><pages>45-52</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BarbalaceOR19</key><doi>10.1145/3365137.3365399</doi><ee>https://doi.org/10.1145/3365137.3365399</ee><url>https://dblp.org/rec/conf/sosp/BarbalaceOR19</url></info>
+<url>URL#2843245</url>
+</hit>
+<hit score="3" id="2843246">
+<info><authors><author pid="221/1554">Daniel Bittman</author><author pid="25/4106">Peter Alvaro</author><author pid="m/EthanLMiller">Ethan L. Miller</author></authors><title>A Persistent Problem: Managing Pointers in NVM.</title><venue>PLOS@SOSP</venue><pages>30-37</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BittmanAM19</key><doi>10.1145/3365137.3365397</doi><ee>https://doi.org/10.1145/3365137.3365397</ee><url>https://dblp.org/rec/conf/sosp/BittmanAM19</url></info>
+<url>URL#2843246</url>
+</hit>
+<hit score="3" id="2843247">
+<info><authors><author pid="204/4058">Marcel Busch</author><author pid="81/7396">Ralph Schlenk</author><author pid="253/1240">Hans Heckel</author></authors><title>TEEMo: trusted peripheral monitoring for optical networks and beyond.</title><venue>SysTEX@SOSP</venue><pages>7:1-7:6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BuschSH19</key><doi>10.1145/3342559.3365339</doi><ee>https://doi.org/10.1145/3342559.3365339</ee><url>https://dblp.org/rec/conf/sosp/BuschSH19</url></info>
+<url>URL#2843247</url>
+</hit>
+<hit score="3" id="2843248">
+<info><authors><author pid="210/6061">Damien Carver</author><author pid="204/3799">Redha Gouicem</author><author pid="133/3713">Jean-Pierre Lozi</author><author pid="46/4691">Julien Sopena</author><author pid="08/8330">Baptiste Lepers</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author><author pid="31/6732">Nicolas Palix</author><author pid="l/JuliaLLawall">Julia Lawall</author><author pid="27/4405">Gilles Muller</author></authors><title>Fork/Wait and Multicore Frequency Scaling: a Generational Clash.</title><venue>PLOS@SOSP</venue><pages>53-59</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CarverGLSLZPLM19</key><doi>10.1145/3365137.3365400</doi><ee>https://doi.org/10.1145/3365137.3365400</ee><url>https://dblp.org/rec/conf/sosp/CarverGLSLZPLM19</url></info>
+<url>URL#2843248</url>
+</hit>
+<hit score="3" id="2843249">
+<info><authors><author pid="141/9176">Tej Chajed</author><author pid="07/11515">Joseph Tassarotti</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Verifying concurrent, crash-safe systems with Perennial.</title><venue>SOSP</venue><pages>243-258</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChajedTKZ19</key><doi>10.1145/3341301.3359632</doi><ee>https://doi.org/10.1145/3341301.3359632</ee><url>https://dblp.org/rec/conf/sosp/ChajedTKZ19</url></info>
+<url>URL#2843249</url>
+</hit>
+<hit score="3" id="2843250">
+<info><authors><author pid="130/1368">David Chou</author><author pid="90/7566">Tianyin Xu</author><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="20/7881">Andrew Newell</author><author pid="189/0000">Sonia Margulis</author><author pid="98/4025">Lin Xiao</author><author pid="251/1877">Pol Mauri Ruiz</author><author pid="25/1821">Justin Meza</author><author pid="01/4626">Kiryong Ha</author><author pid="127/9035">Shruti Padmanabha</author><author pid="85/2720">Kevin Cole</author><author pid="72/7218">Dmitri Perelman</author></authors><title>Taiji: managing global user traffic for large-scale internet services at the edge.</title><venue>SOSP</venue><pages>430-446</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChouXVNMXRMHPCP19</key><doi>10.1145/3341301.3359655</doi><ee>https://doi.org/10.1145/3341301.3359655</ee><url>https://dblp.org/rec/conf/sosp/ChouXVNMXRMHPCP19</url></info>
+<url>URL#2843250</url>
+</hit>
+<hit score="3" id="2843251">
+<info><authors><author pid="10/1570-2">Mingkai Dong 0002</author><author pid="251/1780">Heng Bu</author><author pid="251/1771">Jifei Yi</author><author pid="251/1759">Benchao Dong</author><author pid="31/6601-1">Haibo Chen 0001</author></authors><title>Performance and protection in the ZoFS user-space NVM file system.</title><venue>SOSP</venue><pages>478-493</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DongBYDC19</key><doi>10.1145/3341301.3359637</doi><ee>https://doi.org/10.1145/3341301.3359637</ee><url>https://dblp.org/rec/conf/sosp/DongBYDC19</url></info>
+<url>URL#2843251</url>
+</hit>
+<hit score="3" id="2843252">
+<info><authors><author pid="154/0889">Xianzheng Dou</author><author pid="c/PeterMChen">Peter M. Chen</author><author pid="14/85">Jason Flinn</author></authors><title>ShortCut: accelerating mostly-deterministic code regions.</title><venue>SOSP</venue><pages>570-585</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DouCF19</key><doi>10.1145/3341301.3359659</doi><ee>https://doi.org/10.1145/3341301.3359659</ee><url>https://dblp.org/rec/conf/sosp/DouCF19</url></info>
+<url>URL#2843252</url>
+</hit>
+<hit score="3" id="2843253">
+<info><authors><author pid="197/7169">Juhyeng Han</author><author pid="124/6964">Seong-Min Kim</author><author pid="38/8882">Taesoo Kim</author><author pid="12/5388">Dongsu Han</author></authors><title>Toward scaling hardware security module for emerging cloud services.</title><venue>SysTEX@SOSP</venue><pages>3:1-3:6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HanKKH19</key><doi>10.1145/3342559.3365335</doi><ee>https://doi.org/10.1145/3342559.3365335</ee><url>https://dblp.org/rec/conf/sosp/HanKKH19</url></info>
+<url>URL#2843253</url>
+</hit>
+<hit score="3" id="2843254">
+<info><authors><author pid="134/8841">Bernhard Heinloth</author><author pid="252/0990">Marco Ammon</author><author pid="252/0968">Dustin T. Nguyen</author><author pid="75/10868">Timo Hönig</author><author pid="99/4516">Volkmar Sieh</author><author pid="26/6488">Wolfgang Schröder-Preikschat</author></authors><title>Cocoon: Custom-Fitted Kernel Compiled on Demand.</title><venue>PLOS@SOSP</venue><pages>1-7</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HeinlothANHSS19</key><doi>10.1145/3365137.3365398</doi><ee>https://doi.org/10.1145/3365137.3365398</ee><url>https://dblp.org/rec/conf/sosp/HeinlothANHSS19</url></info>
+<url>URL#2843254</url>
+</hit>
+<hit score="3" id="2843255">
+<info><authors><author pid="205/4259">Jingmei Hu</author><author pid="172/6890">Eric Lu</author><author pid="38/2428">David A. Holland</author><author pid="92/2185">Ming Kawaguchi</author><author pid="13/2794">Stephen Chong</author><author pid="s/MargoISeltzer">Margo I. Seltzer</author></authors><title>Trials and Tribulations in Synthesizing Operating Systems.</title><venue>PLOS@SOSP</venue><pages>67-73</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HuLHKCS19</key><doi>10.1145/3365137.3365401</doi><ee>https://doi.org/10.1145/3365137.3365401</ee><url>https://dblp.org/rec/conf/sosp/HuLHKCS19</url></info>
+<url>URL#2843255</url>
+</hit>
+<hit score="3" id="2843256">
+<info><authors><author pid="220/4473">Hassaan Janjua</author><author pid="02/5804">Mahmoud Ammar</author><author pid="c/BrunoCrispo">Bruno Crispo</author><author pid="h/DannyHughes">Danny Hughes 0001</author></authors><title>Towards a standards-compliant pure-software trusted execution environment for resource-constrained embedded devices.</title><venue>SysTEX@SOSP</venue><pages>6:1-6:6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JanjuaAC019</key><doi>10.1145/3342559.3365338</doi><ee>https://doi.org/10.1145/3342559.3365338</ee><url>https://dblp.org/rec/conf/sosp/JanjuaAC019</url></info>
+<url>URL#2843256</url>
+</hit>
+<hit score="3" id="2843257">
+<info><authors><author pid="129/3026">Zhihao Jia</author><author pid="155/8122">Oded Padon</author><author pid="34/8156-3">James Thomas 0003</author><author pid="143/7244">Todd Warszawski</author><author pid="36/2133">Matei Zaharia</author><author pid="a/AAiken">Alex Aiken</author></authors><title>TASO: optimizing deep learning computation with automatic generation of graph substitutions.</title><venue>SOSP</venue><pages>47-62</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JiaPTWZA19</key><doi>10.1145/3341301.3359630</doi><ee>https://doi.org/10.1145/3341301.3359630</ee><url>https://dblp.org/rec/conf/sosp/JiaPTWZA19</url></info>
+<url>URL#2843257</url>
+</hit>
+<hit score="3" id="2843258">
+<info><authors><author pid="203/8755">Rohan Kadekodi</author><author pid="197/7193">Se Kwon Lee</author><author pid="145/0912">Sanidhya Kashyap</author><author pid="38/8882">Taesoo Kim</author><author pid="138/4146">Aasheesh Kolli</author><author pid="07/10563">Vijay Chidambaram</author></authors><title>SplitFS: reducing software overhead in file systems for persistent memory.</title><venue>SOSP</venue><pages>494-508</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KadekodiLKKKC19</key><doi>10.1145/3341301.3359631</doi><ee>https://doi.org/10.1145/3341301.3359631</ee><url>https://dblp.org/rec/conf/sosp/KadekodiLKKKC19</url></info>
+<url>URL#2843258</url>
+</hit>
+<hit score="3" id="2843259">
+<info><authors><author pid="145/0912">Sanidhya Kashyap</author><author pid="126/2046">Irina Calciu</author><author pid="202/1152">Xiaohe Cheng</author><author pid="19/10203">Changwoo Min</author><author pid="38/8882">Taesoo Kim</author></authors><title>Scalable and practical locking with shuffling.</title><venue>SOSP</venue><pages>586-599</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KashyapCCMK19</key><doi>10.1145/3341301.3359629</doi><ee>https://doi.org/10.1145/3341301.3359629</ee><url>https://dblp.org/rec/conf/sosp/KashyapCCMK19</url></info>
+<url>URL#2843259</url>
+</hit>
+<hit score="3" id="2843260">
+<info><authors><author pid="201/9255">Seulbae Kim</author><author pid="75/4287-1">Meng Xu 0001</author><author pid="145/0912">Sanidhya Kashyap</author><author pid="191/3069">Jungyeon Yoon</author><author pid="42/1870-2">Wen Xu 0002</author><author pid="38/8882">Taesoo Kim</author></authors><title>Finding semantic bugs in file systems with an extensible fuzzing framework.</title><venue>SOSP</venue><pages>147-161</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KimXKYXK19</key><doi>10.1145/3341301.3359662</doi><ee>https://doi.org/10.1145/3341301.3359662</ee><url>https://dblp.org/rec/conf/sosp/KimXKYXK19</url></info>
+<url>URL#2843260</url>
+</hit>
+<hit score="3" id="2843261">
+<info><authors><author pid="252/1005">Marcel Köppen</author><author pid="122/8375">Jana Traue</author><author pid="116/0643">Christoph Borchert</author><author pid="85/1892">Jörg Nolte</author><author pid="s/OlafSpinczyk">Olaf Spinczyk</author></authors><title>Cache-Line Transactions: Building Blocks for Persistent Kernel Data Structures Enabled by AspectC++.</title><venue>PLOS@SOSP</venue><pages>38-44</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KoppenTBNS19</key><doi>10.1145/3365137.3365396</doi><ee>https://doi.org/10.1145/3365137.3365396</ee><url>https://dblp.org/rec/conf/sosp/KoppenTBNS19</url></info>
+<url>URL#2843261</url>
+</hit>
+<hit score="3" id="2843262">
+<info><authors><author pid="188/9911">Jack Kosaian</author><author pid="40/7113">K. V. Rashmi</author><author pid="65/8569">Shivaram Venkataraman</author></authors><title>Parity models: erasure-coded resilience for prediction serving systems.</title><venue>SOSP</venue><pages>30-46</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KosaianRV19</key><doi>10.1145/3341301.3359654</doi><ee>https://doi.org/10.1145/3341301.3359654</ee><url>https://dblp.org/rec/conf/sosp/KosaianRV19</url></info>
+<url>URL#2843262</url>
+</hit>
+<hit score="3" id="2843263">
+<info><authors><author pid="57/4163">Stefan Lankes</author><author pid="39/7436">Jens Breitbart</author><author pid="121/3998">Simon Pickartz</author></authors><title>Exploring Rust for Unikernel Development.</title><venue>PLOS@SOSP</venue><pages>8-15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LankesBP19</key><doi>10.1145/3365137.3365395</doi><ee>https://doi.org/10.1145/3365137.3365395</ee><url>https://dblp.org/rec/conf/sosp/LankesBP19</url></info>
+<url>URL#2843263</url>
+</hit>
+<hit score="3" id="2843264">
+<info><authors><author pid="117/9944">David Lazar</author><author pid="84/7357">Yossi Gilad</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Yodel: strong metadata security for voice calls.</title><venue>SOSP</venue><pages>211-224</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LazarGZ19</key><doi>10.1145/3341301.3359648</doi><ee>https://doi.org/10.1145/3341301.3359648</ee><url>https://dblp.org/rec/conf/sosp/LazarGZ19</url></info>
+<url>URL#2843264</url>
+</hit>
+<hit score="3" id="2843265">
+<info><authors><author pid="130/0417">Mathias Lécuyer</author><author pid="123/9751">Riley Spahn</author><author pid="188/5863">Kiran Vodrahalli</author><author pid="g/RoxanaGeambasu">Roxana Geambasu</author><author pid="h/DanielHsu">Daniel Hsu 0001</author></authors><title>Privacy accounting and quality control in the sage differentially private ML platform.</title><venue>SOSP</venue><pages>181-195</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LecuyerSVG019</key><doi>10.1145/3341301.3359639</doi><ee>https://doi.org/10.1145/3341301.3359639</ee><url>https://dblp.org/rec/conf/sosp/LecuyerSVG019</url></info>
+<url>URL#2843265</url>
+</hit>
+<hit score="3" id="2843266">
+<info><authors><author pid="149/9218">Keunhong Lee</author><author pid="130/9065">Jeehoon Kang</author><author pid="252/0992">Wonsup Yoon</author><author pid="129/2984">Joongi Kim</author><author pid="m/SueBMoon">Sue B. Moon</author></authors><title>Enveloping Implicit Assumptions of Intrusive Data Structures within Ownership Type System.</title><venue>PLOS@SOSP</venue><pages>16-22</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LeeKYKM19</key><doi>10.1145/3365137.3365403</doi><ee>https://doi.org/10.1145/3365137.3365403</ee><url>https://dblp.org/rec/conf/sosp/LeeKYKM19</url></info>
+<url>URL#2843266</url>
+</hit>
+<hit score="3" id="2843267">
+<info><authors><author pid="197/7193">Se Kwon Lee</author><author pid="168/3415">Jayashree Mohan</author><author pid="145/0912">Sanidhya Kashyap</author><author pid="38/8882">Taesoo Kim</author><author pid="07/10563">Vijay Chidambaram</author></authors><title>Recipe: converting concurrent DRAM indexes to persistent-memory indexes.</title><venue>SOSP</venue><pages>462-477</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LeeMKKC19</key><doi>10.1145/3341301.3359635</doi><ee>https://doi.org/10.1145/3341301.3359635</ee><url>https://dblp.org/rec/conf/sosp/LeeMKKC19</url></info>
+<url>URL#2843267</url>
+</hit>
+<hit score="3" id="2843268">
+<info><authors><author pid="08/8330">Baptiste Lepers</author><author pid="157/1134">Oana Balmau</author><author pid="05/4820">Karan Gupta</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author></authors><title>KVell: the design and implementation of a fast persistent key-value store.</title><venue>SOSP</venue><pages>447-461</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LepersBGZ19</key><doi>10.1145/3341301.3359628</doi><ee>https://doi.org/10.1145/3341301.3359628</ee><url>https://dblp.org/rec/conf/sosp/LepersBGZ19</url></info>
+<url>URL#2843268</url>
+</hit>
+<hit score="3" id="2843269">
+<info><authors><author pid="198/2457">Guangpu Li</author><author pid="31/5916-1">Shan Lu 0001</author><author pid="95/6578">Madanlal Musuvathi</author><author pid="85/6293">Suman Nath</author><author pid="129/1434">Rohan Padhye</author></authors><title>Efficient scalable thread-safety-violation detection: finding thousands of concurrency bugs during testing.</title><venue>SOSP</venue><pages>162-180</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiLMNP19</key><doi>10.1145/3341301.3359638</doi><ee>https://doi.org/10.1145/3341301.3359638</ee><url>https://dblp.org/rec/conf/sosp/LiLMNP19</url></info>
+<url>URL#2843269</url>
+</hit>
+<hit score="3" id="2843270">
+<info><authors><author pid="188/5871">Hans Liljestrand</author><author pid="248/8947">Zaheer Gauhar</author><author pid="149/2426">Thomas Nyman</author><author pid="48/6310">Jan-Erik Ekberg</author><author pid="39/2508">N. Asokan</author></authors><title>Protecting the stack with PACed canaries.</title><venue>SysTEX@SOSP</venue><pages>4:1-4:6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiljestrandGNEA19</key><doi>10.1145/3342559.3365336</doi><ee>https://doi.org/10.1145/3342559.3365336</ee><url>https://dblp.org/rec/conf/sosp/LiljestrandGNEA19</url></info>
+<url>URL#2843270</url>
+</hit>
+<hit score="3" id="2843271">
+<info><authors><author pid="188/9951">Joshua Lind</author><author pid="203/9047">Oded Naor</author><author pid="86/8318">Ittay Eyal</author><author pid="115/7963">Florian Kelbert</author><author pid="s/EminGunSirer">Emin Gün Sirer</author><author pid="45/4887">Peter R. Pietzuch</author></authors><title>Teechain: a secure payment network with asynchronous blockchain access.</title><venue>SOSP</venue><pages>63-79</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LindNEKSP19</key><doi>10.1145/3341301.3359627</doi><ee>https://doi.org/10.1145/3341301.3359627</ee><url>https://dblp.org/rec/conf/sosp/LindNEKSP19</url></info>
+<url>URL#2843271</url>
+</hit>
+<hit score="3" id="2843272">
+<info><authors><author pid="251/1726">Marta Lokhava</author><author pid="04/11066">Giuliano Losa</author><author pid="m/DMazieres">David Mazières</author><author pid="95/7062">Graydon Hoare</author><author pid="251/1799">Nicolas Barry</author><author pid="g/EliGafni">Eli Gafni</author><author pid="251/1770">Jonathan Jove</author><author pid="251/1823">Rafal Malinowsky</author><author pid="251/1725">Jed McCaleb</author></authors><title>Fast and secure global payments with Stellar.</title><venue>SOSP</venue><pages>80-96</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LokhavaLMHBGJMM19</key><doi>10.1145/3341301.3359636</doi><ee>https://doi.org/10.1145/3341301.3359636</ee><url>https://dblp.org/rec/conf/sosp/LokhavaLMHBGJMM19</url></info>
+<url>URL#2843272</url>
+</hit>
+<hit score="3" id="2843273">
+<info><authors><author pid="39/2936-9">Jie Lu 0009</author><author pid="10/2639">Chen Liu</author><author pid="l/LianLi0002">Lian Li 0002</author><author pid="f/XiaobingFeng2">Xiaobing Feng 0002</author><author pid="17/2215">Feng Tan</author><author pid="181/2799">Jun Yang</author><author pid="217/3880">Liang You</author></authors><title>CrashTuner: detecting crash-recovery bugs in cloud systems via meta-info analysis.</title><venue>SOSP</venue><pages>114-130</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LuL00TYY19</key><doi>10.1145/3341301.3359645</doi><ee>https://doi.org/10.1145/3341301.3359645</ee><url>https://dblp.org/rec/conf/sosp/LuL00TYY19</url></info>
+<url>URL#2843273</url>
+</hit>
+<hit score="3" id="2843274">
+<info><authors><author pid="241/7464">Haojun Ma</author><author pid="55/7029">Aman Goel</author><author pid="11/10454">Jean-Baptiste Jeannin</author><author pid="23/6695">Manos Kapritsos</author><author pid="31/11029">Baris Kasikci</author><author pid="34/5374">Karem A. Sakallah</author></authors><title>I4: incremental inference of inductive invariants for verification of distributed protocols.</title><venue>SOSP</venue><pages>370-384</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MaGJKKS19</key><doi>10.1145/3341301.3359651</doi><ee>https://doi.org/10.1145/3341301.3359651</ee><url>https://dblp.org/rec/conf/sosp/MaGJKKS19</url></info>
+<url>URL#2843274</url>
+</hit>
+<hit score="3" id="2843275">
+<info><authors><author pid="251/1887">Michael Marty</author><author pid="54/8277">Marc de Kruijf</author><author pid="36/7863">Jacob Adriaens</author><author pid="251/1844">Christopher Alfeld</author><author pid="154/0315">Sean Bauer</author><author pid="197/7109">Carlo Contavalli</author><author pid="35/1023">Michael Dalton</author><author pid="74/5250">Nandita Dukkipati</author><author pid="42/8370">William C. Evans</author><author pid="g/StevenDGribble">Steve D. Gribble</author><author pid="12/1884">Nicholas Kidd</author><author pid="197/7105">Roman Kononov</author><author pid="78/6715-1">Gautam Kumar 0001</author><author pid="251/1769">Carl Mauer</author><author pid="251/1718">Emily Musick</author><author pid="173/9798">Lena E. Olson</author><author pid="94/8856">Erik Rubow</author><author pid="42/5766">Michael Ryan</author><author pid="99/10117">Kevin Springborn</author><author pid="91/4811">Paul Turner</author><author pid="246/9413">Valas Valancius</author><author pid="08/5760">Xi Wang</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Snap: a microkernel approach to host networking.</title><venue>SOSP</venue><pages>399-413</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MartyKAABCDDEGK19</key><doi>10.1145/3341301.3359657</doi><ee>https://doi.org/10.1145/3341301.3359657</ee><url>https://dblp.org/rec/conf/sosp/MartyKAABCDDEGK19</url></info>
+<url>URL#2843275</url>
+</hit>
+<hit score="3" id="2843276">
+<info><authors><author pid="155/9721">Kai Mast</author><author pid="213/7314-1">Lequn Chen 0001</author><author pid="s/EminGunSirer">Emin Gün Sirer</author></authors><title>A vision for autonomous blockchains backed by secure hardware.</title><venue>SysTEX@SOSP</venue><pages>1:1-1:6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MastCS19</key><doi>10.1145/3342559.3365333</doi><ee>https://doi.org/10.1145/3342559.3365333</ee><url>https://dblp.org/rec/conf/sosp/MastCS19</url></info>
+<url>URL#2843276</url>
+</hit>
+<hit score="3" id="2843277">
+<info><authors><author pid="208/0329">Daniel Mawhirter</author><author pid="47/6534-2">Bo Wu 0002</author></authors><title>AutoMine: harmonizing high-level abstraction and high performance for graph mining.</title><venue>SOSP</venue><pages>509-523</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Mawhirter019</key><doi>10.1145/3341301.3359633</doi><ee>https://doi.org/10.1145/3341301.3359633</ee><url>https://dblp.org/rec/conf/sosp/Mawhirter019</url></info>
+<url>URL#2843277</url>
+</hit>
+<hit score="3" id="2843278">
+<info><authors><author pid="64/4649">Hisham Muhammad</author><author pid="84/1890">Lucas Correia Villa Real</author><author pid="120/5118">Michael Homer</author></authors><title>Taxonomy of Package Management in Programming Languages and Operating Systems.</title><venue>PLOS@SOSP</venue><pages>60-66</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MuhammadRH19</key><doi>10.1145/3365137.3365402</doi><ee>https://doi.org/10.1145/3365137.3365402</ee><url>https://dblp.org/rec/conf/sosp/MuhammadRH19</url></info>
+<url>URL#2843278</url>
+</hit>
+<hit score="3" id="2843279">
+<info><authors><author pid="177/8846">Deepak Narayanan</author><author pid="185/9204">Aaron Harlap</author><author pid="14/877">Amar Phanishayee</author><author pid="117/0561">Vivek Seshadri</author><author pid="48/3493">Nikhil R. Devanur</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="g/PhillipBGibbons">Phillip B. Gibbons</author><author pid="36/2133">Matei Zaharia</author></authors><title>PipeDream: generalized pipeline parallelism for DNN training.</title><venue>SOSP</venue><pages>1-15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NarayananHPSDGG19</key><doi>10.1145/3341301.3359646</doi><ee>https://doi.org/10.1145/3341301.3359646</ee><url>https://dblp.org/rec/conf/sosp/NarayananHPSDGG19</url></info>
+<url>URL#2843279</url>
+</hit>
+<hit score="3" id="2843280">
+<info><authors><author pid="217/1287">Christian Navasca</author><author pid="97/5358">Cheng Cai</author><author pid="53/6791-1">Khanh Nguyen 0001</author><author pid="47/3381">Brian Demsky</author><author pid="31/5916-1">Shan Lu 0001</author><author pid="56/5320">Miryung Kim</author><author pid="90/8705">Guoqing Harry Xu</author></authors><title>Gerenuk: thin computation over big native data using speculative program transformation.</title><venue>SOSP</venue><pages>538-553</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NavascaCNDLKX19</key><doi>10.1145/3341301.3359643</doi><ee>https://doi.org/10.1145/3341301.3359643</ee><url>https://dblp.org/rec/conf/sosp/NavascaCNDLKX19</url></info>
+<url>URL#2843280</url>
+</hit>
+<hit score="3" id="2843281">
+<info><authors><author pid="194/6735">Luke Nelson</author><author pid="142/3208">James Bornholt</author><author pid="155/8148">Ronghui Gu</author><author pid="53/6957">Andrew Baumann</author><author pid="55/1457">Emina Torlak</author><author pid="08/5760-5">Xi Wang 0005</author></authors><title>Scaling symbolic evaluation for automated verification of systems code with Serval.</title><venue>SOSP</venue><pages>225-242</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NelsonBGBTW19</key><doi>10.1145/3341301.3359641</doi><ee>https://doi.org/10.1145/3341301.3359641</ee><url>https://dblp.org/rec/conf/sosp/NelsonBGBTW19</url></info>
+<url>URL#2843281</url>
+</hit>
+<hit score="3" id="2843282">
+<info><authors><author pid="168/9023">Shoumik Palkar</author><author pid="36/2133">Matei Zaharia</author></authors><title>Optimizing data-intensive computations in existing libraries with split annotations.</title><venue>SOSP</venue><pages>291-305</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PalkarZ19</key><doi>10.1145/3341301.3359652</doi><ee>https://doi.org/10.1145/3341301.3359652</ee><url>https://dblp.org/rec/conf/sosp/PalkarZ19</url></info>
+<url>URL#2843282</url>
+</hit>
+<hit score="3" id="2843283">
+<info><authors><author pid="195/5934">Yanghua Peng</author><author pid="65/8854">Yibo Zhu</author><author pid="217/6675">Yangrui Chen</author><author pid="179/2382">Yixin Bao</author><author pid="184/0450">Bairen Yi</author><author pid="116/8770">Chang Lan</author><author pid="34/3772-1">Chuan Wu 0001</author><author pid="95/4962">Chuanxiong Guo</author></authors><title>A generic communication scheduler for distributed DNN training acceleration.</title><venue>SOSP</venue><pages>16-29</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PengZCBYLWG19</key><doi>10.1145/3341301.3359642</doi><ee>https://doi.org/10.1145/3341301.3359642</ee><url>https://dblp.org/rec/conf/sosp/PengZCBYLWG19</url></info>
+<url>URL#2843283</url>
+</hit>
+<hit score="3" id="2843284">
+<info><authors><author pid="251/1730">Xiang (Jenny) Ren</author><author pid="188/9963">Kirk Rodrigues</author><author pid="98/2876">Luyuan Chen</author><author pid="238/9784">Juan Camilo Vega</author><author pid="82/5150">Michael Stumm</author><author pid="230/9043-4">Ding Yuan 0004</author></authors><title>An analysis of performance evolution of Linux&apos;s core operations.</title><venue>SOSP</venue><pages>554-569</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RenRCVSY19</key><doi>10.1145/3341301.3359640</doi><ee>https://doi.org/10.1145/3341301.3359640</ee><url>https://dblp.org/rec/conf/sosp/RenRCVSY19</url></info>
+<url>URL#2843284</url>
+</hit>
+<hit score="3" id="2843285">
+<info><authors><author pid="237/7608">Florian Rommel</author><author pid="205/2295">Lennart Glauer</author><author pid="30/5956-1">Christian Dietrich 0001</author><author pid="57/863">Daniel Lohmann</author></authors><title>Wait-Free Code Patching of Multi-Threaded Processes.</title><venue>PLOS@SOSP</venue><pages>23-29</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RommelG0L19</key><doi>10.1145/3365137.3365404</doi><ee>https://doi.org/10.1145/3365137.3365404</ee><url>https://dblp.org/rec/conf/sosp/RommelG0L19</url></info>
+<url>URL#2843285</url>
+</hit>
+<hit score="3" id="2843286">
+<info><authors><author pid="241/9712">Edo Roth</author><author pid="216/6426">Daniel Noble</author><author pid="33/4721">Brett Hemenway Falk</author><author pid="60/4358">Andreas Haeberlen</author></authors><title>Honeycrisp: large-scale differentially private aggregation without a trusted core.</title><venue>SOSP</venue><pages>196-210</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RothNFH19</key><doi>10.1145/3341301.3359660</doi><ee>https://doi.org/10.1145/3341301.3359660</ee><url>https://dblp.org/rec/conf/sosp/RothNFH19</url></info>
+<url>URL#2843286</url>
+</hit>
+<hit score="3" id="2843287">
+<info><authors><author pid="34/8397">Haichen Shen</author><author pid="213/7314-1">Lequn Chen 0001</author><author pid="148/1321">Yuchen Jin</author><author pid="33/1876">Liangyu Zhao</author><author pid="213/8207">Bingyu Kong</author><author pid="p/MPhilipose">Matthai Philipose</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="s/RaviSundaram">Ravi Sundaram</author></authors><title>Nexus: a GPU cluster engine for accelerating DNN-based video analysis.</title><venue>SOSP</venue><pages>322-337</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ShenCJZKPKS19</key><doi>10.1145/3341301.3359658</doi><ee>https://doi.org/10.1145/3341301.3359658</ee><url>https://dblp.org/rec/conf/sosp/ShenCJZKPKS19</url></info>
+<url>URL#2843287</url>
+</hit>
+<hit score="3" id="2843288">
+<info><authors><author pid="186/8758">Furkan Turan</author><author pid="92/16">Ingrid Verbauwhede</author></authors><title>Propagating trusted execution through mutual attestation.</title><venue>SysTEX@SOSP</venue><pages>2:1-2:6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TuranV19</key><doi>10.1145/3342559.3365334</doi><ee>https://doi.org/10.1145/3342559.3365334</ee><url>https://dblp.org/rec/conf/sosp/TuranV19</url></info>
+<url>URL#2843288</url>
+</hit>
+<hit score="3" id="2843289">
+<info><authors><author pid="175/6757">Stephanie Wang</author><author pid="95/9170">John Liagouris</author><author pid="147/4809">Robert Nishihara</author><author pid="159/2099">Philipp Moritz</author><author pid="251/1809">Ujval Misra</author><author pid="41/6224">Alexey Tumanov</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Lineage stash: fault tolerance off the critical path.</title><venue>SOSP</venue><pages>338-352</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WangLNMMTS19</key><doi>10.1145/3341301.3359653</doi><ee>https://doi.org/10.1145/3341301.3359653</ee><url>https://dblp.org/rec/conf/sosp/WangLNMMTS19</url></info>
+<url>URL#2843289</url>
+</hit>
+<hit score="3" id="2843290">
+<info><authors><author pid="90/8705">Guoqing Harry Xu</author><author pid="42/6841">Margus Veanes</author><author pid="69/2517-1">Michael Barnett 0001</author><author pid="95/6578">Madan Musuvathi</author><author pid="09/1276">Todd Mytkowicz</author><author pid="z/BGZorn">Ben Zorn 0001</author><author pid="77/3301">Huan He</author><author pid="98/1091">Haibo Lin</author></authors><title>Niijima: sound and automated computation consolidation for efficient multilingual data-parallel pipelines.</title><venue>SOSP</venue><pages>306-321</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/XuV0MMZHL19</key><doi>10.1145/3341301.3359649</doi><ee>https://doi.org/10.1145/3341301.3359649</ee><url>https://dblp.org/rec/conf/sosp/XuV0MMZHL19</url></info>
+<url>URL#2843290</url>
+</hit>
+<hit score="3" id="2843291">
+<info><authors><author pid="80/4136">Ke Yang</author><author pid="153/5382">Mingxing Zhang</author><author pid="91/6670">Kang Chen</author><author pid="m/XiaosongMa">Xiaosong Ma</author><author pid="39/6825">Yang Bai</author><author pid="74/1552-1">Yong Jiang 0001</author></authors><title>KnightKing: a fast distributed graph random walk engine.</title><venue>SOSP</venue><pages>524-537</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YangZCMBJ19</key><doi>10.1145/3341301.3359634</doi><ee>https://doi.org/10.1145/3341301.3359634</ee><url>https://dblp.org/rec/conf/sosp/YangZCMBJ19</url></info>
+<url>URL#2843291</url>
+</hit>
+<hit score="3" id="2843292">
+<info><authors><author pid="204/3433">Arseniy Zaostrovnykh</author><author pid="204/3453">Solal Pirelli</author><author pid="238/8014">Rishabh R. Iyer</author><author pid="251/1797">Matteo Rizzo</author><author pid="41/7401">Luis Pedrosa</author><author pid="71/6861">Katerina J. Argyraki</author><author pid="c/GeorgeCandea">George Candea</author></authors><title>Verifying software network functions with no verification expertise.</title><venue>SOSP</venue><pages>275-290</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZaostrovnykhPIR19</key><doi>10.1145/3341301.3359647</doi><ee>https://doi.org/10.1145/3341301.3359647</ee><url>https://dblp.org/rec/conf/sosp/ZaostrovnykhPIR19</url></info>
+<url>URL#2843292</url>
+</hit>
+<hit score="3" id="2843293">
+<info><authors><author pid="120/1722">Yongle Zhang</author><author pid="188/9963">Kirk Rodrigues</author><author pid="45/6469-6">Yu Luo 0006</author><author pid="82/5150">Michael Stumm</author><author pid="230/9043-4">Ding Yuan 0004</author></authors><title>The inflection point hypothesis: a principled debugging approach for locating the root cause of a failure.</title><venue>SOSP</venue><pages>131-146</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangRLSY19</key><doi>10.1145/3341301.3359650</doi><ee>https://doi.org/10.1145/3341301.3359650</ee><url>https://dblp.org/rec/conf/sosp/ZhangRLSY19</url></info>
+<url>URL#2843293</url>
+</hit>
+<hit score="3" id="2843294">
+<info><authors><author pid="251/1762">Mo Zou</author><author pid="251/1861">Haoran Ding</author><author pid="48/331-3">Dong Du 0003</author><author pid="33/5051">Ming Fu</author><author pid="155/8148">Ronghui Gu</author><author pid="31/6601-1">Haibo Chen 0001</author></authors><title>Using concurrent relational logic with helpers for verifying the AtomFS file system.</title><venue>SOSP</venue><pages>259-274</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZouDDFGC19</key><doi>10.1145/3341301.3359644</doi><ee>https://doi.org/10.1145/3341301.3359644</ee><url>https://dblp.org/rec/conf/sosp/ZouDDFGC19</url></info>
+<url>URL#2843294</url>
+</hit>
+</hits>
+</result>

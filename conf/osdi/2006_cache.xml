@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287447">conf* osdi* 2006*</query>
+<status code="200">OK</status>
+<time unit="msecs">11.99</time>
+<completions total="1" computed="1" sent="1">
+<c sc="27" dc="27" oc="27" id="58181671">2006</c>
+</completions>
+<hits total="27" computed="27" sent="27" first="0">
+<hit score="4" id="6353575">
+<info><authors><author pid="65/5111">Richard Ta-Min</author><author pid="60/2864">Lionel Litty</author><author pid="l/DavidLie">David Lie</author></authors><title>Splitting Interfaces: Making Trust Between Applications and Operating Systems Configurable.</title><venue>OSDI</venue><pages>279-292</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Ta-MinLL06</key><ee>http://www.usenix.org/events/osdi06/tech/ta-min.html</ee><url>https://dblp.org/rec/conf/osdi/Ta-MinLL06</url></info>
+<url>URL#6353575</url>
+</hit>
+<hit score="3" id="6353550">
+<info><authors><author pid="73/615">Michael Burrows</author></authors><title>The Chubby Lock Service for Loosely-Coupled Distributed Systems.</title><venue>OSDI</venue><pages>335-350</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Burrows06</key><ee>http://www.usenix.org/events/osdi06/tech/burrows.html</ee><url>https://dblp.org/rec/conf/osdi/Burrows06</url></info>
+<url>URL#6353550</url>
+</hit>
+<hit score="3" id="6353551">
+<info><authors><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="35/6770">Manuel Costa</author><author pid="61/3834">Tim Harris 0001</author></authors><title>Securing Software by Enforcing Data-flow Integrity.</title><venue>OSDI</venue><pages>147-160</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CastroCH06</key><ee>http://www.usenix.org/events/osdi06/tech/castro.html</ee><url>https://dblp.org/rec/conf/osdi/CastroCH06</url></info>
+<url>URL#6353551</url>
+</hit>
+<hit score="3" id="6353552">
+<info><authors><author pid="13/6463">Fay Chang</author><author pid="d/JeffreyDean">Jeffrey Dean</author><author pid="g/SGhemawat">Sanjay Ghemawat</author><author pid="31/1764">Wilson C. Hsieh</author><author pid="53/6138">Deborah A. Wallach</author><author pid="73/615">Michael Burrows</author><author pid="26/477">Tushar Chandra</author><author pid="71/5497">Andrew Fikes</author><author pid="g/RobertGruber">Robert Gruber</author></authors><title>Bigtable: A Distributed Storage System for Structured Data (Awarded Best Paper!).</title><venue>OSDI</venue><pages>205-218</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ChangDGHWBCFG06</key><ee>http://www.usenix.org/events/osdi06/tech/chang.html</ee><url>https://dblp.org/rec/conf/osdi/ChangDGHWBCFG06</url></info>
+<url>URL#6353552</url>
+</hit>
+<hit score="3" id="6353554">
+<info><authors><author pid="50/1855">James A. Cowling</author><author pid="05/1975">Daniel S. Myers</author><author pid="l/BarbaraLiskov">Barbara Liskov</author><author pid="87/6689">Rodrigo Rodrigues 0001</author><author pid="s/LiubaShrira">Liuba Shrira</author></authors><title>HQ Replication: A Hybrid Quorum Protocol for Byzantine Fault Tolerance.</title><venue>OSDI</venue><pages>177-190</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CowlingMLRS06</key><ee>http://www.usenix.org/events/osdi06/tech/cowling.html</ee><url>https://dblp.org/rec/conf/osdi/CowlingMLRS06</url></info>
+<url>URL#6353554</url>
+</hit>
+<hit score="3" id="6353555">
+<info><authors><author pid="87/1231">John R. Douceur</author><author pid="55/3274">Jon Howell</author></authors><title>Distributed Directory Service in the Farsite File System.</title><venue>OSDI</venue><pages>321-334</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/DouceurH06</key><ee>http://www.usenix.org/events/osdi06/tech/douceur.html</ee><url>https://dblp.org/rec/conf/osdi/DouceurH06</url></info>
+<url>URL#6353555</url>
+</hit>
+<hit score="3" id="6353556">
+<info><authors><author pid="01/1470">Cheng Tien Ee</author><author pid="f/RFonseca">Rodrigo Fonseca</author><author pid="37/3129">Sukun Kim</author><author pid="97/4232">Daekyeong Moon</author><author pid="60/6753">Arsalan Tavakoli</author><author pid="c/DavidECuller">David E. Culler</author><author pid="34/5593">Scott Shenker</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>A Modular Network Layer for Sensornets.</title><venue>OSDI</venue><pages>249-262</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/EeFKMTCSS06</key><ee>http://www.usenix.org/events/osdi06/tech/ee.html</ee><url>https://dblp.org/rec/conf/osdi/EeFKMTCSS06</url></info>
+<url>URL#6353556</url>
+</hit>
+<hit score="3" id="6353557">
+<info><authors><author pid="e/UErlingsson">Úlfar Erlingsson</author><author pid="a/MartinAbadi">Martín Abadi</author><author pid="39/1349">Michael Vrable</author><author pid="b/MihaiBudiu">Mihai Budiu</author><author pid="n/GeorgeCNecula">George C. Necula</author></authors><title>XFI: Software Guards for System Address Spaces.</title><venue>OSDI</venue><pages>75-88</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ErlingssonAVBN06</key><ee>http://www.usenix.org/events/osdi06/tech/erlingsson.html</ee><url>https://dblp.org/rec/conf/osdi/ErlingssonAVBN06</url></info>
+<url>URL#6353557</url>
+</hit>
+<hit score="3" id="6353558">
+<info><authors><author pid="f/BryanFord">Bryan Ford</author><author pid="57/4329">Jacob Strauss</author><author pid="04/5917">Chris Lesniewski-Laas</author><author pid="71/1478">Sean C. Rhea</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="82/11191">Robert Morris 0005</author></authors><title>Persistent Personal Names for Globally Connected Mobile Devices.</title><venue>OSDI</venue><pages>233-248</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/FordSLRKM06</key><ee>http://www.usenix.org/events/osdi06/tech/ford.html</ee><url>https://dblp.org/rec/conf/osdi/FordSLRKM06</url></info>
+<url>URL#6353558</url>
+</hit>
+<hit score="3" id="6353559">
+<info><authors><author pid="71/6060">Nikolai Joukov</author><author pid="93/410">Avishay Traeger</author><author pid="38/1513">Rakesh Iyer</author><author pid="51/5214">Charles P. Wright</author><author pid="71/1341">Erez Zadok</author></authors><title>Operating System Profiling via Latency Analysis.</title><venue>OSDI</venue><pages>89-102</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/JoukovTIWZ06</key><ee>http://www.usenix.org/events/osdi06/tech/joukov.html</ee><url>https://dblp.org/rec/conf/osdi/JoukovTIWZ06</url></info>
+<url>URL#6353559</url>
+</hit>
+<hit score="3" id="6353561">
+<info><authors><author pid="72/6043">Hyong-youb Kim</author><author pid="44/5161">Scott Rixner</author></authors><title>Connection Handoff Policies for TCP Offload Network Interfaces.</title><venue>OSDI</venue><pages>293-306</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KimR06</key><ee>http://www.usenix.org/events/osdi06/tech/kim.html</ee><url>https://dblp.org/rec/conf/osdi/KimR06</url></info>
+<url>URL#6353561</url>
+</hit>
+<hit score="3" id="6353563">
+<info><authors><author pid="62/4095">Ted Kremenek</author><author pid="09/2839">Paul Twohey</author><author pid="47/2634">Godmar Back</author><author pid="n/AndrewYNg">Andrew Y. Ng</author><author pid="e/DREngler">Dawson R. Engler</author></authors><title>From Uncertainty to Belief: Inferring the Specification Within.</title><venue>OSDI</venue><pages>161-176</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KremenekTBNE06</key><ee>http://www.usenix.org/events/osdi06/tech/kremenek.html</ee><url>https://dblp.org/rec/conf/osdi/KremenekTBNE06</url></info>
+<url>URL#6353563</url>
+</hit>
+<hit score="3" id="6353564">
+<info><authors><author pid="07/3117">Harry C. Li</author><author pid="17/597">Allen Clement</author><author pid="84/527">Edmund L. Wong</author><author pid="53/4500">Jeff Napper</author><author pid="r/IndrajitRoy">Indrajit Roy 0001</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="d/MDahlin">Michael Dahlin</author></authors><title>BAR Gossip.</title><venue>OSDI</venue><pages>191-204</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LiCWNRAD06</key><ee>http://www.usenix.org/events/osdi06/tech/li.html</ee><url>https://dblp.org/rec/conf/osdi/LiCWNRAD06</url></info>
+<url>URL#6353564</url>
+</hit>
+<hit score="3" id="6353565">
+<info><authors><author pid="45/2026">Harsha V. Madhyastha</author><author pid="42/2745">Tomas Isdal</author><author pid="74/4787">Michael Piatek</author><author pid="00/4008">Colin Dixon</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="v/ArunVenkataramani">Arun Venkataramani</author></authors><title>iPlane: An Information Plane for Distributed Services.</title><venue>OSDI</venue><pages>367-380</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MadhyasthaIPDAKV06</key><ee>http://www.usenix.org/events/osdi06/tech/madhyastha.html</ee><url>https://dblp.org/rec/conf/osdi/MadhyasthaIPDAKV06</url></info>
+<url>URL#6353565</url>
+</hit>
+<hit score="3" id="6353566">
+<info><authors><author pid="97/1336">Edmund B. Nightingale</author><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="c/PeterMChen">Peter M. Chen</author><author pid="14/85">Jason Flinn</author></authors><title>Rethink the Sync (Awarded Best Paper!).</title><venue>OSDI</venue><pages>1-14</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/NightingaleVCF06</key><ee>http://www.usenix.org/events/osdi06/tech/nightingale.html</ee><url>https://dblp.org/rec/conf/osdi/NightingaleVCF06</url></info>
+<url>URL#6353566</url>
+</hit>
+<hit score="3" id="6353567">
+<info><authors><author pid="71/1924">Daniel Peek</author><author pid="14/85">Jason Flinn</author></authors><title>EnsemBlue: Integrating Distributed Storage and Consumer Electronics.</title><venue>OSDI</venue><pages>219-232</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PeekF06</key><ee>http://www.usenix.org/events/osdi06/tech/peek.html</ee><url>https://dblp.org/rec/conf/osdi/PeekF06</url></info>
+<url>URL#6353567</url>
+</hit>
+<hit score="3" id="6353569">
+<info><authors><author pid="p/LLPeterson">Larry L. Peterson</author><author pid="98/2846">Andy C. Bavier</author><author pid="81/447">Marc E. Fiuczynski</author><author pid="86/57">Steve Muir</author></authors><title>Experiences Building PlanetLab.</title><venue>OSDI</venue><pages>351-366</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PetersonBFM06</key><ee>http://www.usenix.org/events/osdi06/tech/peterson.html</ee><url>https://dblp.org/rec/conf/osdi/PetersonBFM06</url></info>
+<url>URL#6353569</url>
+</hit>
+<hit score="3" id="6353571">
+<info><authors><author pid="17/697">Charles Reis</author><author pid="10/3285">John Dunagan</author><author pid="w/HelenJWang">Helen J. Wang</author><author pid="09/3938">Opher Dubrovsky</author><author pid="64/4011">Saher Esmeir</author></authors><title>BrowserShield: Vulnerability-Driven Filtering of Dynamic HTML.</title><venue>OSDI</venue><pages>61-74</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ReisDWDE06</key><ee>http://www.usenix.org/events/osdi06/tech/reis.html</ee><url>https://dblp.org/rec/conf/osdi/ReisDWDE06</url></info>
+<url>URL#6353571</url>
+</hit>
+<hit score="3" id="6353572">
+<info><authors><author pid="54/129">Russell Sears</author><author pid="b/EricABrewer">Eric A. Brewer</author></authors><title>Stasis: Flexible Transactional Storage.</title><venue>OSDI</venue><pages>29-44</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SearsB06</key><ee>http://www.usenix.org/events/osdi06/tech/sears.html</ee><url>https://dblp.org/rec/conf/osdi/SearsB06</url></info>
+<url>URL#6353572</url>
+</hit>
+<hit score="3" id="6353574">
+<info><authors><author pid="27/5472">Gopalan Sivathanu</author><author pid="06/3975">Swaminathan Sundararaman</author><author pid="71/1341">Erez Zadok</author></authors><title>Type-Safe Disks.</title><venue>OSDI</venue><pages>15-28</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SivathanuSZ06</key><ee>http://www.usenix.org/events/osdi06/tech/sivathanu.html</ee><url>https://dblp.org/rec/conf/osdi/SivathanuSZ06</url></info>
+<url>URL#6353574</url>
+</hit>
+<hit score="3" id="6353576">
+<info><authors><author pid="78/2444">Chad Verbowski</author><author pid="89/1263">Emre Kiciman</author><author pid="09/5848">Arunvijay Kumar</author><author pid="33/5358">Brad Daniels</author><author pid="31/5916-1">Shan Lu 0001</author><author pid="63/4067">Juhan Lee</author><author pid="91/1356">Yi-Min Wang</author><author pid="06/5828">Roussi Roussev</author></authors><title>Flight Data Recorder: Monitoring Persistent-State Interactions to Improve Systems Management.</title><venue>OSDI</venue><pages>117-130</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/VerbowskiKKDLLWR06</key><ee>http://www.usenix.org/events/osdi06/tech/verbowski.html</ee><url>https://dblp.org/rec/conf/osdi/VerbowskiKKDLLWR06</url></info>
+<url>URL#6353576</url>
+</hit>
+<hit score="3" id="6353578">
+<info><authors><author pid="166/9556">Sage A. Weil</author><author pid="b/ScottABrandt">Scott A. Brandt</author><author pid="m/EthanLMiller">Ethan L. Miller</author><author pid="49/4298">Darrell D. E. Long</author><author pid="83/2134">Carlos Maltzahn</author></authors><title>Ceph: A Scalable, High-Performance Distributed File System.</title><venue>OSDI</venue><pages>307-320</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WeilBMLM06</key><ee>http://www.usenix.org/events/osdi06/tech/weil.html</ee><url>https://dblp.org/rec/conf/osdi/WeilBMLM06</url></info>
+<url>URL#6353578</url>
+</hit>
+<hit score="3" id="6353579">
+<info><authors><author pid="74/5052">Geoffrey Werner-Allen</author><author pid="53/309">Konrad Lorincz</author><author pid="98/6746-1">Jeff Johnson 0001</author><author pid="45/739">Jonathan Lees</author><author pid="w/MattWelsh">Matt Welsh</author></authors><title>Fidelity and Yield in a Volcano Monitoring Sensor Network.</title><venue>OSDI</venue><pages>381-396</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Werner-AllenLJLW06</key><ee>http://www.usenix.org/events/osdi06/tech/werner-allen.html</ee><url>https://dblp.org/rec/conf/osdi/Werner-AllenLJLW06</url></info>
+<url>URL#6353579</url>
+</hit>
+<hit score="3" id="6353581">
+<info><authors><author pid="88/3999">Ting Yang</author><author pid="98/4487">Emery D. Berger</author><author pid="77/5214">Scott F. Kaplan</author><author pid="m/JEliotBMoss">J. Eliot B. Moss</author></authors><title>CRAMM: Virtual Memory Support for Garbage-Collected Applications.</title><venue>OSDI</venue><pages>103-116</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/YangBKM06</key><ee>http://www.usenix.org/events/osdi06/tech/yang_ting.html</ee><url>https://dblp.org/rec/conf/osdi/YangBKM06</url></info>
+<url>URL#6353581</url>
+</hit>
+<hit score="3" id="6353582">
+<info><authors><author pid="71/3724">Junfeng Yang</author><author pid="13/4279">Can Sar</author><author pid="e/DREngler">Dawson R. Engler</author></authors><title>EXPLODE: A Lightweight, General System for Finding Serious Storage System Errors.</title><venue>OSDI</venue><pages>131-146</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/YangSE06</key><ee>http://www.usenix.org/events/osdi06/tech/yang_junfeng.html</ee><url>https://dblp.org/rec/conf/osdi/YangSE06</url></info>
+<url>URL#6353582</url>
+</hit>
+<hit score="3" id="6353583">
+<info><authors><author pid="99/5780">Nickolai Zeldovich</author><author pid="06/2219">Silas Boyd-Wickizer</author><author pid="78/5231">Eddie Kohler</author><author pid="m/DMazieres">David Mazières</author></authors><title>Making Information Flow Explicit in HiStar.</title><venue>OSDI</venue><pages>263-278</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZeldovichBKM06</key><ee>http://www.usenix.org/events/osdi06/tech/zeldovich.html</ee><url>https://dblp.org/rec/conf/osdi/ZeldovichBKM06</url></info>
+<url>URL#6353583</url>
+</hit>
+<hit score="3" id="6353584">
+<info><authors><author pid="21/6430">Feng Zhou</author><author pid="32/474">Jeremy Condit</author><author pid="88/3234">Zachary R. Anderson</author><author pid="12/6505">Ilya Bagrak</author><author pid="e/RobertEnnals">Robert Ennals</author><author pid="41/5787">Matthew Harren</author><author pid="n/GeorgeCNecula">George C. Necula</author><author pid="b/EricABrewer">Eric A. Brewer</author></authors><title>SafeDrive: Safe and Recoverable Extensions Using Language-Based Techniques.</title><venue>OSDI</venue><pages>45-60</pages><year>2006</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhouCABEHNB06</key><ee>http://www.usenix.org/events/osdi06/tech/zhou.html</ee><url>https://dblp.org/rec/conf/osdi/ZhouCABEHNB06</url></info>
+<url>URL#6353584</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287406">conf* sosp* 2017*</query>
+<status code="200">OK</status>
+<time unit="msecs">25.82</time>
+<completions total="1" computed="1" sent="1">
+<c sc="62" dc="62" oc="62" id="58183289">2017</c>
+</completions>
+<hits total="62" computed="62" sent="62" first="0">
+<hit score="3" id="3532349">
+<info><authors><author pid="211/1885">Miguel Angel Gutiérrez-Antuñano</author><author pid="144/0078">Jordi Tiana-Alsina</author><author pid="68/9619">Francesc Rocadenbosch</author><author pid="211/2016">Joaquim Sospedra</author><author pid="211/1842">Rajai Aghabi</author><author pid="211/1893">Daniel Gonzalez-Marco</author></authors><title>A wind-lidar buoy for offshore wind measurements: First commissioning test-phase results.</title><venue>IGARSS</venue><pages>1607-1610</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/igarss/Gutierrez-Antunano17</key><doi>10.1109/IGARSS.2017.8127280</doi><ee>https://doi.org/10.1109/IGARSS.2017.8127280</ee><url>https://dblp.org/rec/conf/igarss/Gutierrez-Antunano17</url></info>
+<url>URL#3532349</url>
+</hit>
+<hit score="3" id="3540313">
+<info><authors><author pid="190/3100">Germán M. Mendoza-Silva</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="67/3031">Joaquín Huerta</author></authors><title>A more realistic error distance calculation for indoor positioning systems accuracy evaluation.</title><venue>IPIN</venue><pages>1-8</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/Mendoza-SilvaTH17</key><doi>10.1109/IPIN.2017.8115950</doi><ee>https://doi.org/10.1109/IPIN.2017.8115950</ee><url>https://dblp.org/rec/conf/ipin/Mendoza-SilvaTH17</url></info>
+<url>URL#3540313</url>
+</hit>
+<hit score="3" id="3540318">
+<info><authors><author pid="23/3588">Raúl Montoliu</author><author pid="210/3902">Emilio Sansano-Sansano</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="146/2042">Oscar Belmonte</author></authors><title>IndoorLoc platform: A public repository for comparing and evaluating indoor positioning systems.</title><venue>IPIN</venue><pages>1-8</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/MontoliuSTB17</key><doi>10.1109/IPIN.2017.8115940</doi><ee>https://doi.org/10.1109/IPIN.2017.8115940</ee><url>https://dblp.org/rec/conf/ipin/MontoliuSTB17</url></info>
+<url>URL#3540318</url>
+</hit>
+<hit score="3" id="3540319">
+<info><authors><author pid="45/5350">Adriano J. C. Moreira</author><author pid="210/3811">Ivo Silva</author><author pid="47/724">Filipe Meneses</author><author pid="81/3210">Maria João Nicolau</author><author pid="150/0796">Cristiano G. Pendão</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>Multiple simultaneous Wi-Fi measurements in fingerprinting indoor positioning.</title><venue>IPIN</venue><pages>1-8</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/MoreiraSMNPT17</key><doi>10.1109/IPIN.2017.8115914</doi><ee>https://doi.org/10.1109/IPIN.2017.8115914</ee><url>https://dblp.org/rec/conf/ipin/MoreiraSMNPT17</url></info>
+<url>URL#3540319</url>
+</hit>
+<hit score="3" id="3540331">
+<info><authors><author pid="210/3902">Emilio Sansano-Sansano</author><author pid="23/3588">Raúl Montoliu</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>A novel methodology to estimate a measurement of the inherent difficulty of an indoor localization radio map.</title><venue>IPIN</venue><pages>1-8</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/SansanoMT17</key><doi>10.1109/IPIN.2017.8115939</doi><ee>https://doi.org/10.1109/IPIN.2017.8115939</ee><url>https://dblp.org/rec/conf/ipin/SansanoMT17</url></info>
+<url>URL#3540331</url>
+</hit>
+<hit score="3" id="3587631">
+<info><authors><author pid="a/NitinAgrawal">Nitin Agrawal 0001</author><author pid="38/8016">Ashish Vulimiri</author></authors><title>Low-Latency Analytics on Colossal Data Streams with SummaryStore.</title><venue>SOSP</venue><pages>647-664</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AgrawalV17</key><doi>10.1145/3132747.3132758</doi><ee>https://doi.org/10.1145/3132747.3132758</ee><url>https://dblp.org/rec/conf/sosp/AgrawalV17</url></info>
+<url>URL#3587631</url>
+</hit>
+<hit score="3" id="3587632">
+<info><authors><author pid="192/7538">Ranjbar A. Balisane</author><author pid="75/7408">Ravishankar Borgaonkar</author><author pid="174/7896">Ahmad Atamli-Reineh</author><author pid="82/6684">Andrew Martin 0002</author></authors><title>Architectures for Enhancing Authentication Privacy and Security using Trusted Computing.</title><venue>SysTEX@SOSP</venue><pages>10:1-10:7</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BalisaneBAM17</key><doi>10.1145/3152701.3152713</doi><ee>https://doi.org/10.1145/3152701.3152713</ee><url>https://dblp.org/rec/conf/sosp/BalisaneBAM17</url></info>
+<url>URL#3587632</url>
+</hit>
+<hit score="3" id="3587633">
+<info><authors><author pid="145/2045">Jethro G. Beekman</author><author pid="08/4732">Donald E. Porter</author></authors><title>Challenges For Scaling Applications Across Enclaves.</title><venue>SysTEX@SOSP</venue><pages>8:1-8:2</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BeekmanP17</key><doi>10.1145/3152701.3152710</doi><ee>https://doi.org/10.1145/3152701.3152710</ee><url>https://dblp.org/rec/conf/sosp/BeekmanP17</url></info>
+<url>URL#3587633</url>
+</hit>
+<hit score="3" id="3587634">
+<info><authors><author pid="53/8174">Srivatsa S. Bhat</author><author pid="207/1866">Rasha Eqbal</author><author pid="21/659">Austin T. Clements</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Scaling a file system to many cores using an operation log.</title><venue>SOSP</venue><pages>69-86</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BhatECKZ17</key><doi>10.1145/3132747.3132779</doi><ee>https://doi.org/10.1145/3132747.3132779</ee><url>https://dblp.org/rec/conf/sosp/BhatECKZ17</url></info>
+<url>URL#3587634</url>
+</hit>
+<hit score="3" id="3587635">
+<info><authors><author pid="70/1811">Andrea Bittau</author><author pid="e/UErlingsson">Úlfar Erlingsson</author><author pid="m/PetrosManiatis">Petros Maniatis</author><author pid="19/5860">Ilya Mironov</author><author pid="15/7563">Ananth Raghunathan</author><author pid="l/DavidLie">David Lie</author><author pid="22/3541">Mitch Rudominer</author><author pid="207/1863">Ushasree Kode</author><author pid="14/6329">Julien Tinnés</author><author pid="207/1861">Bernhard Seefeld</author></authors><title>Prochlo: Strong Privacy for Analytics in the Crowd.</title><venue>SOSP</venue><pages>441-459</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BittauEMMRLRKTS17</key><doi>10.1145/3132747.3132769</doi><ee>https://doi.org/10.1145/3132747.3132769</ee><url>https://dblp.org/rec/conf/sosp/BittauEMMRLRKTS17</url></info>
+<url>URL#3587635</url>
+</hit>
+<hit score="3" id="3587636">
+<info><authors><author pid="116/6697">Kevin Boos</author><author pid="27/2552-1">Lin Zhong 0001</author></authors><title>Theseus: a State Spill-free Operating System.</title><venue>PLOS@SOSP</venue><pages>29-35</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BoosZ17</key><doi>10.1145/3144555.3144560</doi><ee>https://doi.org/10.1145/3144555.3144560</ee><url>https://dblp.org/rec/conf/sosp/BoosZ17</url></info>
+<url>URL#3587636</url>
+</hit>
+<hit score="3" id="3587637">
+<info><authors><author pid="167/1573">Jo Van Bulck</author><author pid="85/6647">Frank Piessens</author><author pid="97/7967">Raoul Strackx</author></authors><title>SGX-Step: A Practical Attack Framework for Precise Enclave Execution Control.</title><venue>SysTEX@SOSP</venue><pages>4:1-4:6</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BulckPS17</key><doi>10.1145/3152701.3152706</doi><ee>https://doi.org/10.1145/3152701.3152706</ee><url>https://dblp.org/rec/conf/sosp/BulckPS17</url></info>
+<url>URL#3587637</url>
+</hit>
+<hit score="3" id="3587638">
+<info><authors><author pid="12/3578-1">Haogang Chen 0001</author><author pid="141/9176">Tej Chajed</author><author pid="207/1869">Alex Konradi</author><author pid="175/6757">Stephanie Wang</author><author pid="139/0607">Atalay Mert Ileri</author><author pid="52/796">Adam Chlipala</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Verifying a high-performance crash-safe file system using a tree specification.</title><venue>SOSP</venue><pages>270-286</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChenCKWICKZ17</key><doi>10.1145/3132747.3132776</doi><ee>https://doi.org/10.1145/3132747.3132776</ee><url>https://dblp.org/rec/conf/sosp/ChenCKWICKZ17</url></info>
+<url>URL#3587638</url>
+</hit>
+<hit score="3" id="3587639">
+<info><authors><author pid="146/3373">Zilin Chen</author><author pid="146/3436">Liam O&apos;Connor</author><author pid="87/6127">Gabriele Keller</author><author pid="74/2171">Gerwin Klein</author><author pid="h/GernotHeiser">Gernot Heiser</author></authors><title>The Cogent Case for Property-Based Testing.</title><venue>PLOS@SOSP</venue><pages>1-7</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChenOKKH17</key><doi>10.1145/3144555.3144556</doi><ee>https://doi.org/10.1145/3144555.3144556</ee><url>https://dblp.org/rec/conf/sosp/ChenOKKH17</url></info>
+<url>URL#3587639</url>
+</hit>
+<hit score="3" id="3587640">
+<info><authors><author pid="164/3860">Ju Chen</author><author pid="09/1770">Yuzhe Richard Tang</author><author pid="63/778">Hao Zhou</author></authors><title>Strongly Secure and Efficient Data Shuffle on Hardware Enclaves.</title><venue>SysTEX@SOSP</venue><pages>1:1-1:6</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChenTZ17</key><doi>10.1145/3152701.3152708</doi><ee>https://doi.org/10.1145/3152701.3152708</ee><url>https://dblp.org/rec/conf/sosp/ChenTZ17</url></info>
+<url>URL#3587640</url>
+</hit>
+<hit score="3" id="3587641">
+<info><authors><author pid="c/EliCortez">Eli Cortez</author><author pid="207/1873">Anand Bonde</author><author pid="207/1855">Alexandre Muzio</author><author pid="30/4468">Mark Russinovich</author><author pid="54/3895">Marcus Fontoura</author><author pid="85/2722">Ricardo Bianchini</author></authors><title>Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms.</title><venue>SOSP</venue><pages>153-167</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CortezBMRFB17</key><doi>10.1145/3132747.3132772</doi><ee>https://doi.org/10.1145/3132747.3132772</ee><url>https://dblp.org/rec/conf/sosp/CortezBMRFB17</url></info>
+<url>URL#3587641</url>
+</hit>
+<hit score="3" id="3587642">
+<info><authors><author pid="123/7057">Andrew Ferraiuolo</author><author pid="53/6957">Andrew Baumann</author><author pid="22/3053">Chris Hawblitzel</author><author pid="49/6324">Bryan Parno</author></authors><title>Komodo: Using verification to disentangle secure-enclave hardware from software.</title><venue>SOSP</venue><pages>287-305</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FerraiuoloBHP17</key><doi>10.1145/3132747.3132782</doi><ee>https://doi.org/10.1145/3132747.3132782</ee><url>https://dblp.org/rec/conf/sosp/FerraiuoloBHP17</url></info>
+<url>URL#3587642</url>
+</hit>
+<hit score="3" id="3587643">
+<info><authors><author pid="202/2167">Birte Friesel</author><author pid="119/7854">Markus Buschhoff</author><author pid="s/OlafSpinczyk">Olaf Spinczyk</author></authors><title>Annotations in Operating Systems with Custom AspectC++ Attributes.</title><venue>PLOS@SOSP</venue><pages>36-42</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FrieselBS17</key><doi>10.1145/3144555.3144561</doi><ee>https://doi.org/10.1145/3144555.3144561</ee><url>https://dblp.org/rec/conf/sosp/FrieselBS17</url></info>
+<url>URL#3587643</url>
+</hit>
+<hit score="3" id="3587644">
+<info><authors><author pid="07/9556">Aaron Gember-Jacobson</author><author pid="a/AdityaAkella">Aditya Akella</author><author pid="81/6327">Ratul Mahajan</author><author pid="117/4311">Hongqiang Harry Liu</author></authors><title>Automatically Repairing Network Control Planes Using an Abstract Representation.</title><venue>SOSP</venue><pages>359-373</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Gember-Jacobson17</key><doi>10.1145/3132747.3132753</doi><ee>https://doi.org/10.1145/3132747.3132753</ee><url>https://dblp.org/rec/conf/sosp/Gember-Jacobson17</url></info>
+<url>URL#3587644</url>
+</hit>
+<hit score="3" id="3587645">
+<info><authors><author pid="84/7357">Yossi Gilad</author><author pid="201/6461">Rotem Hemo</author><author pid="49/5661">Silvio Micali</author><author pid="181/3547">Georgios Vlachos</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Algorand: Scaling Byzantine Agreements for Cryptocurrencies.</title><venue>SOSP</venue><pages>51-68</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GiladHMVZ17</key><doi>10.1145/3132747.3132757</doi><ee>https://doi.org/10.1145/3132747.3132757</ee><url>https://dblp.org/rec/conf/sosp/GiladHMVZ17</url></info>
+<url>URL#3587645</url>
+</hit>
+<hit score="3" id="3587646">
+<info><authors><author pid="141/9091">Mingzhe Hao</author><author pid="197/7182">Huaicheng Li</author><author pid="197/7183">Michael Hao Tong</author><author pid="207/1877">Chrisma Pakha</author><author pid="164/8050">Riza O. Suminto</author><author pid="204/3580">Cesar A. Stuardo</author><author pid="c/AAChien">Andrew A. Chien</author><author pid="84/5664">Haryadi S. Gunawi</author></authors><title>MittOS: Supporting Millisecond Tail Tolerance with Fast Rejecting SLO-Aware OS Interface.</title><venue>SOSP</venue><pages>168-183</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HaoLTPSSCG17</key><doi>10.1145/3132747.3132774</doi><ee>https://doi.org/10.1145/3132747.3132774</ee><url>https://dblp.org/rec/conf/sosp/HaoLTPSSCG17</url></info>
+<url>URL#3587646</url>
+</hit>
+<hit score="3" id="3587647">
+<info><authors><author pid="77/6861-2">Paul Harvey 0002</author><author pid="s/JSSventek">Joseph S. Sventek</author></authors><title>Adaptable Actors: Just What The World Needs.</title><venue>PLOS@SOSP</venue><pages>22-28</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HarveyS17</key><doi>10.1145/3144555.3144559</doi><ee>https://doi.org/10.1145/3144555.3144559</ee><url>https://dblp.org/rec/conf/sosp/HarveyS17</url></info>
+<url>URL#3587647</url>
+</hit>
+<hit score="3" id="3587648">
+<info><authors><author pid="46/4397">Qi Huang</author><author pid="162/2049">Petchean Ang</author><author pid="207/1879">Peter Knowles</author><author pid="59/5055">Tomasz Nykiel</author><author pid="207/1867">Iaroslav Tverdokhlib</author><author pid="207/1858">Amit Yajurvedi</author><author pid="207/1856">Paul Dapolito IV</author><author pid="207/1844">Xifan Yan</author><author pid="207/1850">Maxim Bykov</author><author pid="32/3371">Chuen Liang</author><author pid="207/1874">Mohit Talwar</author><author pid="45/2321">Abhishek Mathur</author><author pid="77/4229">Sachin Kulkarni</author><author pid="207/1878-1">Matthew Burke 0001</author><author pid="21/1059">Wyatt Lloyd</author></authors><title>SVE: Distributed Video Processing at Facebook Scale.</title><venue>SOSP</venue><pages>87-103</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HuangAKNTYDYBLT17</key><doi>10.1145/3132747.3132775</doi><ee>https://doi.org/10.1145/3132747.3132775</ee><url>https://dblp.org/rec/conf/sosp/HuangAKNTYDYBLT17</url></info>
+<url>URL#3587648</url>
+</hit>
+<hit score="3" id="3587649">
+<info><authors><author pid="198/0735">Lukas Humbel</author><author pid="163/1550">Reto Achermann</author><author pid="76/5940">David A. Cock</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author></authors><title>Towards Correct-by-Construction Interrupt Routing on Real Hardware.</title><venue>PLOS@SOSP</venue><pages>8-14</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HumbelACR17</key><doi>10.1145/3144555.3144557</doi><ee>https://doi.org/10.1145/3144555.3144557</ee><url>https://dblp.org/rec/conf/sosp/HumbelACR17</url></info>
+<url>URL#3587649</url>
+</hit>
+<hit score="3" id="3587650">
+<info><authors><author pid="150/5222">Yeongjin Jang</author><author pid="65/1125">Jae-Hyuk Lee</author><author pid="17/5702-1">Sangho Lee 0001</author><author pid="38/8882">Taesoo Kim</author></authors><title>SGX-Bomb: Locking Down the Processor via Rowhammer Attack.</title><venue>SysTEX@SOSP</venue><pages>5:1-5:6</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JangLLK17</key><doi>10.1145/3152701.3152709</doi><ee>https://doi.org/10.1145/3152701.3152709</ee><url>https://dblp.org/rec/conf/sosp/JangLLK17</url></info>
+<url>URL#3587650</url>
+</hit>
+<hit score="3" id="3587651">
+<info><authors><author pid="68/3340-8">Xin Jin 0008</author><author pid="98/8490">Xiaozhou Li</author><author pid="168/0332">Haoyu Zhang</author><author pid="49/6828">Robert Soulé</author><author pid="05/5543">Jeongkeun Lee</author><author pid="15/3253">Nate Foster</author><author pid="55/4381">Changhoon Kim</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>NetCache: Balancing Key-Value Stores with Fast In-Network Caching.</title><venue>SOSP</venue><pages>121-136</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JinLZSLFKS17</key><doi>10.1145/3132747.3132764</doi><ee>https://doi.org/10.1145/3132747.3132764</ee><url>https://dblp.org/rec/conf/sosp/JinLZSLFKS17</url></info>
+<url>URL#3587651</url>
+</hit>
+<hit score="3" id="3587652">
+<info><authors><author pid="162/6101">Jonathan Kaldor</author><author pid="154/0937">Jonathan Mace</author><author pid="207/1851">Michal Bejda</author><author pid="207/1854">Edison Gao</author><author pid="207/1872">Wiktor Kuropatwa</author><author pid="207/1871">Joe O&apos;Neill</author><author pid="39/1521">Kian Win Ong</author><author pid="207/1875">Bill Schaller</author><author pid="207/1846">Pingjia Shan</author><author pid="207/1857">Brendan Viscomi</author><author pid="61/7544">Vinod Venkataraman</author><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="93/2816">Yee Jiun Song</author></authors><title>Canopy: An End-to-End Performance Tracing And Analysis System.</title><venue>SOSP</venue><pages>34-50</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KaldorMBGKOOSSV17</key><doi>10.1145/3132747.3132749</doi><ee>https://doi.org/10.1145/3132747.3132749</ee><url>https://dblp.org/rec/conf/sosp/KaldorMBGKOOSSV17</url></info>
+<url>URL#3587652</url>
+</hit>
+<hit score="3" id="3587653">
+<info><authors><author pid="31/11029">Baris Kasikci</author><author pid="50/549">Weidong Cui</author><author pid="59/10134">Xinyang Ge</author><author pid="90/4149-7">Ben Niu 0007</author></authors><title>Lazy Diagnosis of In-Production Concurrency Bugs.</title><venue>SOSP</venue><pages>582-598</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KasikciCGN17</key><doi>10.1145/3132747.3132767</doi><ee>https://doi.org/10.1145/3132747.3132767</ee><url>https://dblp.org/rec/conf/sosp/KasikciCGN17</url></info>
+<url>URL#3587653</url>
+</hit>
+<hit score="3" id="3587654">
+<info><authors><author pid="23/4804-2">Chinmay Kulkarni 0002</author><author pid="197/6845">Aniraj Kesavan</author><author pid="13/2913-5">Tian Zhang 0005</author><author pid="37/2827">Robert Ricci</author><author pid="02/1650">Ryan Stutsman</author></authors><title>Rocksteady: Fast Migration for Low-latency In-memory Storage.</title><venue>SOSP</venue><pages>390-405</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KulkarniKZRS17</key><doi>10.1145/3132747.3132784</doi><ee>https://doi.org/10.1145/3132747.3132784</ee><url>https://dblp.org/rec/conf/sosp/KulkarniKZRS17</url></info>
+<url>URL#3587654</url>
+</hit>
+<hit score="3" id="3587655">
+<info><authors><author pid="17/1201">Albert Kwon</author><author pid="87/8037">Henry Corrigan-Gibbs</author><author pid="14/3973">Srinivas Devadas</author><author pid="f/BryanFord">Bryan Ford</author></authors><title>Atom: Horizontally Scaling Strong Anonymity.</title><venue>SOSP</venue><pages>406-422</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KwonCDF17</key><doi>10.1145/3132747.3132755</doi><ee>https://doi.org/10.1145/3132747.3132755</ee><url>https://dblp.org/rec/conf/sosp/KwonCDF17</url></info>
+<url>URL#3587655</url>
+</hit>
+<hit score="3" id="3587656">
+<info><authors><author pid="94/8239">Youngjin Kwon</author><author pid="121/1919">Henrique Fingler</author><author pid="189/0088">Tyler Hunt</author><author pid="43/3917">Simon Peter 0001</author><author pid="76/6082">Emmett Witchel</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author></authors><title>Strata: A Cross Media File System.</title><venue>SOSP</venue><pages>460-477</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KwonFHPWA17</key><doi>10.1145/3132747.3132770</doi><ee>https://doi.org/10.1145/3132747.3132770</ee><url>https://dblp.org/rec/conf/sosp/KwonFHPWA17</url></info>
+<url>URL#3587656</url>
+</hit>
+<hit score="3" id="3587657">
+<info><authors><author pid="207/7207">Benjamin Lamowski</author><author pid="01/2772">Carsten Weinhold</author><author pid="88/1473">Adam Lackorzynski</author><author pid="h/HHartig">Hermann Härtig</author></authors><title>Sandcrust: Automatic Sandboxing of Unsafe Components in Rust.</title><venue>PLOS@SOSP</venue><pages>51-57</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LamowskiWLH17</key><doi>10.1145/3144555.3144562</doi><ee>https://doi.org/10.1145/3144555.3144562</ee><url>https://dblp.org/rec/conf/sosp/LamowskiWLH17</url></info>
+<url>URL#3587657</url>
+</hit>
+<hit score="3" id="3587658">
+<info><authors><author pid="68/8881">Amit Levy</author><author pid="21/10522">Bradford Campbell</author><author pid="150/5917">Branden Ghena</author><author pid="95/4216">Daniel B. Giffin</author><author pid="86/11187">Pat Pannuto</author><author pid="40/5390">Prabal Dutta</author><author pid="91/2665">Philip Alexander Levis</author></authors><title>Multiprogramming a 64kB Computer Safely and Efficiently.</title><venue>SOSP</venue><pages>234-251</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LevyCGGPDL17</key><doi>10.1145/3132747.3132786</doi><ee>https://doi.org/10.1145/3132747.3132786</ee><url>https://dblp.org/rec/conf/sosp/LevyCGGPDL17</url></info>
+<url>URL#3587658</url>
+</hit>
+<hit score="3" id="3587659">
+<info><authors><author pid="75/4924-1">Jialin Li 0001</author><author pid="191/4186">Ellis Michael</author><author pid="03/6105">Dan R. K. Ports</author></authors><title>Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control.</title><venue>SOSP</venue><pages>104-120</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiMP17</key><doi>10.1145/3132747.3132751</doi><ee>https://doi.org/10.1145/3132747.3132751</ee><url>https://dblp.org/rec/conf/sosp/LiMP17</url></info>
+<url>URL#3587659</url>
+</hit>
+<hit score="3" id="3587660">
+<info><authors><author pid="122/5219">Bojie Li</author><author pid="204/5398">Zhenyuan Ruan</author><author pid="167/7982">Wencong Xiao</author><author pid="182/6479">Yuanwei Lu</author><author pid="57/4569">Yongqiang Xiong</author><author pid="85/5822">Andrew Putnam</author><author pid="07/258">Enhong Chen</author><author pid="94/5689">Lintao Zhang</author></authors><title>KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC.</title><venue>SOSP</venue><pages>137-152</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiRXLXPCZ17</key><doi>10.1145/3132747.3132756</doi><ee>https://doi.org/10.1145/3132747.3132756</ee><url>https://dblp.org/rec/conf/sosp/LiRXLXPCZ17</url></info>
+<url>URL#3587660</url>
+</hit>
+<hit score="3" id="3587661">
+<info><authors><author pid="86/6196">Yuan Li</author><author pid="94/3019-8">Chao Zhang 0008</author><author pid="53/1565">Xiapu Luo</author></authors><title>vCFI: Visible Control Flow Integrity for Cloud Tenants.</title><venue>SysTEX@SOSP</venue><pages>6:1-6:2</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiZL17</key><doi>10.1145/3152701.3152703</doi><ee>https://doi.org/10.1145/3152701.3152703</ee><url>https://dblp.org/rec/conf/sosp/LiZL17</url></info>
+<url>URL#3587661</url>
+</hit>
+<hit score="3" id="3587662">
+<info><authors><author pid="184/8223">Jin Tack Lim</author><author pid="12/10322">Christoffer Dall</author><author pid="184/8320">Shih-Wei Li</author><author pid="n/JasonNieh">Jason Nieh</author><author pid="207/1852">Marc Zyngier</author></authors><title>NEVE: Nested Virtualization Extensions for ARM.</title><venue>SOSP</venue><pages>201-217</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LimDLNZ17</key><doi>10.1145/3132747.3132754</doi><ee>https://doi.org/10.1145/3132747.3132754</ee><url>https://dblp.org/rec/conf/sosp/LimDLNZ17</url></info>
+<url>URL#3587662</url>
+</hit>
+<hit score="3" id="3587663">
+<info><authors><author pid="117/4311">Hongqiang Harry Liu</author><author pid="65/8854">Yibo Zhu</author><author pid="p/JPadhye">Jitu Padhye</author><author pid="122/9002">Jiaxin Cao</author><author pid="207/1843">Sri Tallapragada</author><author pid="77/2149">Nuno P. Lopes</author><author pid="r/AndreyRybalchenko">Andrey Rybalchenko</author><author pid="76/3136">Guohan Lu</author><author pid="61/2443">Lihua Yuan</author></authors><title>CrystalNet: Faithfully Emulating Large Production Networks.</title><venue>SOSP</venue><pages>599-613</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiuZPCTLRLY17</key><doi>10.1145/3132747.3132759</doi><ee>https://doi.org/10.1145/3132747.3132759</ee><url>https://dblp.org/rec/conf/sosp/LiuZPCTLRLY17</url></info>
+<url>URL#3587663</url>
+</hit>
+<hit score="3" id="3587664">
+<info><authors><author pid="149/9267">Filipe Manco</author><author pid="207/1847">Costin Lupu</author><author pid="61/4643-2">Florian Schmidt 0002</author><author pid="164/8072">Jose Mendes</author><author pid="164/2565">Simon Kuenzer</author><author pid="207/1845">Sumit Sati</author><author pid="124/2715">Kenichi Yasukata</author><author pid="62/2645">Costin Raiciu</author><author pid="80/5046">Felipe Huici</author></authors><title>My VM is Lighter (and Safer) than your Container.</title><venue>SOSP</venue><pages>218-233</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MancoLSMKSYRH17</key><doi>10.1145/3132747.3132763</doi><ee>https://doi.org/10.1145/3132747.3132763</ee><url>https://dblp.org/rec/conf/sosp/MancoLSMKSYRH17</url></info>
+<url>URL#3587664</url>
+</hit>
+<hit score="3" id="3587665">
+<info><authors><author pid="155/9721">Kai Mast</author><author pid="213/7314-1">Lequn Chen 0001</author><author pid="s/EminGunSirer">Emin Gün Sirer</author></authors><title>Scaling Databases through Trusted Hardware Proxies.</title><venue>SysTEX@SOSP</venue><pages>9:1-9:6</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MastCS17</key><doi>10.1145/3152701.3152712</doi><ee>https://doi.org/10.1145/3152701.3152712</ee><url>https://dblp.org/rec/conf/sosp/MastCS17</url></info>
+<url>URL#3587665</url>
+</hit>
+<hit score="3" id="3587666">
+<info><authors><author pid="194/6735">Luke Nelson</author><author pid="150/6007">Helgi Sigurbjarnarson</author><author pid="147/6644-1">Kaiyuan Zhang 0001</author><author pid="207/1848">Dylan Johnson</author><author pid="142/3208">James Bornholt</author><author pid="55/1457">Emina Torlak</author><author pid="08/5760-5">Xi Wang 0005</author></authors><title>Hyperkernel: Push-Button Verification of an OS Kernel.</title><venue>SOSP</venue><pages>252-269</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NelsonSZJBTW17</key><doi>10.1145/3132747.3132748</doi><ee>https://doi.org/10.1145/3132747.3132748</ee><url>https://dblp.org/rec/conf/sosp/NelsonSZJBTW17</url></info>
+<url>URL#3587666</url>
+</hit>
+<hit score="3" id="3587667">
+<info><authors><author pid="84/9636">Marco Oliverio</author><author pid="121/2685">Kaveh Razavi</author><author pid="91/800">Herbert Bos</author><author pid="75/8194">Cristiano Giuffrida</author></authors><title>Secure Page Fusion with VUsion: https: //www.vusec.net/projects/VUsion.</title><venue>SOSP</venue><pages>531-545</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OliverioRBG17</key><doi>10.1145/3132747.3132781</doi><ee>https://doi.org/10.1145/3132747.3132781</ee><url>https://dblp.org/rec/conf/sosp/OliverioRBG17</url></info>
+<url>URL#3587667</url>
+</hit>
+<hit score="3" id="3587668">
+<info><authors><author pid="10/10299">Kay Ousterhout</author><author pid="204/3768">Christopher Canel</author><author pid="68/5579">Sylvia Ratnasamy</author><author pid="34/5593">Scott Shenker</author></authors><title>Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks.</title><venue>SOSP</venue><pages>184-200</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OusterhoutCRS17</key><doi>10.1145/3132747.3132766</doi><ee>https://doi.org/10.1145/3132747.3132766</ee><url>https://dblp.org/rec/conf/sosp/OusterhoutCRS17</url></info>
+<url>URL#3587668</url>
+</hit>
+<hit score="3" id="3587669">
+<info><authors><author pid="145/6061">Kexin Pei</author><author pid="28/8733">Yinzhi Cao</author><author pid="71/3724">Junfeng Yang</author><author pid="74/28">Suman Jana</author></authors><title>DeepXplore: Automated Whitebox Testing of Deep Learning Systems.</title><venue>SOSP</venue><pages>1-18</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PeiCYJ17</key><doi>10.1145/3132747.3132785</doi><ee>https://doi.org/10.1145/3132747.3132785</ee><url>https://dblp.org/rec/conf/sosp/PeiCYJ17</url></info>
+<url>URL#3587669</url>
+</hit>
+<hit score="3" id="3587670">
+<info><authors><author pid="16/9420">George Prekas</author><author pid="144/7733">Marios Kogias</author><author pid="b/EBugnion">Edouard Bugnion</author></authors><title>ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks.</title><venue>SOSP</venue><pages>325-341</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PrekasKB17</key><doi>10.1145/3132747.3132780</doi><ee>https://doi.org/10.1145/3132747.3132780</ee><url>https://dblp.org/rec/conf/sosp/PrekasKB17</url></info>
+<url>URL#3587670</url>
+</hit>
+<hit score="3" id="3587671">
+<info><authors><author pid="207/1870">Pandian Raju</author><author pid="203/8755">Rohan Kadekodi</author><author pid="07/10563">Vijay Chidambaram</author><author pid="36/5720">Ittai Abraham</author></authors><title>PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees.</title><venue>SOSP</venue><pages>497-514</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RajuKCA17</key><doi>10.1145/3132747.3132765</doi><ee>https://doi.org/10.1145/3132747.3132765</ee><url>https://dblp.org/rec/conf/sosp/RajuKCA17</url></info>
+<url>URL#3587671</url>
+</hit>
+<hit score="3" id="3587672">
+<info><authors><author pid="207/1862">Sepideh Roghanchi</author><author pid="93/6455">Jakob Eriksson</author><author pid="207/1876">Nilanjana Basu</author></authors><title>ffwd: delegation is (much) faster than you think.</title><venue>SOSP</venue><pages>342-358</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RoghanchiEB17</key><doi>10.1145/3132747.3132771</doi><ee>https://doi.org/10.1145/3132747.3132771</ee><url>https://dblp.org/rec/conf/sosp/RoghanchiEB17</url></info>
+<url>URL#3587672</url>
+</hit>
+<hit score="3" id="3587673">
+<info><authors><author pid="14/7892">Bo Sang</author><author pid="17/9098">Srivatsan Ravi</author><author pid="11/4177">Gustavo Petri</author><author pid="13/9532">Mahsa Najafzadeh</author><author pid="131/6740">Masoud Saeida Ardekani</author><author pid="14/4443">Patrick Eugster</author></authors><title>Programmable Elasticity for Actor-based Cloud Applications.</title><venue>PLOS@SOSP</venue><pages>15-21</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SangRPNAE17</key><doi>10.1145/3144555.3144558</doi><ee>https://doi.org/10.1145/3144555.3144558</ee><url>https://dblp.org/rec/conf/sosp/SangRPNAE17</url></info>
+<url>URL#3587673</url>
+</hit>
+<hit score="3" id="3587674">
+<info><authors><author pid="119/6857">Matthias Schlaipfer</author><author pid="20/5220">Kaushik Rajan</author><author pid="27/1008">Akash Lal</author><author pid="141/0429">Malavika Samak</author></authors><title>Optimizing Big-Data Queries Using Program Synthesis.</title><venue>SOSP</venue><pages>631-646</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchlaipferRLS17</key><doi>10.1145/3132747.3132773</doi><ee>https://doi.org/10.1145/3132747.3132773</ee><url>https://dblp.org/rec/conf/sosp/SchlaipferRLS17</url></info>
+<url>URL#3587674</url>
+</hit>
+<hit score="3" id="3587675">
+<info><authors><author pid="177/8605">Noam Shalev</author><author pid="k/IditKeidar">Idit Keidar</author><author pid="03/4295">Yaron Weinsberg</author><author pid="28/3824">Yosef Moatti</author><author pid="207/1859">Elad Ben-Yehuda</author></authors><title>WatchIT: Who Watches Your IT Guy?</title><venue>SOSP</venue><pages>515-530</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ShalevKWMB17</key><doi>10.1145/3132747.3132752</doi><ee>https://doi.org/10.1145/3132747.3132752</ee><url>https://dblp.org/rec/conf/sosp/ShalevKWMB17</url></info>
+<url>URL#3587675</url>
+</hit>
+<hit score="3" id="3587676">
+<info><authors><author pid="70/1533-5">Cheng Tan 0005</author><author pid="163/3327">Lingfan Yu</author><author pid="93/8373">Joshua B. Leners</author><author pid="00/2879">Michael Walfish</author></authors><title>The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web.</title><venue>SOSP</venue><pages>546-564</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TanYLW17</key><doi>10.1145/3132747.3132760</doi><ee>https://doi.org/10.1145/3132747.3132760</ee><url>https://dblp.org/rec/conf/sosp/TanYLW17</url></info>
+<url>URL#3587676</url>
+</hit>
+<hit score="3" id="3587677">
+<info><authors><author pid="83/11208">Shin-Yeh Tsai</author><author pid="64/3770-5">Yiying Zhang 0005</author></authors><title>LITE Kernel RDMA Support for Datacenter Applications.</title><venue>SOSP</venue><pages>306-324</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TsaiZ17</key><doi>10.1145/3132747.3132762</doi><ee>https://doi.org/10.1145/3132747.3132762</ee><url>https://dblp.org/rec/conf/sosp/TsaiZ17</url></info>
+<url>URL#3587677</url>
+</hit>
+<hit score="3" id="3587678">
+<info><authors><author pid="174/4813">Nirvan Tyagi</author><author pid="84/7357">Yossi Gilad</author><author pid="20/6946">Derek Leung</author><author pid="36/2133">Matei Zaharia</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Stadium: A Distributed Metadata-Private Messaging System.</title><venue>SOSP</venue><pages>423-440</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TyagiGLZZ17</key><doi>10.1145/3132747.3132783</doi><ee>https://doi.org/10.1145/3132747.3132783</ee><url>https://dblp.org/rec/conf/sosp/TyagiGLZZ17</url></info>
+<url>URL#3587678</url>
+</hit>
+<hit score="3" id="3587679">
+<info><authors><author pid="70/2619">Nikos Vasilakis</author><author pid="131/5095">Ben Karel</author><author pid="207/7208">Nick Roessler</author><author pid="20/10299">Nathan Dautenhahn</author><author pid="d/ADeHon">André DeHon</author><author pid="s/JonathanMSmith">Jonathan M. Smith</author></authors><title>Towards Fine-grained, Automated Application Compartmentalization.</title><venue>PLOS@SOSP</venue><pages>43-50</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VasilakisKRDDS17</key><doi>10.1145/3144555.3144563</doi><ee>https://doi.org/10.1145/3144555.3144563</ee><url>https://dblp.org/rec/conf/sosp/VasilakisKRDDS17</url></info>
+<url>URL#3587679</url>
+</hit>
+<hit score="3" id="3587680">
+<info><authors><author pid="65/8569">Shivaram Venkataraman</author><author pid="55/925">Aurojit Panda</author><author pid="10/10299">Kay Ousterhout</author><author pid="14/5951">Michael Armbrust</author><author pid="71/4226-2">Ali Ghodsi 0002</author><author pid="f/MJFranklin">Michael J. Franklin</author><author pid="r/BenRecht">Benjamin Recht</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Drizzle: Fast and Adaptable Stream Processing at Scale.</title><venue>SOSP</venue><pages>374-389</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VenkataramanPOA17</key><doi>10.1145/3132747.3132750</doi><ee>https://doi.org/10.1145/3132747.3132750</ee><url>https://dblp.org/rec/conf/sosp/VenkataramanPOA17</url></info>
+<url>URL#3587680</url>
+</hit>
+<hit score="3" id="3587681">
+<info><authors><author pid="52/6494">Marcus Völp</author><author pid="150/5354">Jérémie Decouchant</author><author pid="172/9506">Christoph Lambert</author><author pid="76/7155">Maria Fernandes</author><author pid="v/PauloVerissimo">Paulo Jorge Esteves Veríssimo</author></authors><title>Enclave-Based Privacy-Preserving Alignment of Raw Genomic Information: Information Leakage and Countermeasures.</title><venue>SysTEX@SOSP</venue><pages>7:1-7:6</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VolpDLFV17</key><doi>10.1145/3152701.3152707</doi><ee>https://doi.org/10.1145/3152701.3152707</ee><url>https://dblp.org/rec/conf/sosp/VolpDLFV17</url></info>
+<url>URL#3587681</url>
+</hit>
+<hit score="3" id="3587682">
+<info><authors><author pid="225/0217">Kobe Vrancken</author><author pid="85/6647">Frank Piessens</author><author pid="97/7967">Raoul Strackx</author></authors><title>Hardening Intel SGX Applications: Balancing Concerns.</title><venue>SysTEX@SOSP</venue><pages>2:1-2:2</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VranckenPS17</key><doi>10.1145/3152701.3152711</doi><ee>https://doi.org/10.1145/3152701.3152711</ee><url>https://dblp.org/rec/conf/sosp/VranckenPS17</url></info>
+<url>URL#3587682</url>
+</hit>
+<hit score="3" id="3587683">
+<info><authors><author pid="23/1556">Frank Wang</author><author pid="225/0218">Yuna Joung</author><author pid="90/1843">James Mickens</author></authors><title>Cobweb: Practical Remote Attestation Using Contextual Graphs.</title><venue>SysTEX@SOSP</venue><pages>3:1-3:7</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WangJM17</key><doi>10.1145/3152701.3152705</doi><ee>https://doi.org/10.1145/3152701.3152705</ee><url>https://dblp.org/rec/conf/sosp/WangJM17</url></info>
+<url>URL#3587683</url>
+</hit>
+<hit score="3" id="3587684">
+<info><authors><author pid="73/1149-12">Jian Xu 0012</author><author pid="82/10609-64">Lu Zhang 0064</author><author pid="120/9699">Amir Saman Memaripour</author><author pid="207/1849">Akshatha Gangadharaiah</author><author pid="207/1868">Amit Borase</author><author pid="207/1864">Tamires Brito Da Silva</author><author pid="97/3886">Steven Swanson</author><author pid="207/1860">Andy Rudoff</author></authors><title>NOVA-Fortis: A Fault-Tolerant Non-Volatile Main Memory File System.</title><venue>SOSP</venue><pages>478-496</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/XuZMGBSSR17</key><doi>10.1145/3132747.3132761</doi><ee>https://doi.org/10.1145/3132747.3132761</ee><url>https://dblp.org/rec/conf/sosp/XuZMGBSSR17</url></info>
+<url>URL#3587684</url>
+</hit>
+<hit score="3" id="3587685">
+<info><authors><author pid="10/2569">Yunhao Zhang</author><author pid="22/6904-1">Rong Chen 0001</author><author pid="31/6601-1">Haibo Chen 0001</author></authors><title>Sub-millisecond Stateful Stream Querying over Fast-evolving Linked Data.</title><venue>SOSP</venue><pages>614-630</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangCC17</key><doi>10.1145/3132747.3132777</doi><ee>https://doi.org/10.1145/3132747.3132777</ee><url>https://dblp.org/rec/conf/sosp/ZhangCC17</url></info>
+<url>URL#3587685</url>
+</hit>
+<hit score="3" id="3587686">
+<info><authors><author pid="120/1722">Yongle Zhang</author><author pid="195/1882">Serguei Makarov</author><author pid="251/1730">Xiang Ren 0003</author><author pid="154/0951">David Lion</author><author pid="230/9043-4">Ding Yuan 0004</author></authors><title>Pensieve: Non-Intrusive Failure Reproduction for Distributed Systems using the Event Chaining Approach.</title><venue>SOSP</venue><pages>19-33</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangMRLY17</key><doi>10.1145/3132747.3132768</doi><ee>https://doi.org/10.1145/3132747.3132768</ee><url>https://dblp.org/rec/conf/sosp/ZhangMRLY17</url></info>
+<url>URL#3587686</url>
+</hit>
+<hit score="3" id="3587687">
+<info><authors><author pid="37/3580-4">Xu Zhao 0004</author><author pid="188/9963">Kirk Rodrigues</author><author pid="45/6469-6">Yu Luo 0006</author><author pid="82/5150">Michael Stumm</author><author pid="230/9043-4">Ding Yuan 0004</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author></authors><title>Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold.</title><venue>SOSP</venue><pages>565-581</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhaoRLSYZ17</key><doi>10.1145/3132747.3132778</doi><ee>https://doi.org/10.1145/3132747.3132778</ee><url>https://dblp.org/rec/conf/sosp/ZhaoRLSYZ17</url></info>
+<url>URL#3587687</url>
+</hit>
+</hits>
+</result>

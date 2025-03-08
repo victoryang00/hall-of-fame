@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287956">conf* osdi* 2012*</query>
+<status code="200">OK</status>
+<time unit="msecs">24.23</time>
+<completions total="1" computed="1" sent="1">
+<c sc="25" dc="25" oc="25" id="58181921">2012</c>
+</completions>
+<hits total="25" computed="25" sent="25" first="0">
+<hit score="3" id="5052837">
+<info><authors><author pid="44/6870">Mona Attariyan</author><author pid="51/5429">Michael Chow</author><author pid="14/85">Jason Flinn</author></authors><title>X-ray: Automating Root-Cause Diagnosis of Performance Anomalies in Production Software.</title><venue>OSDI</venue><pages>307-320</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AttariyanCF12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/attariyan</ee><url>https://dblp.org/rec/conf/osdi/AttariyanCF12</url></info>
+<url>URL#5052837</url>
+</hit>
+<hit score="3" id="5052841">
+<info><authors><author pid="14/8279">Adam Belay</author><author pid="70/1811">Andrea Bittau</author><author pid="135/6767">Ali José Mashtizadeh</author><author pid="119/7161">David Terei</author><author pid="m/DMazieres">David Mazières</author><author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author></authors><title>Dune: Safe User-level Access to Privileged CPU Features.</title><venue>OSDI</venue><pages>335-348</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BelayBMTMK12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/belay</ee><url>https://dblp.org/rec/conf/osdi/BelayBMTMK12</url></info>
+<url>URL#5052841</url>
+</hit>
+<hit score="3" id="5052844">
+<info><authors><author pid="42/5495">James C. Corbett</author><author pid="d/JeffreyDean">Jeffrey Dean</author><author pid="89/5700">Michael Epstein</author><author pid="71/5497">Andrew Fikes</author><author pid="69/6042-1">Christopher Frost 0001</author><author pid="52/9493">J. J. Furman</author><author pid="g/SGhemawat">Sanjay Ghemawat</author><author pid="23/8510">Andrey Gubarev</author><author pid="135/0715">Christopher Heiser</author><author pid="135/0717">Peter Hochschild</author><author pid="31/1764">Wilson C. Hsieh</author><author pid="72/41">Sebastian Kanthak</author><author pid="95/369">Eugene Kogan</author><author pid="88/5785">Hongyi Li</author><author pid="98/9492">Alexander Lloyd</author><author pid="m/SergeyMelnik">Sergey Melnik 0001</author><author pid="135/0726">David Mwaura</author><author pid="55/1314">David Nagle</author><author pid="60/6154">Sean Quinlan</author><author pid="97/690">Rajesh Rao</author><author pid="135/0720">Lindsay Rolig</author><author pid="82/6781">Yasushi Saito</author><author pid="67/5209">Michal Szymaniak</author><author pid="26/1490">Christopher Taylor</author><author pid="57/4644">Ruth Wang</author><author pid="135/0730">Dale Woodford</author></authors><title>Spanner: Google&apos;s Globally-Distributed Database.</title><venue>OSDI</venue><pages>251-264</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CorbettDEFFFGGHHHKKLLMMNQRRSSTWW12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett</ee><url>https://dblp.org/rec/conf/osdi/CorbettDEFFFGGHHHKKLLMMNQRRSSTWW12</url></info>
+<url>URL#5052844</url>
+</hit>
+<hit score="3" id="5052845">
+<info><authors><author pid="98/9256">Alan M. Dunn</author><author pid="32/11190">Michael Z. Lee</author><author pid="74/28">Suman Jana</author><author pid="07/9257">Sangman Kim</author><author pid="94/2996">Mark Silberstein</author><author pid="60/9826">Yuanzhong Xu</author><author pid="46/6275">Vitaly Shmatikov</author><author pid="76/6082">Emmett Witchel</author></authors><title>Eternal Sunshine of the Spotless Machine: Protecting Privacy with Ephemeral Channels.</title><venue>OSDI</venue><pages>61-75</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/DunnLJKSXSW12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/dunn</ee><url>https://dblp.org/rec/conf/osdi/DunnLJKSXSW12</url></info>
+<url>URL#5052845</url>
+</hit>
+<hit score="3" id="5052847">
+<info><authors><author pid="95/4216">Daniel B. Giffin</author><author pid="68/8881">Amit Levy</author><author pid="91/6118">Deian Stefan</author><author pid="119/7161">David Terei</author><author pid="m/DMazieres">David Mazières</author><author pid="m/JohnCMitchell">John C. Mitchell</author><author pid="48/5534">Alejandro Russo</author></authors><title>Hails: Protecting Data Privacy in Untrusted Web Applications.</title><venue>OSDI</venue><pages>47-60</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GiffinLSTMMR12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/giffin</ee><url>https://dblp.org/rec/conf/osdi/GiffinLSTMMR12</url></info>
+<url>URL#5052847</url>
+</hit>
+<hit score="3" id="5052848">
+<info><authors><author pid="61/8262">Joseph E. Gonzalez</author><author pid="11/8261">Yucheng Low</author><author pid="62/3053">Haijie Gu</author><author pid="35/1070">Danny Bickson</author><author pid="38/769">Carlos Guestrin</author></authors><title>PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs.</title><venue>OSDI</venue><pages>17-30</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GonzalezLGBG12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez</ee><url>https://dblp.org/rec/conf/osdi/GonzalezLGBG12</url></info>
+<url>URL#5052848</url>
+</hit>
+<hit score="3" id="5052849">
+<info><authors><author pid="76/6591">Mark S. Gordon</author><author pid="138/4183">Davoud Anoushe Jamshidi</author><author pid="m/SAMahlke">Scott A. Mahlke</author><author pid="91/584">Zhuoqing Morley Mao</author><author pid="83/6331-28">Xu Chen 0028</author></authors><title>COMET: Code Offload by Migrating Execution Transparently.</title><venue>OSDI</venue><pages>93-106</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GordonJMMC12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gordon</ee><url>https://dblp.org/rec/conf/osdi/GordonJMMC12</url></info>
+<url>URL#5052849</url>
+</hit>
+<hit score="3" id="5052850">
+<info><authors><author pid="53/1850">Zhenyu Guo</author><author pid="88/9078">Xuepeng Fan</author><author pid="56/8165">Rishan Chen</author><author pid="131/6330">Jiaxing Zhang</author><author pid="75/7061">Hucheng Zhou</author><author pid="76/4167">Sean McDirmid</author><author pid="52/5716-21">Chang Liu 0021</author><author pid="99/2649-16">Wei Lin 0016</author><author pid="84/2644">Jingren Zhou</author><author pid="z/LidongZhou">Lidong Zhou</author></authors><title>Spotting Code Optimizations in Data-Parallel Pipelines through PeriSCOPE.</title><venue>OSDI</venue><pages>121-133</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GuoFCZZMLLZZ12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/guo</ee><url>https://dblp.org/rec/conf/osdi/GuoFCZZMLLZZ12</url></info>
+<url>URL#5052850</url>
+</hit>
+<hit score="3" id="5052851">
+<info><authors><author pid="87/6455">Sangjin Han</author><author pid="145/2338">Scott Marshall</author><author pid="34/3515">Byung-Gon Chun</author><author pid="68/5579">Sylvia Ratnasamy</author></authors><title>MegaPipe: A New Programming Interface for Scalable Network I/O.</title><venue>OSDI</venue><pages>135-148</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/HanMCR12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/han</ee><url>https://dblp.org/rec/conf/osdi/HanMCR12</url></info>
+<url>URL#5052851</url>
+</hit>
+<hit score="3" id="5052852">
+<info><authors><author pid="73/8636">Guoliang Jin</author><author pid="10/4661-22">Wei Zhang 0022</author><author pid="96/7771">Dongdong Deng</author></authors><title>Automated Concurrency-Bug Fixing.</title><venue>OSDI</venue><pages>221-236</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Jin0D12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/jin</ee><url>https://dblp.org/rec/conf/osdi/Jin0D12</url></info>
+<url>URL#5052852</url>
+</hit>
+<hit score="3" id="5052853">
+<info><authors><author pid="23/6695">Manos Kapritsos</author><author pid="w/YangWang9">Yang Wang 0009</author><author pid="33/2617">Vivien Quéma</author><author pid="17/597">Allen Clement</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="d/MDahlin">Mike Dahlin</author></authors><title>All about Eve: Execute-Verify Replication for Multi-Core Servers.</title><venue>OSDI</venue><pages>237-250</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Kapritsos0QCAD12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos</ee><url>https://dblp.org/rec/conf/osdi/Kapritsos0QCAD12</url></info>
+<url>URL#5052853</url>
+</hit>
+<hit score="3" id="5052856">
+<info><authors><author pid="38/8882">Taesoo Kim</author><author pid="15/3784">Ramesh Chandra</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Efficient Patch-based Auditing for Web Application Vulnerabilities.</title><venue>OSDI</venue><pages>193-206</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KimCZ12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kim</ee><url>https://dblp.org/rec/conf/osdi/KimCZ12</url></info>
+<url>URL#5052856</url>
+</hit>
+<hit score="3" id="5052858">
+<info><authors><author pid="15/5513">Ramakrishna Kotla</author><author pid="r/TLRodeheffer">Tom Rodeheffer</author><author pid="r/IndrajitRoy">Indrajit Roy 0001</author><author pid="15/601">Patrick Stuedi</author><author pid="34/7934">Benjamin Wester</author></authors><title>Pasture: Secure Offline Data Access Using Commodity Trusted Hardware.</title><venue>OSDI</venue><pages>321-334</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KotlaRRSW12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kotla</ee><url>https://dblp.org/rec/conf/osdi/KotlaRRSW12</url></info>
+<url>URL#5052858</url>
+</hit>
+<hit score="3" id="5052859">
+<info><authors><author pid="42/8263">Aapo Kyrola</author><author pid="b/GEBlelloch">Guy E. Blelloch</author><author pid="38/769">Carlos Guestrin</author></authors><title>GraphChi: Large-Scale Graph Computation on Just a PC.</title><venue>OSDI</venue><pages>31-46</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KyrolaBG12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kyrola</ee><url>https://dblp.org/rec/conf/osdi/KyrolaBG12</url></info>
+<url>URL#5052859</url>
+</hit>
+<hit score="3" id="5052860">
+<info><authors><author pid="91/2665">Philip Alexander Levis</author></authors><title>Experiences from a Decade of TinyOS Development.</title><venue>OSDI</venue><pages>207-220</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Levis12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/levis</ee><url>https://dblp.org/rec/conf/osdi/Levis12</url></info>
+<url>URL#5052860</url>
+</hit>
+<hit score="3" id="5052861">
+<info><authors><author pid="16/6465-1">Cheng Li 0001</author><author pid="52/7719">Daniel Porto 0002</author><author pid="17/597">Allen Clement</author><author pid="g/JohannesGehrke">Johannes Gehrke</author><author pid="18/4843">Nuno M. Preguiça</author><author pid="87/6689">Rodrigo Rodrigues 0001</author></authors><title>Making Geo-Replicated Systems Fast as Possible, Consistent when Necessary.</title><venue>OSDI</venue><pages>265-278</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LiPCGPR12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/li</ee><url>https://dblp.org/rec/conf/osdi/LiPCGPR12</url></info>
+<url>URL#5052861</url>
+</hit>
+<hit score="3" id="5052863">
+<info><authors><author pid="28/10322">Arjun Narayan</author><author pid="60/4358">Andreas Haeberlen</author></authors><title>DJoin: Differentially Private Join Queries over Distributed Databases.</title><venue>OSDI</venue><pages>149-162</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/NarayanH12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/narayan</ee><url>https://dblp.org/rec/conf/osdi/NarayanH12</url></info>
+<url>URL#5052863</url>
+</hit>
+<hit score="3" id="5052864">
+<info><authors><author pid="97/1336">Edmund B. Nightingale</author><author pid="02/3927">Jeremy Elson</author><author pid="16/3382">Jinliang Fan</author><author pid="80/77">Owen S. Hofmann</author><author pid="55/3274">Jon Howell</author><author pid="145/2173">Yutaka Suzue</author></authors><title>Flat Datacenter Storage.</title><venue>OSDI</venue><pages>1-15</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/NightingaleEFHHS12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/nightingale</ee><url>https://dblp.org/rec/conf/osdi/NightingaleEFHHS12</url></info>
+<url>URL#5052864</url>
+</hit>
+<hit score="3" id="5052866">
+<info><authors><author pid="22/4453">Lenin Ravindranath</author><author pid="p/JPadhye">Jitendra Padhye</author><author pid="32/4165">Sharad Agarwal</author><author pid="81/6327">Ratul Mahajan</author><author pid="44/4169">Ian Obermiller</author><author pid="64/5713">Shahin Shayandeh</author></authors><title>AppInsight: Mobile App Performance Monitoring in the Wild.</title><venue>OSDI</venue><pages>107-120</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/RavindranathPAMOS12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/ravindranath</ee><url>https://dblp.org/rec/conf/osdi/RavindranathPAMOS12</url></info>
+<url>URL#5052866</url>
+</hit>
+<hit score="3" id="5052867">
+<info><authors><author pid="00/5158">Matthew J. Renzelmann</author><author pid="42/4496">Asim Kadav</author><author pid="s/MichaelMSwift">Michael M. Swift</author></authors><title>SymDrive: Testing Drivers without Devices.</title><venue>OSDI</venue><pages>279-292</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/RenzelmannKS12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/renzelmann</ee><url>https://dblp.org/rec/conf/osdi/RenzelmannKS12</url></info>
+<url>URL#5052867</url>
+</hit>
+<hit score="3" id="5052869">
+<info><authors><author pid="125/8099">David Shue</author><author pid="65/1370">Michael J. Freedman</author><author pid="55/654">Anees Shaikh</author></authors><title>Performance Isolation and Fairness for Multi-Tenant Cloud Storage.</title><venue>OSDI</venue><pages>349-362</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ShueFS12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/shue</ee><url>https://dblp.org/rec/conf/osdi/ShueFS12</url></info>
+<url>URL#5052869</url>
+</hit>
+<hit score="3" id="5052871">
+<info><authors><author pid="36/345">Yang Tang</author><author pid="145/2326">Phillip Ames</author><author pid="145/2316">Sravan Bhamidipati</author><author pid="21/7434">Ashish Bijlani</author><author pid="g/RoxanaGeambasu">Roxana Geambasu</author><author pid="129/8262">Nikhil Sarda</author></authors><title>CleanOS: Limiting Mobile Data Exposure with Idle Eviction.</title><venue>OSDI</venue><pages>77-91</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/TangABBGS12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/tang</ee><url>https://dblp.org/rec/conf/osdi/TangABBGS12</url></info>
+<url>URL#5052871</url>
+</hit>
+<hit score="3" id="5052874">
+<info><authors><author pid="08/5760-5">Xi Wang 0005</author><author pid="12/3578-1">Haogang Chen 0001</author><author pid="129/3026">Zhihao Jia</author><author pid="99/5780">Nickolai Zeldovich</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author></authors><title>Improving Integer Security for Systems with KINT.</title><venue>OSDI</venue><pages>163-177</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WangCJZK12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/wang</ee><url>https://dblp.org/rec/conf/osdi/WangCJZK12</url></info>
+<url>URL#5052874</url>
+</hit>
+<hit score="3" id="5052875">
+<info><authors><author pid="13/5827">David Isaac Wolinsky</author><author pid="87/8037">Henry Corrigan-Gibbs</author><author pid="f/BryanFord">Bryan Ford</author><author pid="24/3059-1">Aaron Johnson 0001</author></authors><title>Dissent in Numbers: Making Strong Anonymity Scale.</title><venue>OSDI</venue><pages>179-182</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WolinskyCFJ12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/wolinsky</ee><url>https://dblp.org/rec/conf/osdi/WolinskyCFJ12</url></info>
+<url>URL#5052875</url>
+</hit>
+<hit score="3" id="5052877">
+<info><authors><author pid="230/9043-4">Ding Yuan 0004</author><author pid="03/6317">Soyeon Park</author><author pid="29/1726-5">Peng Huang 0005</author><author pid="51/3710-44">Yang Liu 0044</author><author pid="147/1312">Michael Mihn-Jong Lee</author><author pid="04/8359">Xiaoming Tang</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author><author pid="s/StefanSavage">Stefan Savage</author></authors><title>Be Conservative: Enhancing Failure Diagnosis with Proactive Logging.</title><venue>OSDI</venue><pages>293-306</pages><year>2012</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/YuanPHLLTZS12</key><ee>https://www.usenix.org/conference/osdi12/technical-sessions/presentation/yuan</ee><url>https://dblp.org/rec/conf/osdi/YuanPHLLTZS12</url></info>
+<url>URL#5052877</url>
+</hit>
+</hits>
+</result>

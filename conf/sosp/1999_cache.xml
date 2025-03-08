@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287398">conf* sosp* 1999*</query>
+<status code="200">OK</status>
+<time unit="msecs">111.03</time>
+<completions total="1" computed="1" sent="1">
+<c sc="19" dc="19" oc="19" id="58180381">1999</c>
+</completions>
+<hits total="19" computed="19" sent="19" first="0">
+<hit score="3" id="7129057">
+<info><authors><author pid="92/6">William Adjie-Winoto</author><author pid="66/1994">Elliot Schwartz</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author><author pid="20/1710">Jeremy Lilley</author></authors><title>The design and implementation of an intentional naming system.</title><venue>SOSP</venue><pages>186-201</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Adjie-WinotoSBL99</key><doi>10.1145/319151.319164</doi><ee>https://doi.org/10.1145/319151.319164</ee><url>https://dblp.org/rec/conf/sosp/Adjie-WinotoSBL99</url></info>
+<url>URL#7129057</url>
+</hit>
+<hit score="3" id="7129058">
+<info><authors><author pid="86/5918">Mohit Aron</author><author pid="d/PDruschel">Peter Druschel</author></authors><title>Soft timers: efficient microsecond software timer support for network processing.</title><venue>SOSP</venue><pages>232-246</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AronD99</key><doi>10.1145/319151.319167</doi><ee>https://doi.org/10.1145/319151.319167</ee><url>https://dblp.org/rec/conf/sosp/AronD99</url></info>
+<url>URL#7129058</url>
+</hit>
+<hit score="3" id="7129059">
+<info><authors><author pid="c/TcChiueh">Tzi-cker Chiueh</author><author pid="21/2638">Ganesh Venkitachalam</author><author pid="94/5999">Prashant Pradhan</author></authors><title>Integrating segmentation and paging protection for safe, efficient and transparent software extensions.</title><venue>SOSP</venue><pages>140-153</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChiuehVP99</key><doi>10.1145/319151.319161</doi><ee>https://doi.org/10.1145/319151.319161</ee><url>https://dblp.org/rec/conf/sosp/ChiuehVP99</url></info>
+<url>URL#7129059</url>
+</hit>
+<hit score="3" id="7129060">
+<info><authors><author pid="87/1231">John R. Douceur</author><author pid="b/WJBolosky">William J. Bolosky</author></authors><title>Progress-based regulation of low-importance processes.</title><venue>SOSP</venue><pages>247-260</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DouceurB99</key><doi>10.1145/319151.319168</doi><ee>https://doi.org/10.1145/319151.319168</ee><url>https://dblp.org/rec/conf/sosp/DouceurB99</url></info>
+<url>URL#7129060</url>
+</hit>
+<hit score="3" id="7129061">
+<info><authors><author pid="49/2790">Kenneth J. Duda</author><author pid="c/DRCheriton">David R. Cheriton</author></authors><title>Borrowed-virtual-time (BVT) scheduling: supporting latency-sensitive threads in a general-purpose schedular.</title><venue>SOSP</venue><pages>261-276</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DudaC99</key><doi>10.1145/319151.319169</doi><ee>https://doi.org/10.1145/319151.319169</ee><url>https://dblp.org/rec/conf/sosp/DudaC99</url></info>
+<url>URL#7129061</url>
+</hit>
+<hit score="3" id="7129062">
+<info><authors><author pid="14/85">Jason Flinn</author><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author></authors><title>Energy-aware adaptation for mobile applications.</title><venue>SOSP</venue><pages>48-63</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FlinnS99</key><doi>10.1145/319151.319155</doi><ee>https://doi.org/10.1145/319151.319155</ee><url>https://dblp.org/rec/conf/sosp/FlinnS99</url></info>
+<url>URL#7129062</url>
+</hit>
+<hit score="3" id="7129063">
+<info><authors><author pid="99/5278">Kinshuk Govil</author><author pid="00/5676-2">Dan Teodosiu 0002</author><author pid="28/5912-2">Yongqiang Huang 0002</author><author pid="r/MendelRosenblum">Mendel Rosenblum</author></authors><title>Cellular Disco: resource management using virtual clusters on shared-memory multiprocessors.</title><venue>SOSP</venue><pages>154-169</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GovilTHR99</key><doi>10.1145/319151.319162</doi><ee>https://doi.org/10.1145/319151.319162</ee><url>https://dblp.org/rec/conf/sosp/GovilTHR99</url></info>
+<url>URL#7129063</url>
+</hit>
+<hit score="3" id="7129064">
+<info><authors><author pid="l/XiaomingLiu0003">Xiaoming Liu 0003</author><author pid="k/ChristophKreitz">Christoph Kreitz</author><author pid="r/RvRenesse">Robbert van Renesse</author><author pid="94/6378">Jason Hickey</author><author pid="88/2599">Mark Hayden</author><author pid="b/KPBirman">Kenneth P. Birman</author><author pid="c/RobertLConstable">Robert L. Constable</author></authors><title>Building reliable, high-performance communication systems from components.</title><venue>SOSP</venue><pages>80-92</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiuKRHHBC99</key><doi>10.1145/319151.319157</doi><ee>https://doi.org/10.1145/319151.319157</ee><url>https://dblp.org/rec/conf/sosp/LiuKRHHBC99</url></info>
+<url>URL#7129064</url>
+</hit>
+<hit score="3" id="7129065">
+<info><authors><author pid="m/DMazieres">David Mazières</author><author pid="09/4259">Michael Kaminsky</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="76/6082">Emmett Witchel</author></authors><title>Separating key management from file system security.</title><venue>SOSP</venue><pages>124-139</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MazieresKKW99</key><doi>10.1145/319151.319160</doi><ee>https://doi.org/10.1145/319151.319160</ee><url>https://dblp.org/rec/conf/sosp/MazieresKKW99</url></info>
+<url>URL#7129065</url>
+</hit>
+<hit score="3" id="7129066">
+<info><authors><author pid="82/11191">Robert Morris 0005</author><author pid="78/5231">Eddie Kohler</author><author pid="92/6868">John Jannotti</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author></authors><title>The Click modular router.</title><venue>SOSP</venue><pages>217-231</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MorrisKJK99</key><doi>10.1145/319151.319166</doi><ee>https://doi.org/10.1145/319151.319166</ee><url>https://dblp.org/rec/conf/sosp/MorrisKJK99</url></info>
+<url>URL#7129066</url>
+</hit>
+<hit score="3" id="7129067">
+<info><authors><author pid="82/6781">Yasushi Saito</author><author pid="b/BNBershad">Brian N. Bershad</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Manageability, Availability and Performance in Porcupine: A Highly Scalable, Cluster-based Mail Service.</title><venue>SOSP</venue><pages>1-15</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SaitoBL99</key><doi>10.1145/319151.319152</doi><ee>https://doi.org/10.1145/319151.319152</ee><url>https://dblp.org/rec/conf/sosp/SaitoBL99</url></info>
+<url>URL#7129067</url>
+</hit>
+<hit score="3" id="7129068">
+<info><authors><author pid="59/6102">Douglas S. Santry</author><author pid="f/MJFeeley">Michael J. Feeley</author><author pid="40/920">Norman C. Hutchinson</author><author pid="28/2712">Alistair C. Veitch</author><author pid="86/3167">Ross W. Carton</author><author pid="11/587">Jacob Ofir</author></authors><title>Deciding when to forget in the Elephant file system.</title><venue>SOSP</venue><pages>110-123</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SantryFHVCO99</key><doi>10.1145/319151.319159</doi><ee>https://doi.org/10.1145/319151.319159</ee><url>https://dblp.org/rec/conf/sosp/SantryFHVCO99</url></info>
+<url>URL#7129068</url>
+</hit>
+<hit score="3" id="7129069">
+<info><authors><author pid="02/1753">Brian K. Schmidt</author><author pid="l/MonicaSLam">Monica S. Lam</author><author pid="63/6632">J. Duane Northcutt</author></authors><title>The interactive performance of SLIM: a stateless, thin-client architecture.</title><venue>SOSP</venue><pages>32-47</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchmidtLN99</key><doi>10.1145/319151.319154</doi><ee>https://doi.org/10.1145/319151.319154</ee><url>https://dblp.org/rec/conf/sosp/SchmidtLN99</url></info>
+<url>URL#7129069</url>
+</hit>
+<hit score="3" id="7129070">
+<info><authors><author pid="s/JonathanSShapiro">Jonathan S. Shapiro</author><author pid="s/JonathanMSmith">Jonathan M. Smith</author><author pid="f/DavidJFarber">David J. Farber</author></authors><title>EROS: a fast capability system.</title><venue>SOSP</venue><pages>170-185</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ShapiroSF99</key><doi>10.1145/319151.319163</doi><ee>https://doi.org/10.1145/319151.319163</ee><url>https://dblp.org/rec/conf/sosp/ShapiroSF99</url></info>
+<url>URL#7129070</url>
+</hit>
+<hit score="3" id="7129071">
+<info><authors><author pid="s/EminGunSirer">Emin Gün Sirer</author><author pid="g/RobertGrimm">Robert Grimm 0001</author><author pid="27/3764">Arthur J. Gregory</author><author pid="b/BNBershad">Brian N. Bershad</author></authors><title>Design and implementation of a distributed virtual machine for networked computers.</title><venue>SOSP</venue><pages>202-216</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SirerGGB99</key><doi>10.1145/319151.319165</doi><ee>https://doi.org/10.1145/319151.319165</ee><url>https://dblp.org/rec/conf/sosp/SirerGGB99</url></info>
+<url>URL#7129071</url>
+</hit>
+<hit score="3" id="7129072">
+<info><authors><author pid="v/WernerVogels">Werner Vogels</author></authors><title>File system usage in Windows NT 4.0.</title><venue>SOSP</venue><pages>93-109</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Vogels99</key><doi>10.1145/319151.319158</doi><ee>https://doi.org/10.1145/319151.319158</ee><url>https://dblp.org/rec/conf/sosp/Vogels99</url></info>
+<url>URL#7129072</url>
+</hit>
+<hit score="3" id="7129073">
+<info><authors><author pid="w/DavidWetherall">David Wetherall</author></authors><title>Active network vision and reality: lessions form a capsule-based system.</title><venue>SOSP</venue><pages>64-79</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Wetherall99</key><doi>10.1145/319151.319156</doi><ee>https://doi.org/10.1145/319151.319156</ee><url>https://dblp.org/rec/conf/sosp/Wetherall99</url></info>
+<url>URL#7129073</url>
+</hit>
+<hit score="3" id="7129074">
+<info><authors><author pid="06/915">Alec Wolman</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="09/1530-2">Nitin Sharma 0002</author><author pid="82/1529">Neal Cardwell</author><author pid="k/AnnaRKarlin">Anna R. Karlin</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>On the scale and performance of cooperative Web proxy caching.</title><venue>SOSP</venue><pages>16-31</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WolmanVSCKL99</key><doi>10.1145/319151.319153</doi><ee>https://doi.org/10.1145/319151.319153</ee><url>https://dblp.org/rec/conf/sosp/WolmanVSCKL99</url></info>
+<url>URL#7129074</url>
+</hit>
+<hit score="3" id="7129075">
+<info><authors><author pid="32/3390">Khawar M. Zuberi</author><author pid="36/6668">Padmanabhan Pillai</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>EMERALDS: a small-memory real-time microkernel.</title><venue>SOSP</venue><pages>277-299</pages><year>1999</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZuberiPS99</key><doi>10.1145/319151.319170</doi><ee>https://doi.org/10.1145/319151.319170</ee><url>https://dblp.org/rec/conf/sosp/ZuberiPS99</url></info>
+<url>URL#7129075</url>
+</hit>
+</hits>
+</result>

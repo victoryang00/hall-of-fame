@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287404">conf* sosp* 2015*</query>
+<status code="200">OK</status>
+<time unit="msecs">24.98</time>
+<completions total="1" computed="1" sent="1">
+<c sc="67" dc="67" oc="67" id="58182650">2015</c>
+</completions>
+<hits total="67" computed="67" sent="67" first="0">
+<hit score="5" id="4221900">
+<info><authors><author pid="58/1580">Jack B. Dennis</author></authors><title>The founding of the SOSP conferences.</title><venue>SOSP History Day</venue><pages>2:1-2:4</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Dennis15</key><doi>10.1145/2830903.2839323</doi><ee>https://doi.org/10.1145/2830903.2839323</ee><url>https://dblp.org/rec/conf/sosp/Dennis15</url></info>
+<url>URL#4221900</url>
+</hit>
+<hit score="4" id="4221924">
+<info><authors><author pid="n/PeterGNeumann">Peter G. Neumann</author></authors><title>Reminiscences on SOSP history day.</title><venue>SOSP History Day</venue><pages>14:1-14:9</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Neumann15</key><doi>10.1145/2830903.2847551</doi><ee>https://doi.org/10.1145/2830903.2847551</ee><url>https://dblp.org/rec/conf/sosp/Neumann15</url></info>
+<url>URL#4221924</url>
+</hit>
+<hit score="4" id="4221936">
+<info><authors><author pid="81/4301">Chunqiang Tang</author><author pid="18/10369">Thawan Kooburat</author><author pid="168/8914">Pradeep Venkatachalam</author><author pid="168/8943">Akshay Chander</author><author pid="128/0219">Zhe Wen</author><author pid="86/7802">Aravind Narayanan</author><author pid="24/10950">Patrick Dowell</author><author pid="168/8884">Robert Karl</author></authors><title>Holistic configuration management at Facebook.</title><venue>SOSP</venue><pages>328-343</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TangKVCWNDK15</key><doi>10.1145/2815400.2815401</doi><ee>https://doi.org/10.1145/2815400.2815401</ee><url>https://dblp.org/rec/conf/sosp/TangKVCWNDK15</url></info>
+<url>URL#4221936</url>
+</hit>
+<hit score="3" id="4175960">
+<info><authors><author pid="12/5586">Francesco Potorti</author><author pid="75/2019">Paolo Barsocchi</author><author pid="57/6165">Michele Girolami</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="23/3588">Raúl Montoliu</author></authors><title>Evaluating indoor localization solutions in large environments through competitive benchmarking: The EvAAL-ETRI competition.</title><venue>IPIN</venue><pages>1-10</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/PotortiBGTM15</key><doi>10.1109/IPIN.2015.7346970</doi><ee>https://doi.org/10.1109/IPIN.2015.7346970</ee><url>https://dblp.org/rec/conf/ipin/PotortiBGTM15</url></info>
+<url>URL#4175960</url>
+</hit>
+<hit score="3" id="4175972">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="171/3655">David Rambla</author><author pid="23/3588">Raúl Montoliu</author><author pid="146/2042">Óscar Belmonte</author><author pid="67/3031">Joaquín Huerta</author></authors><title>UJIIndoorLoc-Mag: A new database for magnetic field-based localization problems.</title><venue>IPIN</venue><pages>1-10</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/Torres-Sospedra15</key><doi>10.1109/IPIN.2015.7346763</doi><ee>https://doi.org/10.1109/IPIN.2015.7346763</ee><url>https://dblp.org/rec/conf/ipin/Torres-Sospedra15</url></info>
+<url>URL#4175972</url>
+</hit>
+<hit score="3" id="4198309">
+<info><authors><author pid="129/9792">Phu Hong Nguyen</author><author pid="54/5694">Koen Yskout</author><author pid="58/6613">Thomas Heyman</author><author pid="k/JacquesKlein">Jacques Klein</author><author pid="82/5205">Riccardo Scandariato</author><author pid="95/5206">Yves Le Traon</author></authors><title>SoSPa: A system of Security design Patterns for systematically engineering secure systems.</title><venue>MoDELS</venue><pages>246-255</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/models/NguyenYHKST15</key><doi>10.1109/MODELS.2015.7338255</doi><ee>https://doi.org/10.1109/MODELS.2015.7338255</ee><url>https://dblp.org/rec/conf/models/NguyenYHKST15</url></info>
+<url>URL#4198309</url>
+</hit>
+<hit score="3" id="4221885">
+<info><authors><author pid="r/AmitabhaRoy0002">Amitabha Roy 0002</author><author pid="116/5046">Laurent Bindschaedler</author><author pid="162/2187">Jasmina Malicevic</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author></authors><title>Chaos: scale-out graph processing from secondary storage.</title><venue>SOSP</venue><pages>410-424</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/0002BMZ15</key><doi>10.1145/2815400.2815408</doi><ee>https://doi.org/10.1145/2815400.2815408</ee><url>https://dblp.org/rec/conf/sosp/0002BMZ15</url></info>
+<url>URL#4221885</url>
+</hit>
+<hit score="3" id="4221886">
+<info><authors><author pid="10/553">Marcos K. Aguilera</author><author pid="93/8373">Joshua B. Leners</author><author pid="00/2879">Michael Walfish</author></authors><title>Yesquel: scalable sql storage for web applications.</title><venue>SOSP</venue><pages>245-262</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AguileraLW15</key><doi>10.1145/2815400.2815413</doi><ee>https://doi.org/10.1145/2815400.2815413</ee><url>https://dblp.org/rec/conf/sosp/AguileraLW15</url></info>
+<url>URL#4221886</url>
+</hit>
+<hit score="3" id="4221887">
+<info><authors><author pid="52/10949">Nadav Amit</author><author pid="26/914">Dan Tsafrir</author><author pid="s/AssafSchuster">Assaf Schuster</author><author pid="168/9008">Ahmad Ayoub</author><author pid="122/0417">Eran Shlomo</author></authors><title>Virtual CPU validation.</title><venue>SOSP</venue><pages>311-327</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AmitTSAS15</key><doi>10.1145/2815400.2815420</doi><ee>https://doi.org/10.1145/2815400.2815420</ee><url>https://dblp.org/rec/conf/sosp/AmitTSAS15</url></info>
+<url>URL#4221887</url>
+</hit>
+<hit score="3" id="4221888">
+<info><authors><author pid="20/11514">George Amvrosiadis</author><author pid="b/AngelaDemkeBrown">Angela Demke Brown</author><author pid="g/AshvinGoel">Ashvin Goel</author></authors><title>Opportunistic storage maintenance.</title><venue>SOSP</venue><pages>457-473</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AmvrosiadisBG15</key><doi>10.1145/2815400.2815424</doi><ee>https://doi.org/10.1145/2815400.2815424</ee><url>https://dblp.org/rec/conf/sosp/AmvrosiadisBG15</url></info>
+<url>URL#4221888</url>
+</hit>
+<hit score="3" id="4221889">
+<info><authors><author pid="51/8142">Anirudh Badam</author><author pid="99/2097">Ranveer Chandra</author><author pid="168/8968">Jon Dutra</author><author pid="168/8911">Anthony Ferrese</author><author pid="h/SteveHodges">Steve Hodges 0001</author><author pid="96/3740-3">Pan Hu 0003</author><author pid="168/9004">Julia Meinershagen</author><author pid="m/ThomasMoscibroda">Thomas Moscibroda</author><author pid="74/4695">Bodhi Priyantha</author><author pid="94/11513">Evangelia D. Skiani</author></authors><title>Software defined batteries.</title><venue>SOSP</venue><pages>215-229</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BadamCDFHHMMPS15</key><doi>10.1145/2815400.2815429</doi><ee>https://doi.org/10.1145/2815400.2815429</ee><url>https://dblp.org/rec/conf/sosp/BadamCDFHHMMPS15</url></info>
+<url>URL#4221889</url>
+</hit>
+<hit score="3" id="4221890">
+<info><authors><author pid="170/5351">Sharath K. Bhat</author><author pid="170/5290">Ajithchandra Saya</author><author pid="170/5358">Hemedra K. Rawat</author><author pid="132/0327">Antonio Barbalace</author><author pid="61/2985">Binoy Ravindran</author></authors><title>Harnessing energy efficiency of heterogeneous-ISA platforms.</title><venue>HotPower@SOSP</venue><pages>6-10</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BhatSRBR15</key><doi>10.1145/2818613.2818747</doi><ee>https://doi.org/10.1145/2818613.2818747</ee><url>https://dblp.org/rec/conf/sosp/BhatSRBR15</url></info>
+<url>URL#4221890</url>
+</hit>
+<hit score="3" id="4221891">
+<info><authors><author pid="b/KPBirman">Ken Birman</author></authors><title>Evolution of fault tolerance.</title><venue>SOSP History Day</venue><pages>7:1-7:32</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Birman15</key><doi>10.1145/2830903.2830908</doi><ee>https://doi.org/10.1145/2830903.2830908</ee><url>https://dblp.org/rec/conf/sosp/Birman15</url></info>
+<url>URL#4221891</url>
+</hit>
+<hit score="3" id="4221892">
+<info><authors><author pid="116/0643">Christoph Borchert</author><author pid="s/OlafSpinczyk">Olaf Spinczyk</author></authors><title>Hardening an L4 microkernel against soft errors by aspect-oriented programming and whole-program analysis.</title><venue>PLOS@SOSP</venue><pages>1-7</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BorchertS15</key><doi>10.1145/2818302.2818304</doi><ee>https://doi.org/10.1145/2818302.2818304</ee><url>https://dblp.org/rec/conf/sosp/BorchertS15</url></info>
+<url>URL#4221892</url>
+</hit>
+<hit score="3" id="4221893">
+<info><authors><author pid="12/3578-1">Haogang Chen 0001</author><author pid="136/6397-2">Daniel Ziegler 0002</author><author pid="141/9176">Tej Chajed</author><author pid="52/796">Adam Chlipala</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Using Crash Hoare logic for certifying the FSCQ file system.</title><venue>SOSP</venue><pages>18-37</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChenZCCKZ15</key><doi>10.1145/2815400.2815402</doi><ee>https://doi.org/10.1145/2815400.2815402</ee><url>https://dblp.org/rec/conf/sosp/ChenZCCKZ15</url></info>
+<url>URL#4221893</url>
+</hit>
+<hit score="3" id="4221894">
+<info><authors><author pid="40/4629">David Clark</author></authors><title>The network and the OS.</title><venue>SOSP History Day</venue><pages>11:1-11:19</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Clark15</key><doi>10.1145/2830903.2830912</doi><ee>https://doi.org/10.1145/2830903.2830912</ee><url>https://dblp.org/rec/conf/sosp/Clark15</url></info>
+<url>URL#4221894</url>
+</hit>
+<hit score="3" id="4221895">
+<info><authors><author pid="59/5565">Heming Cui</author><author pid="38/1778">Rui Gu</author><author pid="15/2288">Cheng Liu</author><author pid="83/10146">Tianyu Chen</author><author pid="71/3724">Junfeng Yang</author></authors><title>Paxos made transparent.</title><venue>SOSP</venue><pages>105-120</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CuiGLCY15</key><doi>10.1145/2815400.2815427</doi><ee>https://doi.org/10.1145/2815400.2815427</ee><url>https://dblp.org/rec/conf/sosp/CuiGLCY15</url></info>
+<url>URL#4221895</url>
+</hit>
+<hit score="3" id="4221896">
+<info><authors><author pid="34/10322">Charlie Curtsinger</author><author pid="98/4487">Emery D. Berger</author></authors><title>Coz: finding code that counts with causal profiling.</title><venue>SOSP</venue><pages>184-197</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CurtsingerB15</key><doi>10.1145/2815400.2815409</doi><ee>https://doi.org/10.1145/2815400.2815409</ee><url>https://dblp.org/rec/conf/sosp/CurtsingerB15</url></info>
+<url>URL#4221896</url>
+</hit>
+<hit score="3" id="4221897">
+<info><authors><author pid="d/JeffreyDean">Jeffrey Dean</author></authors><title>The rise of cloud computing systems.</title><venue>SOSP History Day</venue><pages>12:1-12:40</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Dean15</key><doi>10.1145/2830903.2830913</doi><ee>https://doi.org/10.1145/2830903.2830913</ee><url>https://dblp.org/rec/conf/sosp/Dean15</url></info>
+<url>URL#4221897</url>
+</hit>
+<hit score="3" id="4221898">
+<info><authors><author pid="131/4737">Biplob Debnath</author><author pid="72/10632">Alireza Haghdoost</author><author pid="42/4496">Asim Kadav</author><author pid="26/6613">Mohammed G. Khatib</author><author pid="51/6366">Cristian Ungureanu</author></authors><title>Revisiting hash table design for phase change memory.</title><venue>INFLOW@SOSP</venue><pages>1:1-1:9</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DebnathHKKU15</key><doi>10.1145/2819001.2819002</doi><ee>https://doi.org/10.1145/2819001.2819002</ee><url>https://dblp.org/rec/conf/sosp/DebnathHKKU15</url></info>
+<url>URL#4221898</url>
+</hit>
+<hit score="3" id="4221899">
+<info><authors><author pid="d/PJDenning">Peter J. Denning</author></authors><title>Perspectives on OS foundations.</title><venue>SOSP History Day</venue><pages>3:1-3:46</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Denning15</key><doi>10.1145/2830903.2830904</doi><ee>https://doi.org/10.1145/2830903.2830904</ee><url>https://dblp.org/rec/conf/sosp/Denning15</url></info>
+<url>URL#4221899</url>
+</hit>
+<hit score="3" id="4221901">
+<info><authors><author pid="94/7061">Aleksandar Dragojevic</author><author pid="45/2517">Dushyanth Narayanan</author><author pid="97/1336">Edmund B. Nightingale</author><author pid="21/709">Matthew Renzelmann</author><author pid="168/8978">Alex Shamis</author><author pid="51/8142">Anirudh Badam</author><author pid="c/MiguelCastro">Miguel Castro 0001</author></authors><title>No compromises: distributed transactions with consistency, availability, and performance.</title><venue>SOSP</venue><pages>54-70</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DragojevicNNRSB15</key><doi>10.1145/2815400.2815425</doi><ee>https://doi.org/10.1145/2815400.2815425</ee><url>https://dblp.org/rec/conf/sosp/DragojevicNNRSB15</url></info>
+<url>URL#4221901</url>
+</hit>
+<hit score="3" id="4221902">
+<info><authors><author pid="33/8116-3">Lu Fang 0003</author><author pid="53/6791-1">Khanh Nguyen 0001</author><author pid="90/8705">Guoqing Xu 0001</author><author pid="47/3381">Brian Demsky</author><author pid="31/5916-1">Shan Lu 0001</author></authors><title>Interruptible tasks: treating memory pressure as interrupts for highly scalable data-parallel programs.</title><venue>SOSP</venue><pages>394-409</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FangNXDL15</key><doi>10.1145/2815400.2815407</doi><ee>https://doi.org/10.1145/2815400.2815407</ee><url>https://dblp.org/rec/conf/sosp/FangNXDL15</url></info>
+<url>URL#4221902</url>
+</hit>
+<hit score="3" id="4221903">
+<info><authors><author pid="22/3053">Chris Hawblitzel</author><author pid="55/3274">Jon Howell</author><author pid="23/6695">Manos Kapritsos</author><author pid="25/3228">Jacob R. Lorch</author><author pid="49/6324">Bryan Parno</author><author pid="241/7500">Michael Lowell Roberts</author><author pid="68/8463">Srinath T. V. Setty</author><author pid="26/1494">Brian Zill</author></authors><title>IronFleet: proving practical distributed systems correct.</title><venue>SOSP</venue><pages>1-17</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HawblitzelHKLPR15</key><doi>10.1145/2815400.2815428</doi><ee>https://doi.org/10.1145/2815400.2815428</ee><url>https://dblp.org/rec/conf/sosp/HawblitzelHKLPR15</url></info>
+<url>URL#4221903</url>
+</hit>
+<hit score="3" id="4221904">
+<info><authors><author pid="h/AHerbert">Andrew Herbert</author></authors><title>Virtualization.</title><venue>SOSP History Day</venue><pages>8:1-8:19</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Herbert15</key><doi>10.1145/2830903.2830909</doi><ee>https://doi.org/10.1145/2830903.2830909</ee><url>https://dblp.org/rec/conf/sosp/Herbert15</url></info>
+<url>URL#4221904</url>
+</hit>
+<hit score="3" id="4221905">
+<info><authors><author pid="h/HenryHoffmann">Henry Hoffmann</author></authors><title>JouleGuard: energy guarantees for approximate applications.</title><venue>SOSP</venue><pages>198-214</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Hoffmann15</key><doi>10.1145/2815400.2815403</doi><ee>https://doi.org/10.1145/2815400.2815403</ee><url>https://dblp.org/rec/conf/sosp/Hoffmann15</url></info>
+<url>URL#4221905</url>
+</hit>
+<hit score="3" id="4221906">
+<info><authors><author pid="153/5808">Jelle van den Hooff</author><author pid="117/9944">David Lazar</author><author pid="36/2133">Matei Zaharia</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Vuvuzela: scalable private messaging resistant to traffic analysis.</title><venue>SOSP</venue><pages>137-152</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HooffLZZ15</key><doi>10.1145/2815400.2815417</doi><ee>https://doi.org/10.1145/2815400.2815417</ee><url>https://dblp.org/rec/conf/sosp/HooffLZZ15</url></info>
+<url>URL#4221906</url>
+</hit>
+<hit score="3" id="4221907">
+<info><authors><author pid="119/5055">Mohammad Ashraful Hoque</author><author pid="66/5629">Sasu Tarkoma</author></authors><title>Sudden drop in the battery level?: understanding smartphone state of charge anomaly.</title><venue>HotPower@SOSP</venue><pages>26-30</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HoqueT15</key><doi>10.1145/2818613.2818741</doi><ee>https://doi.org/10.1145/2818613.2818741</ee><url>https://dblp.org/rec/conf/sosp/HoqueT15</url></info>
+<url>URL#4221907</url>
+</hit>
+<hit score="3" id="4221908">
+<info><authors><author pid="162/9607">Charles Jacobsen</author><author pid="170/5308">Muktesh Khole</author><author pid="170/5345">Sarah Spall</author><author pid="170/5338">Scotty Bauer</author><author pid="28/7551">Anton Burtsev</author></authors><title>Lightweight capability domains: towards decomposing the Linux kernel.</title><venue>PLOS@SOSP</venue><pages>8-14</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JacobsenKSBB15</key><doi>10.1145/2818302.2818307</doi><ee>https://doi.org/10.1145/2818302.2818307</ee><url>https://dblp.org/rec/conf/sosp/JacobsenKSBB15</url></info>
+<url>URL#4221908</url>
+</hit>
+<hit score="3" id="4221909">
+<info><authors><author pid="k/MFransKaashoek">M. Frans Kaashoek</author></authors><title>Parallel computing and the OS.</title><venue>SOSP History Day</venue><pages>10:1-10:35</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Kaashoek15</key><doi>10.1145/2830903.2830911</doi><ee>https://doi.org/10.1145/2830903.2830911</ee><url>https://dblp.org/rec/conf/sosp/Kaashoek15</url></info>
+<url>URL#4221909</url>
+</hit>
+<hit score="3" id="4221910">
+<info><authors><author pid="31/11029">Baris Kasikci</author><author pid="121/1174">Benjamin Schubert</author><author pid="36/6883">Cristiano Pereira</author><author pid="78/3196">Gilles Pokam</author><author pid="c/GeorgeCandea">George Candea</author></authors><title>Failure sketching: a technique for automated root cause diagnosis of in-production failures.</title><venue>SOSP</venue><pages>344-360</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KasikciSPPC15</key><doi>10.1145/2815400.2815412</doi><ee>https://doi.org/10.1145/2815400.2815412</ee><url>https://dblp.org/rec/conf/sosp/KasikciSPPC15</url></info>
+<url>URL#4221910</url>
+</hit>
+<hit score="3" id="4221911">
+<info><authors><author pid="170/5310">Ake Koomsin</author><author pid="s/YasushiShinjo">Yasushi Shinjo</author></authors><title>Running application specific kernel code by a just-in-time compiler.</title><venue>PLOS@SOSP</venue><pages>15-20</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KoomsinS15</key><doi>10.1145/2818302.2818305</doi><ee>https://doi.org/10.1145/2818302.2818305</ee><url>https://dblp.org/rec/conf/sosp/KoomsinS15</url></info>
+<url>URL#4221911</url>
+</hit>
+<hit score="3" id="4221912">
+<info><authors><author pid="l/ButlerWLampson">Butler W. Lampson</author></authors><title>Perspectives on protection and security.</title><venue>SOSP History Day</venue><pages>4:1-4:21</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Lampson15</key><doi>10.1145/2830903.2830905</doi><ee>https://doi.org/10.1145/2830903.2830905</ee><url>https://dblp.org/rec/conf/sosp/Lampson15</url></info>
+<url>URL#4221912</url>
+</hit>
+<hit score="3" id="4221913">
+<info><authors><author pid="164/7947">Collin Lee</author><author pid="168/3492">Seo Jin Park</author><author pid="144/6273">Ankita Kejriwal</author><author pid="42/3065">Satoshi Matsushita</author><author pid="o/JohnKOusterhout">John K. Ousterhout</author></authors><title>Implementing linearizability at large scale and low latency.</title><venue>SOSP</venue><pages>71-86</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LeePKMO15</key><doi>10.1145/2815400.2815416</doi><ee>https://doi.org/10.1145/2815400.2815416</ee><url>https://dblp.org/rec/conf/sosp/LeePKMO15</url></info>
+<url>URL#4221913</url>
+</hit>
+<hit score="3" id="4221914">
+<info><authors><author pid="143/5702">Matthew Lentz</author><author pid="168/8953">James Litton</author><author pid="b/BobbyBhattacharjee">Bobby Bhattacharjee</author></authors><title>Drowsy power management.</title><venue>SOSP</venue><pages>230-244</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LentzLB15</key><doi>10.1145/2815400.2815414</doi><ee>https://doi.org/10.1145/2815400.2815414</ee><url>https://dblp.org/rec/conf/sosp/LentzLB15</url></info>
+<url>URL#4221914</url>
+</hit>
+<hit score="3" id="4221915">
+<info><authors><author pid="68/8881">Amit A. Levy</author><author pid="161/6189">Michael P. Andersen</author><author pid="21/10522">Bradford Campbell</author><author pid="c/DavidECuller">David E. Culler</author><author pid="40/5390">Prabal Dutta</author><author pid="150/5917">Branden Ghena</author><author pid="91/2665">Philip Alexander Levis</author><author pid="86/11187">Pat Pannuto</author></authors><title>Ownership is theft: experiences building an embedded OS in rust.</title><venue>PLOS@SOSP</venue><pages>21-26</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LevyACCDGLP15</key><doi>10.1145/2818302.2818306</doi><ee>https://doi.org/10.1145/2818302.2818306</ee><url>https://dblp.org/rec/conf/sosp/LevyACCDGLP15</url></info>
+<url>URL#4221915</url>
+</hit>
+<hit score="3" id="4221916">
+<info><authors><author pid="170/5326">Eunryoung Lim</author><author pid="58/5696">Seongjin Lee</author><author pid="89/5039">Youjip Won</author></authors><title>Androtrace: framework for tracing and analyzing IOs on Android.</title><venue>INFLOW@SOSP</venue><pages>3:1-3:8</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LimLW15</key><doi>10.1145/2819001.2819007</doi><ee>https://doi.org/10.1145/2819001.2819007</ee><url>https://dblp.org/rec/conf/sosp/LimLW15</url></info>
+<url>URL#4221916</url>
+</hit>
+<hit score="3" id="4221917">
+<info><authors><author pid="l/BarbaraLiskov">Barbara Liskov</author></authors><title>Perspectives on system languages and abstraction.</title><venue>SOSP History Day</venue><pages>5:1-5:25</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Liskov15</key><doi>10.1145/2830903.2830906</doi><ee>https://doi.org/10.1145/2830903.2830906</ee><url>https://dblp.org/rec/conf/sosp/Liskov15</url></info>
+<url>URL#4221917</url>
+</hit>
+<hit score="3" id="4221918">
+<info><authors><author pid="129/0998">Haonan Lu</author><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="162/2033">Philippe Ajoux</author><author pid="21/10863">Jim Hunt</author><author pid="93/2816">Yee Jiun Song</author><author pid="168/8928">Wendy Tobagus</author><author pid="27/343">Sanjeev Kumar</author><author pid="21/1059">Wyatt Lloyd</author></authors><title>Existential consistency: measuring and understanding consistency at Facebook.</title><venue>SOSP</venue><pages>295-310</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LuVAHSTKL15</key><doi>10.1145/2815400.2815426</doi><ee>https://doi.org/10.1145/2815400.2815426</ee><url>https://dblp.org/rec/conf/sosp/LuVAHSTKL15</url></info>
+<url>URL#4221918</url>
+</hit>
+<hit score="3" id="4221919">
+<info><authors><author pid="154/0937">Jonathan Mace</author><author pid="168/8962">Ryan Roelke</author><author pid="f/RFonseca">Rodrigo Fonseca</author></authors><title>Pivot tracing: dynamic causal monitoring for distributed systems.</title><venue>SOSP</venue><pages>378-393</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MaceRF15</key><doi>10.1145/2815400.2815415</doi><ee>https://doi.org/10.1145/2815400.2815415</ee><url>https://dblp.org/rec/conf/sosp/MaceRF15</url></info>
+<url>URL#4221919</url>
+</hit>
+<hit score="3" id="4221920">
+<info><authors><author pid="162/2187">Jasmina Malicevic</author><author pid="76/3788">Subramanya Dulloor</author><author pid="30/3638">Narayanan Sundaram</author><author pid="29/1091">Nadathur Satish</author><author pid="146/7817">Jeff Jackson</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author></authors><title>Exploiting NVM in large-scale graph analytics.</title><venue>INFLOW@SOSP</venue><pages>2:1-2:9</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MalicevicDSSJZ15</key><doi>10.1145/2819001.2819005</doi><ee>https://doi.org/10.1145/2819001.2819005</ee><url>https://dblp.org/rec/conf/sosp/MalicevicDSSJZ15</url></info>
+<url>URL#4221920</url>
+</hit>
+<hit score="3" id="4221921">
+<info><authors><author pid="81/5025">Jeanna Neefe Matthews</author></authors><title>Overview of the day.</title><venue>SOSP History Day</venue><pages>1:1-1:20</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Matthews15</key><doi>10.1145/2830903.2839321</doi><ee>https://doi.org/10.1145/2830903.2839321</ee><url>https://dblp.org/rec/conf/sosp/Matthews15</url></info>
+<url>URL#4221921</url>
+</hit>
+<hit score="3" id="4221922">
+<info><authors><author pid="119/6301">Alexander Matveev</author><author pid="s/NirShavit">Nir Shavit</author><author pid="f/PascalFelber">Pascal Felber</author><author pid="03/7750">Patrick Marlier</author></authors><title>Read-log-update: a lightweight synchronization mechanism for concurrent programming.</title><venue>SOSP</venue><pages>168-183</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MatveevSFM15</key><doi>10.1145/2815400.2815406</doi><ee>https://doi.org/10.1145/2815400.2815406</ee><url>https://dblp.org/rec/conf/sosp/MatveevSFM15</url></info>
+<url>URL#4221922</url>
+</hit>
+<hit score="3" id="4221923">
+<info><authors><author pid="19/10203">Changwoo Min</author><author pid="145/0912">Sanidhya Kashyap</author><author pid="45/7986">Byoungyoung Lee</author><author pid="69/6818">Chengyu Song</author><author pid="38/8882">Taesoo Kim</author></authors><title>Cross-checking semantic correctness: the case of finding file system bugs.</title><venue>SOSP</venue><pages>361-377</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MinKLSK15</key><doi>10.1145/2815400.2815422</doi><ee>https://doi.org/10.1145/2815400.2815422</ee><url>https://dblp.org/rec/conf/sosp/MinKLSK15</url></info>
+<url>URL#4221923</url>
+</hit>
+<hit score="3" id="4221925">
+<info><authors><author pid="53/6791-1">Khanh Nguyen 0001</author><author pid="33/8116-3">Lu Fang 0003</author><author pid="90/8705">Guoqing Xu 0001</author><author pid="47/3381">Brian Demsky</author></authors><title>Speculative region-based memory management for big data systems.</title><venue>PLOS@SOSP</venue><pages>27-32</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NguyenFXD15</key><doi>10.1145/2818302.2818308</doi><ee>https://doi.org/10.1145/2818302.2818308</ee><url>https://dblp.org/rec/conf/sosp/NguyenFXD15</url></info>
+<url>URL#4221925</url>
+</hit>
+<hit score="3" id="4221926">
+<info><authors><author pid="168/9023">Shoumik Palkar</author><author pid="116/8770">Chang Lan</author><author pid="87/6455">Sangjin Han</author><author pid="40/503">Keon Jang</author><author pid="55/925">Aurojit Panda</author><author pid="68/5579">Sylvia Ratnasamy</author><author pid="27/3297">Luigi Rizzo</author><author pid="34/5593">Scott Shenker</author></authors><title>E2: a framework for NFV applications.</title><venue>SOSP</venue><pages>121-136</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PalkarLHJPRRS15</key><doi>10.1145/2815400.2815423</doi><ee>https://doi.org/10.1145/2815400.2815423</ee><url>https://dblp.org/rec/conf/sosp/PalkarLHJPRRS15</url></info>
+<url>URL#4221926</url>
+</hit>
+<hit score="3" id="4221927">
+<info><authors><author pid="p/DAPatterson">David A. Patterson 0001</author></authors><title>Past and future of hardware and architecture.</title><venue>SOSP History Day</venue><pages>9:1-9:63</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Patterson15</key><doi>10.1145/2830903.2830910</doi><ee>https://doi.org/10.1145/2830903.2830910</ee><url>https://dblp.org/rec/conf/sosp/Patterson15</url></info>
+<url>URL#4221927</url>
+</hit>
+<hit score="3" id="4221928">
+<info><authors><author pid="28/8412">Veselin Raychev</author><author pid="95/6578">Madanlal Musuvathi</author><author pid="09/1276">Todd Mytkowicz</author></authors><title>Parallelizing user-defined aggregations using symbolic execution.</title><venue>SOSP</venue><pages>153-167</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RaychevMM15</key><doi>10.1145/2815400.2815418</doi><ee>https://doi.org/10.1145/2815400.2815418</ee><url>https://dblp.org/rec/conf/sosp/RaychevMM15</url></info>
+<url>URL#4221928</url>
+</hit>
+<hit score="3" id="4221929">
+<info><authors><author pid="136/7830">Ramana Reddy</author><author pid="132/0324">Atish Kathpal</author><author pid="41/2060">Jayanta Basak</author><author pid="k/RandyHKatz">Randy H. Katz</author></authors><title>Data layout for power efficient archival storage systems.</title><venue>HotPower@SOSP</venue><pages>16-20</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ReddyKBK15</key><doi>10.1145/2818613.2818742</doi><ee>https://doi.org/10.1145/2818613.2818742</ee><url>https://dblp.org/rec/conf/sosp/ReddyKBK15</url></info>
+<url>URL#4221929</url>
+</hit>
+<hit score="3" id="4221930">
+<info><authors><author pid="r/TomRidge">Tom Ridge</author><author pid="67/11266">David Sheets</author><author pid="96/5287">Thomas Tuerk</author><author pid="168/8984">Andrea Giugliano</author><author pid="32/1528">Anil Madhavapeddy</author><author pid="74/185">Peter Sewell</author></authors><title>SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems.</title><venue>SOSP</venue><pages>38-53</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RidgeSTGMS15</key><doi>10.1145/2815400.2815411</doi><ee>https://doi.org/10.1145/2815400.2815411</ee><url>https://dblp.org/rec/conf/sosp/RidgeSTGMS15</url></info>
+<url>URL#4221930</url>
+</hit>
+<hit score="3" id="4221931">
+<info><authors><author pid="165/2966">Ricardo Santana</author><author pid="13/4977">Raju Rangaswami</author><author pid="73/5769">Vasily Tarasov</author><author pid="56/3008">Dean Hildebrand</author></authors><title>A fast and slippery slope for file systems.</title><venue>INFLOW@SOSP</venue><pages>5:1-5:8</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SantanaRTH15</key><doi>10.1145/2819001.2819003</doi><ee>https://doi.org/10.1145/2819001.2819003</ee><url>https://dblp.org/rec/conf/sosp/SantanaRTH15</url></info>
+<url>URL#4221931</url>
+</hit>
+<hit score="3" id="4221932">
+<info><authors><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author></authors><title>Evolution of file and memory management.</title><venue>SOSP History Day</venue><pages>6:1-6:28</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Satyanarayanan15</key><doi>10.1145/2830903.2830907</doi><ee>https://doi.org/10.1145/2830903.2830907</ee><url>https://dblp.org/rec/conf/sosp/Satyanarayanan15</url></info>
+<url>URL#4221932</url>
+</hit>
+<hit score="3" id="4221933">
+<info><authors><author pid="s/MargoISeltzer">Margo I. Seltzer</author><author pid="72/6266">Mark Miller</author><author pid="m/DMazieres">David Mazières</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author></authors><title>Is achieving security a hopeless quest?</title><venue>SOSP History Day</venue><pages>13:1</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SeltzerMMZ15</key><doi>10.1145/2830903.2830914</doi><ee>https://doi.org/10.1145/2830903.2830914</ee><url>https://dblp.org/rec/conf/sosp/SeltzerMMZ15</url></info>
+<url>URL#4221933</url>
+</hit>
+<hit score="3" id="4221934">
+<info><authors><author pid="72/4861">Phillip Stanley-Marbell</author></authors><title>How device properties influence energy-delay metrics and the energy-efficiency of parallel computations.</title><venue>HotPower@SOSP</venue><pages>31-35</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Stanley-Marbell15</key><doi>10.1145/2818613.2818744</doi><ee>https://doi.org/10.1145/2818613.2818744</ee><url>https://dblp.org/rec/conf/sosp/Stanley-Marbell15</url></info>
+<url>URL#4221934</url>
+</hit>
+<hit score="3" id="4221935">
+<info><authors><author pid="06/3975">Swaminathan Sundararaman</author><author pid="31/5164">Nisha Talagala</author><author pid="154/0955">Dhananjoy Das</author><author pid="145/3683">Amar Mudrankit</author><author pid="28/10163">Dulcardo Arteaga</author></authors><title>Towards software defined persistent memory: rethinking software support for heterogenous memory architectures.</title><venue>INFLOW@SOSP</venue><pages>6:1-6:10</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SundararamanTDM15</key><doi>10.1145/2819001.2819004</doi><ee>https://doi.org/10.1145/2819001.2819004</ee><url>https://dblp.org/rec/conf/sosp/SundararamanTDM15</url></info>
+<url>URL#4221935</url>
+</hit>
+<hit score="3" id="4221937">
+<info><authors><author pid="119/6795">Carlos H. C. Teixeira</author><author pid="168/8975">Alexandre J. Fonseca</author><author pid="02/6087">Marco Serafini</author><author pid="41/5119">Georgos Siganos</author><author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author><author pid="01/3996">Ashraf Aboulnaga</author></authors><title>Arabesque: a system for distributed graph mining.</title><venue>SOSP</venue><pages>425-440</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TeixeiraFSSZA15</key><doi>10.1145/2815400.2815410</doi><ee>https://doi.org/10.1145/2815400.2815410</ee><url>https://dblp.org/rec/conf/sosp/TeixeiraFSSZA15</url></info>
+<url>URL#4221937</url>
+</hit>
+<hit score="3" id="4221938">
+<info><authors><author pid="277/2163">Chia-Che Tsai</author><author pid="01/2142-1">Yang Zhan 0001</author><author pid="168/9028">Jayashree Reddy</author><author pid="135/5282">Yizheng Jiao</author><author pid="15/4777-45">Tao Zhang 0045</author><author pid="08/4732">Donald E. Porter</author></authors><title>How to get more value from your file system directory cache.</title><venue>SOSP</venue><pages>441-456</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TsaiZRJZP15</key><doi>10.1145/2815400.2815405</doi><ee>https://doi.org/10.1145/2815400.2815405</ee><url>https://dblp.org/rec/conf/sosp/TsaiZRJZP15</url></info>
+<url>URL#4221938</url>
+</hit>
+<hit score="3" id="4221939">
+<info><authors><author pid="120/6867">Qiuyun Wang</author><author pid="l/BenjaminCLee">Benjamin C. Lee</author></authors><title>Modeling communication costs in blade servers.</title><venue>HotPower@SOSP</venue><pages>11-15</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WangL15</key><doi>10.1145/2818613.2818743</doi><ee>https://doi.org/10.1145/2818613.2818743</ee><url>https://dblp.org/rec/conf/sosp/WangL15</url></info>
+<url>URL#4221939</url>
+</hit>
+<hit score="3" id="4221940">
+<info><authors><author pid="168/9037">Xingda Wei</author><author pid="151/7509">Jiaxin Shi</author><author pid="158/9200">Yanzhe Chen</author><author pid="22/6904-1">Rong Chen 0001</author><author pid="31/6601-1">Haibo Chen 0001</author></authors><title>Fast in-memory transaction processing using RDMA and HTM.</title><venue>SOSP</venue><pages>87-104</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WeiSCCC15</key><doi>10.1145/2815400.2815419</doi><ee>https://doi.org/10.1145/2815400.2815419</ee><url>https://dblp.org/rec/conf/sosp/WeiSCCC15</url></info>
+<url>URL#4221940</url>
+</hit>
+<hit score="3" id="4221941">
+<info><authors><author pid="135/6818">Zev Weiss</author><author pid="s/SriramSubramanian">Sriram Subramanian</author><author pid="06/3975">Swaminathan Sundararaman</author><author pid="170/5323">Vinay Sridhar</author><author pid="31/5164">Nisha Talagala</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Mjölnir: collecting trash in a demanding new world.</title><venue>INFLOW@SOSP</venue><pages>4:1-4:10</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WeissSSSTAA15</key><doi>10.1145/2819001.2819006</doi><ee>https://doi.org/10.1145/2819001.2819006</ee><url>https://dblp.org/rec/conf/sosp/WeissSSSTAA15</url></info>
+<url>URL#4221941</url>
+</hit>
+<hit score="3" id="4221942">
+<info><authors><author pid="04/5576">Chao Xie</author><author pid="18/10537">Chunzhi Su</author><author pid="142/3140">Cody Littley</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="23/6695">Manos Kapritsos</author><author pid="w/YangWang9">Yang Wang 0009</author></authors><title>High-performance ACID via modular concurrency control.</title><venue>SOSP</venue><pages>279-294</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/XieSLAK015</key><doi>10.1145/2815400.2815430</doi><ee>https://doi.org/10.1145/2815400.2815430</ee><url>https://dblp.org/rec/conf/sosp/XieSLAK015</url></info>
+<url>URL#4221942</url>
+</hit>
+<hit score="3" id="4221943">
+<info><authors><author pid="12/778">Yu Yan</author><author pid="155/5462">Songtao He</author><author pid="55/3521">Yunxin Liu</author><author pid="79/7077">Longbo Huang</author></authors><title>Optimizing power consumption of mobile games.</title><venue>HotPower@SOSP</venue><pages>21-25</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YanHLH15</key><doi>10.1145/2818613.2818746</doi><ee>https://doi.org/10.1145/2818613.2818746</ee><url>https://dblp.org/rec/conf/sosp/YanHLH15</url></info>
+<url>URL#4221943</url>
+</hit>
+<hit score="3" id="4221944">
+<info><authors><author pid="141/9196">Suli Yang</author><author pid="09/10322">Tyler Harter</author><author pid="63/4544">Nishant Agrawal</author><author pid="153/4401">Salini Selvaraj Kowsalya</author><author pid="09/11479">Anand Krishnamurthy</author><author pid="67/4560">Samer Al-Kiswany</author><author pid="45/8524">Rini T. Kaushik</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Split-level I/O scheduling.</title><venue>SOSP</venue><pages>474-489</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YangHAKKAKAA15</key><doi>10.1145/2815400.2815421</doi><ee>https://doi.org/10.1145/2815400.2815421</ee><url>https://dblp.org/rec/conf/sosp/YangHAKKAKAA15</url></info>
+<url>URL#4221944</url>
+</hit>
+<hit score="3" id="4221945">
+<info><authors><author pid="170/5340">Ilya Yanok</author><author pid="54/2322">Nathaniel Nystrom</author></authors><title>Tapir: a language for verified OS kernel probes.</title><venue>PLOS@SOSP</venue><pages>33-38</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YanokN15</key><doi>10.1145/2818302.2818303</doi><ee>https://doi.org/10.1145/2818302.2818303</ee><url>https://dblp.org/rec/conf/sosp/YanokN15</url></info>
+<url>URL#4221945</url>
+</hit>
+<hit score="3" id="4221946">
+<info><authors><author pid="18/2013">Seehwan Yoo</author><author pid="170/5335">YoonSeok Shim</author><author pid="170/5355">Seunghac Lee</author><author pid="170/5334">Sang-Ah Lee</author><author pid="69/4977">Joongheon Kim</author></authors><title>A case for bad big.LITTLE switching: how to scale power-performance in SI-HMP.</title><venue>HotPower@SOSP</venue><pages>1-5</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YooSLLK15</key><doi>10.1145/2818613.2818745</doi><ee>https://doi.org/10.1145/2818613.2818745</ee><url>https://dblp.org/rec/conf/sosp/YooSLLK15</url></info>
+<url>URL#4221946</url>
+</hit>
+<hit score="3" id="4221947">
+<info><authors><author pid="70/10355">Xinhao Yuan</author><author pid="68/8270">David Williams-King</author><author pid="71/3724">Junfeng Yang</author><author pid="46/652">Simha Sethumadhavan</author></authors><title>Making lock-free data structures verifiable with artificial transactions.</title><venue>PLOS@SOSP</venue><pages>39-45</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YuanWYS15</key><doi>10.1145/2818302.2818309</doi><ee>https://doi.org/10.1145/2818302.2818309</ee><url>https://dblp.org/rec/conf/sosp/YuanWYS15</url></info>
+<url>URL#4221947</url>
+</hit>
+<hit score="3" id="4221948">
+<info><authors><author pid="68/1122">Irene Zhang</author><author pid="88/8770">Naveen Kr. Sharma</author><author pid="69/9867">Adriana Szekeres</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="03/6105">Dan R. K. Ports</author></authors><title>Building consistent transactions with inconsistent replication.</title><venue>SOSP</venue><pages>263-278</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangSSKP15</key><doi>10.1145/2815400.2815404</doi><ee>https://doi.org/10.1145/2815400.2815404</ee><url>https://dblp.org/rec/conf/sosp/ZhangSSKP15</url></info>
+<url>URL#4221948</url>
+</hit>
+</hits>
+</result>

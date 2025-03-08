@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="288792">conf* osdi* 1994*</query>
+<status code="200">OK</status>
+<time unit="msecs">5.63</time>
+<completions total="1" computed="1" sent="1">
+<c sc="27" dc="27" oc="27" id="58180228">1994</c>
+</completions>
+<hits total="27" computed="27" sent="27" first="0">
+<hit score="4" id="7397497">
+<info><authors><author pid="27/2540">Theodore H. Romer</author><author pid="41/6870-1">Dennis Lee 0001</author><author pid="b/BNBershad">Brian N. Bershad</author><author pid="40/5996">J. Bradley Chen</author></authors><title>Dynamic Page Mapping Policies for Cache Conflict Resolution on Standard Hardware.</title><venue>OSDI</venue><pages>255-266</pages><year>1994</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/osdi/RomerLBC94</key><url>https://dblp.org/rec/conf/osdi/RomerLBC94</url></info>
+<url>URL#7397497</url>
+</hit>
+<hit score="3" id="7397477">
+<info><authors><author pid="b/MaryLBailey">Mary L. Bailey</author><author pid="03/4723">Burra Gopal</author><author pid="59/2398">Michael A. Pagels</author><author pid="p/LLPeterson">Larry L. Peterson</author><author pid="03/2866">Prasenjit Sarkar</author></authors><title>PathFinder: A Pattern-Based Packet Classifier.</title><venue>OSDI</venue><pages>115-123</pages><year>1994</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/osdi/BaileyGPPS94</key><url>https://dblp.org/rec/conf/osdi/BaileyGPPS94</url></info>
+<url>URL#7397477</url>
+</hit>
+<hit score="3" id="7397478">
+<info><authors><author pid="b/KavitaBala">Kavita Bala</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="16/6237">William E. Weihl</author></authors><title>Software Prefetching and Caching for Translation Lookaside Buffers.</title><venue>OSDI</venue><pages>243-253</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/BalaKW94</key><ee>http://dl.acm.org/citation.cfm?id=1267656</ee><url>https://dblp.org/rec/conf/osdi/BalaKW94</url></info>
+<url>URL#7397478</url>
+</hit>
+<hit score="3" id="7397479">
+<info><authors><author pid="87/3674">Pei Cao</author><author pid="f/EdwardWFelten">Edward W. Felten</author><author pid="l/KaiLi1">Kai Li 0001</author></authors><title>Implementation and Performance of Application-Controlled File Caching.</title><venue>OSDI</venue><pages>165-177</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/CaoFL94</key><ee>http://dl.acm.org/citation.cfm?id=1267651</ee><url>https://dblp.org/rec/conf/osdi/CaoFL94</url></info>
+<url>URL#7397479</url>
+</hit>
+<hit score="3" id="7397480">
+<info><authors><author pid="c/DRCheriton">David R. Cheriton</author></authors><title>Low and High Risk Operating System Architectures (Panel Statement).</title><venue>OSDI</venue><pages>197</pages><year>1994</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/osdi/Cheriton94</key><url>https://dblp.org/rec/conf/osdi/Cheriton94</url></info>
+<url>URL#7397480</url>
+</hit>
+<hit score="3" id="7397481">
+<info><authors><author pid="c/DRCheriton">David R. Cheriton</author><author pid="49/2790">Kenneth J. Duda</author></authors><title>A Caching Model of Operating System Kernel Functionality.</title><venue>OSDI</venue><pages>179-193</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/CheritonD94</key><ee>http://dl.acm.org/citation.cfm?id=1267652</ee><url>https://dblp.org/rec/conf/osdi/CheritonD94</url></info>
+<url>URL#7397481</url>
+</hit>
+<hit score="3" id="7397482">
+<info><authors><author pid="d/MDahlin">Michael Dahlin</author><author pid="69/1132">Randolph Y. Wang</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author><author pid="p/DAPatterson">David A. Patterson 0001</author></authors><title>Cooperative Caching: Using Remote Client Memory to Improve File System Performance.</title><venue>OSDI</venue><pages>267-280</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/DahlinWAP94</key><ee>http://dl.acm.org/citation.cfm?id=1267657</ee><url>https://dblp.org/rec/conf/osdi/DahlinWAP94</url></info>
+<url>URL#7397482</url>
+</hit>
+<hit score="3" id="7397483">
+<info><authors><author pid="d/FredDouglis">Fred Douglis</author><author pid="69/1714">Ramón Cáceres</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="l/KaiLi1">Kai Li 0001</author><author pid="64/1959">Brian Marsh</author><author pid="97/6559">Joshua A. Tauber</author></authors><title>Storage Alternatives for Mobile Computers.</title><venue>OSDI</venue><pages>25-37</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/DouglisCKLMT94</key><ee>http://dl.acm.org/citation.cfm?id=1267641</ee><url>https://dblp.org/rec/conf/osdi/DouglisCKLMT94</url></info>
+<url>URL#7397483</url>
+</hit>
+<hit score="3" id="7397484">
+<info><authors><author pid="e/DREngler">Dawson R. Engler</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="88/6703">James W. O&apos;Toole Jr.</author></authors><title>The Exokernel Approach to Operating System Extensibility (Panel Statement).</title><venue>OSDI</venue><pages>198</pages><year>1994</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/osdi/EnglerKO94</key><url>https://dblp.org/rec/conf/osdi/EnglerKO94</url></info>
+<url>URL#7397484</url>
+</hit>
+<hit score="3" id="7397485">
+<info><authors><author pid="f/MJFeeley">Michael J. Feeley</author><author pid="c/JSChase">Jeffrey S. Chase</author><author pid="n/VivekRNarasayya">Vivek R. Narasayya</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Integrating Coherency and Recoverability in Distributed Systems.</title><venue>OSDI</venue><pages>215-227</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/FeeleyCNL94</key><ee>http://dl.acm.org/citation.cfm?id=1267654</ee><url>https://dblp.org/rec/conf/osdi/FeeleyCNL94</url></info>
+<url>URL#7397485</url>
+</hit>
+<hit score="3" id="7397486">
+<info><authors><author pid="f/PauloJPFerreira">Paulo Ferreira 0001</author><author pid="s/MarcShapiro">Marc Shapiro 0001</author></authors><title>Garbage Collection and DSM Consistency.</title><venue>OSDI</venue><pages>229-241</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/FerreiraS94</key><ee>http://dl.acm.org/citation.cfm?id=1267655</ee><url>https://dblp.org/rec/conf/osdi/FerreiraS94</url></info>
+<url>URL#7397486</url>
+</hit>
+<hit score="3" id="7397487">
+<info><authors><author pid="90/829">Vincent W. Freeh</author><author pid="l/DavidKLowenthal">David K. Lowenthal</author><author pid="a/GregoryRAndrews">Gregory R. Andrews</author></authors><title>Distributed Filaments: Efficient Fine-Grain Parallelism on a Cluster of Workstations.</title><venue>OSDI</venue><pages>201-213</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/FreehLA94</key><ee>http://dl.acm.org/citation.cfm?id=1267653</ee><url>https://dblp.org/rec/conf/osdi/FreehLA94</url></info>
+<url>URL#7397487</url>
+</hit>
+<hit score="3" id="7397488">
+<info><authors><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="p/YaleNPatt">Yale N. Patt</author></authors><title>Metadata Update Performance in File Systems.</title><venue>OSDI</venue><pages>49-60</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/GangerP94</key><ee>http://dl.acm.org/citation.cfm?id=1267643</ee><url>https://dblp.org/rec/conf/osdi/GangerP94</url></info>
+<url>URL#7397488</url>
+</hit>
+<hit score="3" id="7397489">
+<info><authors><author pid="83/1708">Povl T. Koch</author><author pid="82/3240">Robert J. Fowler</author><author pid="95/1442">Eric Jul</author></authors><title>Message-Driven Relaxed Consistency in a Software Distributed Shared Memory.</title><venue>OSDI</venue><pages>75-85</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/KochFJ94</key><ee>http://dl.acm.org/citation.cfm?id=1267645</ee><url>https://dblp.org/rec/conf/osdi/KochFJ94</url></info>
+<url>URL#7397489</url>
+</hit>
+<hit score="3" id="7397490">
+<info><authors><author pid="k/DavidKotz">David Kotz</author></authors><title>Disk-directed I/O for MIMD Multiprocessors.</title><venue>OSDI</venue><pages>61-74</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/Kotz94</key><ee>http://dl.acm.org/citation.cfm?id=1267644</ee><url>https://dblp.org/rec/conf/osdi/Kotz94</url></info>
+<url>URL#7397490</url>
+</hit>
+<hit score="3" id="7397491">
+<info><authors><author pid="72/6821">Paul J. Leach</author></authors><title>Panel: Radical Operating Systems Structures for Extensibility.</title><venue>OSDI</venue><pages>195</pages><year>1994</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/osdi/Leach94</key><url>https://dblp.org/rec/conf/osdi/Leach94</url></info>
+<url>URL#7397491</url>
+</hit>
+<hit score="3" id="7397492">
+<info><authors><author pid="45/4007">Chao-Hsien Lee</author><author pid="30/2066">Meng Chang Chen</author><author pid="43/374">Ruei-Chuan Chang</author></authors><title>HiPEC: High Performance External Virtual Memory Caching.</title><venue>OSDI</venue><pages>153-164</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/LeeCC94</key><ee>http://dl.acm.org/citation.cfm?id=1267650</ee><url>https://dblp.org/rec/conf/osdi/LeeCC94</url></info>
+<url>URL#7397492</url>
+</hit>
+<hit score="3" id="7397493">
+<info><authors><author pid="53/306">Steven Lucco</author></authors><title>High-Performance Microkernel Systems (Panel Statement).</title><venue>OSDI</venue><pages>199</pages><year>1994</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/osdi/Lucco94</key><url>https://dblp.org/rec/conf/osdi/Lucco94</url></info>
+<url>URL#7397493</url>
+</hit>
+<hit score="3" id="7397494">
+<info><authors><author pid="70/6754">Allen Brady Montz</author><author pid="12/2629">David Mosberger</author><author pid="93/1254">Sean W. O&apos;Malley</author><author pid="p/LLPeterson">Larry L. Peterson</author><author pid="p/TAProebsting">Todd A. Proebsting</author><author pid="h/JohnHHartman">John H. Hartman</author></authors><title>Scout: A Communications-Oriented Operating System (Abstract).</title><venue>OSDI</venue><pages>200</pages><year>1994</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/osdi/MontzMOPPH94</key><url>https://dblp.org/rec/conf/osdi/MontzMOPPH94</url></info>
+<url>URL#7397494</url>
+</hit>
+<hit score="3" id="7397495">
+<info><authors><author pid="06/2055">Erich M. Nahum</author><author pid="y/DavidJYates">David J. Yates</author><author pid="k/JamesFKurose">James F. Kurose</author><author pid="t/DonaldFTowsley">Donald F. Towsley</author></authors><title>Performance Issues in Parallelized Network Protocols.</title><venue>OSDI</venue><pages>125-137</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/NahumYKT94</key><ee>http://dl.acm.org/citation.cfm?id=1267648</ee><url>https://dblp.org/rec/conf/osdi/NahumYKT94</url></info>
+<url>URL#7397495</url>
+</hit>
+<hit score="3" id="7397496">
+<info><authors><author pid="88/6703">James W. O&apos;Toole Jr.</author><author pid="s/LiubaShrira">Liuba Shrira</author></authors><title>Opportunistic Log: Efficient Installation Reads in a Reliable Storage Server.</title><venue>OSDI</venue><pages>39-48</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/OTooleS94</key><ee>http://dl.acm.org/citation.cfm?id=1267642</ee><url>https://dblp.org/rec/conf/osdi/OTooleS94</url></info>
+<url>URL#7397496</url>
+</hit>
+<hit score="3" id="7397498">
+<info><authors><author pid="s/StefanSavage">Stefan Savage</author><author pid="b/BNBershad">Brian N. Bershad</author></authors><title>Some Issues in the Design of an Extensible Operating System (Panel Statement).</title><venue>OSDI</venue><pages>196</pages><year>1994</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/osdi/SavageB94</key><url>https://dblp.org/rec/conf/osdi/SavageB94</url></info>
+<url>URL#7397498</url>
+</hit>
+<hit score="3" id="7397499">
+<info><authors><author pid="59/3752">Daniel J. Scales</author><author pid="l/MonicaSLam">Monica S. Lam</author></authors><title>The Design and Evaluation of a Shared Object System for Distributed Memory Machines.</title><venue>OSDI</venue><pages>101-114</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/ScalesL94</key><ee>http://dl.acm.org/citation.cfm?id=1267647</ee><url>https://dblp.org/rec/conf/osdi/ScalesL94</url></info>
+<url>URL#7397499</url>
+</hit>
+<hit score="3" id="7397500">
+<info><authors><author pid="51/3987">Ronald C. Unrau</author><author pid="73/2727">Orran Krieger</author><author pid="02/4102">Benjamin Gamsa</author><author pid="82/5150">Michael Stumm</author></authors><title>Experiences with Locking in a NUMA Multiprocessor Operating System Kernel.</title><venue>OSDI</venue><pages>139-152</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/UnrauKGS94</key><ee>http://dl.acm.org/citation.cfm?id=1267649</ee><url>https://dblp.org/rec/conf/osdi/UnrauKGS94</url></info>
+<url>URL#7397500</url>
+</hit>
+<hit score="3" id="7397501">
+<info><authors><author pid="40/1118">Carl A. Waldspurger</author><author pid="16/6237">William E. Weihl</author></authors><title>Lottery Scheduling: Flexible Proportional-Share Resource Management.</title><venue>OSDI</venue><pages>1-11</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/WaldspurgerW94</key><ee>http://dl.acm.org/citation.cfm?id=1267639</ee><url>https://dblp.org/rec/conf/osdi/WaldspurgerW94</url></info>
+<url>URL#7397501</url>
+</hit>
+<hit score="3" id="7397502">
+<info><authors><author pid="w/MarkWeiser">Mark D. Weiser</author><author pid="w/BrentBWelch">Brent B. Welch</author><author pid="03/5860">Alan J. Demers</author><author pid="34/5593">Scott Shenker</author></authors><title>Scheduling for Reduced CPU Energy.</title><venue>OSDI</venue><pages>13-23</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/WeiserWDS94</key><ee>http://dl.acm.org/citation.cfm?id=1267640</ee><url>https://dblp.org/rec/conf/osdi/WeiserWDS94</url></info>
+<url>URL#7397502</url>
+</hit>
+<hit score="3" id="7397503">
+<info><authors><author pid="06/2082">Matthew J. Zekauskas</author><author pid="83/2689">Wayne Sawdon</author><author pid="b/BNBershad">Brian N. Bershad</author></authors><title>Software Write Detection for a Distributed Shared Memory.</title><venue>OSDI</venue><pages>87-100</pages><year>1994</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/ZekauskasSB94</key><ee>http://dl.acm.org/citation.cfm?id=1267646</ee><url>https://dblp.org/rec/conf/osdi/ZekauskasSB94</url></info>
+<url>URL#7397503</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="288033">conf* osdi* 1996*</query>
+<status code="200">OK</status>
+<time unit="msecs">104.92</time>
+<completions total="1" computed="1" sent="1">
+<c sc="21" dc="21" oc="21" id="58180284">1996</c>
+</completions>
+<hits total="21" computed="21" sent="21" first="0">
+<hit score="3" id="7302993">
+<info><authors><author pid="b/JoseCarlosBrustoloni">José Carlos Brustoloni</author><author pid="s/PeterSteenkiste">Peter Steenkiste</author></authors><title>Effects of Buffering Semantics on I/O Performance.</title><venue>OSDI</venue><pages>277-291</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/BrustoloniS96</key><doi>10.1145/238721.238787</doi><ee>https://doi.org/10.1145/238721.238787</ee><url>https://dblp.org/rec/conf/osdi/BrustoloniS96</url></info>
+<url>URL#7302993</url>
+</hit>
+<hit score="3" id="7302994">
+<info><authors><author pid="51/1015">Gregory D. Buzzard</author><author pid="34/293">David Jacobson</author><author pid="92/1250">Milon Mackey</author><author pid="95/5861">Scott Marovich</author><author pid="w/JohnWilkes">John Wilkes</author></authors><title>An Implementation of the Hamlyn Sender-Managed Interface Architecture.</title><venue>OSDI</venue><pages>245-259</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/BuzzardJMMW96</key><doi>10.1145/238721.238784</doi><ee>https://doi.org/10.1145/238721.238784</ee><url>https://dblp.org/rec/conf/osdi/BuzzardJMMW96</url></info>
+<url>URL#7302994</url>
+</hit>
+<hit score="3" id="7302995">
+<info><authors><author pid="35/6770">Manuel Costa</author><author pid="88/3329">Paulo Guedes</author><author pid="26/3256">Manuel Sequeira</author><author pid="24/4061">Nuno Neves 0001</author><author pid="c/MiguelCastro">Miguel Castro 0001</author></authors><title>Lightweight Logging for Lazy Release Consistent Distributed Shared Memory.</title><venue>OSDI</venue><pages>59-73</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/CostaGSNC96</key><doi>10.1145/238721.238762</doi><ee>https://doi.org/10.1145/238721.238762</ee><url>https://dblp.org/rec/conf/osdi/CostaGSNC96</url></info>
+<url>URL#7302995</url>
+</hit>
+<hit score="3" id="7302996">
+<info><authors><author pid="d/PDruschel">Peter Druschel</author><author pid="55/2641">Gaurav Banga</author></authors><title>Lazy Receiver Processing (LRP): A Network Subsystem Architecture for Server Systems.</title><venue>OSDI</venue><pages>261-275</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/DruschelB96</key><doi>10.1145/238721.238786</doi><ee>https://doi.org/10.1145/238721.238786</ee><url>https://dblp.org/rec/conf/osdi/DruschelB96</url></info>
+<url>URL#7302996</url>
+</hit>
+<hit score="3" id="7302997">
+<info><authors><author pid="e/YasuhiroEndo">Yasuhiro Endo</author><author pid="181/2834">Zheng Wang</author><author pid="40/5996">J. Bradley Chen</author><author pid="s/MargoISeltzer">Margo I. Seltzer</author></authors><title>Using Latency to Evaluate Interactive System Performance.</title><venue>OSDI</venue><pages>185-199</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/EndoWCS96</key><doi>10.1145/238721.238775</doi><ee>https://doi.org/10.1145/238721.238775</ee><url>https://dblp.org/rec/conf/osdi/EndoWCS96</url></info>
+<url>URL#7302997</url>
+</hit>
+<hit score="3" id="7302998">
+<info><authors><author pid="f/BryanFord">Bryan Ford</author><author pid="h/MikeHibler">Mike Hibler</author><author pid="l/JayLepreau">Jay Lepreau</author><author pid="01/3094">Patrick Tullmann</author><author pid="47/2634">Godmar Back</author><author pid="48/3618">Stephen Clawson</author></authors><title>Microkernels Meet Recursive Virtual Machines.</title><venue>OSDI</venue><pages>137-151</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/FordHLTBC96</key><doi>10.1145/238721.238769</doi><ee>https://doi.org/10.1145/238721.238769</ee><url>https://dblp.org/rec/conf/osdi/FordHLTBC96</url></info>
+<url>URL#7302998</url>
+</hit>
+<hit score="3" id="7302999">
+<info><authors><author pid="f/BryanFord">Bryan Ford</author><author pid="59/5125">Sai Susarla</author></authors><title>CPU Inheritance Scheduling.</title><venue>OSDI</venue><pages>91-105</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/FordS96</key><doi>10.1145/238721.238765</doi><ee>https://doi.org/10.1145/238721.238765</ee><url>https://dblp.org/rec/conf/osdi/FordS96</url></info>
+<url>URL#7302999</url>
+</hit>
+<hit score="3" id="7303000">
+<info><authors><author pid="77/2307-1">Pawan Goyal 0001</author><author pid="89/5643">Xingang Guo</author><author pid="v/HarrickMVin">Harrick M. Vin</author></authors><title>A Hierarchical CPU Scheduler for Multimedia Operating Systems.</title><venue>OSDI</venue><pages>107-121</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/GoyalGV96</key><doi>10.1145/238721.238766</doi><ee>https://doi.org/10.1145/238721.238766</ee><url>https://dblp.org/rec/conf/osdi/GoyalGV96</url></info>
+<url>URL#7303000</url>
+</hit>
+<hit score="3" id="7303001">
+<info><authors><author pid="g/MichaelBGreenwald">Michael Greenwald</author><author pid="c/DRCheriton">David R. Cheriton</author></authors><title>The Synergy Between Non-Blocking Synchronization and Operating System Structure.</title><venue>OSDI</venue><pages>123-136</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/GreenwaldC96</key><doi>10.1145/238721.238767</doi><ee>https://doi.org/10.1145/238721.238767</ee><url>https://dblp.org/rec/conf/osdi/GreenwaldC96</url></info>
+<url>URL#7303001</url>
+</hit>
+<hit score="3" id="7303002">
+<info><authors><author pid="38/3022">Tracy Kimbrel</author><author pid="t/ATomkins">Andrew Tomkins</author><author pid="31/1760">R. Hugo Patterson</author><author pid="b/BNBershad">Brian N. Bershad</author><author pid="87/3674">Pei Cao</author><author pid="f/EdwardWFelten">Edward W. Felten</author><author pid="g/GarthAGibson">Garth A. Gibson</author><author pid="k/AnnaRKarlin">Anna R. Karlin</author><author pid="l/KaiLi1">Kai Li 0001</author></authors><title>A Trace-Driven Comparison of Algorithms for Parallel Prefetching and Caching.</title><venue>OSDI</venue><pages>19-34</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/KimbrelTPBCFGKL96</key><doi>10.1145/238721.238737</doi><ee>https://doi.org/10.1145/238721.238737</ee><url>https://dblp.org/rec/conf/osdi/KimbrelTPBCFGKL96</url></info>
+<url>URL#7303002</url>
+</hit>
+<hit score="3" id="7303003">
+<info><authors><author pid="94/2654">James G. Mitchell</author></authors><title>JavaOS: Back to the Future (Abstract).</title><venue>OSDI</venue><pages>1</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/Mitchell96</key><doi>10.1145/238721.238731</doi><ee>https://doi.org/10.1145/238721.238731</ee><url>https://dblp.org/rec/conf/osdi/Mitchell96</url></info>
+<url>URL#7303003</url>
+</hit>
+<hit score="3" id="7303004">
+<info><authors><author pid="12/2629">David Mosberger</author><author pid="p/LLPeterson">Larry L. Peterson</author></authors><title>Making Paths Explicit in the Scout Operating System.</title><venue>OSDI</venue><pages>153-167</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/MosbergerP96</key><doi>10.1145/238721.238771</doi><ee>https://doi.org/10.1145/238721.238771</ee><url>https://dblp.org/rec/conf/osdi/MosbergerP96</url></info>
+<url>URL#7303004</url>
+</hit>
+<hit score="3" id="7303005">
+<info><authors><author pid="65/4120">Todd C. Mowry</author><author pid="b/AngelaDemkeBrown">Angela K. Demke</author><author pid="73/2727">Orran Krieger</author></authors><title>Automatic Compiler-Inserted I/O Prefetching for Out-of-Core Applications.</title><venue>OSDI</venue><pages>3-17</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/MowryDK96</key><doi>10.1145/238721.238734</doi><ee>https://doi.org/10.1145/238721.238734</ee><url>https://dblp.org/rec/conf/osdi/MowryDK96</url></info>
+<url>URL#7303005</url>
+</hit>
+<hit score="3" id="7303006">
+<info><authors><author pid="n/GeorgeCNecula">George C. Necula</author><author pid="l/PeterLee1">Peter Lee 0001</author></authors><title>Safe Kernel Extensions Without Run-Time Checking.</title><venue>OSDI</venue><pages>229-243</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/NeculaL96</key><doi>10.1145/238721.238781</doi><ee>https://doi.org/10.1145/238721.238781</ee><url>https://dblp.org/rec/conf/osdi/NeculaL96</url></info>
+<url>URL#7303006</url>
+</hit>
+<hit score="3" id="7303007">
+<info><authors><author pid="79/5347">Przemyslaw Pardyak</author><author pid="b/BNBershad">Brian N. Bershad</author></authors><title>Dynamic Binding for an Extensible System.</title><venue>OSDI</venue><pages>201-212</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/PardyakB96</key><doi>10.1145/238721.238777</doi><ee>https://doi.org/10.1145/238721.238777</ee><url>https://dblp.org/rec/conf/osdi/PardyakB96</url></info>
+<url>URL#7303007</url>
+</hit>
+<hit score="3" id="7303008">
+<info><authors><author pid="15/4272">Dejan Perkovic</author><author pid="k/PeterJKeleher">Peter J. Keleher</author></authors><title>Online Data-Race Detection via Coherency Guarantees.</title><venue>OSDI</venue><pages>47-57</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/PerkovicK96</key><doi>10.1145/238721.238760</doi><ee>https://doi.org/10.1145/238721.238760</ee><url>https://dblp.org/rec/conf/osdi/PerkovicK96</url></info>
+<url>URL#7303008</url>
+</hit>
+<hit score="3" id="7303009">
+<info><authors><author pid="93/3664">Sharon E. Perl</author><author pid="26/4692">Richard L. Sites</author></authors><title>Studies of Windows NT Performance Using Dynamic Execution Traces.</title><venue>OSDI</venue><pages>169-183</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/PerlS96</key><doi>10.1145/238721.238773</doi><ee>https://doi.org/10.1145/238721.238773</ee><url>https://dblp.org/rec/conf/osdi/PerlS96</url></info>
+<url>URL#7303009</url>
+</hit>
+<hit score="3" id="7303010">
+<info><authors><author pid="03/2866">Prasenjit Sarkar</author><author pid="h/JohnHHartman">John H. Hartman</author></authors><title>Efficient Cooperative Caching Using Hints.</title><venue>OSDI</venue><pages>35-46</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/SarkarH96</key><doi>10.1145/238721.238741</doi><ee>https://doi.org/10.1145/238721.238741</ee><url>https://dblp.org/rec/conf/osdi/SarkarH96</url></info>
+<url>URL#7303010</url>
+</hit>
+<hit score="3" id="7303011">
+<info><authors><author pid="s/MargoISeltzer">Margo I. Seltzer</author><author pid="e/YasuhiroEndo">Yasuhiro Endo</author><author pid="s/ChristopherSmall">Christopher Small 0001</author><author pid="s/KeithASmith">Keith A. Smith</author></authors><title>Dealing with Disaster: Surviving Misbehaved Kernel Extensions.</title><venue>OSDI</venue><pages>213-227</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/SeltzerESS96</key><doi>10.1145/238721.238779</doi><ee>https://doi.org/10.1145/238721.238779</ee><url>https://dblp.org/rec/conf/osdi/SeltzerESS96</url></info>
+<url>URL#7303011</url>
+</hit>
+<hit score="3" id="7303012">
+<info><authors><author pid="39/547">David L. Tennenhouse</author></authors><title>Active Networks (Abstract).</title><venue>OSDI</venue><pages>89</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/Tennenhouse96</key><doi>10.1145/238721.238764</doi><ee>https://doi.org/10.1145/238721.238764</ee><url>https://dblp.org/rec/conf/osdi/Tennenhouse96</url></info>
+<url>URL#7303012</url>
+</hit>
+<hit score="3" id="7303013">
+<info><authors><author pid="99/2747-1">Yuanyuan Zhou 0001</author><author pid="25/5411">Liviu Iftode</author><author pid="l/KaiLi1">Kai Li 0001</author></authors><title>Performance Evaluation of Two Home-Based Lazy Release Consistency Protocols for Shared Virtual Memory Systems.</title><venue>OSDI</venue><pages>75-88</pages><year>1996</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/ZhouIL96</key><doi>10.1145/238721.238763</doi><ee>https://doi.org/10.1145/238721.238763</ee><url>https://dblp.org/rec/conf/osdi/ZhouIL96</url></info>
+<url>URL#7303013</url>
+</hit>
+</hits>
+</result>

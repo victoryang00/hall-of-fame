@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287278">conf* sosp* 2005*</query>
+<status code="200">OK</status>
+<time unit="msecs">13.16</time>
+<completions total="1" computed="1" sent="1">
+<c sc="80" dc="80" oc="80" id="58181639">2005</c>
+</completions>
+<hits total="80" computed="80" sent="80" first="0">
+<hit score="3" id="6478969">
+<info><authors><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>Combination Methods for Ensembles of RBFs.</title><venue>ICANN</venue><pages>121-126</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icann/Hernandez-EspinosaTF05</key><doi>10.1007/11550907_20</doi><ee>https://doi.org/10.1007/11550907_20</ee><url>https://dblp.org/rec/conf/icann/Hernandez-EspinosaTF05</url></info>
+<url>URL#6478969</url>
+</hit>
+<hit score="3" id="6479117">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="18/6369">Mercedes Fernández-Redondo</author><author pid="01/337">Carlos Hernández-Espinosa</author></authors><title>Combination Methods for Ensembles of MF.</title><venue>ICANN</venue><pages>133-138</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icann/Torres-SospedraFH05</key><doi>10.1007/11550907_22</doi><ee>https://doi.org/10.1007/11550907_22</ee><url>https://dblp.org/rec/conf/icann/Torres-SospedraFH05</url></info>
+<url>URL#6479117</url>
+</hit>
+<hit score="3" id="6479118">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>New Results on Ensembles of Multilayer Feedforward.</title><venue>ICANN</venue><pages>139-144</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icann/Torres-SospedraHF05</key><doi>10.1007/11550907_23</doi><ee>https://doi.org/10.1007/11550907_23</ee><url>https://dblp.org/rec/conf/icann/Torres-SospedraHF05</url></info>
+<url>URL#6479118</url>
+</hit>
+<hit score="3" id="6495971">
+<info><authors><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>New experiments on ensembles of multilayer feedforward for classification problems.</title><venue>IJCNN</venue><pages>1120-1124</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ijcnn/HernandezEspinosaTF05</key><doi>10.1109/IJCNN.2005.1556010</doi><ee>https://doi.org/10.1109/IJCNN.2005.1556010</ee><url>https://dblp.org/rec/conf/ijcnn/HernandezEspinosaTF05</url></info>
+<url>URL#6495971</url>
+</hit>
+<hit score="3" id="6496284">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="18/6369">Mercedes Fernández-Redondo</author><author pid="01/337">Carlos Hernández-Espinosa</author></authors><title>A research on combination methods for ensembles of multilayer feedforward.</title><venue>IJCNN</venue><pages>1125-1130</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ijcnn/TorresSospedraFH05</key><doi>10.1109/IJCNN.2005.1556011</doi><ee>https://doi.org/10.1109/IJCNN.2005.1556011</ee><url>https://dblp.org/rec/conf/ijcnn/TorresSospedraFH05</url></info>
+<url>URL#6496284</url>
+</hit>
+<hit score="3" id="6496285">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>A comparison of combination methods for ensembles of RBF networks.</title><venue>IJCNN</venue><pages>1137-1141</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ijcnn/TorresSospedraHF05</key><doi>10.1109/IJCNN.2005.1556013</doi><ee>https://doi.org/10.1109/IJCNN.2005.1556013</ee><url>https://dblp.org/rec/conf/ijcnn/TorresSospedraHF05</url></info>
+<url>URL#6496285</url>
+</hit>
+<hit score="3" id="6506995">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="01/337">Carlos Hernández-Espinosa</author><author pid="18/6369">Mercedes Fernández-Redondo</author></authors><title>Ensembles of Multilayer Feedforward: Some New Results.</title><venue>IWANN</venue><pages>604-611</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwann/Torres-SospedraHF05</key><doi>10.1007/11494669_74</doi><ee>https://doi.org/10.1007/11494669_74</ee><url>https://dblp.org/rec/conf/iwann/Torres-SospedraHF05</url></info>
+<url>URL#6506995</url>
+</hit>
+<hit score="3" id="6526308">
+<info><authors><author pid="24/6177">Michael Abd-El-Malek</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="56/2610">Garth R. Goodson</author><author pid="r/MichaelKReiter">Michael K. Reiter</author><author pid="99/4722">Jay J. Wylie</author></authors><title>Fault-scalable Byzantine fault-tolerant services.</title><venue>SOSP</venue><pages>59-74</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Abd-El-MalekGGRW05</key><doi>10.1145/1095810.1095817</doi><ee>https://doi.org/10.1145/1095810.1095817</ee><url>https://dblp.org/rec/conf/sosp/Abd-El-MalekGGRW05</url></info>
+<url>URL#6526308</url>
+</hit>
+<hit score="3" id="6526309">
+<info><authors><author pid="13/3591">Amitanand S. Aiyer</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="17/597">Allen Clement</author><author pid="d/MDahlin">Michael Dahlin</author><author pid="99/1869">Jean-Philippe Martin</author><author pid="98/4763">Carl Porth</author></authors><title>BAR fault tolerance for cooperative services.</title><venue>SOSP</venue><pages>45-58</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AiyerACDMP05</key><doi>10.1145/1095810.1095816</doi><ee>https://doi.org/10.1145/1095810.1095816</ee><url>https://dblp.org/rec/conf/sosp/AiyerACDMP05</url></info>
+<url>URL#6526309</url>
+</hit>
+<hit score="3" id="6526310">
+<info><authors><author pid="57/377">Ricardo A. Baratto</author><author pid="02/1110">Leonard N. Kim</author><author pid="n/JasonNieh">Jason Nieh</author></authors><title>THINC: a virtual display architecture for thin-client computing.</title><venue>SOSP</venue><pages>277-290</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BarattoKN05</key><doi>10.1145/1095810.1095837</doi><ee>https://doi.org/10.1145/1095810.1095837</ee><url>https://dblp.org/rec/conf/sosp/BarattoKN05</url></info>
+<url>URL#6526310</url>
+</hit>
+<hit score="3" id="6526311">
+<info><authors><author pid="b/JoaoPBarreto2">João Barreto 0001</author><author pid="f/PauloJPFerreira">Paulo Ferreira 0001</author></authors><title>Efficient file storage using content-based indexing.</title><venue>SOSP</venue><pages>1-9</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BarretoF05</key><doi>10.1145/1095810.1118597</doi><ee>https://doi.org/10.1145/1095810.1118597</ee><url>https://dblp.org/rec/conf/sosp/BarretoF05</url></info>
+<url>URL#6526311</url>
+</hit>
+<hit score="3" id="6526312">
+<info><authors><author pid="53/6957">Andrew Baumann</author><author pid="36/248">Jonathan Appavoo</author></authors><title>Improving dynamic update for operating systems.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BaumannA05</key><doi>10.1145/1095810.1118622</doi><ee>https://doi.org/10.1145/1095810.1118622</ee><url>https://dblp.org/rec/conf/sosp/BaumannA05</url></info>
+<url>URL#6526312</url>
+</hit>
+<hit score="3" id="6526313">
+<info><authors><author pid="b/KPBirman">Kenneth P. Birman</author></authors><title>Opening remarks.</title><venue>SOSP</venue><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Birman05</key><doi>10.1145/1095810.1105661</doi><ee>https://doi.org/10.1145/1095810.1105661</ee><url>https://dblp.org/rec/conf/sosp/Birman05</url></info>
+<url>URL#6526313</url>
+</hit>
+<hit score="3" id="6526314">
+<info><authors><author pid="86/4441">Willem de Bruijn</author><author pid="91/800">Herbert Bos</author></authors><title>OS support for multi-gigabit networking.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BruijnB05</key><doi>10.1145/1095810.1118599</doi><ee>https://doi.org/10.1145/1095810.1118599</ee><url>https://dblp.org/rec/conf/sosp/BruijnB05</url></info>
+<url>URL#6526314</url>
+</hit>
+<hit score="3" id="6526315">
+<info><authors><author pid="76/202">Olga Brukman</author><author pid="d/ShlomiDolev">Shlomi Dolev</author><author pid="64/6151">Marcelo Sihman</author></authors><title>Recovery oriented programming.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BrukmanDS05</key><doi>10.1145/1095810.1118594</doi><ee>https://doi.org/10.1145/1095810.1118594</ee><url>https://dblp.org/rec/conf/sosp/BrukmanDS05</url></info>
+<url>URL#6526315</url>
+</hit>
+<hit score="3" id="6526316">
+<info><authors><author pid="91/5001">Ira Cohen</author><author pid="69/2537">Steve Zhang</author><author pid="37/1288">Moisés Goldszmidt</author><author pid="48/6862">Julie Symons</author><author pid="64/5765">Terence Kelly</author><author pid="90/5133">Armando Fox</author></authors><title>Capturing, indexing, clustering, and retrieving system history.</title><venue>SOSP</venue><pages>105-118</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CohenZGSKF05</key><doi>10.1145/1095810.1095821</doi><ee>https://doi.org/10.1145/1095810.1095821</ee><url>https://dblp.org/rec/conf/sosp/CohenZGSKF05</url></info>
+<url>URL#6526316</url>
+</hit>
+<hit score="3" id="6526317">
+<info><authors><author pid="88/2774">Tyson Condie</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author><author pid="m/PetrosManiatis">Petros Maniatis</author><author pid="71/1478">Sean C. Rhea</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author></authors><title>A need for componentized transport protocols.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CondieHMRR05</key><doi>10.1145/1095810.1118617</doi><ee>https://doi.org/10.1145/1095810.1118617</ee><url>https://dblp.org/rec/conf/sosp/CondieHMRR05</url></info>
+<url>URL#6526317</url>
+</hit>
+<hit score="3" id="6526318">
+<info><authors><author pid="35/6770">Manuel Costa</author><author pid="c/JonCrowcroft">Jon Crowcroft</author><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="r/AITRowstron">Antony I. T. Rowstron</author><author pid="z/LidongZhou">Lidong Zhou</author><author pid="94/5689">Lintao Zhang</author><author pid="b/PaulBarham">Paul Barham 0001</author></authors><title>Vigilante: end-to-end containment of internet worms.</title><venue>SOSP</venue><pages>133-147</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CostaCCRZZB05</key><doi>10.1145/1095810.1095824</doi><ee>https://doi.org/10.1145/1095810.1095824</ee><url>https://dblp.org/rec/conf/sosp/CostaCCRZZB05</url></info>
+<url>URL#6526318</url>
+</hit>
+<hit score="3" id="6526319">
+<info><authors><author pid="c/JonCrowcroft">Jon Crowcroft</author></authors><title>Peerlessness is next to godlessness.</title><venue>SOSP</venue><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Crowcroft05</key><doi>10.1145/1095810.1118574</doi><ee>https://doi.org/10.1145/1095810.1118574</ee><url>https://dblp.org/rec/conf/sosp/Crowcroft05</url></info>
+<url>URL#6526319</url>
+</hit>
+<hit score="3" id="6526320">
+<info><authors><author pid="d/ShlomiDolev">Shlomi Dolev</author><author pid="40/3537">Reuven Yagel</author></authors><title>Self-stabilizing operating systems.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DolevY05</key><doi>10.1145/1095810.1118590</doi><ee>https://doi.org/10.1145/1095810.1118590</ee><url>https://dblp.org/rec/conf/sosp/DolevY05</url></info>
+<url>URL#6526320</url>
+</hit>
+<hit score="3" id="6526321">
+<info><authors><author pid="395/1557">Timothy Durnan</author><author pid="48/2399">Christian Poellabauer</author></authors><title>DDVS: distributed dynamic voltage scaling.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DurnanP05</key><doi>10.1145/1095810.1118619</doi><ee>https://doi.org/10.1145/1095810.1118619</ee><url>https://dblp.org/rec/conf/sosp/DurnanP05</url></info>
+<url>URL#6526321</url>
+</hit>
+<hit score="3" id="6526322">
+<info><authors><author pid="91/5849">Petros Efstathopoulos</author><author pid="19/4756">Maxwell N. Krohn</author><author pid="01/5498">Steve Vandebogart</author><author pid="28/5295">Cliff Frey</author><author pid="36/2988">David Ziegler</author><author pid="78/5231">Eddie Kohler</author><author pid="m/DMazieres">David Mazières</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="82/11191">Robert Morris 0005</author></authors><title>Labels and event processes in the Asbestos operating system.</title><venue>SOSP</venue><pages>17-30</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/EfstathopoulosKVFZKMKM05</key><doi>10.1145/1095810.1095813</doi><ee>https://doi.org/10.1145/1095810.1095813</ee><url>https://dblp.org/rec/conf/sosp/EfstathopoulosKVFZKMKM05</url></info>
+<url>URL#6526322</url>
+</hit>
+<hit score="3" id="6526323">
+<info><authors><author pid="71/1693">Lars Eggert</author><author pid="69/1512">Joseph D. Touch</author></authors><title>Idletime scheduling with preemption intervals.</title><venue>SOSP</venue><pages>249-262</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/EggertT05</key><doi>10.1145/1095810.1095835</doi><ee>https://doi.org/10.1145/1095810.1095835</ee><url>https://dblp.org/rec/conf/sosp/EggertT05</url></info>
+<url>URL#6526323</url>
+</hit>
+<hit score="3" id="6526324">
+<info><authors><author pid="f/BryanFord">Bryan Ford</author><author pid="57/4329">Jacob Strauss</author><author pid="04/5917">Chris Lesniewski-Laas</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="82/11191">Robert Morris 0005</author><author pid="71/1478">Sean C. Rhea</author></authors><title>UIA: a user information architecture for personal devices.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FordSLKMR05</key><doi>10.1145/1095810.1118596</doi><ee>https://doi.org/10.1145/1095810.1118596</ee><url>https://dblp.org/rec/conf/sosp/FordSLKMR05</url></info>
+<url>URL#6526324</url>
+</hit>
+<hit score="3" id="6526325">
+<info><authors><author pid="g/AshvinGoel">Ashvin Goel</author><author pid="13/1085">Kenneth Po</author><author pid="34/2640">Kamran Farhadi</author><author pid="10/1143">Zheng Li</author><author pid="59/2063">Eyal de Lara</author></authors><title>The taser intrusion recovery system.</title><venue>SOSP</venue><pages>163-176</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GoelPFLL05</key><doi>10.1145/1095810.1095826</doi><ee>https://doi.org/10.1145/1095810.1095826</ee><url>https://dblp.org/rec/conf/sosp/GoelPFLL05</url></info>
+<url>URL#6526325</url>
+</hit>
+<hit score="3" id="6526326">
+<info><authors><author pid="70/3413-1">Lin Gu 0001</author><author pid="s/JohnAStankovic">John A. Stankovic</author></authors><title>t-kernel: a naturalizing OS kernel for low-power cost-effective computers.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GuS05</key><doi>10.1145/1095810.1118588</doi><ee>https://doi.org/10.1145/1095810.1118588</ee><url>https://dblp.org/rec/conf/sosp/GuS05</url></info>
+<url>URL#6526326</url>
+</hit>
+<hit score="3" id="6526327">
+<info><authors><author pid="42/5459-2">Saikat Guha 0002</author><author pid="f/PaulFrancis">Paul Francis</author></authors><title>Architecting a secure internet.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GuhaF05</key><doi>10.1145/1095810.1118614</doi><ee>https://doi.org/10.1145/1095810.1118614</ee><url>https://dblp.org/rec/conf/sosp/GuhaF05</url></info>
+<url>URL#6526327</url>
+</hit>
+<hit score="3" id="6526328">
+<info><authors><author pid="46/5713">Ramakrishna Gummadi</author><author pid="66/6021">Nupur Kothari</author><author pid="g/RameshGovindan">Ramesh Govindan</author><author pid="93/4679">Todd D. Millstein</author></authors><title>Kairos: a macro-programming system for wireless sensor networks.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GummadiKGM05</key><doi>10.1145/1095810.1118600</doi><ee>https://doi.org/10.1145/1095810.1118600</ee><url>https://dblp.org/rec/conf/sosp/GummadiKGM05</url></info>
+<url>URL#6526328</url>
+</hit>
+<hit score="3" id="6526329">
+<info><authors><author pid="84/4837">Diwaker Gupta</author><author pid="01/53">Kenneth Yocum</author><author pid="75/5094">Marvin McNett</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="v/AminVahdat">Amin Vahdat</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author></authors><title>To infinity and beyond: time warped network emulation.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GuptaYMSVV05</key><doi>10.1145/1095810.1118605</doi><ee>https://doi.org/10.1145/1095810.1118605</ee><url>https://dblp.org/rec/conf/sosp/GuptaYMSVV05</url></info>
+<url>URL#6526329</url>
+</hit>
+<hit score="3" id="6526330">
+<info><authors><author pid="01/1116">Michael R. Hines</author><author pid="02/6431">Mark Lewandowski</author><author pid="67/3923">Kartik Gopalan</author></authors><title>Anemone: adaptive network memory engine.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HinesLG05</key><doi>10.1145/1095810.1118608</doi><ee>https://doi.org/10.1145/1095810.1118608</ee><url>https://dblp.org/rec/conf/sosp/HinesLG05</url></info>
+<url>URL#6526330</url>
+</hit>
+<hit score="3" id="6526331">
+<info><authors><author pid="56/4439">Wenjun Hu</author><author pid="50/1133">Sachin Katti</author><author pid="54/75">Hariharan Rahul</author><author pid="k/DinaKatabi">Dina Katabi</author><author pid="c/JonCrowcroft">Jon Crowcroft</author></authors><title>Sending more for less bandwidth and power: a systems approach to network coding.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HuKRKC05</key><doi>10.1145/1095810.1118616</doi><ee>https://doi.org/10.1145/1095810.1118616</ee><url>https://dblp.org/rec/conf/sosp/HuKRKC05</url></info>
+<url>URL#6526331</url>
+</hit>
+<hit score="3" id="6526332">
+<info><authors><author pid="51/944-2">Hai Huang 0002</author><author pid="40/667">Wanda Hung</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>FS2: dynamic data replication in free disk space for improving disk performance and energy consumption.</title><venue>SOSP</venue><pages>263-276</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HuangHS05</key><doi>10.1145/1095810.1095836</doi><ee>https://doi.org/10.1145/1095810.1095836</ee><url>https://dblp.org/rec/conf/sosp/HuangHS05</url></info>
+<url>URL#6526332</url>
+</hit>
+<hit score="3" id="6526333">
+<info><authors><author pid="24/1640">Hiroo Ishikawa</author><author pid="77/6979">Tatsuo Nakajima</author><author pid="61/3672">Shuichi Oikawa</author><author pid="24/6630">Toshio Hirotsu</author></authors><title>Proactive operating system recovery.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/IshikawaNOH05</key><doi>10.1145/1095810.1118584</doi><ee>https://doi.org/10.1145/1095810.1118584</ee><url>https://dblp.org/rec/conf/sosp/IshikawaNOH05</url></info>
+<url>URL#6526333</url>
+</hit>
+<hit score="3" id="6526334">
+<info><authors><author pid="94/4527">Navendu Jain</author><author pid="66/3044">Praveen Yalagandula</author><author pid="d/MDahlin">Mike Dahlin</author><author pid="91/3045">Yin Zhang</author></authors><title>INSIGHT: a distributed monitoring system for tracking continuous queries.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JainYDZ05</key><doi>10.1145/1095810.1118611</doi><ee>https://doi.org/10.1145/1095810.1118611</ee><url>https://dblp.org/rec/conf/sosp/JainYDZ05</url></info>
+<url>URL#6526334</url>
+</hit>
+<hit score="3" id="6526335">
+<info><authors><author pid="79/3960">Emmanuel Jeanvoine</author></authors><title>Distributed operating system for resource discovery and allocation in federated clusters.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Jeanvoine05</key><doi>10.1145/1095810.1118583</doi><ee>https://doi.org/10.1145/1095810.1118583</ee><url>https://dblp.org/rec/conf/sosp/Jeanvoine05</url></info>
+<url>URL#6526335</url>
+</hit>
+<hit score="3" id="6526336">
+<info><authors><author pid="14/6676">Ashlesha Joshi</author><author pid="54/5833">Samuel T. King</author><author pid="54/6493">George W. Dunlap</author><author pid="c/PeterMChen">Peter M. Chen</author></authors><title>Detecting past and present intrusions through vulnerability-specific predicates.</title><venue>SOSP</venue><pages>91-104</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JoshiKDC05</key><doi>10.1145/1095810.1095820</doi><ee>https://doi.org/10.1145/1095810.1095820</ee><url>https://dblp.org/rec/conf/sosp/JoshiKDC05</url></info>
+<url>URL#6526336</url>
+</hit>
+<hit score="3" id="6526337">
+<info><authors><author pid="71/6060">Nikolai Joukov</author><author pid="38/1513">Rakesh Iyer</author><author pid="93/410">Avishay Traeger</author><author pid="51/5214">Charles P. Wright</author><author pid="71/1341">Erez Zadok</author></authors><title>Versatile, portable, and efficient OS profiling via latency analysis.</title><venue>SOSP</venue><pages>1-14</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JoukovITWZ05</key><doi>10.1145/1095810.1118607</doi><ee>https://doi.org/10.1145/1095810.1118607</ee><url>https://dblp.org/rec/conf/sosp/JoukovITWZ05</url></info>
+<url>URL#6526337</url>
+</hit>
+<hit score="3" id="6526338">
+<info><authors><author pid="25/3921">Kenji Kaneda</author><author pid="67/1786">Yoshihiro Oyama</author><author pid="y/AkinoriYonezawa">Akinori Yonezawa</author></authors><title>A virtual machine monitor for utilizing non-dedicated clusters.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KanedaOY05</key><doi>10.1145/1095810.1118618</doi><ee>https://doi.org/10.1145/1095810.1118618</ee><url>https://dblp.org/rec/conf/sosp/KanedaOY05</url></info>
+<url>URL#6526338</url>
+</hit>
+<hit score="3" id="6526339">
+<info><authors><author pid="25/3921">Kenji Kaneda</author><author pid="67/1786">Yoshihiro Oyama</author><author pid="y/AkinoriYonezawa">Akinori Yonezawa</author></authors><title>A virtual machine monitor for utilizing non-dedicated clusters.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KanedaOY05a</key><doi>10.1145/1095810.1118625</doi><ee>https://doi.org/10.1145/1095810.1118625</ee><url>https://dblp.org/rec/conf/sosp/KanedaOY05a</url></info>
+<url>URL#6526339</url>
+</hit>
+<hit score="3" id="6526340">
+<info><authors><author pid="64/5765">Terence Kelly</author></authors><title>Transaction mix performance models: methods and application to performance anomaly detection.</title><venue>SOSP</venue><pages>1-3</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Kelly05</key><doi>10.1145/1095810.1118591</doi><ee>https://doi.org/10.1145/1095810.1118591</ee><url>https://dblp.org/rec/conf/sosp/Kelly05</url></info>
+<url>URL#6526340</url>
+</hit>
+<hit score="3" id="6526341">
+<info><authors><author pid="00/3787">Kenji Kise</author><author pid="04/6204">Takahiro Katagiri</author><author pid="36/539">Hiroki Honda</author><author pid="15/379">Toshitsugu Yuba</author></authors><title>Towards scalable and simple software-DSM systems.</title><venue>SOSP</venue><pages>1-13</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KiseKHY05</key><doi>10.1145/1095810.1118586</doi><ee>https://doi.org/10.1145/1095810.1118586</ee><url>https://dblp.org/rec/conf/sosp/KiseKHY05</url></info>
+<url>URL#6526341</url>
+</hit>
+<hit score="3" id="6526342">
+<info><authors><author pid="50/6780">Joshua LeVasseur</author><author pid="37/5148">Volkmar Uhlig</author><author pid="54/1536">Ben Leslie</author><author pid="47/4453">Matthew Chapman</author><author pid="h/GernotHeiser">Gernot Heiser</author></authors><title>Pre-virtualization: uniting two worlds.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LeVasseurULCH05</key><doi>10.1145/1095810.1118604</doi><ee>https://doi.org/10.1145/1095810.1118604</ee><url>https://dblp.org/rec/conf/sosp/LeVasseurULCH05</url></info>
+<url>URL#6526342</url>
+</hit>
+<hit score="3" id="6526343">
+<info><authors><author pid="44/6007">Edgar A. León</author><author pid="66/5207">Michal Ostrowski</author></authors><title>An infrastructure for the development of kernel network services proof of concept: fast UDP.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LeonO05</key><doi>10.1145/1095810.1118582</doi><ee>https://doi.org/10.1145/1095810.1118582</ee><url>https://dblp.org/rec/conf/sosp/LeonO05</url></info>
+<url>URL#6526343</url>
+</hit>
+<hit score="3" id="6526344">
+<info><authors><author pid="33/729">Rebekah Leslie</author><author pid="j/MarkPJones">Mark P. Jones</author></authors><title>Operating system construction in Haskell.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LeslieJ05</key><doi>10.1145/1095810.1118589</doi><ee>https://doi.org/10.1145/1095810.1118589</ee><url>https://dblp.org/rec/conf/sosp/LeslieJ05</url></info>
+<url>URL#6526344</url>
+</hit>
+<hit score="3" id="6526345">
+<info><authors><author pid="34/317">Jin Liang</author><author pid="22/4235">Steven Y. Ko</author><author pid="02/6135">Indranil Gupta</author><author pid="45/3224">Klara Nahrstedt</author></authors><title>MON: management overlay networks for distributed systems.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiangKGN05</key><doi>10.1145/1095810.1118585</doi><ee>https://doi.org/10.1145/1095810.1118585</ee><url>https://dblp.org/rec/conf/sosp/LiangKGN05</url></info>
+<url>URL#6526345</url>
+</hit>
+<hit score="3" id="6526346">
+<info><authors><author pid="85/6600">Xuezheng Liu</author><author pid="39/5749">Aimin Pan</author><author pid="99/2649">Wei Lin</author><author pid="z/ZhengZhang">Zheng Zhang 0001</author></authors><title>Using model checker and replay facility to debug complex distributed system.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiuPLZ05</key><doi>10.1145/1095810.1118603</doi><ee>https://doi.org/10.1145/1095810.1118603</ee><url>https://dblp.org/rec/conf/sosp/LiuPLZ05</url></info>
+<url>URL#6526346</url>
+</hit>
+<hit score="3" id="6526347">
+<info><authors><author pid="75/3108">Boon Thau Loo</author><author pid="88/2774">Tyson Condie</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author><author pid="m/PetrosManiatis">Petros Maniatis</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Implementing declarative overlays.</title><venue>SOSP</venue><pages>75-90</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LooCHMRS05</key><doi>10.1145/1095810.1095818</doi><ee>https://doi.org/10.1145/1095810.1095818</ee><url>https://dblp.org/rec/conf/sosp/LooCHMRS05</url></info>
+<url>URL#6526347</url>
+</hit>
+<hit score="3" id="6526348">
+<info><authors><author pid="82/1226">Dominic G. Lucchetti</author><author pid="r/StevenKReinhardt">Steven K. Reinhardt</author><author pid="c/PeterMChen">Peter M. Chen</author></authors><title>ExtraVirt: detecting and recovering from transient processor faults.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LucchettiRC05</key><doi>10.1145/1095810.1118621</doi><ee>https://doi.org/10.1145/1095810.1118621</ee><url>https://dblp.org/rec/conf/sosp/LucchettiRC05</url></info>
+<url>URL#6526348</url>
+</hit>
+<hit score="3" id="6526349">
+<info><authors><author pid="63/201">Kiran Nagaraja</author><author pid="37/49">Andrew Tjang</author><author pid="05/2943">Fábio Oliveira</author><author pid="85/2722">Ricardo Bianchini</author><author pid="55/3942">Richard P. Martin</author><author pid="n/ThuDNguyen">Thu D. Nguyen</author></authors><title>Model-based validation for dealing with operator mistakes.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NagarajaTOBMN05</key><doi>10.1145/1095810.1118587</doi><ee>https://doi.org/10.1145/1095810.1118587</ee><url>https://dblp.org/rec/conf/sosp/NagarajaTOBMN05</url></info>
+<url>URL#6526349</url>
+</hit>
+<hit score="3" id="6526350">
+<info><authors><author pid="97/1336">Edmund B. Nightingale</author><author pid="c/PeterMChen">Peter M. Chen</author><author pid="14/85">Jason Flinn</author></authors><title>Speculative execution in a distributed file system.</title><venue>SOSP</venue><pages>191-205</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NightingaleCF05</key><doi>10.1145/1095810.1095829</doi><ee>https://doi.org/10.1145/1095810.1095829</ee><url>https://dblp.org/rec/conf/sosp/NightingaleCF05</url></info>
+<url>URL#6526350</url>
+</hit>
+<hit score="3" id="6526351">
+<info><authors><author pid="04/2670">David Oppenheimer</author><author pid="c/BrentNChun">Brent N. Chun</author><author pid="p/DAPatterson">David A. Patterson 0001</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Service placement in shared wide-area platforms.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OppenheimerCPSV05</key><doi>10.1145/1095810.1118581</doi><ee>https://doi.org/10.1145/1095810.1118581</ee><url>https://dblp.org/rec/conf/sosp/OppenheimerCPSV05</url></info>
+<url>URL#6526351</url>
+</hit>
+<hit score="3" id="6526352">
+<info><authors><author pid="60/5379">Shankar Pasupathy</author><author pid="56/2610">Garth R. Goodson</author><author pid="93/843">Vijayan Prabhakaran</author></authors><title>Making enterprise storage more search-friendly.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PasupathyGP05</key><doi>10.1145/1095810.1118606</doi><ee>https://doi.org/10.1145/1095810.1118606</ee><url>https://dblp.org/rec/conf/sosp/PasupathyGP05</url></info>
+<url>URL#6526352</url>
+</hit>
+<hit score="3" id="6526353">
+<info><authors><author pid="97/2992">Jay A. Patel</author><author pid="395/1558">Charles M. Yang</author><author pid="02/6135">Indranil Gupta</author></authors><title>Turning flash crowds into smart mobs with real-time stochastic detection and adaptive cooperative caching.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PatelYG05</key><doi>10.1145/1095810.1118623</doi><ee>https://doi.org/10.1145/1095810.1118623</ee><url>https://dblp.org/rec/conf/sosp/PatelYG05</url></info>
+<url>URL#6526353</url>
+</hit>
+<hit score="3" id="6526354">
+<info><authors><author pid="23/1987">Stefan Pleisch</author><author pid="b/KPBirman">Ken Birman</author></authors><title>Scalable querying and tracking of sensor networks from mobile platforms.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PleischB05</key><doi>10.1145/1095810.1118602</doi><ee>https://doi.org/10.1145/1095810.1118602</ee><url>https://dblp.org/rec/conf/sosp/PleischB05</url></info>
+<url>URL#6526354</url>
+</hit>
+<hit score="3" id="6526355">
+<info><authors><author pid="48/2399">Christian Poellabauer</author><author pid="395/1557">Timothy Durnan</author></authors><title>The case for judicious resource management.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PoellabauerD05</key><doi>10.1145/1095810.1118579</doi><ee>https://doi.org/10.1145/1095810.1118579</ee><url>https://dblp.org/rec/conf/sosp/PoellabauerD05</url></info>
+<url>URL#6526355</url>
+</hit>
+<hit score="3" id="6526356">
+<info><authors><author pid="03/6105">Dan R. K. Ports</author><author pid="21/659">Austin T. Clements</author><author pid="d/ErikDDemaine">Erik D. Demaine</author></authors><title>PersiFS: a versioned file system with an efficient representation.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PortsCD05</key><doi>10.1145/1095810.1118598</doi><ee>https://doi.org/10.1145/1095810.1118598</ee><url>https://dblp.org/rec/conf/sosp/PortsCD05</url></info>
+<url>URL#6526356</url>
+</hit>
+<hit score="3" id="6526357">
+<info><authors><author pid="93/843">Vijayan Prabhakaran</author><author pid="94/6213">Lakshmi N. Bairavasundaram</author><author pid="a/NitinAgrawal">Nitin Agrawal 0001</author><author pid="84/5664">Haryadi S. Gunawi</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>IRON file systems.</title><venue>SOSP</venue><pages>206-220</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PrabhakaranBAGAA05</key><doi>10.1145/1095810.1095830</doi><ee>https://doi.org/10.1145/1095810.1095830</ee><url>https://dblp.org/rec/conf/sosp/PrabhakaranBAGAA05</url></info>
+<url>URL#6526357</url>
+</hit>
+<hit score="3" id="6526358">
+<info><authors><author pid="31/3488-3">Feng Qin 0003</author><author pid="78/7202">Joseph A. Tucek</author><author pid="75/1238">Jagadeesan Sundaresan</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author></authors><title>Rx: treating bugs as allergies - a safe method to survive software failures.</title><venue>SOSP</venue><pages>235-248</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/QinTSZ05</key><doi>10.1145/1095810.1095833</doi><ee>https://doi.org/10.1145/1095810.1095833</ee><url>https://dblp.org/rec/conf/sosp/QinTSZ05</url></info>
+<url>URL#6526358</url>
+</hit>
+<hit score="3" id="6526359">
+<info><authors><author pid="91/1149">Andrew de los Reyes</author><author pid="69/6042-1">Christopher Frost 0001</author><author pid="78/5231">Eddie Kohler</author><author pid="18/4125">Mike Mammarella</author><author pid="97/8704">Lei Zhang</author></authors><title>The KudOS architecture for file systems.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ReyesFKMZ05</key><doi>10.1145/1095810.1118624</doi><ee>https://doi.org/10.1145/1095810.1118624</ee><url>https://dblp.org/rec/conf/sosp/ReyesFKMZ05</url></info>
+<url>URL#6526359</url>
+</hit>
+<hit score="3" id="6526360">
+<info><authors><author pid="08/2847">Patrick Reynolds</author><author pid="w/JanetLWiener">Janet L. Wiener</author><author pid="m/JeffreyCMogul">Jeffrey C. Mogul</author><author pid="s/MehulAShah">Mehul A. Shah</author><author pid="65/438">Charles Killian</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Experiences with Pip: finding unexpected behavior in distributed systems.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ReynoldsWMSKV05</key><doi>10.1145/1095810.1118601</doi><ee>https://doi.org/10.1145/1095810.1118601</ee><url>https://dblp.org/rec/conf/sosp/ReynoldsWMSKV05</url></info>
+<url>URL#6526360</url>
+</hit>
+<hit score="3" id="6526361">
+<info><authors><author pid="88/464">Vivek Sawant</author><author pid="25/531">Jasleen Kaur</author></authors><title>Supporting arbitrary queries in peer-to-peer networks using hybrid routing.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SawantK05</key><doi>10.1145/1095810.1118592</doi><ee>https://doi.org/10.1145/1095810.1118592</ee><url>https://dblp.org/rec/conf/sosp/SawantK05</url></info>
+<url>URL#6526361</url>
+</hit>
+<hit score="3" id="6526362">
+<info><authors><author pid="04/3992">Arvind Seshadri</author><author pid="03/6525">Mark Luk</author><author pid="80/4580">Elaine Shi</author><author pid="16/6873">Adrian Perrig</author><author pid="v/LeendertvanDoorn">Leendert van Doorn</author><author pid="k/PradeepKKhosla">Pradeep K. Khosla</author></authors><title>Pioneer: verifying code integrity and enforcing untampered code execution on legacy systems.</title><venue>SOSP</venue><pages>1-16</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SeshadriLSPDK05</key><doi>10.1145/1095810.1095812</doi><ee>https://doi.org/10.1145/1095810.1095812</ee><url>https://dblp.org/rec/conf/sosp/SeshadriLSPDK05</url></info>
+<url>URL#6526362</url>
+</hit>
+<hit score="3" id="6526363">
+<info><authors><author pid="36/3616">Alan Shieh</author><author pid="96/2005">Dan Williams 0001</author><author pid="s/EminGunSirer">Emin Gün Sirer</author><author pid="s/FredBSchneider">Fred B. Schneider</author></authors><title>Nexus: a new operating system for trustworthy computing.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ShiehWSS05</key><doi>10.1145/1095810.1118613</doi><ee>https://doi.org/10.1145/1095810.1118613</ee><url>https://dblp.org/rec/conf/sosp/ShiehWSS05</url></info>
+<url>URL#6526363</url>
+</hit>
+<hit score="3" id="6526364">
+<info><authors><author pid="93/2816">Yee Jiun Song</author><author pid="85/4250">Venugopalan Ramasubramanian</author><author pid="s/EminGunSirer">Emin Gün Sirer</author></authors><title>CobWeb: a proactive analysis-driven approach to content distribution.</title><venue>SOSP</venue><pages>1-3</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SongRS05</key><doi>10.1145/1095810.1118595</doi><ee>https://doi.org/10.1145/1095810.1118595</ee><url>https://dblp.org/rec/conf/sosp/SongRS05</url></info>
+<url>URL#6526364</url>
+</hit>
+<hit score="3" id="6526365">
+<info><authors><author pid="35/680">Craig A. N. Soules</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author></authors><title>Connections: using context to enhance file search.</title><venue>SOSP</venue><pages>119-132</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SoulesG05</key><doi>10.1145/1095810.1095822</doi><ee>https://doi.org/10.1145/1095810.1095822</ee><url>https://dblp.org/rec/conf/sosp/SoulesG05</url></info>
+<url>URL#6526365</url>
+</hit>
+<hit score="3" id="6526366">
+<info><authors><author pid="99/1798">Christopher Stewart</author><author pid="80/1422">Kai Shen</author></authors><title>Daphne: performance debugging using model-driven anomaly characterization.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/StewartS05</key><doi>10.1145/1095810.1118580</doi><ee>https://doi.org/10.1145/1095810.1118580</ee><url>https://dblp.org/rec/conf/sosp/StewartS05</url></info>
+<url>URL#6526366</url>
+</hit>
+<hit score="3" id="6526367">
+<info><authors><author pid="t/AndrewSTanenbaum">Andrew S. Tanenbaum</author></authors><title>Keynote speech.</title><venue>SOSP</venue><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Tanenbaum05</key><doi>10.1145/1095810.1105662</doi><ee>https://doi.org/10.1145/1095810.1105662</ee><url>https://dblp.org/rec/conf/sosp/Tanenbaum05</url></info>
+<url>URL#6526367</url>
+</hit>
+<hit score="3" id="6526368">
+<info><authors><author pid="24/4949">Matthew E. Tolentino</author><author pid="56/3019">Kirk W. Cameron</author></authors><title>Improving the energy efficiency of high-performance server systems.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TolentinoC05</key><doi>10.1145/1095810.1118620</doi><ee>https://doi.org/10.1145/1095810.1118620</ee><url>https://dblp.org/rec/conf/sosp/TolentinoC05</url></info>
+<url>URL#6526368</url>
+</hit>
+<hit score="3" id="6526369">
+<info><authors><author pid="t/NirajTolia">Niraj Tolia</author><author pid="a/DavidGAndersen">David G. Andersen</author><author pid="09/4259">Michael Kaminsky</author><author pid="09/48-1">Swapnil V. Patil</author></authors><title>What the protocol stack missed: the transfer service.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ToliaAKP05</key><doi>10.1145/1095810.1118615</doi><ee>https://doi.org/10.1145/1095810.1118615</ee><url>https://dblp.org/rec/conf/sosp/ToliaAKP05</url></info>
+<url>URL#6526369</url>
+</hit>
+<hit score="3" id="6526370">
+<info><authors><author pid="39/1349">Michael Vrable</author><author pid="28/5664">Justin Ma</author><author pid="48/4323">Jay Chen</author><author pid="55/1310-1">David Moore 0001</author><author pid="77/1042">Erik Vandekieft</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="s/StefanSavage">Stefan Savage</author></authors><title>Scalability, fidelity, and containment in the potemkin virtual honeyfarm.</title><venue>SOSP</venue><pages>148-162</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VrableMCMVSVS05</key><doi>10.1145/1095810.1095825</doi><ee>https://doi.org/10.1145/1095810.1095825</ee><url>https://dblp.org/rec/conf/sosp/VrableMCMVSVS05</url></info>
+<url>URL#6526370</url>
+</hit>
+<hit score="3" id="6526371">
+<info><authors><author pid="50/5661-1">Kevin Walsh 0001</author><author pid="s/EminGunSirer">Emin Gün Sirer</author></authors><title>The case for an object-based peer-to-peer reputation system.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WalshS05</key><doi>10.1145/1095810.1118593</doi><ee>https://doi.org/10.1145/1095810.1118593</ee><url>https://dblp.org/rec/conf/sosp/WalshS05</url></info>
+<url>URL#6526371</url>
+</hit>
+<hit score="3" id="6526372">
+<info><authors><author pid="75/6314">AAron Walters</author><author pid="n/CristinaNitaRotaru">Cristina Nita-Rotaru</author></authors><title>Analysis of malicious abstract sensor faults in adaptive measurement-based overlay networks.</title><venue>SOSP</venue><pages>1-2</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WaltersN05</key><doi>10.1145/1095810.1118578</doi><ee>https://doi.org/10.1145/1095810.1118578</ee><url>https://dblp.org/rec/conf/sosp/WaltersN05</url></info>
+<url>URL#6526372</url>
+</hit>
+<hit score="3" id="6526373">
+<info><authors><author pid="w/MattWelsh">Matt Welsh</author><author pid="74/5052">Geoff Werner-Allen</author><author pid="53/309">Konrad Lorincz</author><author pid="52/5224">Omar Marcillo</author><author pid="98/6746-1">Jeff Johnson 0001</author><author pid="66/4711">Mario Ruiz</author><author pid="45/739">Jonathan Lees</author></authors><title>Sensor networks for high-resolution monitoring of volcanic activity.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WelshWLMJRL05</key><doi>10.1145/1095810.1118610</doi><ee>https://doi.org/10.1145/1095810.1118610</ee><url>https://dblp.org/rec/conf/sosp/WelshWLMJRL05</url></info>
+<url>URL#6526373</url>
+</hit>
+<hit score="3" id="6526374">
+<info><authors><author pid="76/6082">Emmett Witchel</author><author pid="27/5932">Junghwan Rhee</author><author pid="a/KrsteAsanovic">Krste Asanovic</author></authors><title>Mondrix: memory isolation for linux using mondriaan memory protection.</title><venue>SOSP</venue><pages>31-44</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WitchelRA05</key><doi>10.1145/1095810.1095814</doi><ee>https://doi.org/10.1145/1095810.1095814</ee><url>https://dblp.org/rec/conf/sosp/WitchelRA05</url></info>
+<url>URL#6526374</url>
+</hit>
+<hit score="3" id="6526375">
+<info><title>Peer to peer: still useless?</title><venue>SOSP</venue><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/X05</key><doi>10.1145/1095810.1118573</doi><ee>https://doi.org/10.1145/1095810.1118573</ee><url>https://dblp.org/rec/conf/sosp/X05</url></info>
+<url>URL#6526375</url>
+</hit>
+<hit score="3" id="6526376">
+<info><title>Are P2P concepts worth pursuing?</title><venue>SOSP</venue><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/X05a</key><doi>10.1145/1095810.1118576</doi><ee>https://doi.org/10.1145/1095810.1118576</ee><url>https://dblp.org/rec/conf/sosp/X05a</url></info>
+<url>URL#6526376</url>
+</hit>
+<hit score="3" id="6526377">
+<info><title>P2p: still worthless?</title><venue>SOSP</venue><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/X05b</key><doi>10.1145/1095810.1118575</doi><ee>https://doi.org/10.1145/1095810.1118575</ee><url>https://dblp.org/rec/conf/sosp/X05b</url></info>
+<url>URL#6526377</url>
+</hit>
+<hit score="3" id="6526378">
+<info><authors><author pid="98/809">Yuan Yu</author><author pid="r/TLRodeheffer">Tom Rodeheffer</author><author pid="181/2832">Wei Chen</author></authors><title>RaceTrack: efficient detection of data race conditions via adaptive tracking.</title><venue>SOSP</venue><pages>221-234</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YuRC05</key><doi>10.1145/1095810.1095832</doi><ee>https://doi.org/10.1145/1095810.1095832</ee><url>https://dblp.org/rec/conf/sosp/YuRC05</url></info>
+<url>URL#6526378</url>
+</hit>
+<hit score="3" id="6526379">
+<info><authors><author pid="75/6541">Aydan R. Yumerefendi</author><author pid="98/5314">Landon P. Cox</author></authors><title>LLSS: toward system support for plugging privacy leaks.</title><venue>SOSP</venue><pages>1</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YumerefendiC05</key><doi>10.1145/1095810.1118612</doi><ee>https://doi.org/10.1145/1095810.1118612</ee><url>https://dblp.org/rec/conf/sosp/YumerefendiC05</url></info>
+<url>URL#6526379</url>
+</hit>
+<hit score="3" id="6526380">
+<info><authors><author pid="74/3311">Qingbo Zhu</author><author pid="61/5154">Zhifeng Chen</author><author pid="13/3957-1">Lin Tan 0001</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author><author pid="k/KimberlyKeeton">Kimberly Keeton</author><author pid="w/JohnWilkes">John Wilkes</author></authors><title>Hibernator: helping disk arrays sleep through the winter.</title><venue>SOSP</venue><pages>177-190</pages><year>2005</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhuCTZKW05</key><doi>10.1145/1095810.1095828</doi><ee>https://doi.org/10.1145/1095810.1095828</ee><url>https://dblp.org/rec/conf/sosp/ZhuCTZKW05</url></info>
+<url>URL#6526380</url>
+</hit>
+</hits>
+</result>

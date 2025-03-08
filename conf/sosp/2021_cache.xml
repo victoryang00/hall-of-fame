@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="286763">conf* sosp* 2021*</query>
+<status code="200">OK</status>
+<time unit="msecs">21.56</time>
+<completions total="1" computed="1" sent="1">
+<c sc="92" dc="85" oc="92" id="58184478">2021</c>
+</completions>
+<hits total="85" computed="85" sent="85" first="0">
+<hit score="7" id="1980743">
+<info><authors><author pid="171/3059">Antoni Pérez-Navarro</author><author pid="23/3588">Raúl Montoliu</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>WiP Proceedings of the Eleventh International Conference on Indoor Positioning and Indoor Navigation - Work-in-Progress Papers (IPIN-WiP 2021) co-located with 11th International Conference on Indoor Positioning and Indoor Navigation (IPIN 2021), Lloret de Mar, Spain, 29 November - 2 December, 2021.</title><venue>IPIN-WiP</venue><venue>CEUR Workshop Proceedings</venue><volume>3097</volume><publisher>CEUR-WS.org</publisher><year>2021</year><type>Editorship</type><access>open</access><key>conf/ipin/2021wip</key><ee>https://ceur-ws.org/Vol-3097</ee><url>https://dblp.org/rec/conf/ipin/2021wip</url></info>
+<url>URL#1980743</url>
+</hit>
+<hit score="5" id="1980453">
+<info><authors><author pid="36/6529">Jari Nurmi</author><author pid="62/1191">Elena Simona Lohan</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="120/4062">Heidi Kuusniemi</author><author pid="152/2648">Aleksandr Ometov</author></authors><title>11th International Conference on Localization and GNSS, ICL-GNSS 2021, Tampere, Finland, June 1-3, 2021</title><venue>ICL-GNSS</venue><publisher>IEEE</publisher><year>2021</year><type>Editorship</type><key>conf/icl-gnss/2021</key><doi>10.1109/ICL-GNSS51451.2021</doi><ee>https://doi.org/10.1109/ICL-GNSS51451.2021</ee><url>https://dblp.org/rec/conf/icl-gnss/2021</url></info>
+<url>URL#1980453</url>
+</hit>
+<hit score="5" id="1980454">
+<info><authors><author pid="152/2648">Aleksandr Ometov</author><author pid="36/6529">Jari Nurmi</author><author pid="62/1191">Elena Simona Lohan</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="120/4062">Heidi Kuusniemi</author></authors><title>WiP Proceedings of the International Conference on Localization and GNSS (ICL-GNSS 2021), Tampere, Finland, June 1-3, 2021.</title><venue>ICL-GNSS</venue><venue>CEUR Workshop Proceedings</venue><volume>2880</volume><publisher>CEUR-WS.org</publisher><year>2021</year><type>Editorship</type><access>open</access><key>conf/icl-gnss/2021wip</key><ee>https://ceur-ws.org/Vol-2880</ee><url>https://dblp.org/rec/conf/icl-gnss/2021wip</url></info>
+<url>URL#1980454</url>
+</hit>
+<hit score="4" id="1915898">
+<info><authors><author pid="253/1079">Fernando J. Aranda</author><author pid="275/9638">Felipe Parralejo</author><author pid="155/5414">Teodoro Aguilera</author><author pid="44/4783">Fernando J. Álvarez</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>Finding Optimal BLE Configuration for Indoor Positioning with Consumption Restrictions.</title><venue>IPIN</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/ArandaPAAT21</key><doi>10.1109/IPIN51156.2021.9662563</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662563</ee><url>https://dblp.org/rec/conf/ipin/ArandaPAAT21</url></info>
+<url>URL#1915898</url>
+</hit>
+<hit score="4" id="1963848">
+<info><authors><author pid="237/7672">Dingji Li</author><author pid="219/5889">Zeyu Mi</author><author pid="01/615">Yubin Xia</author><author pid="86/680">Binyu Zang</author><author pid="31/6601-1">Haibo Chen 0001</author><author pid="96/5680">Haibing Guan</author></authors><title>TwinVisor: Hardware-isolated Confidential Virtual Machines for ARM.</title><venue>SOSP</venue><pages>638-654</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiMXZCG21</key><doi>10.1145/3477132.3483554</doi><ee>https://doi.org/10.1145/3477132.3483554</ee><url>https://dblp.org/rec/conf/sosp/LiMXZCG21</url></info>
+<url>URL#1963848</url>
+</hit>
+<hit score="3" id="1891762">
+<info><authors><author pid="286/0222">Pavel Pascacio</author><author pid="c/SvenCasteleyn">Sven Casteleyn</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>Smartphone Distance Estimation Based on RSSI-Fuzzy Classification Approach.</title><venue>ICL-GNSS</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icl-gnss/PascacioCT21</key><doi>10.1109/ICL-GNSS51451.2021.9452226</doi><ee>https://doi.org/10.1109/ICL-GNSS51451.2021.9452226</ee><url>https://dblp.org/rec/conf/icl-gnss/PascacioCT21</url></info>
+<url>URL#1891762</url>
+</hit>
+<hit score="3" id="1915902">
+<info><authors><author pid="310/6273">Vladimir Bellavista-Parent</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="171/3059">Antoni Pérez-Navarro</author></authors><title>New trends in indoor positioning based on WiFi and machine learning: A systematic review.</title><venue>IPIN</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/Bellavista-Parent21</key><doi>10.1109/IPIN51156.2021.9662521</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662521</ee><url>https://dblp.org/rec/conf/ipin/Bellavista-Parent21</url></info>
+<url>URL#1915902</url>
+</hit>
+<hit score="3" id="1915907">
+<info><authors><author pid="315/5487">Roald de Brouwer</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="117/8392">Sergio Trilles-Oliver</author><author pid="153/7756">Rafael Berkvens</author></authors><title>Optimal Receivers Location for Passive Indoor Positioning Based on BLE.</title><venue>IPIN-WiP</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ipin/BrouwerTOB21</key><ee>https://ceur-ws.org/Vol-3097/paper15.pdf</ee><url>https://dblp.org/rec/conf/ipin/BrouwerTOB21</url></info>
+<url>URL#1915907</url>
+</hit>
+<hit score="3" id="1915936">
+<info><authors><author pid="315/5510">Enric Bartrés Jurado</author><author pid="117/8392">Sergio Trilles-Oliver</author><author pid="171/3059">Antoni Pérez-Navarro</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>A Low-Cost Control Occupancy Solution Using a Time-of-Flight Ranging Sensor Laser.</title><venue>IPIN-WiP</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ipin/JuradoOPT21</key><ee>https://ceur-ws.org/Vol-3097/paper40.pdf</ee><url>https://dblp.org/rec/conf/ipin/JuradoOPT21</url></info>
+<url>URL#1915936</url>
+</hit>
+<hit score="3" id="1915941">
+<info><authors><author pid="268/2079">Roman Klus</author><author pid="268/1824">Lucie Klus</author><author pid="66/11067">Jukka Talvitie</author><author pid="244/3752">Jaakko Pihlajasalo</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="89/6586">Mikko Valkama</author></authors><title>Transfer Learning for Convolutional Indoor Positioning Systems.</title><venue>IPIN</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/KlusKTPTV21</key><doi>10.1109/IPIN51156.2021.9662544</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662544</ee><url>https://dblp.org/rec/conf/ipin/KlusKTPTV21</url></info>
+<url>URL#1915941</url>
+</hit>
+<hit score="3" id="1915952">
+<info><authors><author pid="78/5857">Ana Jiménez Martín</author><author pid="270/4925">Ismael Miranda Gordo</author><author pid="59/3922">Juan Jesús García Domínguez</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="270/5071">Sergio Lluva Plaza</author><author pid="131/1628">David Gualda Gómez</author></authors><title>Affinity Propagation Clustering for Older Adults Daily Routine Estimation.</title><venue>IPIN</venue><pages>1-7</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/MartinGDTPG21</key><doi>10.1109/IPIN51156.2021.9662579</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662579</ee><url>https://dblp.org/rec/conf/ipin/MartinGDTPG21</url></info>
+<url>URL#1915952</url>
+</hit>
+<hit score="3" id="1915970">
+<info><authors><author pid="150/0796">Cristiano G. Pendão</author><author pid="210/3811">Ivo Silva</author><author pid="45/5350">Adriano J. C. Moreira</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>Dioptra - A Data Generation Application for Indoor Positioning Systems.</title><venue>IPIN</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/PendaoSMT21</key><doi>10.1109/IPIN51156.2021.9662585</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662585</ee><url>https://dblp.org/rec/conf/ipin/PendaoSMT21</url></info>
+<url>URL#1915970</url>
+</hit>
+<hit score="3" id="1915974">
+<info><authors><author pid="268/1798">Darwin Quezada-Gaibor</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="36/6529">Jari Nurmi</author><author pid="10/5061">Yevgeni Koucheryavy</author><author pid="67/3031">Joaquín Huerta</author></authors><title>Lightweight Wi-Fi Fingerprinting with a Novel RSS Clustering Algorithm.</title><venue>IPIN</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/Quezada-GaiborT21</key><doi>10.1109/IPIN51156.2021.9662612</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662612</ee><url>https://dblp.org/rec/conf/ipin/Quezada-GaiborT21</url></info>
+<url>URL#1915974</url>
+</hit>
+<hit score="3" id="1915980">
+<info><authors><author pid="310/6055">Cristina Rodriguez-Martinez</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>Revisiting the Analysis of Hyperparameters in k-NN for Wi-Fi and BLE Fingerprinting: Current Status and General Results.</title><venue>IPIN</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/Rodriguez-Martinez21</key><doi>10.1109/IPIN51156.2021.9662542</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662542</ee><url>https://dblp.org/rec/conf/ipin/Rodriguez-Martinez21</url></info>
+<url>URL#1915980</url>
+</hit>
+<hit score="3" id="1915985">
+<info><authors><author pid="210/3811">Ivo Silva</author><author pid="150/0796">Cristiano G. Pendão</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="45/5350">Adriano J. C. Moreira</author></authors><title>Quantifying the Degradation of Radio Maps in Wi-Fi Fingerprinting.</title><venue>IPIN</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/SilvaPTM21</key><doi>10.1109/IPIN51156.2021.9662558</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662558</ee><url>https://dblp.org/rec/conf/ipin/SilvaPTM21</url></info>
+<url>URL#1915985</url>
+</hit>
+<hit score="3" id="1915990">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="210/3811">Ivo Silva</author><author pid="268/1824">Lucie Klus</author><author pid="268/1798">Darwin Quezada-Gaibor</author><author pid="151/6013">Antonino Crivello</author><author pid="75/2019">Paolo Barsocchi</author><author pid="150/0796">Cristiano G. Pendão</author><author pid="62/1191">Elena Simona Lohan</author><author pid="36/6529">Jari Nurmi</author><author pid="45/5350">Adriano J. C. Moreira</author></authors><title>Towards Ubiquitous Indoor Positioning: Comparing Systems across Heterogeneous Datasets.</title><venue>IPIN</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipin/Torres-Sospedra21</key><doi>10.1109/IPIN51156.2021.9662560</doi><ee>https://doi.org/10.1109/IPIN51156.2021.9662560</ee><url>https://dblp.org/rec/conf/ipin/Torres-Sospedra21</url></info>
+<url>URL#1915990</url>
+</hit>
+<hit score="3" id="1956823">
+<info><authors><author pid="276/4936">Raul Casanova Marques</author><author pid="286/0222">Pavel Pascacio</author><author pid="98/7302">Jan Hajny</author><author pid="92/5332">Joaquín Torres-Sospedra</author></authors><title>Anonymous Attribute-based Credentials in Collaborative Indoor Positioning Systems.</title><venue>SECRYPT</venue><pages>791-797</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secrypt/MarquesPHT21</key><doi>10.5220/0010582507910797</doi><ee>https://doi.org/10.5220/0010582507910797</ee><url>https://dblp.org/rec/conf/secrypt/MarquesPHT21</url></info>
+<url>URL#1956823</url>
+</hit>
+<hit score="3" id="1963809">
+<info><authors><author pid="30/5956-1">Christian Dietrich 0001</author></authors><title>CppSig: Extracting Type Information for C-Preprocessor Macro Expansions.</title><venue>PLOS@SOSP</venue><pages>62-68</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/000121</key><doi>10.1145/3477113.3487268</doi><ee>https://doi.org/10.1145/3477113.3487268</ee><url>https://dblp.org/rec/conf/sosp/000121</url></info>
+<url>URL#1963809</url>
+</hit>
+<hit score="3" id="1963810">
+<info><authors><author pid="207/1878-1">Matthew Burke 0001</author><author pid="304/2790">Sowmya Dharanipragada</author><author pid="256/1012">Shannon Joyner</author><author pid="69/9867">Adriana Szekeres</author><author pid="35/9256-1">Jacob Nelson 0001</author><author pid="68/1122">Irene Zhang</author><author pid="03/6105">Dan R. K. Ports</author></authors><title>PRISM: Rethinking the RDMA Interface for Distributed Systems.</title><venue>SOSP</venue><pages>228-242</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/0001DJSNZP21</key><doi>10.1145/3477132.3483587</doi><ee>https://doi.org/10.1145/3477132.3483587</ee><url>https://dblp.org/rec/conf/sosp/0001DJSNZP21</url></info>
+<url>URL#1963810</url>
+</hit>
+<hit score="3" id="1963812">
+<info><authors><author pid="163/1550">Reto Achermann</author><author pid="76/5940">David A. Cock</author><author pid="188/9908">Roni Haecki</author><author pid="247/5773">Nora Hossle</author><author pid="198/0735">Lukas Humbel</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author><author pid="286/7227">Daniel David Schwyn</author></authors><title>Generating correct initial page tables from formal hardware descriptions.</title><venue>PLOS@SOSP</venue><pages>69-75</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AchermannCHHHRS21</key><doi>10.1145/3477113.3487270</doi><ee>https://doi.org/10.1145/3477113.3487270</ee><url>https://dblp.org/rec/conf/sosp/AchermannCHHHRS21</url></info>
+<url>URL#1963812</url>
+</hit>
+<hit score="3" id="1963813">
+<info><authors><author pid="184/6643">Ishtiyaque Ahmad</author><author pid="238/8583">Laboni Sarker</author><author pid="a/DivyakantAgrawal">Divyakant Agrawal</author><author pid="a/AmrElAbbadi">Amr El Abbadi</author><author pid="20/7539">Trinabh Gupta</author></authors><title>Coeus: A System for Oblivious Document Ranking and Retrieval.</title><venue>SOSP</venue><pages>672-690</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AhmadSAAG21</key><doi>10.1145/3477132.3483586</doi><ee>https://doi.org/10.1145/3477132.3483586</ee><url>https://dblp.org/rec/conf/sosp/AhmadSAAG21</url></info>
+<url>URL#1963813</url>
+</hit>
+<hit score="3" id="1963814">
+<info><authors><author pid="304/2107">Yechan Bae</author><author pid="121/9132">Youngsuk Kim</author><author pid="304/2721">Ammar Askar</author><author pid="295/1721">Jungwon Lim</author><author pid="38/8882">Taesoo Kim</author></authors><title>Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale.</title><venue>SOSP</venue><pages>84-99</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BaeKALK21</key><doi>10.1145/3477132.3483570</doi><ee>https://doi.org/10.1145/3477132.3483570</ee><url>https://dblp.org/rec/conf/sosp/BaeKALK21</url></info>
+<url>URL#1963814</url>
+</hit>
+<hit score="3" id="1963815">
+<info><authors><author pid="205/7130">Youhui Bai</author><author pid="16/6465-1">Cheng Li 0001</author><author pid="29/5849">Quan Zhou</author><author pid="31/1821">Jun Yi</author><author pid="39/5700-9">Ping Gong 0009</author><author pid="62/3960-1">Feng Yan 0001</author><author pid="03/2050">Ruichuan Chen</author><author pid="40/689">Yinlong Xu</author></authors><title>Gradient Compression Supercharged High-Performance Data Parallel DNN Training.</title><venue>SOSP</venue><pages>359-375</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BaiLZYG0CX21</key><doi>10.1145/3477132.3483553</doi><ee>https://doi.org/10.1145/3477132.3483553</ee><url>https://dblp.org/rec/conf/sosp/BaiLZYG0CX21</url></info>
+<url>URL#1963815</url>
+</hit>
+<hit score="3" id="1963816">
+<info><authors><author pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</author><author pid="55/5393">Chen Shen</author><author pid="283/7586">Ahmed Jafri</author><author pid="133/9882">Suyog Mapara</author><author pid="272/0761">David Geraghty</author><author pid="14/85">Jason Flinn</author><author pid="05/6432">Vidhya Venkat</author><author pid="75/6259">Ivailo Nedelchev</author><author pid="15/5063">Santosh Ghosh</author><author pid="283/7235">Mihir Dharamshi</author><author pid="218/9980">Jingming Liu</author><author pid="283/7305">Filip Gruszczynski</author><author pid="116/1011">Jun Li</author><author pid="283/7338">Rounak Tibrewal</author><author pid="304/2121">Ali Zaveri</author><author pid="00/9484">Rajeev Nagar</author><author pid="283/7700">Ahmed Yossef</author><author pid="40/175">Francois Richard</author><author pid="93/2816">Yee Jiun Song</author></authors><title>Log-structured Protocols in Delos.</title><venue>SOSP</venue><pages>538-552</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BalakrishnanSJM21</key><doi>10.1145/3477132.3483544</doi><ee>https://doi.org/10.1145/3477132.3483544</ee><url>https://dblp.org/rec/conf/sosp/BalakrishnanSJM21</url></info>
+<url>URL#1963816</url>
+</hit>
+<hit score="3" id="1963817">
+<info><authors><author pid="304/2039">Jeff Barber</author><author pid="40/4499">Ximing Yu</author><author pid="304/2122">Laney Kuenzel Zamore</author><author pid="132/1565-1">Jerry Lin</author><author pid="304/2608">Vahid Jazayeri</author><author pid="304/2432">Shie Erlich</author><author pid="62/65">Tony Savor</author><author pid="82/5150">Michael Stumm</author></authors><title>Bladerunner: Stream Processing at Scale for a Live View of Backend Data Mutations at the Edge.</title><venue>SOSP</venue><pages>708-723</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BarberYZLJESS21</key><doi>10.1145/3477132.3483572</doi><ee>https://doi.org/10.1145/3477132.3483572</ee><url>https://dblp.org/rec/conf/sosp/BarberYZLJESS21</url></info>
+<url>URL#1963817</url>
+</hit>
+<hit score="3" id="1963818">
+<info><authors><author pid="57/2540">Shane Bergsma</author><author pid="252/1080">Timothy Zeyl</author><author pid="146/4547">Arik Senderovich</author><author pid="43/2165">J. Christopher Beck</author></authors><title>Generating Complex, Realistic Cloud Workloads using Recurrent Neural Networks.</title><venue>SOSP</venue><pages>376-391</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BergsmaZSB21</key><doi>10.1145/3477132.3483590</doi><ee>https://doi.org/10.1145/3477132.3483590</ee><url>https://dblp.org/rec/conf/sosp/BergsmaZSB21</url></info>
+<url>URL#1963818</url>
+</hit>
+<hit score="3" id="1963819">
+<info><authors><author pid="142/3208">James Bornholt</author><author pid="50/1308">Rajeev Joshi</author><author pid="251/2048">Vytautas Astrauskas</author><author pid="33/6584">Brendan Cully</author><author pid="138/6924">Bernhard Kragl</author><author pid="304/2261">Seth Markle</author><author pid="304/2149">Kyle Sauri</author><author pid="304/2733">Drew Schleit</author><author pid="304/2175">Grant Slatton</author><author pid="88/1444">Serdar Tasiran</author><author pid="190/7037">Jacob Van Geffen</author><author pid="70/5879">Andrew Warfield</author></authors><title>Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3.</title><venue>SOSP</venue><pages>836-850</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BornholtJACKMSS21</key><doi>10.1145/3477132.3483540</doi><ee>https://doi.org/10.1145/3477132.3483540</ee><url>https://dblp.org/rec/conf/sosp/BornholtJACKMSS21</url></info>
+<url>URL#1963819</url>
+</hit>
+<hit score="3" id="1963820">
+<info><authors><author pid="28/7551">Anton Burtsev</author><author pid="283/7302">Dan Appel</author><author pid="283/7786">David Detweiler</author><author pid="283/7138">Tianjiao Huang</author><author pid="02/9552-4">Zhaofeng Li 0004</author><author pid="241/7497">Vikram Narayanan</author><author pid="129/2974">Gerd Zellweger</author></authors><title>Isolation in Rust: What is Missing?</title><venue>PLOS@SOSP</venue><pages>76-83</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BurtsevADHLNZ21</key><doi>10.1145/3477113.3487272</doi><ee>https://doi.org/10.1145/3477113.3487272</ee><url>https://dblp.org/rec/conf/sosp/BurtsevADHLNZ21</url></info>
+<url>URL#1963820</url>
+</hit>
+<hit score="3" id="1963821">
+<info><authors><author pid="285/5111">Rafael Lourenco de Lima Chehab</author><author pid="45/9966">Antonio Paolillo</author><author pid="131/4370">Diogo Behrens</author><author pid="33/5051">Ming Fu</author><author pid="h/HHartig">Hermann Härtig</author><author pid="31/6601-1">Haibo Chen 0001</author></authors><title>CLoF: A Compositional Lock Framework for Multi-level NUMA Systems.</title><venue>SOSP</venue><pages>851-865</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChehabPBFHC21</key><doi>10.1145/3477132.3483557</doi><ee>https://doi.org/10.1145/3477132.3483557</ee><url>https://dblp.org/rec/conf/sosp/ChehabPBFHC21</url></info>
+<url>URL#1963821</url>
+</hit>
+<hit score="3" id="1963822">
+<info><authors><author pid="48/4792">Yang Chen</author><author pid="185/9378">Zhongxin Guo</author><author pid="239/4000">Runhuai Li</author><author pid="00/6472-1">Shuo Chen 0001</author><author pid="z/LidongZhou">Lidong Zhou</author><author pid="15/7381">Yajin Zhou</author><author pid="56/5624-1">Xian Zhang 0001</author></authors><title>Forerunner: Constraint-based Speculative Transaction Execution for Ethereum.</title><venue>SOSP</venue><pages>570-587</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChenGLCZZZ21</key><doi>10.1145/3477132.3483564</doi><ee>https://doi.org/10.1145/3477132.3483564</ee><url>https://dblp.org/rec/conf/sosp/ChenGLCZZZ21</url></info>
+<url>URL#1963822</url>
+</hit>
+<hit score="3" id="1963824">
+<info><authors><author pid="228/8084">Emma Dauterman</author><author pid="276/2386">Vivian Fang</author><author pid="181/5758">Ioannis Demertzis</author><author pid="161/0113">Natacha Crooks</author><author pid="91/275">Raluca Ada Popa</author></authors><title>Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage.</title><venue>SOSP</venue><pages>655-671</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DautermanFDCP21</key><doi>10.1145/3477132.3483562</doi><ee>https://doi.org/10.1145/3477132.3483562</ee><url>https://dblp.org/rec/conf/sosp/DautermanFDCP21</url></info>
+<url>URL#1963824</url>
+</hit>
+<hit score="3" id="1963825">
+<info><authors><author pid="204/9451">Henri Maxime Demoulin</author><author pid="170/3621">Joshua Fried</author><author pid="165/8545">Isaac Pedisich</author><author pid="144/7733">Marios Kogias</author><author pid="75/3108">Boon Thau Loo</author><author pid="92/1043">Linh Thi Xuan Phan</author><author pid="68/1122">Irene Zhang</author></authors><title>When Idling is Ideal: Optimizing Tail-Latency for Heavy-Tailed Datacenter Workloads with Perséphone.</title><venue>SOSP</venue><pages>621-637</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DemoulinFPKLPZ21</key><doi>10.1145/3477132.3483571</doi><ee>https://doi.org/10.1145/3477132.3483571</ee><url>https://dblp.org/rec/conf/sosp/DemoulinFPKLPZ21</url></info>
+<url>URL#1963825</url>
+</hit>
+<hit score="3" id="1963826">
+<info><authors><author pid="214/4615">Xinwei Fu</author><author pid="144/6293">Wook-Hee Kim</author><author pid="281/6885">Ajay Paddayuru Shreepathi</author><author pid="280/7922">Mohannad Ismail</author><author pid="281/6601">Sunny Wadkar</author><author pid="90/4053">Dongyoon Lee</author><author pid="19/10203">Changwoo Min</author></authors><title>Witcher: Systematic Crash Consistency Testing for Non-Volatile Memory Key-Value Stores.</title><venue>SOSP</venue><pages>100-115</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FuKSIWLM21</key><doi>10.1145/3477132.3483556</doi><ee>https://doi.org/10.1145/3477132.3483556</ee><url>https://dblp.org/rec/conf/sosp/FuKSIWLM21</url></info>
+<url>URL#1963826</url>
+</hit>
+<hit score="3" id="1963827">
+<info><authors><author pid="176/9039">Silvery Fu</author><author pid="68/5579">Sylvia Ratnasamy</author></authors><title>dSpace: Composable Abstractions for Smart Spaces.</title><venue>SOSP</venue><pages>295-310</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FuR21</key><doi>10.1145/3477132.3483559</doi><ee>https://doi.org/10.1145/3477132.3483559</ee><url>https://dblp.org/rec/conf/sosp/FuR21</url></info>
+<url>URL#1963827</url>
+</hit>
+<hit score="3" id="1963828">
+<info><authors><author pid="150/3388">Aishwarya Ganesan</author><author pid="154/0847">Ramnatthan Alagappan</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Exploiting Nil-Externality for Fast Replicated Storage.</title><venue>SOSP</venue><pages>440-456</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GanesanAAA21</key><doi>10.1145/3477132.3483543</doi><ee>https://doi.org/10.1145/3477132.3483543</ee><url>https://dblp.org/rec/conf/sosp/GanesanAAA21</url></info>
+<url>URL#1963828</url>
+</hit>
+<hit score="3" id="1963829">
+<info><authors><author pid="238/5286">Luis Gerhorst</author><author pid="177/2502">Benedict Herzog</author><author pid="202/5982">Stefan Reif</author><author pid="26/6488">Wolfgang Schröder-Preikschat</author><author pid="75/10868">Timo Hönig</author></authors><title>AnyCall: Fast and Flexible System-Call Aggregation.</title><venue>PLOS@SOSP</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GerhorstHRSH21</key><doi>10.1145/3477113.3487267</doi><ee>https://doi.org/10.1145/3477113.3487267</ee><url>https://dblp.org/rec/conf/sosp/GerhorstHRSH21</url></info>
+<url>URL#1963829</url>
+</hit>
+<hit score="3" id="1963830">
+<info><authors><author pid="290/7801">Sishuai Gong</author><author pid="43/7654">Deniz Altinbüken</author><author pid="11/3119-1">Pedro Fonseca 0001</author><author pid="m/PetrosManiatis">Petros Maniatis</author></authors><title>Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.</title><venue>SOSP</venue><pages>66-83</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GongAFM21</key><doi>10.1145/3477132.3483549</doi><ee>https://doi.org/10.1145/3477132.3483549</ee><url>https://dblp.org/rec/conf/sosp/GongAFM21</url></info>
+<url>URL#1963830</url>
+</hit>
+<hit score="3" id="1963831">
+<info><authors><author pid="06/4387">Michael Greenberg 0002</author></authors><title>Files-as-Filesystems for POSIX Shell Data Processing.</title><venue>PLOS@SOSP</venue><pages>17-23</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Greenberg21</key><doi>10.1145/3477113.3487265</doi><ee>https://doi.org/10.1145/3477113.3487265</ee><url>https://dblp.org/rec/conf/sosp/Greenberg21</url></info>
+<url>URL#1963831</url>
+</hit>
+<hit score="3" id="1963832">
+<info><authors><author pid="200/8024">Jeffrey Helt</author><author pid="207/1878-1">Matthew Burke 0001</author><author pid="68/8881">Amit Levy</author><author pid="21/1059">Wyatt Lloyd</author></authors><title>Regular Sequential Serializability and Regular Sequential Consistency.</title><venue>SOSP</venue><pages>163-179</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Helt0LL21</key><doi>10.1145/3477132.3483566</doi><ee>https://doi.org/10.1145/3477132.3483566</ee><url>https://dblp.org/rec/conf/sosp/Helt0LL21</url></info>
+<url>URL#1963832</url>
+</hit>
+<hit score="3" id="1963833">
+<info><authors><author pid="237/0910">Jack Tigar Humphries</author><author pid="304/2761">Neel Natu</author><author pid="91/8920">Ashwin Chaugule</author><author pid="150/7488">Ofir Weisse</author><author pid="127/9199">Barret Rhoden</author><author pid="304/2644">Josh Don</author><author pid="27/3297">Luigi Rizzo</author><author pid="304/2156">Oleg Rombakh</author><author pid="91/4811">Paul Turner</author><author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author></authors><title>ghOSt: Fast &amp; Flexible User-Space Delegation of Linux Scheduling.</title><venue>SOSP</venue><pages>588-604</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HumphriesNCWRDR21</key><doi>10.1145/3477132.3483542</doi><ee>https://doi.org/10.1145/3477132.3483542</ee><url>https://dblp.org/rec/conf/sosp/HumphriesNCWRDR21</url></info>
+<url>URL#1963833</url>
+</hit>
+<hit score="3" id="1963834">
+<info><authors><author pid="136/1053">Zhipeng Jia</author><author pid="76/6082">Emmett Witchel</author></authors><title>Boki: Stateful Serverless Computing with Shared Logs.</title><venue>SOSP</venue><pages>691-707</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JiaW21</key><doi>10.1145/3477132.3483541</doi><ee>https://doi.org/10.1145/3477132.3483541</ee><url>https://dblp.org/rec/conf/sosp/JiaW21</url></info>
+<url>URL#1963834</url>
+</hit>
+<hit score="3" id="1963835">
+<info><authors><author pid="203/8755">Rohan Kadekodi</author><author pid="165/3373">Saurabh Kadekodi</author><author pid="223/0854">Soujanya Ponnapalli</author><author pid="304/2750">Harshad Shirwadkar</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="138/4146">Aasheesh Kolli</author><author pid="07/10563">Vijay Chidambaram</author></authors><title>WineFS: a hugepage-aware file system for persistent memory that ages gracefully.</title><venue>SOSP</venue><pages>804-818</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KadekodiKPSGKC21</key><doi>10.1145/3477132.3483567</doi><ee>https://doi.org/10.1145/3477132.3483567</ee><url>https://dblp.org/rec/conf/sosp/KadekodiKPSGKC21</url></info>
+<url>URL#1963835</url>
+</hit>
+<hit score="3" id="1963836">
+<info><authors><author pid="237/0852">Kostis Kaffes</author><author pid="237/0910">Jack Tigar Humphries</author><author pid="m/DMazieres">David Mazières</author><author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author></authors><title>Syrup: User-Defined Scheduling Across the Stack.</title><venue>SOSP</venue><pages>605-620</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KaffesHMK21</key><doi>10.1145/3477132.3483548</doi><ee>https://doi.org/10.1145/3477132.3483548</ee><url>https://dblp.org/rec/conf/sosp/KaffesHMK21</url></info>
+<url>URL#1963836</url>
+</hit>
+<hit score="3" id="1963837">
+<info><authors><author pid="245/7176">Aditya K. Kamath</author><author pid="12/6041">Arkaprava Basu</author></authors><title>iGUARD: In-GPU Advanced Race Detection.</title><venue>SOSP</venue><pages>49-65</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KamathB21</key><doi>10.1145/3477132.3483545</doi><ee>https://doi.org/10.1145/3477132.3483545</ee><url>https://dblp.org/rec/conf/sosp/KamathB21</url></info>
+<url>URL#1963837</url>
+</hit>
+<hit score="3" id="1963838">
+<info><authors><author pid="152/3938">Giorgos Kappes</author><author pid="67/568">Stergios V. Anastasiadis</author></authors><title>Asterope: A Cross-Platform Optimization Method for Fast Memory Copy.</title><venue>PLOS@SOSP</venue><pages>9-16</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KappesA21</key><doi>10.1145/3477113.3487264</doi><ee>https://doi.org/10.1145/3477113.3487264</ee><url>https://dblp.org/rec/conf/sosp/KappesA21</url></info>
+<url>URL#1963838</url>
+</hit>
+<hit score="3" id="1963839">
+<info><authors><author pid="206/4548">Jongyul Kim 0001</author><author pid="124/1067">Insu Jang</author><author pid="166/7016">Waleed Reda</author><author pid="206/4518">Jaeseong Im</author><author pid="24/5715">Marco Canini</author><author pid="03/3188">Dejan Kostic</author><author pid="94/8239">Youngjin Kwon</author><author pid="43/3917">Simon Peter 0001</author><author pid="76/6082">Emmett Witchel</author></authors><title>LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism.</title><venue>SOSP</venue><pages>756-771</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KimJRICKKPW21</key><doi>10.1145/3477132.3483565</doi><ee>https://doi.org/10.1145/3477132.3483565</ee><url>https://dblp.org/rec/conf/sosp/KimJRICKKPW21</url></info>
+<url>URL#1963839</url>
+</hit>
+<hit score="3" id="1963840">
+<info><authors><author pid="144/6293">Wook-Hee Kim</author><author pid="217/0682">Madhava Krishnan Ramanathan</author><author pid="214/4615">Xinwei Fu</author><author pid="145/0912">Sanidhya Kashyap</author><author pid="19/10203">Changwoo Min</author></authors><title>PACTree: A High Performance Persistent Range Index Using PAC Guidelines.</title><venue>SOSP</venue><pages>424-439</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KimRFKM21</key><doi>10.1145/3477132.3483589</doi><ee>https://doi.org/10.1145/3477132.3483589</ee><url>https://dblp.org/rec/conf/sosp/KimRFKM21</url></info>
+<url>URL#1963840</url>
+</hit>
+<hit score="3" id="1963841">
+<info><authors><author pid="252/1005">Marcel Köppen</author><author pid="202/2167">Birte Friesel</author><author pid="116/0643">Christoph Borchert</author><author pid="s/OlafSpinczyk">Olaf Spinczyk</author></authors><title>Decoupling Application Logic from Persistent Memory Frameworks with AspectC++.</title><venue>PLOS@SOSP</venue><pages>24-30</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KoppenFBS21</key><doi>10.1145/3477113.3487269</doi><ee>https://doi.org/10.1145/3477113.3487269</ee><url>https://dblp.org/rec/conf/sosp/KoppenFBS21</url></info>
+<url>URL#1963841</url>
+</hit>
+<hit score="3" id="1963844">
+<info><authors><author pid="68/311">Sangmin Lee</author><author pid="41/294">Zhenhua Guo</author><author pid="67/10905">Omer Sunercan</author><author pid="11/1249">Jun Ying</author><author pid="18/10369">Thawan Kooburat</author><author pid="304/2138">Suryadeep Biswal</author><author pid="85/5901">Jun Chen</author><author pid="10/4151">Kun Huang</author><author pid="304/2488">Yatpang Cheung</author><author pid="304/2277">Yiding Zhou</author><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="304/2539">Biren Damani</author><author pid="251/1877">Pol Mauri Ruiz</author><author pid="304/2252">Vikas Mehta</author><author pid="81/4301">Chunqiang Tang</author></authors><title>Shard Manager: A Generic Shard Management Framework for Geo-distributed Applications.</title><venue>SOSP</venue><pages>553-569</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LeeGSYKBCHCZVDR21</key><doi>10.1145/3477132.3483546</doi><ee>https://doi.org/10.1145/3477132.3483546</ee><url>https://dblp.org/rec/conf/sosp/LeeGSYKBCHCZVDR21</url></info>
+<url>URL#1963844</url>
+</hit>
+<hit score="3" id="1963845">
+<info><authors><author pid="129/9942">Seung-Seob Lee</author><author pid="296/3723">Yanpeng Yu</author><author pid="291/4743">Yupeng Tang</author><author pid="162/1936">Anurag Khandelwal</author><author pid="27/2552-1">Lin Zhong 0001</author><author pid="78/4478">Abhishek Bhattacharjee</author></authors><title>MIND: In-Network Memory Management for Disaggregated Data Centers.</title><venue>SOSP</venue><pages>488-504</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LeeYTKZB21</key><doi>10.1145/3477132.3483561</doi><ee>https://doi.org/10.1145/3477132.3483561</ee><url>https://dblp.org/rec/conf/sosp/LeeYTKZB21</url></info>
+<url>URL#1963845</url>
+</hit>
+<hit score="3" id="1963846">
+<info><authors><author pid="239/4952">Anatole Lefort</author><author pid="289/7032">Yohan Pipereau</author><author pid="304/2148">Kwabena Amponsem</author><author pid="09/5760">Pierre Sutra</author><author pid="83/6740-1">Gaël Thomas 0001</author></authors><title>J-NVM: Off-heap Persistent Objects in Java.</title><venue>SOSP</venue><pages>408-423</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LefortPAS021</key><doi>10.1145/3477132.3483579</doi><ee>https://doi.org/10.1145/3477132.3483579</ee><url>https://dblp.org/rec/conf/sosp/LefortPAS021</url></info>
+<url>URL#1963846</url>
+</hit>
+<hit score="3" id="1963847">
+<info><authors><author pid="02/9552-4">Zhaofeng Li 0004</author><author pid="283/7138">Tianjiao Huang</author><author pid="241/7497">Vikram Narayanan</author><author pid="28/7551">Anton Burtsev</author></authors><title>Understanding the Overheads of Hardware and Language-Based IPC Mechanisms.</title><venue>PLOS@SOSP</venue><pages>53-61</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiHNB21</key><doi>10.1145/3477113.3487275</doi><ee>https://doi.org/10.1145/3477113.3487275</ee><url>https://dblp.org/rec/conf/sosp/LiHNB21</url></info>
+<url>URL#1963847</url>
+</hit>
+<hit score="3" id="1963849">
+<info><authors><author pid="197/7182">Huaicheng Li</author><author pid="304/2780">Martin L. Putra</author><author pid="304/2155">Ronald Shi</author><author pid="17/418">Xing Lin</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="84/5664">Haryadi S. Gunawi</author></authors><title>lODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage.</title><venue>SOSP</venue><pages>263-279</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiPSLGG21</key><doi>10.1145/3477132.3483573</doi><ee>https://doi.org/10.1145/3477132.3483573</ee><url>https://dblp.org/rec/conf/sosp/LiPSLGG21</url></info>
+<url>URL#1963849</url>
+</hit>
+<hit score="3" id="1963850">
+<info><authors><author pid="275/5340">Xiaojian Liao</author><author pid="96/8005">Youyou Lu</author><author pid="181/2876-12">Zhe Yang 0012</author><author pid="60/3690">Jiwu Shu</author></authors><title>Crash Consistent Non-Volatile Memory Express.</title><venue>SOSP</venue><pages>132-146</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiaoLYS21</key><doi>10.1145/3477132.3483592</doi><ee>https://doi.org/10.1145/3477132.3483592</ee><url>https://dblp.org/rec/conf/sosp/LiaoLYS21</url></info>
+<url>URL#1963850</url>
+</hit>
+<hit score="3" id="1963851">
+<info><authors><author pid="26/346">Zhen Lin</author><author pid="305/3239">Kao-Feng Hsieh</author><author pid="62/3689">Yu Sun</author><author pid="187/8214">Seunghee Shin</author><author pid="65/4062-1">Hui Lu 0001</author></authors><title>FlashCube: Fast Provisioning of Serverless Functions with Streamlined Container Runtimes.</title><venue>PLOS@SOSP</venue><pages>38-45</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LinHSS021</key><doi>10.1145/3477113.3487273</doi><ee>https://doi.org/10.1145/3477113.3487273</ee><url>https://dblp.org/rec/conf/sosp/LinHSS021</url></info>
+<url>URL#1963851</url>
+</hit>
+<hit score="3" id="1963852">
+<info><authors><author pid="72/2590">Jing Liu</author><author pid="270/9094">Anthony Rebello</author><author pid="201/8499">Yifan Dai</author><author pid="304/2139">Chenhao Ye</author><author pid="82/9936">Sudarsun Kannan</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Scale and Performance in a Filesystem Semi-Microkernel.</title><venue>SOSP</venue><pages>819-835</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiuRDYKAA21</key><doi>10.1145/3477132.3483581</doi><ee>https://doi.org/10.1145/3477132.3483581</ee><url>https://dblp.org/rec/conf/sosp/LiuRDYKAA21</url></info>
+<url>URL#1963852</url>
+</hit>
+<hit score="3" id="1963854">
+<info><authors><author pid="m/OLMadsen">Ole Lehrmann Madsen</author></authors><title>Using Coroutines for Multi-core Preemptive Scheduling.</title><venue>PLOS@SOSP</venue><pages>46-52</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Madsen21</key><doi>10.1145/3477113.3487271</doi><ee>https://doi.org/10.1145/3477113.3487271</ee><url>https://dblp.org/rec/conf/sosp/Madsen21</url></info>
+<url>URL#1963854</url>
+</hit>
+<hit score="3" id="1963855">
+<info><authors><author pid="77/8449">Sara McAllister</author><author pid="203/8647">Benjamin Berg</author><author pid="304/2327">Julian Tutuncu-Macias</author><author pid="183/0795">Juncheng Yang</author><author pid="283/7315">Sathya Gunasekar</author><author pid="34/320">Jimmy Lu</author><author pid="142/2630">Daniel S. Berger</author><author pid="42/7272">Nathan Beckmann</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author></authors><title>Kangaroo: Caching Billions of Tiny Objects on Flash.</title><venue>SOSP</venue><pages>243-262</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/McAllisterBTYGL21</key><doi>10.1145/3477132.3483568</doi><ee>https://doi.org/10.1145/3477132.3483568</ee><url>https://dblp.org/rec/conf/sosp/McAllisterBTYGL21</url></info>
+<url>URL#1963855</url>
+</hit>
+<hit score="3" id="1963857">
+<info><authors><author pid="230/4619">Sumit Kumar Monga</author><author pid="145/0912">Sanidhya Kashyap</author><author pid="19/10203">Changwoo Min</author></authors><title>Birds of a Feather Flock Together: Scaling RDMA RPCs with Flock.</title><venue>SOSP</venue><pages>212-227</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MongaKM21</key><doi>10.1145/3477132.3483576</doi><ee>https://doi.org/10.1145/3477132.3483576</ee><url>https://dblp.org/rec/conf/sosp/MongaKM21</url></info>
+<url>URL#1963857</url>
+</hit>
+<hit score="3" id="1963858">
+<info><authors><author pid="177/8846">Deepak Narayanan</author><author pid="181/8317">Fiodar Kazhamiaka</author><author pid="161/9956">Firas Abuzaid</author><author pid="62/4022">Peter Kraft</author><author pid="82/10308-1">Akshay Agrawal 0001</author><author pid="k/SrikanthKandula">Srikanth Kandula</author><author pid="b/SPBoyd">Stephen P. Boyd</author><author pid="36/2133">Matei Zaharia</author></authors><title>Solving Large-Scale Granular Resource Allocation Problems Efficiently with POP.</title><venue>SOSP</venue><pages>521-537</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NarayananKAKAKB21</key><doi>10.1145/3477132.3483588</doi><ee>https://doi.org/10.1145/3477132.3483588</ee><url>https://dblp.org/rec/conf/sosp/NarayananKAKAKB21</url></info>
+<url>URL#1963858</url>
+</hit>
+<hit score="3" id="1963859">
+<info><authors><author pid="218/1789">Ray Neiheiser</author><author pid="24/6041">Miguel Matos</author><author pid="r/LRodrigues">Luís E. T. Rodrigues</author></authors><title>Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation.</title><venue>SOSP</venue><pages>35-48</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NeiheiserMR21</key><doi>10.1145/3477132.3483584</doi><ee>https://doi.org/10.1145/3477132.3483584</ee><url>https://dblp.org/rec/conf/sosp/NeiheiserMR21</url></info>
+<url>URL#1963859</url>
+</hit>
+<hit score="3" id="1963860">
+<info><authors><author pid="20/7881">Andrew Newell</author><author pid="191/7793-2">Dimitrios Skarlatos 0002</author><author pid="174/4798">Jingyuan Fan</author><author pid="30/989">Pavan Kumar</author><author pid="283/7591">Maxim Khutornenko</author><author pid="83/10462">Mayank Pundir</author><author pid="60/7763">Yirui Zhang</author><author pid="06/6327">Mingjun Zhang</author><author pid="208/1828">Yuanlai Liu</author><author pid="192/7202">Linh Le</author><author pid="304/2546">Brendon Daugherty</author><author pid="230/5292">Apurva Samudra</author><author pid="304/2003">Prashasti Baid</author><author pid="304/2573">James Kneeland</author><author pid="176/5533">Igor Kabiljo</author><author pid="304/2760">Dmitry Shchukin</author><author pid="22/8170">Andre Rodrigues</author><author pid="189/0126">Scott Michelson</author><author pid="283/7729">Ben Christensen</author><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="81/4301">Chunqiang Tang</author></authors><title>RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation.</title><venue>SOSP</venue><pages>505-520</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NewellSFKKPZZLL21</key><doi>10.1145/3477132.3483578</doi><ee>https://doi.org/10.1145/3477132.3483578</ee><url>https://dblp.org/rec/conf/sosp/NewellSFKKPZZLL21</url></info>
+<url>URL#1963860</url>
+</hit>
+<hit score="3" id="1963861">
+<info><authors><author pid="255/7549">Haochen Pan</author><author pid="303/0241">Jesse Tuglu</author><author pid="303/0361">Neo Zhou</author><author pid="08/577">Tianshu Wang</author><author pid="145/5521">Yicheng Shen</author><author pid="224/0130">Xiong Zheng</author><author pid="07/11515">Joseph Tassarotti</author><author pid="85/10827">Lewis Tseng</author><author pid="09/7950">Roberto Palmieri</author></authors><title>Rabia: Simplifying State-Machine Replication Through Randomization.</title><venue>SOSP</venue><pages>472-487</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PanTZWSZTTP21</key><doi>10.1145/3477132.3483582</doi><ee>https://doi.org/10.1145/3477132.3483582</ee><url>https://dblp.org/rec/conf/sosp/PanTZWSZTTP21</url></info>
+<url>URL#1963861</url>
+</hit>
+<hit score="3" id="1963862">
+<info><authors><author pid="99/2042">Jonggyu Park</author><author pid="52/3479">Young Ik Eom</author></authors><title>FragPicker: A New Defragmentation Tool for Modern Storage Devices.</title><venue>SOSP</venue><pages>280-294</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ParkE21</key><doi>10.1145/3477132.3483593</doi><ee>https://doi.org/10.1145/3477132.3483593</ee><url>https://dblp.org/rec/conf/sosp/ParkE21</url></info>
+<url>URL#1963862</url>
+</hit>
+<hit score="3" id="1963863">
+<info><authors><author pid="55/2050">Ji Qi</author><author pid="38/7674">Xusheng Chen</author><author pid="231/3400">Yunpeng Jiang</author><author pid="206/4542">Jianyu Jiang</author><author pid="271/6016">Tianxiang Shen</author><author pid="141/1483">Shixiong Zhao</author><author pid="69/6403-4">Sen Wang 0004</author><author pid="77/6324-1">Gong Zhang 0001</author><author pid="c/LiChen8">Li Chen 0008</author><author pid="55/24">Man Ho Au</author><author pid="59/5565">Heming Cui</author></authors><title>Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks.</title><venue>SOSP</venue><pages>18-34</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/QiCJJSZWZCAC21</key><doi>10.1145/3477132.3483574</doi><ee>https://doi.org/10.1145/3477132.3483574</ee><url>https://dblp.org/rec/conf/sosp/QiCJJSZWZCAC21</url></info>
+<url>URL#1963863</url>
+</hit>
+<hit score="3" id="1963864">
+<info><authors><author pid="150/5340">Dai Qin</author><author pid="b/AngelaDemkeBrown">Angela Demke Brown</author><author pid="g/AshvinGoel">Ashvin Goel</author></authors><title>Caracal: Contention Management with Deterministic Concurrency Control.</title><venue>SOSP</venue><pages>180-194</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/QinBG21</key><doi>10.1145/3477132.3483591</doi><ee>https://doi.org/10.1145/3477132.3483591</ee><url>https://dblp.org/rec/conf/sosp/QinBG21</url></info>
+<url>URL#1963864</url>
+</hit>
+<hit score="3" id="1963865">
+<info><authors><author pid="25/9687">Yiming Qiu</author><author pid="217/0857">Jiarong Xing</author><author pid="36/10257">Kuo-Feng Hsu</author><author pid="188/2454">Qiao Kang</author><author pid="20/2039-27">Ming Liu 0027</author><author pid="03/1245">Srinivas Narayana</author><author pid="59/146-1">Ang Chen 0001</author></authors><title>Automated SmartNIC Offloading Insights for Network Functions.</title><venue>SOSP</venue><pages>772-787</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/QiuXHKLNC21</key><doi>10.1145/3477132.3483583</doi><ee>https://doi.org/10.1145/3477132.3483583</ee><url>https://dblp.org/rec/conf/sosp/QiuXHKLNC21</url></info>
+<url>URL#1963865</url>
+</hit>
+<hit score="3" id="1963866">
+<info><authors><author pid="304/2178">Amanda Raybuck</author><author pid="178/4786">Tim Stamler</author><author pid="10/4661">Wei Zhang</author><author pid="95/2048">Mattan Erez</author><author pid="43/3917">Simon Peter 0001</author></authors><title>HeMem: Scalable Tiered Memory Management for Big Data Applications and Real NVM.</title><venue>SOSP</venue><pages>392-407</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RaybuckSZEP21</key><doi>10.1145/3477132.3483550</doi><ee>https://doi.org/10.1145/3477132.3483550</ee><url>https://dblp.org/rec/conf/sosp/RaybuckSZEP21</url></info>
+<url>URL#1963866</url>
+</hit>
+<hit score="3" id="1963867">
+<info><authors><author pid="241/9712">Edo Roth</author><author pid="304/2470">Karan Newatia</author><author pid="238/0150-1">Yiping Ma 0001</author><author pid="40/4551">Ke Zhong</author><author pid="132/8480">Sebastian Angel</author><author pid="60/4358">Andreas Haeberlen</author></authors><title>Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy.</title><venue>SOSP</venue><pages>327-343</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RothNMZAH21</key><doi>10.1145/3477132.3483585</doi><ee>https://doi.org/10.1145/3477132.3483585</ee><url>https://dblp.org/rec/conf/sosp/RothNMZAH21</url></info>
+<url>URL#1963867</url>
+</hit>
+<hit score="3" id="1963868">
+<info><authors><author pid="246/9302">Henry N. Schuh</author><author pid="160/2195">Weihao Liang</author><author pid="20/2039-27">Ming Liu 0027</author><author pid="35/9256-1">Jacob Nelson 0001</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author></authors><title>Xenic: SmartNIC-Accelerated Distributed Transactions.</title><venue>SOSP</venue><pages>740-755</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchuhLLNK21</key><doi>10.1145/3477132.3483555</doi><ee>https://doi.org/10.1145/3477132.3483555</ee><url>https://dblp.org/rec/conf/sosp/SchuhLLNK21</url></info>
+<url>URL#1963868</url>
+</hit>
+<hit score="3" id="1963869">
+<info><authors><author pid="304/2509">Yingdi Shan</author><author pid="91/6670">Kang Chen</author><author pid="304/2403">Tuoyu Gong</author><author pid="z/LidongZhou">Lidong Zhou</author><author pid="139/4285">Tai Zhou</author><author pid="38/880">Yongwei Wu 0001</author></authors><title>Geometric Partitioning: Explore the Boundary of Optimal Erasure Code Repair.</title><venue>SOSP</venue><pages>457-471</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ShanCGZZW21</key><doi>10.1145/3477132.3483558</doi><ee>https://doi.org/10.1145/3477132.3483558</ee><url>https://dblp.org/rec/conf/sosp/ShanCGZZW21</url></info>
+<url>URL#1963869</url>
+</hit>
+<hit score="3" id="1963870">
+<info><authors><author pid="82/2248">Hao Sun</author><author pid="276/1779">Yuheng Shen</author><author pid="18/2771-20">Cong Wang 0020</author><author pid="21/5921">Jianzhong Liu</author><author pid="21/4633-1">Yu Jiang 0001</author><author pid="19/1766-2">Ting Chen 0002</author><author pid="304/2615">Aiguo Cui</author></authors><title>HEALER: Relation Learning Guided Kernel Fuzzing.</title><venue>SOSP</venue><pages>344-358</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SunSWLJCC21</key><doi>10.1145/3477132.3483547</doi><ee>https://doi.org/10.1145/3477132.3483547</ee><url>https://dblp.org/rec/conf/sosp/SunSWLJCC21</url></info>
+<url>URL#1963870</url>
+</hit>
+<hit score="3" id="1963871">
+<info><authors><author pid="232/8132">Florian Suri-Payer</author><author pid="207/1878-1">Matthew Burke 0001</author><author pid="181/2834">Zheng Wang</author><author pid="10/2569">Yunhao Zhang</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="161/0113">Natacha Crooks</author></authors><title>Basil: Breaking up BFT with ACID (transactions).</title><venue>SOSP</venue><pages>1-17</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Suri-Payer0WZAC21</key><doi>10.1145/3477132.3483552</doi><ee>https://doi.org/10.1145/3477132.3483552</ee><url>https://dblp.org/rec/conf/sosp/Suri-Payer0WZAC21</url></info>
+<url>URL#1963871</url>
+</hit>
+<hit score="3" id="1963872">
+<info><authors><author pid="228/8097">Runzhou Tao</author><author pid="249/4224">Jianan Yao</author><author pid="204/3560">Xupeng Li</author><author pid="184/8320">Shih-Wei Li</author><author pid="n/JasonNieh">Jason Nieh</author><author pid="155/8148">Ronghui Gu</author></authors><title>Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware.</title><venue>SOSP</venue><pages>866-881</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TaoYLLNG21</key><doi>10.1145/3477132.3483560</doi><ee>https://doi.org/10.1145/3477132.3483560</ee><url>https://dblp.org/rec/conf/sosp/TaoYLLNG21</url></info>
+<url>URL#1963872</url>
+</hit>
+<hit score="3" id="1963873">
+<info><authors><author pid="294/0842">Emil Tsalapatis</author><author pid="214/0567">Ryan Hancock</author><author pid="202/2533">Tavian Barnes</author><author pid="135/6767">Ali José Mashtizadeh</author></authors><title>The Aurora Single Level Store Operating System.</title><venue>SOSP</venue><pages>788-803</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TsalapatisHBM21</key><doi>10.1145/3477132.3483563</doi><ee>https://doi.org/10.1145/3477132.3483563</ee><url>https://dblp.org/rec/conf/sosp/TsalapatisHBM21</url></info>
+<url>URL#1963873</url>
+</hit>
+<hit score="3" id="1963874">
+<info><authors><author pid="119/1659">Daniel G. Waddington</author><author pid="97/5500">Moshik Hershcovitch</author><author pid="79/6042">Clem Dickey</author></authors><title>PyMM: Heterogeneous Memory Programming for Python Data Science.</title><venue>PLOS@SOSP</venue><pages>31-37</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WaddingtonHD21</key><doi>10.1145/3477113.3487266</doi><ee>https://doi.org/10.1145/3477113.3487266</ee><url>https://dblp.org/rec/conf/sosp/WaddingtonHD21</url></info>
+<url>URL#1963874</url>
+</hit>
+<hit score="3" id="1963875">
+<info><authors><author pid="80/4136">Ke Yang</author><author pid="m/XiaosongMa">Xiaosong Ma</author><author pid="57/10514">Saravanan Thirumuruganathan</author><author pid="91/6670">Kang Chen</author><author pid="38/880">Yongwei Wu 0001</author></authors><title>Random Walks on Huge Graphs at Cache Efficiency.</title><venue>SOSP</venue><pages>311-326</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YangMTCW21</key><doi>10.1145/3477132.3483575</doi><ee>https://doi.org/10.1145/3477132.3483575</ee><url>https://dblp.org/rec/conf/sosp/YangMTCW21</url></info>
+<url>URL#1963875</url>
+</hit>
+<hit score="3" id="1963876">
+<info><authors><author pid="08/1441">Victor Yodaiken</author></authors><title>How ISO C became unusable for operating systems development.</title><venue>PLOS@SOSP</venue><pages>84-90</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Yodaiken21</key><doi>10.1145/3477113.3487274</doi><ee>https://doi.org/10.1145/3477113.3487274</ee><url>https://dblp.org/rec/conf/sosp/Yodaiken21</url></info>
+<url>URL#1963876</url>
+</hit>
+<hit score="3" id="1963877">
+<info><authors><author pid="304/2211">Adar Zeitak</author><author pid="40/944">Adam Morrison 0001</author></authors><title>Cuckoo Trie: Exploiting Memory-Level Parallelism for Efficient DRAM Indexing.</title><venue>SOSP</venue><pages>147-162</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Zeitak021</key><doi>10.1145/3477132.3483551</doi><ee>https://doi.org/10.1145/3477132.3483551</ee><url>https://dblp.org/rec/conf/sosp/Zeitak021</url></info>
+<url>URL#1963877</url>
+</hit>
+<hit score="3" id="1963878">
+<info><authors><author pid="166/0079">Yanqi Zhang</author><author pid="47/3727">Iñigo Goiri</author><author pid="224/2468">Gohar Irfan Chaudhry</author><author pid="f/RFonseca">Rodrigo Fonseca</author><author pid="18/1967">Sameh Elnikety</author><author pid="69/9942">Christina Delimitrou</author><author pid="85/2722">Ricardo Bianchini</author></authors><title>Faster and Cheaper Serverless Computing on Harvested Resources.</title><venue>SOSP</venue><pages>724-739</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangGCFEDB21</key><doi>10.1145/3477132.3483580</doi><ee>https://doi.org/10.1145/3477132.3483580</ee><url>https://dblp.org/rec/conf/sosp/ZhangGCFEDB21</url></info>
+<url>URL#1963878</url>
+</hit>
+<hit score="3" id="1963879">
+<info><authors><author pid="68/1122">Irene Zhang</author><author pid="304/2178">Amanda Raybuck</author><author pid="201/1831">Pratyush Patel</author><author pid="71/10013">Kirk Olynyk</author><author pid="35/9256-1">Jacob Nelson 0001</author><author pid="202/8947">Omar S. Navarro Leija</author><author pid="203/1816">Ashlie Martinez</author><author pid="72/2590">Jing Liu</author><author pid="150/5058">Anna Kornfeld Simpson</author><author pid="132/1475">Sujay Jayakar</author><author pid="210/3783">Pedro Henrique Penna</author><author pid="304/2111">Max Demoulin</author><author pid="54/8881">Piali Choudhury</author><author pid="51/8142">Anirudh Badam</author></authors><title>The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems.</title><venue>SOSP</venue><pages>195-211</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangRPONLMLSJP21</key><doi>10.1145/3477132.3483569</doi><ee>https://doi.org/10.1145/3477132.3483569</ee><url>https://dblp.org/rec/conf/sosp/ZhangRPONLMLSJP21</url></info>
+<url>URL#1963879</url>
+</hit>
+<hit score="3" id="1963880">
+<info><authors><author pid="120/1722">Yongle Zhang</author><author pid="208/0023">Junwen Yang</author><author pid="304/2580">Zhuqi Jin</author><author pid="276/3282">Utsav Sethi</author><author pid="188/9963">Kirk Rodrigues</author><author pid="31/5916-1">Shan Lu 0001</author><author pid="230/9043-4">Ding Yuan 0004</author></authors><title>Understanding and Detecting Software Upgrade Failures in Distributed Systems.</title><venue>SOSP</venue><pages>116-131</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangYJSR0Y21</key><doi>10.1145/3477132.3483577</doi><ee>https://doi.org/10.1145/3477132.3483577</ee><url>https://dblp.org/rec/conf/sosp/ZhangYJSR0Y21</url></info>
+<url>URL#1963880</url>
+</hit>
+<hit score="3" id="1971949">
+<info><authors><author pid="190/3100">Germán M. Mendoza-Silva</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="67/3031">Joaquín Huerta</author></authors><title>Local-level Analysis of Positioning Errors in Wi-Fi Fingerprinting.</title><venue>VTC Spring</venue><pages>1-5</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vtc/Mendoza-SilvaTH21</key><doi>10.1109/VTC2021-SPRING51267.2021.9448936</doi><ee>https://doi.org/10.1109/VTC2021-Spring51267.2021.9448936</ee><url>https://dblp.org/rec/conf/vtc/Mendoza-SilvaTH21</url></info>
+<url>URL#1971949</url>
+</hit>
+<hit score="3" id="1972180">
+<info><authors><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="253/1079">Fernando J. Aranda</author><author pid="44/4783">Fernando J. Álvarez</author><author pid="268/1798">Darwin Quezada-Gaibor</author><author pid="210/3811">Ivo Silva</author><author pid="150/0796">Cristiano G. Pendão</author><author pid="45/5350">Adriano J. C. Moreira</author></authors><title>Ensembling Multiple Radio Maps with Dynamic Noise in Fingerprint-based Indoor Positioning.</title><venue>VTC Spring</venue><pages>1-5</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vtc/Torres-Sospedra21</key><doi>10.1109/VTC2021-SPRING51267.2021.9448947</doi><ee>https://doi.org/10.1109/VTC2021-Spring51267.2021.9448947</ee><url>https://dblp.org/rec/conf/vtc/Torres-Sospedra21</url></info>
+<url>URL#1972180</url>
+</hit>
+<hit score="3" id="1975561">
+<info><authors><author pid="286/0222">Pavel Pascacio</author><author pid="92/5332">Joaquín Torres-Sospedra</author><author pid="c/SvenCasteleyn">Sven Casteleyn</author></authors><title>A Lateration Method based on Effective Combinatorial Beacon Selection for Bluetooth Low Energy Indoor Positioning.</title><venue>WiMob</venue><pages>397-402</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wimob/PascacioTC21</key><doi>10.1109/WIMOB52687.2021.9606419</doi><ee>https://doi.org/10.1109/WiMob52687.2021.9606419</ee><url>https://dblp.org/rec/conf/wimob/PascacioTC21</url></info>
+<url>URL#1975561</url>
+</hit>
+</hits>
+</result>

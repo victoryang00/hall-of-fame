@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287955">conf* osdi* 2010*</query>
+<status code="200">OK</status>
+<time unit="msecs">26.28</time>
+<completions total="1" computed="1" sent="1">
+<c sc="32" dc="32" oc="32" id="58181858">2010</c>
+</completions>
+<hits total="32" computed="32" sent="32" first="0">
+<hit score="4" id="5543827">
+<info><authors><author pid="44/6870">Mona Attariyan</author><author pid="14/85">Jason Flinn</author></authors><title>Automating Configuration Troubleshooting with Dynamic Information Flow Analysis.</title><venue>OSDI</venue><pages>237-250</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AttariyanF10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Attariyan.pdf</ee><url>https://dblp.org/rec/conf/osdi/AttariyanF10</url></info>
+<url>URL#5543827</url>
+</hit>
+<hit score="4" id="5543852">
+<info><authors><author pid="98/6661">Nate Kushman</author><author pid="k/DinaKatabi">Dina Katabi</author></authors><title>Enabling Configuration-Independent Automation by Non-Expert Users.</title><venue>OSDI</venue><pages>223-236</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KushmanK10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Kushman.pdf</ee><url>https://dblp.org/rec/conf/osdi/KushmanK10</url></info>
+<url>URL#5543852</url>
+</hit>
+<hit score="3" id="5543826">
+<info><authors><author pid="08/5351">Ganesh Ananthanarayanan</author><author pid="k/SrikanthKandula">Srikanth Kandula</author><author pid="g/AlbertGGreenberg">Albert G. Greenberg</author><author pid="s/IonStoica">Ion Stoica</author><author pid="y/YiLu1">Yi Lu 0001</author><author pid="49/10014">Bikas Saha</author><author pid="99/1933">Edward Harris</author></authors><title>Reining in the Outliers in Map-Reduce Clusters using Mantri.</title><venue>OSDI</venue><pages>265-278</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AnanthanarayananKGSLSH10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Ananthanarayanan.pdf</ee><url>https://dblp.org/rec/conf/osdi/AnanthanarayananKGSLSH10</url></info>
+<url>URL#5543826</url>
+</hit>
+<hit score="3" id="5543828">
+<info><authors><author pid="21/7662">Amittai Aviram</author><author pid="54/1737">Shu-Chun Weng</author><author pid="53/7997">Sen Hu</author><author pid="f/BryanFord">Bryan Ford</author></authors><title>Efficient System-Enforced Deterministic Parallelism.</title><venue>OSDI</venue><pages>193-206</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AviramWHF10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Aviram.pdf</ee><url>https://dblp.org/rec/conf/osdi/AviramWHF10</url></info>
+<url>URL#5543828</url>
+</hit>
+<hit score="3" id="5543830">
+<info><authors><author pid="80/10015">Doug Beaver</author><author pid="27/343">Sanjeev Kumar</author><author pid="07/3117">Harry C. Li</author><author pid="98/8278">Jason Sobel</author><author pid="09/555">Peter Vajgel</author></authors><title>Finding a Needle in Haystack: Facebook&apos;s Photo Storage.</title><venue>OSDI</venue><pages>47-60</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BeaverKLSV10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Beaver.pdf</ee><url>https://dblp.org/rec/conf/osdi/BeaverKLSV10</url></info>
+<url>URL#5543830</url>
+</hit>
+<hit score="3" id="5543831">
+<info><authors><author pid="29/6946">Muli Ben-Yehuda</author><author pid="93/9325">Michael D. Day</author><author pid="35/9709">Zvi Dubitzky</author><author pid="f/MichaelFactor">Michael Factor</author><author pid="79/5445">Nadav Har&apos;El</author><author pid="42/10015">Abel Gordon</author><author pid="89/5874">Anthony Liguori</author><author pid="42/8210">Orit Wasserman</author><author pid="57/1446">Ben-Ami Yassour</author></authors><title>The Turtles Project: Design and Implementation of Nested Virtualization.</title><venue>OSDI</venue><pages>423-436</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Ben-YehudaDDFHGLWY10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Ben-Yehuda.pdf</ee><url>https://dblp.org/rec/conf/osdi/Ben-YehudaDDFHGLWY10</url></info>
+<url>URL#5543831</url>
+</hit>
+<hit score="3" id="5543832">
+<info><authors><author pid="90/2307">Tom Bergan</author><author pid="52/10015">Nicholas Hunt</author><author pid="95/5263">Luis Ceze</author><author pid="g/StevenDGribble">Steven D. Gribble</author></authors><title>Deterministic Process Groups in dOS.</title><venue>OSDI</venue><pages>177-191</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BerganHCG10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Bergan.pdf</ee><url>https://dblp.org/rec/conf/osdi/BerganHCG10</url></info>
+<url>URL#5543832</url>
+</hit>
+<hit score="3" id="5543834">
+<info><authors><author pid="06/2219">Silas Boyd-Wickizer</author><author pid="21/659">Austin T. Clements</author><author pid="77/190">Yandong Mao</author><author pid="96/1003">Aleksey Pesterev</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="82/11191">Robert Morris 0005</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>An Analysis of Linux Scalability to Many Cores.</title><venue>OSDI</venue><pages>1-16</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Boyd-WickizerCMPKMZ10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Boyd-Wickizer.pdf</ee><url>https://dblp.org/rec/conf/osdi/Boyd-WickizerCMPKMZ10</url></info>
+<url>URL#5543834</url>
+</hit>
+<hit score="3" id="5543835">
+<info><authors><author pid="61/10014">Timothy Broomhead</author><author pid="70/10013">Laurence Cremean</author><author pid="74/5909">Julien Ridoux</author><author pid="05/226">Darryl Veitch</author></authors><title>Virtualize Everything but Time.</title><venue>OSDI</venue><pages>451-464</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BroomheadCRV10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Broomhead.pdf</ee><url>https://dblp.org/rec/conf/osdi/BroomheadCRV10</url></info>
+<url>URL#5543835</url>
+</hit>
+<hit score="3" id="5543836">
+<info><authors><author pid="52/796">Adam Chlipala</author></authors><title>Static Checking of Dynamically-Varying Security Policies in Database-Backed Applications.</title><venue>OSDI</venue><pages>105-118</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Chlipala10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Chlipala.pdf</ee><url>https://dblp.org/rec/conf/osdi/Chlipala10</url></info>
+<url>URL#5543836</url>
+</hit>
+<hit score="3" id="5543837">
+<info><authors><author pid="59/5565">Heming Cui</author><author pid="60/10014">Jingyue Wu</author><author pid="277/2163">Chia-Che Tsai</author><author pid="71/3724">Junfeng Yang</author></authors><title>Stable Deterministic Multithreading through Schedule Memoization.</title><venue>OSDI</venue><pages>207-221</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CuiWTY10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Cui.pdf</ee><url>https://dblp.org/rec/conf/osdi/CuiWTY10</url></info>
+<url>URL#5543837</url>
+</hit>
+<hit score="3" id="5543839">
+<info><authors><author pid="22/4463">William Enck</author><author pid="40/7436">Peter Gilbert</author><author pid="34/3515">Byung-Gon Chun</author><author pid="98/5314">Landon P. Cox</author><author pid="j/JaeyeonJung">Jaeyeon Jung</author><author pid="m/PatrickDrewMcDaniel">Patrick D. McDaniel</author><author pid="77/4600">Anmol Sheth</author></authors><title>TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones.</title><venue>OSDI</venue><pages>393-407</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/EnckGCCJMS10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Enck.pdf</ee><url>https://dblp.org/rec/conf/osdi/EnckGCCJMS10</url></info>
+<url>URL#5543839</url>
+</hit>
+<hit score="3" id="5543840">
+<info><authors><author pid="52/2251">John Erickson</author><author pid="95/6578">Madanlal Musuvathi</author><author pid="84/1935">Sebastian Burckhardt</author><author pid="71/10013">Kirk Olynyk</author></authors><title>Effective Data-Race Detection for the Kernel.</title><venue>OSDI</venue><pages>151-162</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/EricksonMBO10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Erickson.pdf</ee><url>https://dblp.org/rec/conf/osdi/EricksonMBO10</url></info>
+<url>URL#5543840</url>
+</hit>
+<hit score="3" id="5543841">
+<info><authors><author pid="59/3702">Ariel J. Feldman</author><author pid="87/10015">William P. Zeller</author><author pid="65/1370">Michael J. Freedman</author><author pid="f/EdwardWFelten">Edward W. Felten</author></authors><title>SPORC: Group Collaboration using Untrusted Cloud Resources.</title><venue>OSDI</venue><pages>337-350</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/FeldmanZFF10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Feldman.pdf</ee><url>https://dblp.org/rec/conf/osdi/FeldmanZFF10</url></info>
+<url>URL#5543841</url>
+</hit>
+<hit score="3" id="5543842">
+<info><authors><author pid="54/10014">Daniel Ford</author><author pid="11/2956">François Labelle</author><author pid="34/1202">Florentina I. Popovici</author><author pid="99/5121">Murray Stokely</author><author pid="36/8669">Van-Anh Truong</author><author pid="79/10015">Luiz Barroso</author><author pid="69/6165">Carrie Grimes</author><author pid="60/6154">Sean Quinlan</author></authors><title>Availability in Globally Distributed Storage Systems.</title><venue>OSDI</venue><pages>61-74</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/FordLPSTBGQ10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Ford.pdf</ee><url>https://dblp.org/rec/conf/osdi/FordLPSTBGQ10</url></info>
+<url>URL#5543842</url>
+</hit>
+<hit score="3" id="5543843">
+<info><authors><author pid="g/RoxanaGeambasu">Roxana Geambasu</author><author pid="68/8881">Amit A. Levy</author><author pid="k/TadayoshiKohno">Tadayoshi Kohno</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Comet: An active distributed key-value store.</title><venue>OSDI</venue><pages>323-336</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GeambasuLKKL10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Geambasu.pdf</ee><url>https://dblp.org/rec/conf/osdi/GeambasuLKKL10</url></info>
+<url>URL#5543843</url>
+</hit>
+<hit score="3" id="5543844">
+<info><authors><author pid="87/1601">Ajay Gulati</author><author pid="40/3294">Arif Merchant</author><author pid="73/1597">Peter J. Varman</author></authors><title>mClock: Handling Throughput Variability for Hypervisor IO Scheduling.</title><venue>OSDI</venue><pages>437-450</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GulatiMV10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Gulati.pdf</ee><url>https://dblp.org/rec/conf/osdi/GulatiMV10</url></info>
+<url>URL#5543844</url>
+</hit>
+<hit score="3" id="5543845">
+<info><authors><author pid="93/4467">Pradeep Kumar Gunda</author><author pid="22/4453">Lenin Ravindranath</author><author pid="13/3927">Chandramohan A. Thekkath</author><author pid="98/809">Yuan Yu</author><author pid="31/2814">Li Zhuang</author></authors><title>Nectar: Automatic Management of Data and Computation in Datacenters.</title><venue>OSDI</venue><pages>75-88</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GundaRTYZ10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Gunda.pdf</ee><url>https://dblp.org/rec/conf/osdi/GundaRTYZ10</url></info>
+<url>URL#5543845</url>
+</hit>
+<hit score="3" id="5543847">
+<info><authors><author pid="60/4358">Andreas Haeberlen</author><author pid="34/10014">Paarijaat Aditya</author><author pid="87/6689">Rodrigo Rodrigues 0001</author><author pid="d/PDruschel">Peter Druschel</author></authors><title>Accountable Virtual Machines.</title><venue>OSDI</venue><pages>119-134</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/HaeberlenARD10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Haeberlen.pdf</ee><url>https://dblp.org/rec/conf/osdi/HaeberlenARD10</url></info>
+<url>URL#5543847</url>
+</hit>
+<hit score="3" id="5543848">
+<info><authors><author pid="67/1968">Maya Haridasan</author><author pid="79/2797">Iqbal Mohomed</author><author pid="06/965">Doug Terry</author><author pid="13/3927">Chandramohan A. Thekkath</author><author pid="89/5992-1">Li Zhang 0001</author></authors><title>StarTrack Next Generation: A Scalable Infrastructure for Track-Based Applications.</title><venue>OSDI</venue><pages>409-422</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/HaridasanMTTZ10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Haridasan.pdf</ee><url>https://dblp.org/rec/conf/osdi/HaridasanMTTZ10</url></info>
+<url>URL#5543848</url>
+</hit>
+<hit score="3" id="5543850">
+<info><authors><author pid="38/8882">Taesoo Kim</author><author pid="08/5760-5">Xi Wang 0005</author><author pid="99/5780">Nickolai Zeldovich</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author></authors><title>Intrusion Recovery Using Selective Re-execution.</title><venue>OSDI</venue><pages>89-104</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KimWZK10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Kim.pdf</ee><url>https://dblp.org/rec/conf/osdi/KimWZK10</url></info>
+<url>URL#5543850</url>
+</hit>
+<hit score="3" id="5543851">
+<info><authors><author pid="93/6926">Teemu Koponen</author><author pid="79/5605">Martín Casado</author><author pid="03/4409">Natasha Gude</author><author pid="74/3199">Jeremy Stribling</author><author pid="52/518">Leon Poutievski</author><author pid="76/3988">Min Zhu</author><author pid="55/3778">Rajiv Ramanathan</author><author pid="85/10014">Yuichiro Iwata</author><author pid="18/7023">Hiroaki Inoue</author><author pid="66/5181">Takayuki Hama</author><author pid="34/5593">Scott Shenker</author></authors><title>Onix: A Distributed Control Platform for Large-scale Production Networks.</title><venue>OSDI</venue><pages>351-364</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KoponenCGSPZRIIHS10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Koponen.pdf</ee><url>https://dblp.org/rec/conf/osdi/KoponenCGSPZRIIHS10</url></info>
+<url>URL#5543851</url>
+</hit>
+<hit score="3" id="5543858">
+<info><authors><author pid="21/6955">Prince Mahajan</author><author pid="68/8463">Srinath T. V. Setty</author><author pid="68/311">Sangmin Lee</author><author pid="17/597">Allen Clement</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="d/MDahlin">Michael Dahlin</author><author pid="00/2879">Michael Walfish</author></authors><title>Depot: Cloud Storage with Minimal Trust.</title><venue>OSDI</venue><pages>307-322</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MahajanSLCADW10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Mahajan.pdf</ee><url>https://dblp.org/rec/conf/osdi/MahajanSLCADW10</url></info>
+<url>URL#5543858</url>
+</hit>
+<hit score="3" id="5543860">
+<info><authors><author pid="57/10015">Daniel Peng</author><author pid="19/6590">Frank Dabek</author></authors><title>Large-scale Incremental Processing Using Distributed Transactions and Notifications.</title><venue>OSDI</venue><pages>251-264</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PengD10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Peng.pdf</ee><url>https://dblp.org/rec/conf/osdi/PengD10</url></info>
+<url>URL#5543860</url>
+</hit>
+<hit score="3" id="5543861">
+<info><authors><author pid="p/LucianPopa2">Lucian Popa 0002</author><author pid="91/2516">Norbert Egi</author><author pid="68/5579">Sylvia Ratnasamy</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Building Extensible Networks with Rule-Based Forwarding.</title><venue>OSDI</venue><pages>379-392</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PopaERS10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Popa.pdf</ee><url>https://dblp.org/rec/conf/osdi/PopaERS10</url></info>
+<url>URL#5543861</url>
+</hit>
+<hit score="3" id="5543862">
+<info><authors><author pid="03/6105">Dan R. K. Ports</author><author pid="21/659">Austin T. Clements</author><author pid="68/1122">Irene Zhang</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="l/BarbaraLiskov">Barbara Liskov</author></authors><title>Transactional Consistency and Automatic Management in an Application Data Cache.</title><venue>OSDI</venue><pages>279-292</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PortsCZML10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Ports.pdf</ee><url>https://dblp.org/rec/conf/osdi/PortsCZML10</url></info>
+<url>URL#5543862</url>
+</hit>
+<hit score="3" id="5543863">
+<info><authors><author pid="48/9376">Russell Power</author><author pid="79/572-1">Jinyang Li 0001</author></authors><title>Piccolo: Building Fast, Distributed Programs with Partitioned Tables.</title><venue>OSDI</venue><pages>293-306</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PowerL10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Power.pdf</ee><url>https://dblp.org/rec/conf/osdi/PowerL10</url></info>
+<url>URL#5543863</url>
+</hit>
+<hit score="3" id="5543867">
+<info><authors><author pid="63/4719">Rob Sherwood</author><author pid="49/2422">Glen Gibb</author><author pid="34/788">Kok-Kiong Yap</author><author pid="12/84">Guido Appenzeller</author><author pid="79/5605">Martín Casado</author><author pid="m/NickMcKeown">Nick McKeown</author><author pid="50/4579">Guru M. Parulkar</author></authors><title>Can the Production Network Be the Testbed?</title><venue>OSDI</venue><pages>365-378</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SherwoodGYACMP10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Sherwood.pdf</ee><url>https://dblp.org/rec/conf/osdi/SherwoodGYACMP10</url></info>
+<url>URL#5543867</url>
+</hit>
+<hit score="3" id="5543868">
+<info><authors><author pid="178/3562">Livio Soares</author><author pid="82/5150">Michael Stumm</author></authors><title>FlexSC: Flexible System Call Scheduling with Exception-Less System Calls.</title><venue>OSDI</venue><pages>33-46</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SoaresS10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Soares.pdf</ee><url>https://dblp.org/rec/conf/osdi/SoaresS10</url></info>
+<url>URL#5543868</url>
+</hit>
+<hit score="3" id="5543870">
+<info><authors><author pid="54/5852">Shuo Tang</author><author pid="24/129">Haohui Mai</author><author pid="54/5833">Samuel T. King</author></authors><title>Trust and Protection in the Illinois Browser Operating System.</title><venue>OSDI</venue><pages>17-32</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/TangMK10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Tang.pdf</ee><url>https://dblp.org/rec/conf/osdi/TangMK10</url></info>
+<url>URL#5543870</url>
+</hit>
+<hit score="3" id="5543873">
+<info><authors><author pid="60/10014">Jingyue Wu</author><author pid="59/5565">Heming Cui</author><author pid="71/3724">Junfeng Yang</author></authors><title>Bypassing Races in Live Applications with Execution Filters.</title><venue>OSDI</venue><pages>135-149</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WuCY10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Wu.pdf</ee><url>https://dblp.org/rec/conf/osdi/WuCY10</url></info>
+<url>URL#5543873</url>
+</hit>
+<hit score="3" id="5543874">
+<info><authors><author pid="61/2220">Weiwei Xiong</author><author pid="03/6317">Soyeon Park</author><author pid="58/3021">Jiaqi Zhang</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author><author pid="62/3653">Zhiqiang Ma</author></authors><title>Ad Hoc Synchronization Considered Harmful.</title><venue>OSDI</venue><pages>163-176</pages><year>2010</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/XiongPZZM10</key><ee>http://www.usenix.org/events/osdi10/tech/full_papers/Xiong.pdf</ee><url>https://dblp.org/rec/conf/osdi/XiongPZZM10</url></info>
+<url>URL#5543874</url>
+</hit>
+</hits>
+</result>

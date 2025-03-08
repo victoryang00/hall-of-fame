@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="288797">conf* osdi* 2008*</query>
+<status code="200">OK</status>
+<time unit="msecs">11.89</time>
+<completions total="1" computed="1" sent="1">
+<c sc="26" dc="26" oc="26" id="58181726">2008</c>
+</completions>
+<hits total="26" computed="26" sent="26" first="0">
+<hit score="3" id="5977399">
+<info><authors><author pid="96/3486">Ashok Anand</author><author pid="22/5609">Sayandeep Sen</author><author pid="43/4773">Andrew Krioukov</author><author pid="34/1202">Florentina I. Popovici</author><author pid="a/AdityaAkella">Aditya Akella</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author><author pid="345/5455-1">Suman Banerjee 0001</author></authors><title>Avoiding File System Micromanagement with Range Writes.</title><venue>OSDI</venue><pages>161-176</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AnandSKPAAAB08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/anand/anand.pdf</ee><url>https://dblp.org/rec/conf/osdi/AnandSKPAAAB08</url></info>
+<url>URL#5977399</url>
+</hit>
+<hit score="3" id="5977402">
+<info><authors><author pid="97/6573">Sorav Bansal</author><author pid="a/AAiken">Alex Aiken</author></authors><title>Binary Translation Using Peephole Superoptimizers.</title><venue>OSDI</venue><pages>177-192</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BansalA08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/bansal/bansal.pdf</ee><url>https://dblp.org/rec/conf/osdi/BansalA08</url></info>
+<url>URL#5977402</url>
+</hit>
+<hit score="3" id="5977405">
+<info><authors><author pid="96/2718">Sapan Bhatia</author><author pid="67/6188-3">Abhishek Kumar 0003</author><author pid="81/447">Marc E. Fiuczynski</author><author pid="p/LLPeterson">Larry L. Peterson</author></authors><title>Lightweight, High-Resolution Monitoring for Troubleshooting Production Systems.</title><venue>OSDI</venue><pages>103-116</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/BhatiaKFP08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/bhatia/bhatia.pdf</ee><url>https://dblp.org/rec/conf/osdi/BhatiaKFP08</url></info>
+<url>URL#5977405</url>
+</hit>
+<hit score="3" id="5977407">
+<info><authors><author pid="06/2219">Silas Boyd-Wickizer</author><author pid="31/6601-1">Haibo Chen 0001</author><author pid="22/6904-1">Rong Chen 0001</author><author pid="77/190">Yandong Mao</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="82/11191">Robert Morris 0005</author><author pid="96/1003">Aleksey Pesterev</author><author pid="44/2654">Lex Stein</author><author pid="32/2572-7">Ming Wu 0007</author><author pid="56/7549">Yue-hua Dai</author><author pid="06/6785">Yang Zhang</author><author pid="z/ZhengZhang">Zheng Zhang 0001</author></authors><title>Corey: An Operating System for Many Cores.</title><venue>OSDI</venue><pages>43-57</pages><year>2008</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/Boyd-WickizerCCMKMPSWDZZ08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/boyd-wickizer/boyd-wickizer.pdf</ee><url>https://dblp.org/rec/conf/osdi/Boyd-WickizerCCMKMPSWDZZ08</url></info>
+<url>URL#5977407</url>
+</hit>
+<hit score="3" id="5977408">
+<info><authors><author pid="86/4141">Cristian Cadar</author><author pid="43/6591">Daniel Dunbar</author><author pid="e/DREngler">Dawson R. Engler</author></authors><title>KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs.</title><venue>OSDI</venue><pages>209-224</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CadarDE08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/cadar/cadar.pdf</ee><url>https://dblp.org/rec/conf/osdi/CadarDE08</url></info>
+<url>URL#5977408</url>
+</hit>
+<hit score="3" id="5977409">
+<info><authors><author pid="83/6331-28">Xu Chen 0028</author><author pid="73/1844-5">Ming Zhang 0005</author><author pid="91/584">Zhuoqing Morley Mao</author><author pid="b/ParamvirBahl">Paramvir Bahl</author></authors><title>Automating Network Application Dependency Discovery: Experiences, Limitations, and New Solutions.</title><venue>OSDI</venue><pages>117-130</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ChenZMB08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/chen_xu/chen_xu.pdf</ee><url>https://dblp.org/rec/conf/osdi/ChenZMB08</url></info>
+<url>URL#5977409</url>
+</hit>
+<hit score="3" id="5977410">
+<info><authors><author pid="58/4477">Anthony Cozzie</author><author pid="62/2108">Frank Stratton</author><author pid="27/3541-7">Hui Xue 0007</author><author pid="54/5833">Samuel T. King</author></authors><title>Digging for Data Structures.</title><venue>OSDI</venue><pages>255-266</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CozzieSXK08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/cozzie/cozzie.pdf</ee><url>https://dblp.org/rec/conf/osdi/CozzieSXK08</url></info>
+<url>URL#5977410</url>
+</hit>
+<hit score="3" id="5977412">
+<info><authors><author pid="29/2709">Francis M. David</author><author pid="50/1453">Ellick Chan</author><author pid="47/3006">Jeffrey C. Carlyle</author><author pid="c/RoyHCampbell">Roy H. Campbell</author></authors><title>CuriOS: Improving Reliability through Operating System Structure.</title><venue>OSDI</venue><pages>59-72</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/DavidCCC08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/david/david.pdf</ee><url>https://dblp.org/rec/conf/osdi/DavidCCC08</url></info>
+<url>URL#5977412</url>
+</hit>
+<hit score="3" id="5977415">
+<info><authors><author pid="87/1231">John R. Douceur</author><author pid="02/3927">Jeremy Elson</author><author pid="55/3274">Jon Howell</author><author pid="25/3228">Jacob R. Lorch</author></authors><title>Leveraging Legacy Code to Deploy Desktop Applications on the Web.</title><venue>OSDI</venue><pages>339-354</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/DouceurEHL08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/douceur/douceur.pdf</ee><url>https://dblp.org/rec/conf/osdi/DouceurEHL08</url></info>
+<url>URL#5977415</url>
+</hit>
+<hit score="3" id="5977418">
+<info><authors><author pid="f/RFonseca">Rodrigo Fonseca</author><author pid="40/5390">Prabal Dutta</author><author pid="91/2665">Philip Alexander Levis</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Quanto: Tracking Energy in Networked Embedded Systems.</title><venue>OSDI</venue><pages>323-338</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/FonsecaDLS08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/fonseca/fonseca.pdf</ee><url>https://dblp.org/rec/conf/osdi/FonsecaDLS08</url></info>
+<url>URL#5977418</url>
+</hit>
+<hit score="3" id="5977420">
+<info><authors><author pid="84/5664">Haryadi S. Gunawi</author><author pid="87/5546">Abhishek Rajimwale</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>SQCK: A Declarative File System Checker.</title><venue>OSDI</venue><pages>131-146</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GunawiRAA08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/gunawi/gunawi.pdf</ee><url>https://dblp.org/rec/conf/osdi/GunawiRAA08</url></info>
+<url>URL#5977420</url>
+</hit>
+<hit score="3" id="5977421">
+<info><authors><author pid="53/1850">Zhenyu Guo</author><author pid="08/5760-5">Xi Wang 0005</author><author pid="181/2667">Jian Tang</author><author pid="85/6600">Xuezheng Liu</author><author pid="34/2799">Zhilei Xu</author><author pid="32/2572-7">Ming Wu 0007</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="z/ZhengZhang">Zheng Zhang 0001</author></authors><title>R2: An Application-Level Kernel for Record and Replay.</title><venue>OSDI</venue><pages>193-208</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GuoWTLXWKZ08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/guo/guo.pdf</ee><url>https://dblp.org/rec/conf/osdi/GuoWTLXWKZ08</url></info>
+<url>URL#5977421</url>
+</hit>
+<hit score="3" id="5977422">
+<info><authors><author pid="84/4837">Diwaker Gupta</author><author pid="68/311">Sangmin Lee</author><author pid="39/1349">Michael Vrable</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="v/GeorgeVarghese">George Varghese</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Difference Engine: Harnessing Memory Redundancy in Virtual Machines.</title><venue>OSDI</venue><pages>309-322</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GuptaLVSSVVV08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/gupta/gupta.pdf</ee><url>https://dblp.org/rec/conf/osdi/GuptaLVSSVVV08</url></info>
+<url>URL#5977422</url>
+</hit>
+<hit score="3" id="5977424">
+<info><authors><author pid="94/4527">Navendu Jain</author><author pid="21/6955">Prince Mahajan</author><author pid="66/3780">Dmitry Kit</author><author pid="66/3044">Praveen Yalagandula</author><author pid="d/MDahlin">Michael Dahlin</author><author pid="91/3045">Yin Zhang</author></authors><title>Network Imprecision: A New Consistency Metric for Scalable Monitoring.</title><venue>OSDI</venue><pages>87-102</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/JainMKYDZ08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/jain/jain.pdf</ee><url>https://dblp.org/rec/conf/osdi/JainMKYDZ08</url></info>
+<url>URL#5977424</url>
+</hit>
+<hit score="3" id="5977425">
+<info><authors><author pid="79/3007">Horatiu Jula</author><author pid="94/6091">Daniel M. Tralamazza</author><author pid="44/6654">Cristian Zamfir</author><author pid="c/GeorgeCandea">George Candea</author></authors><title>Deadlock Immunity: Enabling Systems to Defend Against Deadlocks.</title><venue>OSDI</venue><pages>295-308</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/JulaTZC08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/jula/jula.pdf</ee><url>https://dblp.org/rec/conf/osdi/JulaTZC08</url></info>
+<url>URL#5977425</url>
+</hit>
+<hit score="3" id="5977430">
+<info><authors><author pid="07/3117">Harry C. Li</author><author pid="17/597">Allen Clement</author><author pid="65/4513">Mirco Marchetti</author><author pid="23/6695">Manos Kapritsos</author><author pid="31/4130">Luke Robison</author><author pid="a/LAlvisi">Lorenzo Alvisi</author><author pid="d/MDahlin">Michael Dahlin</author></authors><title>FlightPath: Obedience vs. Choice in Cooperative Services.</title><venue>OSDI</venue><pages>355-368</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LiCMKRAD08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/li_h/li_h.pdf</ee><url>https://dblp.org/rec/conf/osdi/LiCMKRAD08</url></info>
+<url>URL#5977430</url>
+</hit>
+<hit score="3" id="5977433">
+<info><authors><author pid="68/892">Yanhua Mao</author><author pid="27/2404">Flavio Paiva Junqueira</author><author pid="m/KMarzullo">Keith Marzullo</author></authors><title>Mencius: Building Efficient Replicated State Machine for WANs.</title><venue>OSDI</venue><pages>369-384</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MaoJM08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/mao/mao.pdf</ee><url>https://dblp.org/rec/conf/osdi/MaoJM08</url></info>
+<url>URL#5977433</url>
+</hit>
+<hit score="3" id="5977437">
+<info><authors><author pid="95/6578">Madanlal Musuvathi</author><author pid="q/ShazQadeer">Shaz Qadeer</author><author pid="296/1574-1">Thomas Ball 0001</author><author pid="95/3093">Gérard Basler</author><author pid="77/2966">Piramanayagam Arumuga Nainar</author><author pid="46/2869">Iulian Neamtiu</author></authors><title>Finding and Reproducing Heisenbugs in Concurrent Programs.</title><venue>OSDI</venue><pages>267-280</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MusuvathiQBBNN08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/musuvathi/musuvathi.pdf</ee><url>https://dblp.org/rec/conf/osdi/MusuvathiQBBNN08</url></info>
+<url>URL#5977437</url>
+</hit>
+<hit score="3" id="5977438">
+<info><authors><author pid="45/2517">Dushyanth Narayanan</author><author pid="21/2604">Austin Donnelly</author><author pid="44/5931">Eno Thereska</author><author pid="18/1967">Sameh Elnikety</author><author pid="r/AITRowstron">Antony I. T. Rowstron</author></authors><title>Everest: Scaling Down Peak Loads Through I/O Off-Loading.</title><venue>OSDI</venue><pages>15-28</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/NarayananDTER08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/narayanan/narayanan.pdf</ee><url>https://dblp.org/rec/conf/osdi/NarayananDTER08</url></info>
+<url>URL#5977438</url>
+</hit>
+<hit score="3" id="5977440">
+<info><authors><author pid="93/843">Vijayan Prabhakaran</author><author pid="r/TLRodeheffer">Thomas L. Rodeheffer</author><author pid="z/LidongZhou">Lidong Zhou</author></authors><title>Transactional Flash.</title><venue>OSDI</venue><pages>147-160</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PrabhakaranRZ08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/prabhakaran/prabhakaran.pdf</ee><url>https://dblp.org/rec/conf/osdi/PrabhakaranRZ08</url></info>
+<url>URL#5977440</url>
+</hit>
+<hit score="3" id="5977455">
+<info><authors><author pid="70/4828-1">Yin Wang 0001</author><author pid="64/5765">Terence Kelly</author><author pid="49/1513">Manjunath Kudlur</author><author pid="22/3097">Stéphane Lafortune</author><author pid="m/SAMahlke">Scott A. Mahlke</author></authors><title>Gadara: Dynamic Deadlock Avoidance for Multithreaded Programs.</title><venue>OSDI</venue><pages>281-294</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WangKKLM08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/wang/wang.pdf</ee><url>https://dblp.org/rec/conf/osdi/WangKKLM08</url></info>
+<url>URL#5977455</url>
+</hit>
+<hit score="3" id="5977456">
+<info><authors><author pid="96/2005">Dan Williams 0001</author><author pid="08/2847">Patrick Reynolds</author><author pid="50/5661-1">Kevin Walsh 0001</author><author pid="s/EminGunSirer">Emin Gün Sirer</author><author pid="s/FredBSchneider">Fred B. Schneider</author></authors><title>Device Driver Safety Through a Reference Validation Mechanism.</title><venue>OSDI</venue><pages>241-254</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WilliamsRWSS08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/williams/williams.pdf</ee><url>https://dblp.org/rec/conf/osdi/WilliamsRWSS08</url></info>
+<url>URL#5977456</url>
+</hit>
+<hit score="3" id="5977459">
+<info><authors><author pid="88/3999">Ting Yang</author><author pid="15/4725">Tongping Liu</author><author pid="98/4487">Emery D. Berger</author><author pid="77/5214">Scott F. Kaplan</author><author pid="m/JEliotBMoss">J. Eliot B. Moss</author></authors><title>Redline: First Class Support for Interactivity in Commodity Operating Systems.</title><venue>OSDI</venue><pages>73-86</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/YangLBKM08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/yang/yang.pdf</ee><url>https://dblp.org/rec/conf/osdi/YangLBKM08</url></info>
+<url>URL#5977459</url>
+</hit>
+<hit score="3" id="5977460">
+<info><authors><author pid="98/809">Yuan Yu</author><author pid="17/5751">Michael Isard</author><author pid="36/593">Dennis Fetterly</author><author pid="b/MihaiBudiu">Mihai Budiu</author><author pid="e/UErlingsson">Úlfar Erlingsson</author><author pid="93/4467">Pradeep Kumar Gunda</author><author pid="60/5888">Jon Currey</author></authors><title>DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language.</title><venue>OSDI</venue><pages>1-14</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/YuIFBEGC08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/yu_y/yu_y.pdf</ee><url>https://dblp.org/rec/conf/osdi/YuIFBEGC08</url></info>
+<url>URL#5977460</url>
+</hit>
+<hit score="3" id="5977461">
+<info><authors><author pid="36/2133">Matei Zaharia</author><author pid="62/3300">Andy Konwinski</author><author pid="30/2317">Anthony D. Joseph</author><author pid="k/RandyHKatz">Randy H. Katz</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Improving MapReduce Performance in Heterogeneous Environments.</title><venue>OSDI</venue><pages>29-42</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZahariaKJKS08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/zaharia/zaharia.pdf</ee><url>https://dblp.org/rec/conf/osdi/ZahariaKJKS08</url></info>
+<url>URL#5977461</url>
+</hit>
+<hit score="3" id="5977462">
+<info><authors><author pid="99/5780">Nickolai Zeldovich</author><author pid="72/6493">Hari Kannan</author><author pid="35/1023">Michael Dalton</author><author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author></authors><title>Hardware Enforcement of Application Security Policies Using Tagged Memory.</title><venue>OSDI</venue><pages>225-240</pages><year>2008</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZeldovichKDK08</key><ee>http://www.usenix.org/events/osdi08/tech/full_papers/zeldovich/zeldovich.pdf</ee><url>https://dblp.org/rec/conf/osdi/ZeldovichKDK08</url></info>
+<url>URL#5977462</url>
+</hit>
+</hits>
+</result>

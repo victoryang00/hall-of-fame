@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287401">conf* sosp* 2013*</query>
+<status code="200">OK</status>
+<time unit="msecs">24.79</time>
+<completions total="1" computed="1" sent="1">
+<c sc="74" dc="72" oc="74" id="58181984">2013</c>
+</completions>
+<hits total="72" computed="72" sent="72" first="0">
+<hit score="6" id="4822172">
+<info><title>Proceedings of the First ACM SIGOPS Conference on Timely Results in Operating Systems, TRIOS@SOSP 2013, Farmington, PA, USA, November 3, 2013</title><venue>TRIOS@SOSP</venue><publisher>ACM</publisher><year>2013</year><type>Editorship</type><key>conf/sosp/2013trios</key><ee>http://dl.acm.org/citation.cfm?id=2524211</ee><url>https://dblp.org/rec/conf/sosp/2013trios</url></info>
+<url>URL#4822172</url>
+</hit>
+<hit score="3" id="4802498">
+<info><authors><author pid="159/2251">Abutalib Aghayev</author><author pid="76/3749">Peter Desnoyers</author></authors><title>Log-structured cache: trading hit-rate for storage performance (and winning) in mobile devices.</title><venue>INFLOW@SOSP</venue><pages>7:1-7:7</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AghayevD13</key><doi>10.1145/2527792.2527797</doi><ee>https://doi.org/10.1145/2527792.2527797</ee><url>https://dblp.org/rec/conf/sosp/AghayevD13</url></info>
+<url>URL#4802498</url>
+</hit>
+<hit score="3" id="4802499">
+<info><authors><author pid="86/7436">Kapil Arya</author><author pid="07/7482">Tyler Denniston</author><author pid="44/7482">Ana Maria Visan</author><author pid="c/GeneCooperman">Gene Cooperman</author></authors><title>Semi-automated debugging via binary search through a process lifetime.</title><venue>PLOS@SOSP</venue><pages>9:1-9:7</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AryaDVC13</key><doi>10.1145/2525528.2525533</doi><ee>https://doi.org/10.1145/2525528.2525533</ee><url>https://dblp.org/rec/conf/sosp/AryaDVC13</url></info>
+<url>URL#4802499</url>
+</hit>
+<hit score="3" id="4802500">
+<info><authors><author pid="51/8142">Anirudh Badam</author><author pid="00/1016">Vivek S. Pai</author><author pid="12/9118">David W. Nellans</author></authors><title>Better flash access via shape-shifting virtual memory pages.</title><venue>TRIOS@SOSP</venue><pages>3:1-3:14</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BadamPN13</key><doi>10.1145/2524211.2524221</doi><ee>https://doi.org/10.1145/2524211.2524221</ee><url>https://dblp.org/rec/conf/sosp/BadamPN13</url></info>
+<url>URL#4802500</url>
+</hit>
+<hit score="3" id="4802501">
+<info><authors><author pid="15/880">Katelin A. Bailey</author><author pid="34/10299">Peter Hornyack</author><author pid="95/5263">Luis Ceze</author><author pid="g/StevenDGribble">Steven D. Gribble</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Exploring storage class memory with key value stores.</title><venue>INFLOW@SOSP</venue><pages>4:1-4:8</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BaileyHCGL13</key><doi>10.1145/2527792.2527799</doi><ee>https://doi.org/10.1145/2527792.2527799</ee><url>https://dblp.org/rec/conf/sosp/BaileyHCGL13</url></info>
+<url>URL#4802501</url>
+</hit>
+<hit score="3" id="4802502">
+<info><authors><author pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</author><author pid="m/DahliaMalkhi">Dahlia Malkhi</author><author pid="76/4863">Ted Wobber</author><author pid="32/2572-7">Ming Wu 0007</author><author pid="93/843">Vijayan Prabhakaran</author><author pid="132/0329">Michael Wei</author><author pid="72/1381">John D. Davis</author><author pid="07/1315">Sriram Rao</author><author pid="61/6876-2">Tao Zou 0002</author><author pid="08/7454">Aviad Zuck</author></authors><title>Tango: distributed data structures over a shared log.</title><venue>SOSP</venue><pages>325-340</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BalakrishnanMWWPWDRZZ13</key><doi>10.1145/2517349.2522732</doi><ee>https://doi.org/10.1145/2517349.2522732</ee><url>https://dblp.org/rec/conf/sosp/BalakrishnanMWWPWDRZZ13</url></info>
+<url>URL#4802502</url>
+</hit>
+<hit score="3" id="4802503">
+<info><authors><author pid="146/3470">Meenakshi Sundaram Bhaskaran</author><author pid="73/1149-12">Jian Xu 0012</author><author pid="97/3886">Steven Swanson</author></authors><title>Bankshot: caching slow storage in fast non-volatile memory.</title><venue>INFLOW@SOSP</venue><pages>1:1-1:9</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BhaskaranXS13</key><doi>10.1145/2527792.2527793</doi><ee>https://doi.org/10.1145/2527792.2527793</ee><url>https://dblp.org/rec/conf/sosp/BhaskaranXS13</url></info>
+<url>URL#4802503</url>
+</hit>
+<hit score="3" id="4802504">
+<info><authors><author pid="b/KPBirman">Ken Birman</author><author pid="160/3937">Heesung Sohn</author></authors><title>Hosting dynamic data in the cloud with Isis2 and the Ida DHT.</title><venue>TRIOS@SOSP</venue><pages>10:1-10:15</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BirmanS13</key><doi>10.1145/2524211.2524212</doi><ee>https://doi.org/10.1145/2524211.2524212</ee><url>https://dblp.org/rec/conf/sosp/BirmanS13</url></info>
+<url>URL#4802504</url>
+</hit>
+<hit score="3" id="4802505">
+<info><authors><author pid="16/2964">Benjamin Braun</author><author pid="59/3702">Ariel J. Feldman</author><author pid="132/0854">Zuocheng Ren</author><author pid="68/8463">Srinath T. V. Setty</author><author pid="93/1054">Andrew J. Blumberg</author><author pid="00/2879">Michael Walfish</author></authors><title>Verifying computations with state.</title><venue>SOSP</venue><pages>341-357</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BraunFRSBW13</key><doi>10.1145/2517349.2522733</doi><ee>https://doi.org/10.1145/2517349.2522733</ee><url>https://dblp.org/rec/conf/sosp/BraunFRSBW13</url></info>
+<url>URL#4802505</url>
+</hit>
+<hit score="3" id="4802506">
+<info><authors><author pid="28/7551">Anton Burtsev</author><author pid="146/3541">Nikhil Mishrikoti</author><author pid="e/EricEide">Eric Eide</author><author pid="37/2827">Robert Ricci</author></authors><title>Weir: a streaming language for performance analysis.</title><venue>PLOS@SOSP</venue><pages>6:1-6:6</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BurtsevMER13</key><doi>10.1145/2525528.2525537</doi><ee>https://doi.org/10.1145/2525528.2525537</ee><url>https://dblp.org/rec/conf/sosp/BurtsevMER13</url></info>
+<url>URL#4802506</url>
+</hit>
+<hit score="3" id="4802507">
+<info><authors><author pid="137/0888">Aaron Carroll</author><author pid="h/GernotHeiser">Gernot Heiser</author></authors><title>Mobile multicores: use them or waste them.</title><venue>HotPower@SOSP</venue><pages>12:1-12:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CarrollH13</key><doi>10.1145/2525526.2525850</doi><ee>https://doi.org/10.1145/2525526.2525850</ee><url>https://dblp.org/rec/conf/sosp/CarrollH13</url></info>
+<url>URL#4802507</url>
+</hit>
+<hit score="3" id="4802508">
+<info><authors><author pid="15/3784">Ramesh Chandra</author><author pid="38/8882">Taesoo Kim</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Asynchronous intrusion recovery for interconnected web services.</title><venue>SOSP</venue><pages>213-227</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChandraKZ13</key><doi>10.1145/2517349.2522725</doi><ee>https://doi.org/10.1145/2517349.2522725</ee><url>https://dblp.org/rec/conf/sosp/ChandraKZ13</url></info>
+<url>URL#4802508</url>
+</hit>
+<hit score="3" id="4802509">
+<info><authors><author pid="11/10645">Xiaomeng Chen</author><author pid="44/10603">Abhilash Jindal</author><author pid="93/89">Y. Charlie Hu</author></authors><title>How much energy can we save from prefetching ads?: energy drain analysis of top 100 apps.</title><venue>HotPower@SOSP</venue><pages>3:1-3:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChenJH13</key><doi>10.1145/2525526.2525848</doi><ee>https://doi.org/10.1145/2525526.2525848</ee><url>https://dblp.org/rec/conf/sosp/ChenJH13</url></info>
+<url>URL#4802509</url>
+</hit>
+<hit score="3" id="4802510">
+<info><authors><author pid="07/10563">Vijay Chidambaram</author><author pid="135/6845">Thanumalayan Sankaranarayana Pillai</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Optimistic crash consistency.</title><venue>SOSP</venue><pages>228-243</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChidambaramPAA13</key><doi>10.1145/2517349.2522726</doi><ee>https://doi.org/10.1145/2517349.2522726</ee><url>https://dblp.org/rec/conf/sosp/ChidambaramPAA13</url></info>
+<url>URL#4802510</url>
+</hit>
+<hit score="3" id="4802511">
+<info><authors><author pid="21/659">Austin T. Clements</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="99/5780">Nickolai Zeldovich</author><author pid="27/7070">Robert T. Morris</author><author pid="78/5231">Eddie Kohler</author></authors><title>The scalable commutativity rule: designing scalable software for multicore processors.</title><venue>SOSP</venue><pages>1-17</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ClementsKZMK13</key><doi>10.1145/2517349.2522712</doi><ee>https://doi.org/10.1145/2517349.2522712</ee><url>https://dblp.org/rec/conf/sosp/ClementsKZMK13</url></info>
+<url>URL#4802511</url>
+</hit>
+<hit score="3" id="4802512">
+<info><authors><author pid="39/3448">Joel Coburn</author><author pid="126/3562">Trevor Bunker</author><author pid="135/6769">Meir Schwarz</author><author pid="213/9138-1">Rajesh Gupta 0001</author><author pid="97/3886">Steven Swanson</author></authors><title>From ARIES to MARS: transaction support for next-generation, solid-state drives.</title><venue>SOSP</venue><pages>197-212</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CoburnBSGS13</key><doi>10.1145/2517349.2522724</doi><ee>https://doi.org/10.1145/2517349.2522724</ee><url>https://dblp.org/rec/conf/sosp/CoburnBSGS13</url></info>
+<url>URL#4802512</url>
+</hit>
+<hit score="3" id="4802513">
+<info><authors><author pid="59/5565">Heming Cui</author><author pid="276/0168">Jirí Simsa</author><author pid="135/6809">Yi-Hong Lin</author><author pid="17/5705">Hao Li</author><author pid="28/2548">Ben Blum</author><author pid="135/6796">Xinan Xu</author><author pid="71/3724">Junfeng Yang</author><author pid="g/GarthAGibson">Garth A. Gibson</author><author pid="b/REBryant">Randal E. Bryant</author></authors><title>Parrot: a practical runtime for deterministic, stable, and reliable threads.</title><venue>SOSP</venue><pages>388-405</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CuiSLLBXYGB13</key><doi>10.1145/2517349.2522735</doi><ee>https://doi.org/10.1145/2517349.2522735</ee><url>https://dblp.org/rec/conf/sosp/CuiSLLBXYGB13</url></info>
+<url>URL#4802513</url>
+</hit>
+<hit score="3" id="4802514">
+<info><authors><author pid="70/9867">Tudor David</author><author pid="g/RachidGuerraoui">Rachid Guerraoui</author><author pid="93/11190">Vasileios Trigonakis</author></authors><title>Everything you always wanted to know about synchronization but were afraid to ask.</title><venue>SOSP</venue><pages>33-48</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DavidGT13</key><doi>10.1145/2517349.2522714</doi><ee>https://doi.org/10.1145/2517349.2522714</ee><url>https://dblp.org/rec/conf/sosp/DavidGT13</url></info>
+<url>URL#4802514</url>
+</hit>
+<hit score="3" id="4802515">
+<info><authors><author pid="163/9208">Jan Dzik</author><author pid="147/4834">Nick Palladinos</author><author pid="163/9198">Konstantinos Rontogiannis</author><author pid="163/9199">Eirik Tsarpalis</author><author pid="139/9384">Nikolaos Vathis</author></authors><title>MBrace: cloud computing with monads.</title><venue>PLOS@SOSP</venue><pages>7:1-7:6</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DzikPRTV13</key><doi>10.1145/2525528.2525531</doi><ee>https://doi.org/10.1145/2525528.2525531</ee><url>https://dblp.org/rec/conf/sosp/DzikPRTV13</url></info>
+<url>URL#4802515</url>
+</hit>
+<hit score="3" id="4802516">
+<info><authors><author pid="e/KElphinstone">Kevin Elphinstone</author><author pid="h/GernotHeiser">Gernot Heiser</author></authors><title>From L3 to seL4 what have we learnt in 20 years of L4 microkernels?</title><venue>SOSP</venue><pages>133-150</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ElphinstoneH13</key><doi>10.1145/2517349.2522720</doi><ee>https://doi.org/10.1145/2517349.2522720</ee><url>https://dblp.org/rec/conf/sosp/ElphinstoneH13</url></info>
+<url>URL#4802516</url>
+</hit>
+<hit score="3" id="4802517">
+<info><authors><author pid="136/1721">Hiroshi Endo</author><author pid="141/5588">Hiroyoshi Kodama</author><author pid="13/3641">Hiroyuki Fukuda</author><author pid="141/5596">Toshio Sugimoto</author><author pid="38/5831">Takashi Horie</author><author pid="48/2190">Masao Kondo</author></authors><title>Cooperative control architecture of fan-less servers and fresh-air cooling in container servers for low power operation.</title><venue>HotPower@SOSP</venue><pages>4:1-4:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/EndoKFSHK13</key><doi>10.1145/2525526.2525844</doi><ee>https://doi.org/10.1145/2525526.2525844</ee><url>https://dblp.org/rec/conf/sosp/EndoKFSHK13</url></info>
+<url>URL#4802517</url>
+</hit>
+<hit score="3" id="4802518">
+<info><authors><author pid="120/3376">Marius Eriksen</author></authors><title>Your server as a function.</title><venue>PLOS@SOSP</venue><pages>5:1-5:7</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Eriksen13</key><doi>10.1145/2525528.2525538</doi><ee>https://doi.org/10.1145/2525528.2525538</ee><url>https://dblp.org/rec/conf/sosp/Eriksen13</url></info>
+<url>URL#4802518</url>
+</hit>
+<hit score="3" id="4802519">
+<info><authors><author pid="135/9600">Matthew Fernandez</author><author pid="28/6197">Ihor Kuz</author><author pid="74/2171">Gerwin Klein</author><author pid="11/6441">June Andronick</author></authors><title>Towards a verified component platform.</title><venue>PLOS@SOSP</venue><pages>2:1-2:7</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FernandezKKA13</key><doi>10.1145/2525528.2525535</doi><ee>https://doi.org/10.1145/2525528.2525535</ee><url>https://dblp.org/rec/conf/sosp/FernandezKKA13</url></info>
+<url>URL#4802519</url>
+</hit>
+<hit score="3" id="4802520">
+<info><authors><author pid="h/HenryHoffmann">Henry Hoffmann</author></authors><title>Racing and pacing to idle: an evaluation of heuristics for energy-aware resource allocation.</title><venue>HotPower@SOSP</venue><pages>13:1-13:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Hoffmann13</key><doi>10.1145/2525526.2525854</doi><ee>https://doi.org/10.1145/2525526.2525854</ee><url>https://dblp.org/rec/conf/sosp/Hoffmann13</url></info>
+<url>URL#4802520</url>
+</hit>
+<hit score="3" id="4802521">
+<info><authors><author pid="02/6905">Imranul Hoque</author><author pid="02/6135">Indranil Gupta</author></authors><title>LFGraph: simple and fast distributed graph analytics.</title><venue>TRIOS@SOSP</venue><pages>9:1-9:17</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HoqueG13</key><doi>10.1145/2524211.2524218</doi><ee>https://doi.org/10.1145/2524211.2524218</ee><url>https://dblp.org/rec/conf/sosp/HoqueG13</url></info>
+<url>URL#4802521</url>
+</hit>
+<hit score="3" id="4802522">
+<info><authors><author pid="46/4397">Qi Huang</author><author pid="b/KPBirman">Ken Birman</author><author pid="r/RvRenesse">Robbert van Renesse</author><author pid="21/1059">Wyatt Lloyd</author><author pid="27/343">Sanjeev Kumar</author><author pid="07/3117">Harry C. Li</author></authors><title>An analysis of Facebook photo caching.</title><venue>SOSP</venue><pages>167-181</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HuangBRLKL13</key><doi>10.1145/2517349.2522722</doi><ee>https://doi.org/10.1145/2517349.2522722</ee><url>https://dblp.org/rec/conf/sosp/HuangBRLKL13</url></info>
+<url>URL#4802522</url>
+</hit>
+<hit score="3" id="4802523">
+<info><authors><author pid="57/8298">Gangyong Jia</author><author pid="46/2311-3">Xi Li 0003</author><author pid="87/2888-1">Jian Wan 0001</author><author pid="09/6041">Liang Shi</author><author pid="w/ChaoWang3">Chao Wang 0003</author></authors><title>Coordinate page allocation and thread group for improving main memory power efficiency.</title><venue>HotPower@SOSP</venue><pages>7:1-7:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JiaLWSW13</key><doi>10.1145/2525526.2525851</doi><ee>https://doi.org/10.1145/2525526.2525851</ee><url>https://dblp.org/rec/conf/sosp/JiaLWSW13</url></info>
+<url>URL#4802523</url>
+</hit>
+<hit score="3" id="4802524">
+<info><authors><author pid="44/10603">Abhilash Jindal</author><author pid="82/2383">Abhinav Pathak</author><author pid="93/89">Y. Charlie Hu</author><author pid="95/2438">Samuel P. Midkiff</author></authors><title>On death, taxes, and sleep disorder bugs in smartphones.</title><venue>HotPower@SOSP</venue><pages>1:1-1:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JindalPHM13</key><doi>10.1145/2525526.2525845</doi><ee>https://doi.org/10.1145/2525526.2525845</ee><url>https://dblp.org/rec/conf/sosp/JindalPHM13</url></info>
+<url>URL#4802524</url>
+</hit>
+<hit score="3" id="4802525">
+<info><authors><author pid="42/10334">Jithin Jose</author><author pid="18/6845">Mohammad Banikazemi</author><author pid="04/2451">Wendy Belluomini</author><author pid="42/300">Chet Murthy</author><author pid="p/DhabaleswarKPanda">Dhabaleswar K. Panda 0001</author></authors><title>MetaData persistence using storage class memory: experiences with flash-backed DRAM.</title><venue>INFLOW@SOSP</venue><pages>3:1-3:7</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JoseBBMP13</key><doi>10.1145/2527792.2527800</doi><ee>https://doi.org/10.1145/2527792.2527800</ee><url>https://dblp.org/rec/conf/sosp/JoseBBMP13</url></info>
+<url>URL#4802525</url>
+</hit>
+<hit score="3" id="4802526">
+<info><authors><author pid="21/279">Pallavi Joshi</author><author pid="34/7032">Malay K. Ganai</author><author pid="86/5106">Gogul Balakrishnan</author><author pid="18/2229">Aarti Gupta</author><author pid="70/9609">Nadia Papakonstantinou</author></authors><title>SETSUDŌ: perturbation-based testing framework for scalable distributed systems.</title><venue>TRIOS@SOSP</venue><pages>7:1-7:14</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JoshiGBGP13</key><doi>10.1145/2524211.2524217</doi><ee>https://doi.org/10.1145/2524211.2524217</ee><url>https://dblp.org/rec/conf/sosp/JoshiGBGP13</url></info>
+<url>URL#4802526</url>
+</hit>
+<hit score="3" id="4802527">
+<info><authors><author pid="82/9936">Sudarsun Kannan</author><author pid="76/3229">Ada Gavrilovska</author><author pid="s/KarstenSchwan">Karsten Schwan</author><author pid="65/4930">Sanjay Kumar</author></authors><title>NVM heaps for accelerating browser-based applications.</title><venue>INFLOW@SOSP</venue><pages>8:1-8:8</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KannanGSK13</key><doi>10.1145/2527792.2527796</doi><ee>https://doi.org/10.1145/2527792.2527796</ee><url>https://dblp.org/rec/conf/sosp/KannanGSK13</url></info>
+<url>URL#4802527</url>
+</hit>
+<hit score="3" id="4802528">
+<info><authors><author pid="31/11029">Baris Kasikci</author><author pid="44/6654">Cristian Zamfir</author><author pid="c/GeorgeCandea">George Candea</author></authors><title>RaceMob: crowdsourced data race detection.</title><venue>SOSP</venue><pages>406-422</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KasikciZC13</key><doi>10.1145/2517349.2522736</doi><ee>https://doi.org/10.1145/2517349.2522736</ee><url>https://dblp.org/rec/conf/sosp/KasikciZC13</url></info>
+<url>URL#4802528</url>
+</hit>
+<hit score="3" id="4802529">
+<info><authors><author pid="45/8524">Rini T. Kaushik</author><author pid="03/2866">Prasenjit Sarkar</author><author pid="64/6159">Abdullah Gharaibeh</author></authors><title>Greening the compute cloud&apos;s pricing plans.</title><venue>HotPower@SOSP</venue><pages>6:1-6:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KaushikSG13</key><doi>10.1145/2525526.2525855</doi><ee>https://doi.org/10.1145/2525526.2525855</ee><url>https://dblp.org/rec/conf/sosp/KaushikSG13</url></info>
+<url>URL#4802529</url>
+</hit>
+<hit score="3" id="4802530">
+<info><authors><author pid="201/4871">Piyus Kedia</author><author pid="97/6573">Sorav Bansal</author></authors><title>Fast dynamic binary translation for the kernel.</title><venue>SOSP</venue><pages>101-115</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KediaB13</key><doi>10.1145/2517349.2522718</doi><ee>https://doi.org/10.1145/2517349.2522718</ee><url>https://dblp.org/rec/conf/sosp/KediaB13</url></info>
+<url>URL#4802530</url>
+</hit>
+<hit score="3" id="4802531">
+<info><authors><author pid="04/480">Stephen Kell</author></authors><title>The operating system: should there be one?</title><venue>PLOS@SOSP</venue><pages>8:1-8:7</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Kell13</key><doi>10.1145/2525528.2525534</doi><ee>https://doi.org/10.1145/2525528.2525534</ee><url>https://dblp.org/rec/conf/sosp/Kell13</url></info>
+<url>URL#4802531</url>
+</hit>
+<hit score="3" id="4802532">
+<info><authors><author pid="87/6127">Gabriele Keller</author><author pid="31/6289">Toby C. Murray</author><author pid="22/11041">Sidney Amani</author><author pid="146/3436">Liam O&apos;Connor</author><author pid="146/3373">Zilin Chen</author><author pid="91/7451">Leonid Ryzhyk</author><author pid="74/2171">Gerwin Klein</author><author pid="h/GernotHeiser">Gernot Heiser</author></authors><title>File systems deserve verification too!</title><venue>PLOS@SOSP</venue><pages>1:1-1:7</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KellerMAOCRKH13</key><doi>10.1145/2525528.2525530</doi><ee>https://doi.org/10.1145/2525528.2525530</ee><url>https://dblp.org/rec/conf/sosp/KellerMAOCRKH13</url></info>
+<url>URL#4802532</url>
+</hit>
+<hit score="3" id="4802533">
+<info><authors><author pid="07/9257">Sangman Kim</author><author pid="r/IndrajitRoy">Indrajit Roy 0001</author><author pid="59/3510">Vanish Talwar</author></authors><title>Evaluating integrated graphics processors for data center workloads.</title><venue>HotPower@SOSP</venue><pages>8:1-8:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KimRT13</key><doi>10.1145/2525526.2525847</doi><ee>https://doi.org/10.1145/2525526.2525847</ee><url>https://dblp.org/rec/conf/sosp/KimRT13</url></info>
+<url>URL#4802533</url>
+</hit>
+<hit score="3" id="4802534">
+<info><authors><author pid="89/2022">Hyojun Kim</author><author pid="80/391">Sangeetha Seshadri</author><author pid="79/6042">Clement L. Dickey</author><author pid="91/3355">Lawrence Chiu</author></authors><title>Phase change memory in enterprise storage systems: silver bullet or snake oil?</title><venue>INFLOW@SOSP</venue><pages>2:1-2:8</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KimSDC13</key><doi>10.1145/2527792.2527794</doi><ee>https://doi.org/10.1145/2527792.2527794</ee><url>https://dblp.org/rec/conf/sosp/KimSDC13</url></info>
+<url>URL#4802534</url>
+</hit>
+<hit score="3" id="4802535">
+<info><authors><author pid="135/6767">Ali José Mashtizadeh</author><author pid="70/1811">Andrea Bittau</author><author pid="135/6706">Yifeng Frank Huang</author><author pid="m/DMazieres">David Mazières</author></authors><title>Replication, history, and grafting in the Ori file system.</title><venue>SOSP</venue><pages>151-166</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MashtizadehBHM13</key><doi>10.1145/2517349.2522721</doi><ee>https://doi.org/10.1145/2517349.2522721</ee><url>https://dblp.org/rec/conf/sosp/MashtizadehBHM13</url></info>
+<url>URL#4802535</url>
+</hit>
+<hit score="3" id="4802536">
+<info><authors><author pid="120/1781">Xinxin Mei</author><author pid="13/9446">Ling Sing Yung</author><author pid="48/5917">Kaiyong Zhao</author><author pid="24/2536">Xiaowen Chu 0001</author></authors><title>A measurement study of GPU DVFS on energy conservation.</title><venue>HotPower@SOSP</venue><pages>10:1-10:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MeiYZC13</key><doi>10.1145/2525526.2525852</doi><ee>https://doi.org/10.1145/2525526.2525852</ee><url>https://dblp.org/rec/conf/sosp/MeiYZC13</url></info>
+<url>URL#4802536</url>
+</hit>
+<hit score="3" id="4802537">
+<info><authors><author pid="96/8181">Iulian Moraru</author><author pid="a/DavidGAndersen">David G. Andersen</author><author pid="09/4259">Michael Kaminsky</author></authors><title>There is more consensus in Egalitarian parliaments.</title><venue>SOSP</venue><pages>358-372</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MoraruAK13</key><doi>10.1145/2517349.2517350</doi><ee>https://doi.org/10.1145/2517349.2517350</ee><url>https://dblp.org/rec/conf/sosp/MoraruAK13</url></info>
+<url>URL#4802537</url>
+</hit>
+<hit score="3" id="4802538">
+<info><authors><author pid="96/8181">Iulian Moraru</author><author pid="a/DavidGAndersen">David G. Andersen</author><author pid="09/4259">Michael Kaminsky</author><author pid="t/NirajTolia">Niraj Tolia</author><author pid="12/6848">Parthasarathy Ranganathan</author><author pid="12/6875">Nathan L. Binkert</author></authors><title>Consistent, durable, and safe memory management for byte-addressable non volatile main memory.</title><venue>TRIOS@SOSP</venue><pages>1:1-1:17</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MoraruAKTRB13</key><doi>10.1145/2524211.2524216</doi><ee>https://doi.org/10.1145/2524211.2524216</ee><url>https://dblp.org/rec/conf/sosp/MoraruAKTRB13</url></info>
+<url>URL#4802538</url>
+</hit>
+<hit score="3" id="4802539">
+<info><authors><author pid="82/1824">Derek Gordon Murray</author><author pid="59/563">Frank McSherry</author><author pid="89/4883">Rebecca Isaacs</author><author pid="17/5751">Michael Isard</author><author pid="b/PaulBarham">Paul Barham 0001</author><author pid="a/MartinAbadi">Martín Abadi</author></authors><title>Naiad: a timely dataflow system.</title><venue>SOSP</venue><pages>439-455</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MurrayMIIBA13</key><doi>10.1145/2517349.2522738</doi><ee>https://doi.org/10.1145/2517349.2522738</ee><url>https://dblp.org/rec/conf/sosp/MurrayMIIBA13</url></info>
+<url>URL#4802539</url>
+</hit>
+<hit score="3" id="4802540">
+<info><authors><author pid="48/4701">Donald Nguyen</author><author pid="15/2621">Andrew Lenharth</author><author pid="71/5735">Keshav Pingali</author></authors><title>A lightweight infrastructure for graph analytics.</title><venue>SOSP</venue><pages>456-471</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NguyenLP13</key><doi>10.1145/2517349.2522739</doi><ee>https://doi.org/10.1145/2517349.2522739</ee><url>https://dblp.org/rec/conf/sosp/NguyenLP13</url></info>
+<url>URL#4802540</url>
+</hit>
+<hit score="3" id="4802541">
+<info><authors><author pid="98/9727-1">Ruslan Nikolaev 0001</author><author pid="47/2634">Godmar Back</author></authors><title>VirtuOS: an operating system with kernel virtualization.</title><venue>SOSP</venue><pages>116-132</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NikolaevB13</key><doi>10.1145/2517349.2522719</doi><ee>https://doi.org/10.1145/2517349.2522719</ee><url>https://dblp.org/rec/conf/sosp/NikolaevB13</url></info>
+<url>URL#4802541</url>
+</hit>
+<hit score="3" id="4802542">
+<info><authors><author pid="41/7454">Yongseok Oh</author><author pid="61/4476">Jongmoo Choi</author><author pid="62/2294-1">Donghee Lee 0001</author><author pid="81/970">Sam H. Noh</author></authors><title>Improving performance and lifetime of the SSD RAID-based host cache through a log-structured approach.</title><venue>INFLOW@SOSP</venue><pages>5:1-5:8</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OhCLN13</key><doi>10.1145/2527792.2527795</doi><ee>https://doi.org/10.1145/2527792.2527795</ee><url>https://dblp.org/rec/conf/sosp/OhCLN13</url></info>
+<url>URL#4802542</url>
+</hit>
+<hit score="3" id="4802543">
+<info><authors><author pid="10/10299">Kay Ousterhout</author><author pid="03/8397">Patrick Wendell</author><author pid="36/2133">Matei Zaharia</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Sparrow: distributed, low latency scheduling.</title><venue>SOSP</venue><pages>69-84</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OusterhoutWZS13</key><doi>10.1145/2517349.2522716</doi><ee>https://doi.org/10.1145/2517349.2522716</ee><url>https://dblp.org/rec/conf/sosp/OusterhoutWZS13</url></info>
+<url>URL#4802543</url>
+</hit>
+<hit score="3" id="4802544">
+<info><authors><author pid="22/4453">Lenin Ravindranath</author><author pid="p/JPadhye">Jitendra Padhye</author><author pid="81/6327">Ratul Mahajan</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author></authors><title>Timecard: controlling user-perceived delays in server-based mobile applications.</title><venue>SOSP</venue><pages>85-100</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RavindranathPMB13</key><doi>10.1145/2517349.2522717</doi><ee>https://doi.org/10.1145/2517349.2522717</ee><url>https://dblp.org/rec/conf/sosp/RavindranathPMB13</url></info>
+<url>URL#4802544</url>
+</hit>
+<hit score="3" id="4802545">
+<info><authors><author pid="11/4576">Ana Carolina Riekstin</author><author pid="145/7390">Sean James</author><author pid="73/6487">Aman Kansal</author><author pid="03/2134-1">Jie Liu 0001</author><author pid="01/1649">Eric Peterson</author></authors><title>No more electrical infrastructure: towards fuel cell powered data centers.</title><venue>HotPower@SOSP</venue><pages>5:1-5:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RiekstinJKLP13</key><doi>10.1145/2525526.2525853</doi><ee>https://doi.org/10.1145/2525526.2525853</ee><url>https://dblp.org/rec/conf/sosp/RiekstinJKLP13</url></info>
+<url>URL#4802545</url>
+</hit>
+<hit score="3" id="4802546">
+<info><authors><author pid="46/991">Christopher J. Rossbach</author><author pid="98/809">Yuan Yu</author><author pid="60/5888">Jon Currey</author><author pid="99/1869">Jean-Philippe Martin</author><author pid="36/593">Dennis Fetterly</author></authors><title>Dandelion: a compiler and runtime for heterogeneous systems.</title><venue>SOSP</venue><pages>49-68</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RossbachYCMF13</key><doi>10.1145/2517349.2522715</doi><ee>https://doi.org/10.1145/2517349.2522715</ee><url>https://dblp.org/rec/conf/sosp/RossbachYCMF13</url></info>
+<url>URL#4802546</url>
+</hit>
+<hit score="3" id="4802547">
+<info><authors><author pid="r/AmitabhaRoy0002">Amitabha Roy 0002</author><author pid="135/6810">Ivo Mihailovic</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author></authors><title>X-Stream: edge-centric graph processing using streaming partitions.</title><venue>SOSP</venue><pages>472-488</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RoyMZ13</key><doi>10.1145/2517349.2522740</doi><ee>https://doi.org/10.1145/2517349.2522740</ee><url>https://dblp.org/rec/conf/sosp/RoyMZ13</url></info>
+<url>URL#4802547</url>
+</hit>
+<hit score="3" id="4802548">
+<info><authors><author pid="79/7545">Amre Shakimov</author><author pid="98/5314">Landon P. Cox</author></authors><title>MUTT: a watchdog for OSN applications.</title><venue>TRIOS@SOSP</venue><pages>6:1-6:14</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ShakimovC13</key><doi>10.1145/2524211.2524215</doi><ee>https://doi.org/10.1145/2524211.2524215</ee><url>https://dblp.org/rec/conf/sosp/ShakimovC13</url></info>
+<url>URL#4802548</url>
+</hit>
+<hit score="3" id="4802549">
+<info><authors><author pid="41/10782">Chenguang Shen</author><author pid="14/7588">Supriyo Chakraborty</author><author pid="115/7950">Kasturi Rangan Raghavan</author><author pid="43/6539">Haksoo Choi</author><author pid="s/ManiBSrivastava">Mani B. Srivastava</author></authors><title>Exploiting processor heterogeneity for energy efficient context inference on mobile phones.</title><venue>HotPower@SOSP</venue><pages>9:1-9:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ShenCRCS13</key><doi>10.1145/2525526.2525856</doi><ee>https://doi.org/10.1145/2525526.2525856</ee><url>https://dblp.org/rec/conf/sosp/ShenCRCS13</url></info>
+<url>URL#4802549</url>
+</hit>
+<hit score="3" id="4802550">
+<info><authors><author pid="06/21">Pravin Shinde</author><author pid="145/5081">Antoine Kaufmann</author><author pid="52/4341">Kornilios Kourtis</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author></authors><title>Modeling NICs with Unicorn.</title><venue>PLOS@SOSP</venue><pages>3:1-3:6</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ShindeKKR13</key><doi>10.1145/2525528.2525532</doi><ee>https://doi.org/10.1145/2525528.2525532</ee><url>https://dblp.org/rec/conf/sosp/ShindeKKR13</url></info>
+<url>URL#4802550</url>
+</hit>
+<hit score="3" id="4802551">
+<info><authors><author pid="115/5948">Dimitris Skourtis</author><author pid="34/4066">Dimitris Achlioptas</author><author pid="83/2134">Carlos Maltzahn</author><author pid="b/ScottABrandt">Scott A. Brandt</author></authors><title>High performance &amp; low latency in solid-state drives through redundancy.</title><venue>INFLOW@SOSP</venue><pages>6:1-6:9</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SkourtisAMB13</key><doi>10.1145/2527792.2527798</doi><ee>https://doi.org/10.1145/2527792.2527798</ee><url>https://dblp.org/rec/conf/sosp/SkourtisAMB13</url></info>
+<url>URL#4802551</url>
+</hit>
+<hit score="3" id="4802552">
+<info><authors><author pid="122/4854">Kuei Jack Sun</author><author pid="122/4836">Daniel Fryer</author><author pid="b/AngelaDemkeBrown">Angela Demke Brown</author><author pid="g/AshvinGoel">Ashvin Goel</author></authors><title>Annotation for automation: rapid generation of file system tools.</title><venue>PLOS@SOSP</venue><pages>4:1-4:6</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SunFBG13</key><doi>10.1145/2525528.2525529</doi><ee>https://doi.org/10.1145/2525528.2525529</ee><url>https://dblp.org/rec/conf/sosp/SunFBG13</url></info>
+<url>URL#4802552</url>
+</hit>
+<hit score="3" id="4802553">
+<info><authors><author pid="33/1050">Priyanka Tembey</author><author pid="76/3229">Ada Gavrilovska</author><author pid="s/KarstenSchwan">Karsten Schwan</author></authors><title>inTune: coordinating multicore islands to achieve global policy objectives.</title><venue>TRIOS@SOSP</venue><pages>4:1-4:16</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TembeyGS13</key><doi>10.1145/2524211.2524213</doi><ee>https://doi.org/10.1145/2524211.2524213</ee><url>https://dblp.org/rec/conf/sosp/TembeyGS13</url></info>
+<url>URL#4802553</url>
+</hit>
+<hit score="3" id="4802554">
+<info><authors><author pid="06/965">Douglas B. Terry</author><author pid="93/843">Vijayan Prabhakaran</author><author pid="15/5513">Ramakrishna Kotla</author><author pid="b/MBalakrishnan">Mahesh Balakrishnan 0001</author><author pid="10/553">Marcos K. Aguilera</author><author pid="17/8279">Hussam Abu-Libdeh</author></authors><title>Consistency-based service level agreements for cloud storage.</title><venue>SOSP</venue><pages>309-324</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TerryPKBAA13</key><doi>10.1145/2517349.2522731</doi><ee>https://doi.org/10.1145/2517349.2522731</ee><url>https://dblp.org/rec/conf/sosp/TerryPKBAA13</url></info>
+<url>URL#4802554</url>
+</hit>
+<hit score="3" id="4802555">
+<info><authors><author pid="44/5931">Eno Thereska</author><author pid="68/4437">Hitesh Ballani</author><author pid="82/5545">Greg O&apos;Shea</author><author pid="76/1767">Thomas Karagiannis</author><author pid="r/AITRowstron">Antony I. T. Rowstron</author><author pid="135/6825">Tom Talpey</author><author pid="46/5660">Richard Black</author><author pid="121/1838">Timothy Zhu</author></authors><title>IOFlow: a software-defined storage architecture.</title><venue>SOSP</venue><pages>182-196</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ThereskaBOKRTBZ13</key><doi>10.1145/2517349.2522723</doi><ee>https://doi.org/10.1145/2517349.2522723</ee><url>https://dblp.org/rec/conf/sosp/ThereskaBOKRTBZ13</url></info>
+<url>URL#4802555</url>
+</hit>
+<hit score="3" id="4802556">
+<info><authors><author pid="163/9201">Peter Senna Tschudin</author><author pid="11/1262">Laurent Réveillère</author><author pid="82/3572">Lingxiao Jiang</author><author pid="89/6793-1">David Lo 0001</author><author pid="l/JuliaLLawall">Julia Lawall</author><author pid="27/4405">Gilles Muller</author></authors><title>Understanding the genetic makeup of Linux device drivers.</title><venue>PLOS@SOSP</venue><pages>10:1-10:6</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TschudinRJLLM13</key><doi>10.1145/2525528.2525536</doi><ee>https://doi.org/10.1145/2525528.2525536</ee><url>https://dblp.org/rec/conf/sosp/TschudinRJLLM13</url></info>
+<url>URL#4802556</url>
+</hit>
+<hit score="3" id="4802557">
+<info><authors><author pid="09/8165">Stephen Tu</author><author pid="94/4314">Wenting Zheng</author><author pid="78/5231">Eddie Kohler</author><author pid="l/BarbaraLiskov">Barbara Liskov</author><author pid="m/SamuelMadden">Samuel Madden 0001</author></authors><title>Speedy transactions in multicore in-memory databases.</title><venue>SOSP</venue><pages>18-32</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TuZKLM13</key><doi>10.1145/2517349.2522713</doi><ee>https://doi.org/10.1145/2517349.2522713</ee><url>https://dblp.org/rec/conf/sosp/TuZKLM13</url></info>
+<url>URL#4802557</url>
+</hit>
+<hit score="3" id="4802558">
+<info><authors><author pid="75/1008-1">Qingyang Wang 0001</author><author pid="10/1089">Yasuhiko Kanemasa</author><author pid="80/1484-1">Jack Li 0001</author><author pid="19/9675">Chien-An Lai</author><author pid="59/629">Masazumi Matsubara</author><author pid="p/CaltonPu">Calton Pu</author></authors><title>Impact of DVFS on n-tier application performance.</title><venue>TRIOS@SOSP</venue><pages>5:1-5:16</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WangKLLMP13</key><doi>10.1145/2524211.2524220</doi><ee>https://doi.org/10.1145/2524211.2524220</ee><url>https://dblp.org/rec/conf/sosp/WangKLLMP13</url></info>
+<url>URL#4802558</url>
+</hit>
+<hit score="3" id="4802559">
+<info><authors><author pid="08/5760-5">Xi Wang 0005</author><author pid="99/5780">Nickolai Zeldovich</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="95/6919">Armando Solar-Lezama</author></authors><title>Towards optimization-safe systems: analyzing the impact of undefined behavior.</title><venue>SOSP</venue><pages>260-275</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WangZKS13</key><doi>10.1145/2517349.2522728</doi><ee>https://doi.org/10.1145/2517349.2522728</ee><url>https://dblp.org/rec/conf/sosp/WangZKS13</url></info>
+<url>URL#4802559</url>
+</hit>
+<hit score="3" id="4802560">
+<info><authors><author pid="97/8278">Kevin C. Webb 0001</author><author pid="48/11190">Bhanu Chandra Vattikonda</author><author pid="01/53">Kenneth Yocum</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author></authors><title>Scalable coordination of a tightly-coupled service in the wide area.</title><venue>TRIOS@SOSP</venue><pages>8:1-8:15</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WebbVYS13</key><doi>10.1145/2524211.2524214</doi><ee>https://doi.org/10.1145/2524211.2524214</ee><url>https://dblp.org/rec/conf/sosp/WebbVYS13</url></info>
+<url>URL#4802560</url>
+</hit>
+<hit score="3" id="4802561">
+<info><authors><author pid="135/6818">Zev Weiss</author><author pid="09/10322">Tyler Harter</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>ROOT: replaying multithreaded traces with resource-oriented ordering.</title><venue>SOSP</venue><pages>373-387</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WeissHAA13</key><doi>10.1145/2517349.2522734</doi><ee>https://doi.org/10.1145/2517349.2522734</ee><url>https://dblp.org/rec/conf/sosp/WeissHAA13</url></info>
+<url>URL#4802561</url>
+</hit>
+<hit score="3" id="4802562">
+<info><authors><author pid="11/5670-3">Zhe Wu 0003</author><author pid="121/4959">Michael Butkiewicz</author><author pid="199/6926">Dorian Jean Perkins</author><author pid="66/2080">Ethan Katz-Bassett</author><author pid="45/2026">Harsha V. Madhyastha</author></authors><title>SPANStore: cost-effective geo-replicated storage spanning multiple cloud services.</title><venue>SOSP</venue><pages>292-308</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WuBPKM13</key><doi>10.1145/2517349.2522730</doi><ee>https://doi.org/10.1145/2517349.2522730</ee><url>https://dblp.org/rec/conf/sosp/WuBPKM13</url></info>
+<url>URL#4802562</url>
+</hit>
+<hit score="3" id="4802563">
+<info><authors><author pid="88/611">Mingyuan Xia 0001</author><author pid="45/2682">Wenbo He</author><author pid="l/XueLiu">Xue Liu 0001</author><author pid="03/2134-1">Jie Liu 0001</author></authors><title>Why application errors drain battery easily?: a study of memory leaks in smartphone apps.</title><venue>HotPower@SOSP</venue><pages>2:1-2:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/XiaHLL13</key><doi>10.1145/2525526.2525846</doi><ee>https://doi.org/10.1145/2525526.2525846</ee><url>https://dblp.org/rec/conf/sosp/XiaHLL13</url></info>
+<url>URL#4802563</url>
+</hit>
+<hit score="3" id="4802564">
+<info><authors><author pid="90/7566">Tianyin Xu</author><author pid="58/3021">Jiaqi Zhang</author><author pid="29/1726-5">Peng Huang 0005</author><author pid="15/2171">Jing Zheng</author><author pid="52/7553">Tianwei Sheng</author><author pid="230/9043-4">Ding Yuan 0004</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author><author pid="60/5379">Shankar Pasupathy</author></authors><title>Do not blame users for misconfigurations.</title><venue>SOSP</venue><pages>244-259</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/XuZHZSYZP13</key><doi>10.1145/2517349.2522727</doi><ee>https://doi.org/10.1145/2517349.2522727</ee><url>https://dblp.org/rec/conf/sosp/XuZHZSYZP13</url></info>
+<url>URL#4802564</url>
+</hit>
+<hit score="3" id="4802565">
+<info><authors><author pid="36/2133">Matei Zaharia</author><author pid="31/6214">Tathagata Das</author><author pid="46/3744-1">Haoyuan Li 0001</author><author pid="01/877">Timothy Hunter</author><author pid="34/5593">Scott Shenker</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Discretized streams: fault-tolerant streaming computation at scale.</title><venue>SOSP</venue><pages>423-438</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZahariaDLHSS13</key><doi>10.1145/2517349.2522737</doi><ee>https://doi.org/10.1145/2517349.2522737</ee><url>https://dblp.org/rec/conf/sosp/ZahariaDLHSS13</url></info>
+<url>URL#4802565</url>
+</hit>
+<hit score="3" id="4802566">
+<info><authors><author pid="06/6785">Yang Zhang</author><author pid="48/9376">Russell Power</author><author pid="135/6608">Siyuan Zhou</author><author pid="54/8142">Yair Sovran</author><author pid="10/553">Marcos K. Aguilera</author><author pid="79/572-1">Jinyang Li 0001</author></authors><title>Transaction chains: achieving serializability with low latency in geo-distributed storage systems.</title><venue>SOSP</venue><pages>276-291</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangPZSAL13</key><doi>10.1145/2517349.2522729</doi><ee>https://doi.org/10.1145/2517349.2522729</ee><url>https://dblp.org/rec/conf/sosp/ZhangPZSAL13</url></info>
+<url>URL#4802566</url>
+</hit>
+<hit score="3" id="4802567">
+<info><authors><author pid="57/4707-2">Yifan Zhang 0002</author><author pid="69/5181">Xudong Wang</author><author pid="08/2161">Xuanzhe Liu</author><author pid="55/3521">Yunxin Liu</author><author pid="31/2814">Li Zhuang</author><author pid="z/FengZhao">Feng Zhao 0001</author></authors><title>Towards better CPU power management on multicore smartphones.</title><venue>HotPower@SOSP</venue><pages>11:1-11:5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangWLLZZ13</key><doi>10.1145/2525526.2525849</doi><ee>https://doi.org/10.1145/2525526.2525849</ee><url>https://dblp.org/rec/conf/sosp/ZhangWLLZZ13</url></info>
+<url>URL#4802567</url>
+</hit>
+<hit score="3" id="4802568">
+<info><authors><author pid="31/6916-4">Hao Zheng 0004</author><author pid="70/10838">Endong Wang</author><author pid="02/216">Yinfeng Wang</author><author pid="10/1263">Xingjun Zhang</author><author pid="140/0981">Baoke Chen</author><author pid="78/1632">Weiguo Wu</author><author pid="50/2755">Xiaoshe Dong</author></authors><title>Transparent driver-kernel isolation with VMM intervention.</title><venue>TRIOS@SOSP</venue><pages>2:1-2:16</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhengWWZCWD13</key><doi>10.1145/2524211.2524219</doi><ee>https://doi.org/10.1145/2524211.2524219</ee><url>https://dblp.org/rec/conf/sosp/ZhengWWZCWD13</url></info>
+<url>URL#4802568</url>
+</hit>
+</hits>
+</result>

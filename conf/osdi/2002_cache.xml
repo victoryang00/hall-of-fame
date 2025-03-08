@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287445">conf* osdi* 2002*</query>
+<status code="200">OK</status>
+<time unit="msecs">12.52</time>
+<completions total="1" computed="1" sent="1">
+<c sc="29" dc="28" oc="29" id="58181311">2002</c>
+</completions>
+<hits total="28" computed="28" sent="28" first="0">
+<hit score="4" id="6888460">
+<info><authors><author pid="86/761">Richard Osdin</author><author pid="21/141">Iadh Ounis</author><author pid="w/RyenWWhite">Ryen W. White</author></authors><title>Using Hierarchical Clustering and Summarisation Approaches for Web Retrieval: Glasgow at the TREC 2002 Interactive Track.</title><venue>TREC</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/trec/OsdinOW02</key><ee>http://trec.nist.gov/pubs/trec11/papers/glasgow.int.pdf</ee><url>https://dblp.org/rec/conf/trec/OsdinOW02</url></info>
+<url>URL#6888460</url>
+</hit>
+<hit score="3" id="6880728">
+<info><authors><author pid="a/AAdya">Atul Adya</author><author pid="b/WJBolosky">William J. Bolosky</author><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="41/1685">Gerald Cermak</author><author pid="94/4948">Ronnie Chaiken</author><author pid="87/1231">John R. Douceur</author><author pid="55/3274">Jon Howell</author><author pid="25/3228">Jacob R. Lorch</author><author pid="56/724">Marvin Theimer</author><author pid="w/RogerWattenhofer">Roger Wattenhofer</author></authors><title>FARSITE: Federated, Available, and Reliable Storage for an Incompletely Trusted Environment.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AdyaBCCCDHLTW02</key><ee>http://www.usenix.org/events/osdi02/tech/adya.html</ee><url>https://dblp.org/rec/conf/osdi/AdyaBCCCDHLTW02</url></info>
+<url>URL#6880728</url>
+</hit>
+<hit score="3" id="6880729">
+<info><authors><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="d/PDruschel">Peter Druschel</author><author pid="g/AyalvadiJGanesh">Ayalvadi J. Ganesh</author><author pid="r/AITRowstron">Antony I. T. Rowstron</author><author pid="w/DanSWallach">Dan S. Wallach</author></authors><title>Secure Routing for Structured Peer-to-Peer Overlay Networks.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CastroDGRW02</key><ee>http://www.usenix.org/events/osdi02/tech/castro.html</ee><url>https://dblp.org/rec/conf/osdi/CastroDGRW02</url></info>
+<url>URL#6880729</url>
+</hit>
+<hit score="3" id="6880730">
+<info><authors><author pid="98/5314">Landon P. Cox</author><author pid="37/961">Christopher D. Murray</author><author pid="n/BrianDNoble">Brian D. Noble</author></authors><title>Pastiche: Making Backup Cheap and Easy.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CoxMN02</key><ee>http://www.usenix.org/events/osdi02/tech/cox.html</ee><url>https://dblp.org/rec/conf/osdi/CoxMN02</url></info>
+<url>URL#6880730</url>
+</hit>
+<hit score="3" id="6880731">
+<info><authors><author pid="54/6493">George W. Dunlap</author><author pid="54/5833">Samuel T. King</author><author pid="04/2708">Sukru Cinar</author><author pid="70/2799">Murtaza A. Basrai</author><author pid="c/PeterMChen">Peter M. Chen</author></authors><title>ReVirt: Enabling Intrusion Analysis Through Virtual-Machine Logging and Replay.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/DunlapKCBC02</key><ee>http://www.usenix.org/events/osdi02/tech/dunlap.html</ee><url>https://dblp.org/rec/conf/osdi/DunlapKCBC02</url></info>
+<url>URL#6880731</url>
+</hit>
+<hit score="3" id="6880732">
+<info><authors><author pid="02/3927">Jeremy Elson</author><author pid="16/1646">Lewis Girod</author><author pid="e/DeborahEstrin">Deborah Estrin</author></authors><title>Fine-Grained Network Time Synchronization Using Reference Broadcasts.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ElsonGE02</key><ee>http://www.usenix.org/events/osdi02/tech/elson.html</ee><url>https://dblp.org/rec/conf/osdi/ElsonGE02</url></info>
+<url>URL#6880732</url>
+</hit>
+<hit score="3" id="6880733">
+<info><authors><author pid="16/1848">Krisztián Flautner</author><author pid="m/TrevorNMudge">Trevor N. Mudge</author></authors><title>Vertigo: Automatic Performance-Setting for Linux.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/FlautnerM02</key><ee>http://www.usenix.org/events/osdi02/tech/flautner.html</ee><url>https://dblp.org/rec/conf/osdi/FlautnerM02</url></info>
+<url>URL#6880733</url>
+</hit>
+<hit score="3" id="6880734">
+<info><authors><author pid="g/AshvinGoel">Ashvin Goel</author><author pid="21/3170">Luca Abeni</author><author pid="28/4918">Charles Krasic</author><author pid="17/492">Jim Snow</author><author pid="50/3443">Jonathan Walpole</author></authors><title>Supporting Time-Sensitive Applications on a Commodity OS.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GoelAKSW02</key><ee>http://www.usenix.org/events/osdi02/tech/goel.html</ee><url>https://dblp.org/rec/conf/osdi/GoelAKSW02</url></info>
+<url>URL#6880734</url>
+</hit>
+<hit score="3" id="6880735">
+<info><authors><author pid="22/3053">Chris Hawblitzel</author><author pid="76/5208">Thorsten von Eicken</author></authors><title>Luna: A Flexible Java Protection System.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/HawblitzelE02</key><ee>http://www.usenix.org/events/osdi02/tech/hawblitzel.html</ee><url>https://dblp.org/rec/conf/osdi/HawblitzelE02</url></info>
+<url>URL#6880735</url>
+</hit>
+<hit score="3" id="6880736">
+<info><authors><author pid="27/343">Sanjeev Kumar</author><author pid="l/KaiLi1">Kai Li 0001</author></authors><title>Using Model Checking to Debug Device Firmware.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KumarL02</key><ee>http://www.usenix.org/events/osdi02/tech/kumar.html</ee><url>https://dblp.org/rec/conf/osdi/KumarL02</url></info>
+<url>URL#6880736</url>
+</hit>
+<hit score="3" id="6880737">
+<info><authors><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="f/MJFranklin">Michael J. Franklin</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author><author pid="82/5918-1">Wei Hong 0001</author></authors><title>TAG: A Tiny AGgregation Service for Ad-Hoc Sensor Networks.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MaddenFHH02</key><ee>http://www.usenix.org/events/osdi02/tech/madden.html</ee><url>https://dblp.org/rec/conf/osdi/MaddenFHH02</url></info>
+<url>URL#6880737</url>
+</hit>
+<hit score="3" id="6880738">
+<info><authors><author pid="95/6578">Madanlal Musuvathi</author><author pid="93/1686">David Y. W. Park</author><author pid="53/3446">Andy Chou</author><author pid="e/DREngler">Dawson R. Engler</author><author pid="d/DavidLDill">David L. Dill</author></authors><title>CMC: A Pragmatic Approach to Model Checking Real Code.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MusuvathiPCED02</key><ee>http://www.usenix.org/events/osdi02/tech/musuvathi.html</ee><url>https://dblp.org/rec/conf/osdi/MusuvathiPCED02</url></info>
+<url>URL#6880738</url>
+</hit>
+<hit score="3" id="6880739">
+<info><authors><author pid="57/2442">Athicha Muthitacharoen</author><author pid="82/11191">Robert Morris 0005</author><author pid="00/4402">Thomer M. Gil</author><author pid="60/2306">Benjie Chen</author></authors><title>Ivy: A Read/Write Peer-to-Peer File System.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MuthitacharoenMGC02</key><ee>http://www.usenix.org/events/osdi02/tech/muthitacharoen.html</ee><url>https://dblp.org/rec/conf/osdi/MuthitacharoenMGC02</url></info>
+<url>URL#6880739</url>
+</hit>
+<hit score="3" id="6880740">
+<info><authors><author pid="94/1735">Juan Navarro</author><author pid="39/227">Sitaram Iyer</author><author pid="d/PDruschel">Peter Druschel</author><author pid="c/AlanLCox">Alan L. Cox</author></authors><title>Practical, Transparent Operating System Support for Superpages.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/NavarroIDC02</key><ee>http://www.usenix.org/events/osdi02/tech/navarro.html</ee><url>https://dblp.org/rec/conf/osdi/NavarroIDC02</url></info>
+<url>URL#6880740</url>
+</hit>
+<hit score="3" id="6880741">
+<info><authors><author pid="39/6015">Steven Osman</author><author pid="68/3669">Dinesh Subhraveti</author><author pid="18/6259">Gong Su</author><author pid="n/JasonNieh">Jason Nieh</author></authors><title>The Design and Implementation of Zap: A System for Migrating Computing Environments.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/OsmanSSN02</key><ee>http://www.usenix.org/events/osdi02/tech/osman.html</ee><url>https://dblp.org/rec/conf/osdi/OsmanSSN02</url></info>
+<url>URL#6880741</url>
+</hit>
+<hit score="3" id="6880742">
+<info><authors><author pid="62/1827">Xiaohu Qie</author><author pid="32/2940">Ruoming Pang</author><author pid="p/LLPeterson">Larry L. Peterson</author></authors><title>Defensive Programming: Using an Annotation Toolkit to Build DoS-Resistant Software.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/QiePP02</key><ee>http://www.usenix.org/events/osdi02/tech/qie.html</ee><url>https://dblp.org/rec/conf/osdi/QiePP02</url></info>
+<url>URL#6880742</url>
+</hit>
+<hit score="3" id="6880743">
+<info><authors><author pid="82/6781">Yasushi Saito</author><author pid="44/5092">Christos T. Karamanolis</author><author pid="84/4770-2">Magnus Karlsson 0002</author><author pid="88/2934">Mallik Mahalingam</author></authors><title>Taming Aggressive Replication in the Pangaea Wide-Area File System.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SaitoKKM02</key><ee>http://www.usenix.org/events/osdi02/tech/saito.html</ee><url>https://dblp.org/rec/conf/osdi/SaitoKKM02</url></info>
+<url>URL#6880743</url>
+</hit>
+<hit score="3" id="6880744">
+<info><authors><author pid="01/3940">Constantine P. Sapuntzakis</author><author pid="15/3784">Ramesh Chandra</author><author pid="42/4891">Ben Pfaff</author><author pid="94/6322">Jim Chow</author><author pid="l/MonicaSLam">Monica S. Lam</author><author pid="r/MendelRosenblum">Mendel Rosenblum</author></authors><title>Optimizing the Migration of Virtual Computers.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SapuntzakisCPCLR02</key><ee>http://www.usenix.org/events/osdi02/tech/sapuntzakis.html</ee><url>https://dblp.org/rec/conf/osdi/SapuntzakisCPCLR02</url></info>
+<url>URL#6880744</url>
+</hit>
+<hit score="3" id="6880745">
+<info><authors><author pid="17/3782">Stefan Saroiu</author><author pid="g/PKrishnaGummadi">P. Krishna Gummadi</author><author pid="14/3153">Richard J. Dunn</author><author pid="g/StevenDGribble">Steven D. Gribble</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>An Analysis of Internet Content Delivery Systems.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SaroiuGDGL02</key><ee>http://www.usenix.org/events/osdi02/tech/saroiu.html</ee><url>https://dblp.org/rec/conf/osdi/SaroiuGDGL02</url></info>
+<url>URL#6880745</url>
+</hit>
+<hit score="3" id="6880746">
+<info><authors><author pid="80/1422">Kai Shen</author><author pid="00/2111-4">Hong Tang 0004</author><author pid="67/1120-9">Tao Yang 0009</author><author pid="47/5464">Lingkun Chu</author></authors><title>Integrated Resource Management for Cluster-based Internet Services.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ShenTYC02</key><ee>http://www.usenix.org/events/osdi02/tech/shen.html</ee><url>https://dblp.org/rec/conf/osdi/ShenTYC02</url></info>
+<url>URL#6880746</url>
+</hit>
+<hit score="3" id="6880747">
+<info><authors><author pid="61/6430">Bhuvan Urgaonkar</author><author pid="s/PrashantJShenoy">Prashant J. Shenoy</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author></authors><title>Resource Overbooking and Application Profiling in Shared Hosting Platforms.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/UrgaonkarSR02</key><ee>http://www.usenix.org/events/osdi02/tech/urgaonkar.html</ee><url>https://dblp.org/rec/conf/osdi/UrgaonkarSR02</url></info>
+<url>URL#6880747</url>
+</hit>
+<hit score="3" id="6880748">
+<info><authors><author pid="v/AminVahdat">Amin Vahdat</author><author pid="01/53">Ken Yocum</author><author pid="50/5661-1">Kevin Walsh 0001</author><author pid="55/6768">Priya Mahadevan</author><author pid="03/3188">Dejan Kostic</author><author pid="c/JSChase">Jeffrey S. Chase</author><author pid="94/5555">David Becker</author></authors><title>Scalability and Accuracy in a Large-Scale Network Emulator.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/VahdatYWMKCB02</key><ee>http://www.usenix.org/events/osdi02/tech/vahdat.html</ee><url>https://dblp.org/rec/conf/osdi/VahdatYWMKCB02</url></info>
+<url>URL#6880748</url>
+</hit>
+<hit score="3" id="6880749">
+<info><authors><author pid="v/ArunVenkataramani">Arun Venkataramani</author><author pid="22/437">Ravi Kokku</author><author pid="d/MDahlin">Michael Dahlin</author></authors><title>TCP Nice: A Mechanism for Background Transfers.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/VenkataramaniKD02</key><ee>http://www.usenix.org/events/osdi02/tech/venkataramani.html</ee><url>https://dblp.org/rec/conf/osdi/VenkataramaniKD02</url></info>
+<url>URL#6880749</url>
+</hit>
+<hit score="3" id="6880750">
+<info><authors><author pid="40/1118">Carl A. Waldspurger</author></authors><title>Memory Resource Management in VMware ESX Server.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Waldspurger02</key><ee>http://www.usenix.org/events/osdi02/tech/waldspurger.html</ee><url>https://dblp.org/rec/conf/osdi/Waldspurger02</url></info>
+<url>URL#6880750</url>
+</hit>
+<hit score="3" id="6880751">
+<info><authors><author pid="68/6610-10">Limin Wang 0010</author><author pid="00/1016">Vivek S. Pai</author><author pid="p/LLPeterson">Larry L. Peterson</author></authors><title>The Effectiveness of Request Redirection on CDN Robustness.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WangPP02</key><ee>http://www.usenix.org/events/osdi02/tech/wang.html</ee><url>https://dblp.org/rec/conf/osdi/WangPP02</url></info>
+<url>URL#6880751</url>
+</hit>
+<hit score="3" id="6880752">
+<info><authors><author pid="60/6057">Andreas Weissel</author><author pid="36/417">Bjórn Beutel</author><author pid="b/FrankBellosa">Frank Bellosa</author></authors><title>Cooperative I/O: A Novel I/O Semantics for Energy-Aware Applications.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WeisselBB02</key><ee>http://www.usenix.org/events/osdi02/tech/weissel.html</ee><url>https://dblp.org/rec/conf/osdi/WeisselBB02</url></info>
+<url>URL#6880752</url>
+</hit>
+<hit score="3" id="6880753">
+<info><authors><author pid="76/326">Andrew Whitaker</author><author pid="77/1649">Marianne Shaw</author><author pid="g/StevenDGribble">Steven D. Gribble</author></authors><title>Scale and Performance in the Denali Isolation Kernel.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WhitakerSG02</key><ee>http://www.usenix.org/events/osdi02/tech/whitaker.html</ee><url>https://dblp.org/rec/conf/osdi/WhitakerSG02</url></info>
+<url>URL#6880753</url>
+</hit>
+<hit score="3" id="6880754">
+<info><authors><author pid="81/2181">Brian White</author><author pid="l/JayLepreau">Jay Lepreau</author><author pid="97/5570">Leigh Stoller</author><author pid="37/2827">Robert Ricci</author><author pid="85/6118">Shashi Guruprasad</author><author pid="96/4009">Mac Newbold</author><author pid="h/MikeHibler">Mike Hibler</author><author pid="41/4871">Chad Barb</author><author pid="27/4011">Abhijeet Joglekar</author></authors><title>An Integrated Experimental Environment for Distributed Systems and Networks.</title><venue>OSDI</venue><year>2002</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WhiteLSRGNHBJ02</key><ee>http://www.usenix.org/events/osdi02/tech/white.html</ee><url>https://dblp.org/rec/conf/osdi/WhiteLSRGNHBJ02</url></info>
+<url>URL#6880754</url>
+</hit>
+</hits>
+</result>

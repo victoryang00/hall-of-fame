@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="288795">conf* osdi* 2000*</query>
+<status code="200">OK</status>
+<time unit="msecs">12.00</time>
+<completions total="1" computed="1" sent="1">
+<c sc="24" dc="24" oc="24" id="58180907">2000</c>
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="3" id="7051860">
+<info><authors><author pid="a/DavidGAndersen">David G. Andersen</author><author pid="69/2945">Deepak Bansal</author><author pid="c/DCurtis">Dorothy Curtis</author><author pid="s/SrinivasanSeshan">Srinivasan Seshan</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author></authors><title>System Support for Bandwidth Management and Content Adaptation in Internet Applications.</title><venue>OSDI</venue><pages>213-226</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/AndersenBCSB00</key><ee>http://dl.acm.org/citation.cfm?id=1251244</ee><url>https://dblp.org/rec/conf/osdi/AndersenBCSB00</url></info>
+<url>URL#7051860</url>
+</hit>
+<hit score="3" id="7051861">
+<info><authors><author pid="47/721">Darrell C. Anderson</author><author pid="c/JSChase">Jeffrey S. Chase</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Interposed Request Routing for Scalable Network Storage.</title><venue>OSDI</venue><pages>259-272</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/AndersonCV00</key><ee>http://dl.acm.org/citation.cfm?id=1251247</ee><url>https://dblp.org/rec/conf/osdi/AndersonCV00</url></info>
+<url>URL#7051861</url>
+</hit>
+<hit score="3" id="7051862">
+<info><authors><author pid="47/2634">Godmar Back</author><author pid="31/1764">Wilson C. Hsieh</author><author pid="l/JayLepreau">Jay Lepreau</author></authors><title>Processes in KaffeOS: Isolation, Resource Management, and Sharing in Java.</title><venue>OSDI</venue><pages>333-346</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/BackHL00</key><ee>http://dl.acm.org/citation.cfm?id=1251252</ee><url>https://dblp.org/rec/conf/osdi/BackHL00</url></info>
+<url>URL#7051862</url>
+</hit>
+<hit score="3" id="7051863">
+<info><authors><author pid="b/AngelaDemkeBrown">Angela Demke Brown</author><author pid="65/4120">Todd C. Mowry</author></authors><title>Taming the Memory Hogs: Using Compiler-Inserted Releases to Manage Physical Memory Intelligently.</title><venue>OSDI</venue><pages>31-44</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/BrownM00</key><ee>http://dl.acm.org/citation.cfm?id=1251232</ee><url>https://dblp.org/rec/conf/osdi/BrownM00</url></info>
+<url>URL#7051863</url>
+</hit>
+<hit score="3" id="7051864">
+<info><authors><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="l/BarbaraLiskov">Barbara Liskov</author></authors><title>Proactive Recovery in a Byzantine-Fault-Tolerant System.</title><venue>OSDI</venue><pages>273-288</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/CastroL00</key><ee>http://dl.acm.org/citation.cfm?id=1251248</ee><url>https://dblp.org/rec/conf/osdi/CastroL00</url></info>
+<url>URL#7051864</url>
+</hit>
+<hit score="3" id="7051865">
+<info><authors><author pid="97/3628">Abhishek Chandra</author><author pid="a/MicahAdler">Micah Adler</author><author pid="77/2307-1">Pawan Goyal 0001</author><author pid="s/PrashantJShenoy">Prashant J. Shenoy</author></authors><title>Surplus Fair Scheduling: A Proportional-Share CPU Scheduling Algorithm for Symmetric Multiprocessors.</title><venue>OSDI</venue><pages>45-58</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/ChandraAGS00</key><ee>http://dl.acm.org/citation.cfm?id=1251233</ee><url>https://dblp.org/rec/conf/osdi/ChandraAGS00</url></info>
+<url>URL#7051865</url>
+</hit>
+<hit score="3" id="7051866">
+<info><authors><author pid="55/6520">Julita Corbalán</author><author pid="04/3016">Xavier Martorell</author><author pid="87/4934">Jesús Labarta</author></authors><title>Performance-Driven Processor Allocation.</title><venue>OSDI</venue><pages>59-73</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/CorbalanML00</key><ee>http://dl.acm.org/citation.cfm?id=1251234</ee><url>https://dblp.org/rec/conf/osdi/CorbalanML00</url></info>
+<url>URL#7051866</url>
+</hit>
+<hit score="3" id="7051867">
+<info><authors><author pid="e/DREngler">Dawson R. Engler</author><author pid="28/2333">Benjamin Chelf</author><author pid="53/3446">Andy Chou</author><author pid="97/6437">Seth Hallem</author></authors><title>Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions.</title><venue>OSDI</venue><pages>1-16</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/EnglerCCH00</key><ee>http://dl.acm.org/citation.cfm?id=1251230</ee><url>https://dblp.org/rec/conf/osdi/EnglerCCH00</url></info>
+<url>URL#7051867</url>
+</hit>
+<hit score="3" id="7051868">
+<info><authors><author pid="f/KevinFu">Kevin Fu</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="m/DMazieres">David Mazières</author></authors><title>Fast and Secure Distributed Read-Only File System.</title><venue>OSDI</venue><pages>181-196</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/FuKM00</key><ee>http://dl.acm.org/citation.cfm?id=1251242</ee><url>https://dblp.org/rec/conf/osdi/FuKM00</url></info>
+<url>URL#7051868</url>
+</hit>
+<hit score="3" id="7051869">
+<info><authors><author pid="g/StevenDGribble">Steven D. Gribble</author><author pid="b/EricABrewer">Eric A. Brewer</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author><author pid="c/DavidECuller">David E. Culler</author></authors><title>Scalable, Distributed Data Structures for Internet Service Construction.</title><venue>OSDI</venue><pages>319-332</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/GribbleBHC00</key><ee>http://dl.acm.org/citation.cfm?id=1251251</ee><url>https://dblp.org/rec/conf/osdi/GribbleBHC00</url></info>
+<url>URL#7051869</url>
+</hit>
+<hit score="3" id="7051870">
+<info><authors><author pid="03/4749">John Linwood Griffin</author><author pid="52/1925">Steven W. Schlosser</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="55/1314">David Nagle</author></authors><title>Operating System Management of MEMS-based Storage Devices.</title><venue>OSDI</venue><pages>227-242</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/GriffinSGN00</key><ee>http://dl.acm.org/citation.cfm?id=1251245</ee><url>https://dblp.org/rec/conf/osdi/GriffinSGN00</url></info>
+<url>URL#7051870</url>
+</hit>
+<hit score="3" id="7051871">
+<info><authors><author pid="g/DirkGrunwald">Dirk Grunwald</author><author pid="91/2665">Philip Alexander Levis</author><author pid="85/4620">Keith I. Farkas</author><author pid="65/4172">Charles B. Morrey III</author><author pid="38/6264">Michael Neufeld</author></authors><title>Policies for Dynamic Clock Scheduling.</title><venue>OSDI</venue><pages>73-86</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/GrunwaldLFMN00</key><ee>http://dl.acm.org/citation.cfm?id=1251235</ee><url>https://dblp.org/rec/conf/osdi/GrunwaldLFMN00</url></info>
+<url>URL#7051871</url>
+</hit>
+<hit score="3" id="7051872">
+<info><authors><author pid="55/3274">Jon Howell</author><author pid="k/DavidKotz">David Kotz</author></authors><title>End-to-End Authorization.</title><venue>OSDI</venue><pages>151-164</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/HowellK00</key><ee>http://dl.acm.org/citation.cfm?id=1251240</ee><url>https://dblp.org/rec/conf/osdi/HowellK00</url></info>
+<url>URL#7051872</url>
+</hit>
+<hit score="3" id="7051873">
+<info><authors><author pid="92/6868">John Jannotti</author><author pid="g/DavidKGifford">David K. Gifford</author><author pid="49/4513">Kirk L. Johnson</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="88/6703">James W. O&apos;Toole Jr.</author></authors><title>Overcast: Reliable Multicasting with an Overlay Network.</title><venue>OSDI</venue><pages>197-212</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/JannottiGJKO00</key><ee>http://dl.acm.org/citation.cfm?id=1251243</ee><url>https://dblp.org/rec/conf/osdi/JannottiGJKO00</url></info>
+<url>URL#7051873</url>
+</hit>
+<hit score="3" id="7051874">
+<info><authors><author pid="38/1733">Jong Min Kim</author><author pid="61/4476">Jongmoo Choi</author><author pid="78/5324">Jesung Kim</author><author pid="81/970">Sam H. Noh</author><author pid="34/5109">Sang Lyul Min</author><author pid="92/4612">Yookun Cho</author><author pid="04/1249">Chong-Sang Kim</author></authors><title>A Low-Overhead, High-Performance Unified Buffer Management Scheme That Exploits Sequential and Looping References.</title><venue>OSDI</venue><pages>119-134</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/KimCKNMCK00</key><ee>http://dl.acm.org/citation.cfm?id=1251238</ee><url>https://dblp.org/rec/conf/osdi/KimCKNMCK00</url></info>
+<url>URL#7051874</url>
+</hit>
+<hit score="3" id="7051875">
+<info><authors><author pid="80/1277">David E. Lowell</author><author pid="86/2417">Subhachandra Chandra</author><author pid="c/PeterMChen">Peter M. Chen</author></authors><title>Exploring Failure Transparency and the Limits of Generic Recovery.</title><venue>OSDI</venue><pages>289-304</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/LowellCC00</key><ee>http://dl.acm.org/citation.cfm?id=1251249</ee><url>https://dblp.org/rec/conf/osdi/LowellCC00</url></info>
+<url>URL#7051875</url>
+</hit>
+<hit score="3" id="7051876">
+<info><authors><author pid="89/3197">Christopher R. Lumb</author><author pid="56/2687">Jiri Schindler</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="55/1314">David Nagle</author><author pid="r/ErikRiedel">Erik Riedel</author></authors><title>Towards Higher Disk Head Utilization: Extracting &quot;Free&quot; Bandwidth from Busy Disk Drives.</title><venue>OSDI</venue><pages>87-102</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/LumbSGNR00</key><ee>http://dl.acm.org/citation.cfm?id=1251236</ee><url>https://dblp.org/rec/conf/osdi/LumbSGNR00</url></info>
+<url>URL#7051876</url>
+</hit>
+<hit score="3" id="7051877">
+<info><authors><author pid="m/UmeshMaheshwari">Umesh Maheshwari</author><author pid="40/6597">Radek Vingralek</author><author pid="91/3906">William Shapiro</author></authors><title>How to Build a Trusted Database System on Untrusted Storage.</title><venue>OSDI</venue><pages>135-150</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/MaheshwariVS00</key><ee>http://dl.acm.org/citation.cfm?id=1251239</ee><url>https://dblp.org/rec/conf/osdi/MaheshwariVS00</url></info>
+<url>URL#7051877</url>
+</hit>
+<hit score="3" id="7051878">
+<info><authors><author pid="34/4781">Fabrice Mérillon</author><author pid="11/1262">Laurent Réveillère</author><author pid="c/CConsel">Charles Consel</author><author pid="61/5462">Renaud Marlet</author><author pid="27/4405">Gilles Muller</author></authors><title>Devil: An IDL for Hardware Programming.</title><venue>OSDI</venue><pages>17-30</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/MerillonRCMM00</key><ee>http://dl.acm.org/citation.cfm?id=1251231</ee><url>https://dblp.org/rec/conf/osdi/MerillonRCMM00</url></info>
+<url>URL#7051878</url>
+</hit>
+<hit score="3" id="7051879">
+<info><authors><author pid="42/1094">Rodney Van Meter</author><author pid="91/1104">Minxi Gao</author></authors><title>Latency Management in Storage Systems.</title><venue>OSDI</venue><pages>103-118</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/MeterG00</key><ee>http://dl.acm.org/citation.cfm?id=1251237</ee><url>https://dblp.org/rec/conf/osdi/MeterG00</url></info>
+<url>URL#7051879</url>
+</hit>
+<hit score="3" id="7051880">
+<info><authors><author pid="r/AlastairReid">Alastair Reid 0001</author><author pid="f/MatthewFlatt">Matthew Flatt</author><author pid="97/5570">Leigh Stoller</author><author pid="l/JayLepreau">Jay Lepreau</author><author pid="e/EricEide">Eric Eide</author></authors><title>Knit: Component Composition for Systems Software.</title><venue>OSDI</venue><pages>347-360</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/ReidFSLE00</key><ee>http://dl.acm.org/citation.cfm?id=1251253</ee><url>https://dblp.org/rec/conf/osdi/ReidFSLE00</url></info>
+<url>URL#7051880</url>
+</hit>
+<hit score="3" id="7051881">
+<info><authors><author pid="40/1633">John D. Strunk</author><author pid="56/2610">Garth R. Goodson</author><author pid="07/466">Michael L. Scheinholtz</author><author pid="35/680">Craig A. N. Soules</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author></authors><title>Self-Securing Storage: Protecting Data in Compromised Systems.</title><venue>OSDI</venue><pages>165-180</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/StrunkGSSG00</key><ee>http://dl.acm.org/citation.cfm?id=1251241</ee><url>https://dblp.org/rec/conf/osdi/StrunkGSSG00</url></info>
+<url>URL#7051881</url>
+</hit>
+<hit score="3" id="7051882">
+<info><authors><author pid="19/2453">Xiang Yu</author><author pid="14/5427">Benjamin Gum</author><author pid="86/3244">Yuqun Chen</author><author pid="69/1132">Randolph Y. Wang</author><author pid="l/KaiLi1">Kai Li 0001</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author></authors><title>Trading Capacity for Performance in a Disk Array.</title><venue>OSDI</venue><pages>243-258</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/YuGCWLKA00</key><ee>http://dl.acm.org/citation.cfm?id=1251246</ee><url>https://dblp.org/rec/conf/osdi/YuGCWLKA00</url></info>
+<url>URL#7051882</url>
+</hit>
+<hit score="3" id="7051883">
+<info><authors><author pid="69/1249">Haifeng Yu</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Design and Evaluation of a Continuous Consistency Model for Replicated Services.</title><venue>OSDI</venue><pages>305-318</pages><year>2000</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/osdi/YuV00</key><ee>http://dl.acm.org/citation.cfm?id=1251250</ee><url>https://dblp.org/rec/conf/osdi/YuV00</url></info>
+<url>URL#7051883</url>
+</hit>
+</hits>
+</result>

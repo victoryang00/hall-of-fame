@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="288187">conf* sosp* 2001*</query>
+<status code="200">OK</status>
+<time unit="msecs">108.64</time>
+<completions total="1" computed="1" sent="1">
+<c sc="17" dc="17" oc="17" id="58181200">2001</c>
+</completions>
+<hits total="17" computed="17" sent="17" first="0">
+<hit score="4" id="6974529">
+<info><authors><author pid="99/3437">Steve Zdancewic</author><author pid="95/3594">Lantian Zheng</author><author pid="54/2322">Nathaniel Nystrom</author><author pid="m/AndrewCMyers">Andrew C. Myers</author></authors><title>Untrusted Hosts and Confidentiality: Secure Program Partitioning.</title><venue>SOSP</venue><pages>1-14</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZdancewicZNM01</key><doi>10.1145/502034.502036</doi><ee>https://doi.org/10.1145/502034.502036</ee><url>https://dblp.org/rec/conf/sosp/ZdancewicZNM01</url></info>
+<url>URL#6974529</url>
+</hit>
+<hit score="3" id="6974513">
+<info><authors><author pid="a/DavidGAndersen">David G. Andersen</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="82/11191">Robert Morris 0005</author></authors><title>Resilient Overlay Networks.</title><venue>SOSP</venue><pages>131-145</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AndersenBKM01</key><doi>10.1145/502034.502048</doi><ee>https://doi.org/10.1145/502034.502048</ee><url>https://dblp.org/rec/conf/sosp/AndersenBKM01</url></info>
+<url>URL#6974513</url>
+</hit>
+<hit score="3" id="6974514">
+<info><authors><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Information and Control in Gray-Box Systems.</title><venue>SOSP</venue><pages>43-56</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Arpaci-DusseauA01</key><doi>10.1145/502034.502040</doi><ee>https://doi.org/10.1145/502034.502040</ee><url>https://dblp.org/rec/conf/sosp/Arpaci-DusseauA01</url></info>
+<url>URL#6974514</url>
+</hit>
+<hit score="3" id="6974515">
+<info><authors><author pid="c/JSChase">Jeffrey S. Chase</author><author pid="47/721">Darrell C. Anderson</author><author pid="70/77">Prachi N. Thakar</author><author pid="v/AminVahdat">Amin Vahdat</author><author pid="69/905">Ronald P. Doyle</author></authors><title>Managing Energy and Server Resources in Hosting Centres.</title><venue>SOSP</venue><pages>103-116</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChaseATVD01</key><doi>10.1145/502034.502045</doi><ee>https://doi.org/10.1145/502034.502045</ee><url>https://dblp.org/rec/conf/sosp/ChaseATVD01</url></info>
+<url>URL#6974515</url>
+</hit>
+<hit score="3" id="6974516">
+<info><authors><author pid="53/3446">Andy Chou</author><author pid="71/3724">Junfeng Yang</author><author pid="28/2333">Benjamin Chelf</author><author pid="97/6437">Seth Hallem</author><author pid="e/DREngler">Dawson R. Engler</author></authors><title>An Empirical Study of Operating System Errors.</title><venue>SOSP</venue><pages>73-88</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChouYCHE01</key><doi>10.1145/502034.502042</doi><ee>https://doi.org/10.1145/502034.502042</ee><url>https://dblp.org/rec/conf/sosp/ChouYCHE01</url></info>
+<url>URL#6974516</url>
+</hit>
+<hit score="3" id="6974517">
+<info><authors><author pid="19/6590">Frank Dabek</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="k/DavidRKarger">David R. Karger</author><author pid="82/11191">Robert Morris 0005</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Wide-Area Cooperative Storage with CFS.</title><venue>SOSP</venue><pages>202-215</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DabekKKMS01</key><doi>10.1145/502034.502054</doi><ee>https://doi.org/10.1145/502034.502054</ee><url>https://dblp.org/rec/conf/sosp/DabekKKMS01</url></info>
+<url>URL#6974517</url>
+</hit>
+<hit score="3" id="6974518">
+<info><authors><author pid="e/DREngler">Dawson R. Engler</author><author pid="69/4818">David Yu Chen</author><author pid="53/3446">Andy Chou</author></authors><title>Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code.</title><venue>SOSP</venue><pages>57-72</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/EnglerCC01</key><doi>10.1145/502034.502041</doi><ee>https://doi.org/10.1145/502034.502041</ee><url>https://dblp.org/rec/conf/sosp/EnglerCC01</url></info>
+<url>URL#6974518</url>
+</hit>
+<hit score="3" id="6974519">
+<info><authors><author pid="h/JohnSHeidemann">John S. Heidemann</author><author pid="81/3521">Fabio Silva</author><author pid="25/6097">Chalermek Intanagonwiwat</author><author pid="g/RameshGovindan">Ramesh Govindan</author><author pid="e/DeborahEstrin">Deborah Estrin</author><author pid="g/DeepakGanesan">Deepak Ganesan</author></authors><title>Building Efficient Wireless Sensor Networks with Low-Level Naming.</title><venue>SOSP</venue><pages>146-159</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HeidemannSIGEG01</key><doi>10.1145/502034.502049</doi><ee>https://doi.org/10.1145/502034.502049</ee><url>https://dblp.org/rec/conf/sosp/HeidemannSIGEG01</url></info>
+<url>URL#6974519</url>
+</hit>
+<hit score="3" id="6974520">
+<info><authors><author pid="39/227">Sitaram Iyer</author><author pid="d/PDruschel">Peter Druschel</author></authors><title>Anticipatory scheduling: A disk scheduling framework to overcome deceptive idleness in synchronous I/O.</title><venue>SOSP</venue><pages>117-130</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/IyerD01</key><doi>10.1145/502034.502046</doi><ee>https://doi.org/10.1145/502034.502046</ee><url>https://dblp.org/rec/conf/sosp/IyerD01</url></info>
+<url>URL#6974520</url>
+</hit>
+<hit score="3" id="6974521">
+<info><authors><author pid="57/2442">Athicha Muthitacharoen</author><author pid="60/2306">Benjie Chen</author><author pid="m/DMazieres">David Mazières</author></authors><title>A Low-Bandwidth Network File System.</title><venue>SOSP</venue><pages>174-187</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MuthitacharoenCM01</key><doi>10.1145/502034.502052</doi><ee>https://doi.org/10.1145/502034.502052</ee><url>https://dblp.org/rec/conf/sosp/MuthitacharoenCM01</url></info>
+<url>URL#6974521</url>
+</hit>
+<hit score="3" id="6974522">
+<info><authors><author pid="36/6668">Padmanabhan Pillai</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>Real-Time Dynamic Voltage Scaling for Low-Power Embedded Operating Systems.</title><venue>SOSP</venue><pages>89-102</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PillaiS01</key><doi>10.1145/502034.502044</doi><ee>https://doi.org/10.1145/502034.502044</ee><url>https://dblp.org/rec/conf/sosp/PillaiS01</url></info>
+<url>URL#6974522</url>
+</hit>
+<hit score="3" id="6974523">
+<info><authors><author pid="87/6689">Rodrigo Rodrigues 0001</author><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="l/BarbaraLiskov">Barbara Liskov</author></authors><title>BASE: Using Abstraction to Improve Fault Tolerance.</title><venue>SOSP</venue><pages>15-28</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RodriguesCL01</key><doi>10.1145/502034.502037</doi><ee>https://doi.org/10.1145/502034.502037</ee><url>https://dblp.org/rec/conf/sosp/RodriguesCL01</url></info>
+<url>URL#6974523</url>
+</hit>
+<hit score="3" id="6974524">
+<info><authors><author pid="r/AITRowstron">Antony I. T. Rowstron</author><author pid="d/PDruschel">Peter Druschel</author></authors><title>Storage Management and Caching in PAST, A Large-scale, Persistent Peer-to-peer Storage Utility.</title><venue>SOSP</venue><pages>188-201</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RowstronD01</key><doi>10.1145/502034.502053</doi><ee>https://doi.org/10.1145/502034.502053</ee><url>https://dblp.org/rec/conf/sosp/RowstronD01</url></info>
+<url>URL#6974524</url>
+</hit>
+<hit score="3" id="6974525">
+<info><authors><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="83/687">Kenneth Conley</author><author pid="g/DavidKGifford">David K. Gifford</author></authors><title>Mesh Based Content Routing using XML.</title><venue>SOSP</venue><pages>160-173</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SnoerenCG01</key><doi>10.1145/502034.502050</doi><ee>https://doi.org/10.1145/502034.502050</ee><url>https://dblp.org/rec/conf/sosp/SnoerenCG01</url></info>
+<url>URL#6974525</url>
+</hit>
+<hit score="3" id="6974526">
+<info><authors><author pid="28/287">Tammo Spalink</author><author pid="12/2198">Scott Karlin</author><author pid="p/LLPeterson">Larry L. Peterson</author><author pid="02/1435">Yitzchak M. Gottlieb</author></authors><title>Building a Robust Software-Based Router Using Network Processors.</title><venue>SOSP</venue><pages>216-229</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SpalinkKPG01</key><doi>10.1145/502034.502056</doi><ee>https://doi.org/10.1145/502034.502056</ee><url>https://dblp.org/rec/conf/sosp/SpalinkKPG01</url></info>
+<url>URL#6974526</url>
+</hit>
+<hit score="3" id="6974527">
+<info><authors><author pid="w/MattWelsh">Matt Welsh</author><author pid="c/DavidECuller">David E. Culler</author><author pid="b/EricABrewer">Eric A. Brewer</author></authors><title>SEDA: An Architecture for Well-Conditioned, Scalable Internet Services.</title><venue>SOSP</venue><pages>230-243</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WelshCB01</key><doi>10.1145/502034.502057</doi><ee>https://doi.org/10.1145/502034.502057</ee><url>https://dblp.org/rec/conf/sosp/WelshCB01</url></info>
+<url>URL#6974527</url>
+</hit>
+<hit score="3" id="6974528">
+<info><authors><author pid="69/1249">Haifeng Yu</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>The Costs and Limits of Availability for Replicated Services.</title><venue>SOSP</venue><pages>29-42</pages><year>2001</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YuV01</key><doi>10.1145/502034.502038</doi><ee>https://doi.org/10.1145/502034.502038</ee><url>https://dblp.org/rec/conf/sosp/YuV01</url></info>
+<url>URL#6974528</url>
+</hit>
+</hits>
+</result>

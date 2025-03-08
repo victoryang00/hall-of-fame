@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287273">conf* sosp* 1997*</query>
+<status code="200">OK</status>
+<time unit="msecs">103.38</time>
+<completions total="1" computed="1" sent="1">
+<c sc="23" dc="23" oc="23" id="58180323">1997</c>
+</completions>
+<hits total="23" computed="23" sent="23" first="0">
+<hit score="3" id="7252946">
+<info><authors><author pid="a/JenniferAnnMAnderson">Jennifer-Ann M. Anderson</author><author pid="15/4820">Lance M. Berc</author><author pid="d/JeffreyDean">Jeffrey Dean</author><author pid="g/SGhemawat">Sanjay Ghemawat</author><author pid="h/MonikaRauchHenzinger">Monika Rauch Henzinger</author><author pid="21/6818">Shun-Tak Leung</author><author pid="26/4692">Richard L. Sites</author><author pid="20/2752">Mark T. Vandevoorde</author><author pid="40/1118">Carl A. Waldspurger</author><author pid="16/6237">William E. Weihl</author></authors><title>Continuous Profiling: Where Have All the Cycles Gone?</title><venue>SOSP</venue><pages>1-14</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AndersonBDGHLSVWW97</key><doi>10.1145/268998.266637</doi><ee>https://doi.org/10.1145/268998.266637</ee><url>https://dblp.org/rec/conf/sosp/AndersonBDGHLSVWW97</url></info>
+<url>URL#7252946</url>
+</hit>
+<hit score="3" id="7252947">
+<info><authors><author pid="b/WJBolosky">William J. Bolosky</author><author pid="43/1260">Robert P. Fitzgerald</author><author pid="87/1231">John R. Douceur</author></authors><title>Distributed Schedule Management in the Tiger Video Fileserver.</title><venue>SOSP</venue><pages>212-223</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BoloskyF97</key><doi>10.1145/268998.266692</doi><ee>https://doi.org/10.1145/268998.266692</ee><url>https://dblp.org/rec/conf/sosp/BoloskyF97</url></info>
+<url>URL#7252947</url>
+</hit>
+<hit score="3" id="7252948">
+<info><authors><author pid="b/EBugnion">Edouard Bugnion</author><author pid="16/3914">Scott Devine</author><author pid="r/MendelRosenblum">Mendel Rosenblum</author></authors><title>DISCO: Running Commodity Operating Systems on Scalable Multiprocessors.</title><venue>SOSP</venue><pages>143-156</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BugnionDR97</key><doi>10.1145/268998.266672</doi><ee>https://doi.org/10.1145/268998.266672</ee><url>https://dblp.org/rec/conf/sosp/BugnionDR97</url></info>
+<url>URL#7252948</url>
+</hit>
+<hit score="3" id="7252949">
+<info><authors><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="a/AAdya">Atul Adya</author><author pid="l/BarbaraLiskov">Barbara Liskov</author><author pid="m/AndrewCMyers">Andrew C. Myers</author></authors><title>HAC: Hybrid Adaptive Caching for Distributed Storage Systems.</title><venue>SOSP</venue><pages>102-115</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CastroALM97</key><doi>10.1145/268998.266666</doi><ee>https://doi.org/10.1145/268998.266666</ee><url>https://dblp.org/rec/conf/sosp/CastroALM97</url></info>
+<url>URL#7252949</url>
+</hit>
+<hit score="3" id="7252950">
+<info><authors><author pid="f/BryanFord">Bryan Ford</author><author pid="47/2634">Godmar Back</author><author pid="11/3938">Greg Benson</author><author pid="l/JayLepreau">Jay Lepreau</author><author pid="32/3460">Albert Lin</author><author pid="s/OlinShivers">Olin Shivers</author></authors><title>The Flux OSKit: A Substrate for Kernel and Language Research.</title><venue>SOSP</venue><pages>38-51</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FordBBLLS97</key><doi>10.1145/268998.266642</doi><ee>https://doi.org/10.1145/268998.266642</ee><url>https://dblp.org/rec/conf/sosp/FordBBLLS97</url></info>
+<url>URL#7252950</url>
+</hit>
+<hit score="3" id="7252951">
+<info><authors><author pid="90/5133">Armando Fox</author><author pid="g/StevenDGribble">Steven D. Gribble</author><author pid="21/1176">Yatin Chawathe</author><author pid="b/EricABrewer">Eric A. Brewer</author><author pid="33/6352">Paul Gauthier</author></authors><title>Cluster-Based Scalable Network Services.</title><venue>SOSP</venue><pages>78-91</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FoxGCB97</key><doi>10.1145/268998.266662</doi><ee>https://doi.org/10.1145/268998.266662</ee><url>https://dblp.org/rec/conf/sosp/FoxGCB97</url></info>
+<url>URL#7252951</url>
+</hit>
+<hit score="3" id="7252952">
+<info><authors><author pid="h/HHartig">Hermann Härtig</author><author pid="h/MichaelHohmuth">Michael Hohmuth</author><author pid="07/1586">Jochen Liedtke</author><author pid="32/1532">Sebastian Schönberg</author><author pid="10/4421">Jean Wolter</author></authors><title>The Performance of µKernel-Based Systems.</title><venue>SOSP</venue><pages>66-77</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HartigHLSW97</key><doi>10.1145/268998.266660</doi><ee>https://doi.org/10.1145/268998.266660</ee><url>https://dblp.org/rec/conf/sosp/HartigHLSW97</url></info>
+<url>URL#7252952</url>
+</hit>
+<hit score="3" id="7252953">
+<info><authors><author pid="j/MichaelBJones">Michael B. Jones</author><author pid="40/578">Daniela Rosu 0001</author><author pid="r/MarcelCatalinRosu">Marcel-Catalin Rosu</author></authors><title>CPU Reservations and Time Constraints: Efficient, Predictable Scheduling of Independent Activities.</title><venue>SOSP</venue><pages>198-211</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JonesRR97</key><doi>10.1145/268998.266689</doi><ee>https://doi.org/10.1145/268998.266689</ee><url>https://dblp.org/rec/conf/sosp/JonesRR97</url></info>
+<url>URL#7252953</url>
+</hit>
+<hit score="3" id="7252954">
+<info><authors><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="e/DREngler">Dawson R. Engler</author><author pid="g/GregoryRGanger">Gregory R. Ganger</author><author pid="35/9">Héctor M. Briceño</author><author pid="40/4732">Russell Hunt</author><author pid="m/DMazieres">David Mazières</author><author pid="74/1511">Thomas Pinckney</author><author pid="g/RobertGrimm">Robert Grimm 0001</author><author pid="92/6868">John Jannotti</author><author pid="28/314">Kenneth Mackenzie</author></authors><title>Application Performance and Flexibility on Exokernel Systems.</title><venue>SOSP</venue><pages>52-65</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KaashoekEGBHMPGM97</key><doi>10.1145/268998.266644</doi><ee>https://doi.org/10.1145/268998.266644</ee><url>https://dblp.org/rec/conf/sosp/KaashoekEGBHMPGM97</url></info>
+<url>URL#7252954</url>
+</hit>
+<hit score="3" id="7252955">
+<info><authors><author pid="44/5151">Geoffrey H. Kuenning</author><author pid="62/6214">Gerald J. Popek</author></authors><title>Automated Hoarding for Mobile Computers.</title><venue>SOSP</venue><pages>264-275</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KuenningP97</key><doi>10.1145/268998.266706</doi><ee>https://doi.org/10.1145/268998.266706</ee><url>https://dblp.org/rec/conf/sosp/KuenningP97</url></info>
+<url>URL#7252955</url>
+</hit>
+<hit score="3" id="7252956">
+<info><authors><author pid="80/1277">David E. Lowell</author><author pid="c/PeterMChen">Peter M. Chen</author></authors><title>Free Transactions With Rio Vista.</title><venue>SOSP</venue><pages>92-101</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LowellC97</key><doi>10.1145/268998.266665</doi><ee>https://doi.org/10.1145/268998.266665</ee><url>https://dblp.org/rec/conf/sosp/LowellC97</url></info>
+<url>URL#7252956</url>
+</hit>
+<hit score="3" id="7252957">
+<info><authors><author pid="m/AndrewCMyers">Andrew C. Myers</author><author pid="l/BarbaraLiskov">Barbara Liskov</author></authors><title>A Decentralized Model for Information Flow Control.</title><venue>SOSP</venue><pages>129-142</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MyersL97</key><doi>10.1145/268998.266669</doi><ee>https://doi.org/10.1145/268998.266669</ee><url>https://dblp.org/rec/conf/sosp/MyersL97</url></info>
+<url>URL#7252957</url>
+</hit>
+<hit score="3" id="7252958">
+<info><authors><author pid="81/5025">Jeanna Neefe Matthews</author><author pid="71/428">Drew S. Roselli</author><author pid="c/AdamMCostello">Adam M. Costello</author><author pid="69/1132">Randolph Y. Wang</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author></authors><title>Improving the Performance of Log-Structured File Systems with Adaptive Methods.</title><venue>SOSP</venue><pages>238-251</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NeefeWRCA97</key><doi>10.1145/268998.266700</doi><ee>https://doi.org/10.1145/268998.266700</ee><url>https://dblp.org/rec/conf/sosp/NeefeWRCA97</url></info>
+<url>URL#7252958</url>
+</hit>
+<hit score="3" id="7252959">
+<info><authors><author pid="n/JasonNieh">Jason Nieh</author><author pid="l/MonicaSLam">Monica S. Lam</author></authors><title>The Design, Implementation and Evaluation of SMART: A Scheduler for Multimedia Applications.</title><venue>SOSP</venue><pages>184-197</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NiehL97</key><doi>10.1145/268998.266677</doi><ee>https://doi.org/10.1145/268998.266677</ee><url>https://dblp.org/rec/conf/sosp/NiehL97</url></info>
+<url>URL#7252959</url>
+</hit>
+<hit score="3" id="7252960">
+<info><authors><author pid="n/BrianDNoble">Brian Noble</author><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author><author pid="45/2517">Dushyanth Narayanan</author><author pid="17/6828">J. Eric Tilton</author><author pid="14/85">Jason Flinn</author><author pid="28/4839">Kevin R. Walker</author></authors><title>Agile Application-Aware Adaptation for Mobility.</title><venue>SOSP</venue><pages>276-287</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NobleSNTFW97</key><doi>10.1145/268998.266708</doi><ee>https://doi.org/10.1145/268998.266708</ee><url>https://dblp.org/rec/conf/sosp/NobleSNTFW97</url></info>
+<url>URL#7252960</url>
+</hit>
+<hit score="3" id="7252961">
+<info><authors><author pid="81/1825">Karin Petersen</author><author pid="94/538">Mike Spreitzer</author><author pid="06/965">Douglas B. Terry</author><author pid="56/724">Marvin Theimer</author><author pid="03/5860">Alan J. Demers</author></authors><title>Flexible Update Propagation for Weakly Consistent Replication.</title><venue>SOSP</venue><pages>288-301</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PetersenSTTD97</key><doi>10.1145/268998.266711</doi><ee>https://doi.org/10.1145/268998.266711</ee><url>https://dblp.org/rec/conf/sosp/PetersenSTTD97</url></info>
+<url>URL#7252961</url>
+</hit>
+<hit score="3" id="7252962">
+<info><authors><author pid="s/StefanSavage">Stefan Savage</author><author pid="73/615">Michael Burrows</author><author pid="54/4359">Greg Nelson</author><author pid="17/198">Patrick Sobalvarro</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author></authors><title>Eraser: A Dynamic Data Race Detector for Multi-Threaded Programs.</title><venue>SOSP</venue><pages>27-37</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SavageABNS97</key><doi>10.1145/268998.266641</doi><ee>https://doi.org/10.1145/268998.266641</ee><url>https://dblp.org/rec/conf/sosp/SavageABNS97</url></info>
+<url>URL#7252962</url>
+</hit>
+<hit score="3" id="7252963">
+<info><authors><author pid="59/3752">Daniel J. Scales</author><author pid="79/3674">Kourosh Gharachorloo</author></authors><title>Towards Transparent and Efficient Software Distributed Shared Memory.</title><venue>SOSP</venue><pages>157-169</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ScalesG97</key><doi>10.1145/268998.266673</doi><ee>https://doi.org/10.1145/268998.266673</ee><url>https://dblp.org/rec/conf/sosp/ScalesG97</url></info>
+<url>URL#7252963</url>
+</hit>
+<hit score="3" id="7252964">
+<info><authors><author pid="71/5709">David C. Steere</author></authors><title>Exploiting the Non-Determinism and Asynchrony of Set Iterators to Reduce Aggregate File I/O Latency.</title><venue>SOSP</venue><pages>252-263</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Steere97</key><doi>10.1145/268998.266705</doi><ee>https://doi.org/10.1145/268998.266705</ee><url>https://dblp.org/rec/conf/sosp/Steere97</url></info>
+<url>URL#7252964</url>
+</hit>
+<hit score="3" id="7252965">
+<info><authors><author pid="94/4458">Robert Stets</author><author pid="62/1421">Sandhya Dwarkadas</author><author pid="h/NikolaosHardavellas">Nikos Hardavellas</author><author pid="58/3811">Galen C. Hunt</author><author pid="03/1036">Leonidas I. Kontothanassis</author><author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author><author pid="s/MichaelLScott">Michael L. Scott</author></authors><title>Cashmere-2L: Software Coherent Shared Memory on a Clustered Remote-Write Network.</title><venue>SOSP</venue><pages>170-183</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/StetsDHHKPS97</key><doi>10.1145/268998.266675</doi><ee>https://doi.org/10.1145/268998.266675</ee><url>https://dblp.org/rec/conf/sosp/StetsDHHKPS97</url></info>
+<url>URL#7252965</url>
+</hit>
+<hit score="3" id="7252966">
+<info><authors><author pid="13/3927">Chandramohan A. Thekkath</author><author pid="83/5823">Timothy P. Mann</author><author pid="32/6874-1">Edward K. Lee 0001</author></authors><title>Frangipani: A Scalable Distributed File System.</title><venue>SOSP</venue><pages>224-237</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ThekkathML97</key><doi>10.1145/268998.266694</doi><ee>https://doi.org/10.1145/268998.266694</ee><url>https://dblp.org/rec/conf/sosp/ThekkathML97</url></info>
+<url>URL#7252966</url>
+</hit>
+<hit score="3" id="7252967">
+<info><authors><author pid="w/DanSWallach">Dan S. Wallach</author><author pid="b/DBalfanz">Dirk Balfanz</author><author pid="d/DrewDean">Drew Dean</author><author pid="f/EdwardWFelten">Edward W. Felten</author></authors><title>Extensible Security Architecture for Java.</title><venue>SOSP</venue><pages>116-128</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WallachBDF97</key><doi>10.1145/268998.266668</doi><ee>https://doi.org/10.1145/268998.266668</ee><url>https://dblp.org/rec/conf/sosp/WallachBDF97</url></info>
+<url>URL#7252967</url>
+</hit>
+<hit score="3" id="7252968">
+<info><authors><author pid="z/XLCZhang">Xiaolan Zhang 0001</author><author pid="181/2834">Zheng Wang</author><author pid="38/3994">Nicholas C. Gloy</author><author pid="40/5996">J. Bradley Chen</author><author pid="163/1790-1">Michael D. Smith 0001</author></authors><title>System Support for Automated Profiling and Optimization.</title><venue>SOSP</venue><pages>15-26</pages><year>1997</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ZhangWGCS97</key><doi>10.1145/268998.266640</doi><ee>https://doi.org/10.1145/268998.266640</ee><url>https://dblp.org/rec/conf/sosp/ZhangWGCS97</url></info>
+<url>URL#7252968</url>
+</hit>
+</hits>
+</result>

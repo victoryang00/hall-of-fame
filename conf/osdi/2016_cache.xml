@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287530">conf* osdi* 2016*</query>
+<status code="200">OK</status>
+<time unit="msecs">24.16</time>
+<completions total="1" computed="1" sent="1">
+<c sc="53" dc="53" oc="53" id="58182952">2016</c>
+</completions>
+<hits total="53" computed="53" sent="53" first="0">
+<hit score="4" id="3892981">
+<info><authors><author pid="98/7677-1">Shuai Mu 0001</author><author pid="182/6211">Lamont Nelson</author><author pid="21/1059">Wyatt Lloyd</author><author pid="79/572-1">Jinyang Li 0001</author></authors><title>Consolidating Concurrency Control and Consensus for Commits under Conflicts.</title><venue>OSDI</venue><pages>517-532</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/MuNLL16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/mu</ee><url>https://dblp.org/rec/conf/osdi/MuNLL16</url></info>
+<url>URL#3892981</url>
+</hit>
+<hit score="4" id="3892999">
+<info><authors><author pid="90/7566">Tianyin Xu</author><author pid="96/8378">Xinxin Jin</author><author pid="29/1726-5">Peng Huang 0005</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author><author pid="31/5916-1">Shan Lu 0001</author><author pid="70/4150">Long Jin</author><author pid="60/5379">Shankar Pasupathy</author></authors><title>Early Detection of Configuration Errors to Reduce Failure Damage.</title><venue>OSDI</venue><pages>619-634</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/XuJHZLJP16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/xu</ee><url>https://dblp.org/rec/conf/osdi/XuJHZLJP16</url></info>
+<url>URL#3892999</url>
+</hit>
+<hit score="3" id="3892953">
+<info><authors><author pid="a/MartinAbadi">Martín Abadi</author><author pid="b/PaulBarham">Paul Barham 0001</author><author pid="61/7741">Jianmin Chen</author><author pid="61/5154">Zhifeng Chen</author><author pid="60/920">Andy Davis</author><author pid="d/JeffreyDean">Jeffrey Dean</author><author pid="23/2143">Matthieu Devin</author><author pid="g/SGhemawat">Sanjay Ghemawat</author><author pid="95/4978">Geoffrey Irving</author><author pid="17/5751">Michael Isard</author><author pid="49/1513">Manjunath Kudlur</author><author pid="177/9198">Josh Levenberg</author><author pid="99/10669">Rajat Monga</author><author pid="41/2560">Sherry Moore</author><author pid="82/1824">Derek Gordon Murray</author><author pid="177/9377">Benoit Steiner</author><author pid="39/814">Paul A. Tucker</author><author pid="08/2793">Vijay Vasudevan</author><author pid="177/8967">Pete Warden</author><author pid="98/4352">Martin Wicke</author><author pid="98/809">Yuan Yu</author><author pid="70/3165">Xiaoqiang Zheng</author></authors><title>TensorFlow: A System for Large-Scale Machine Learning.</title><venue>OSDI</venue><pages>265-283</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AbadiBCCDDDGIIK16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/abadi</ee><url>https://dblp.org/rec/conf/osdi/AbadiBCCDDDGIIK16</url></info>
+<url>URL#3892953</url>
+</hit>
+<hit score="3" id="3892954">
+<info><authors><author pid="a/AAdya">Atul Adya</author><author pid="48/9634">Daniel Myers</author><author pid="55/3274">Jon Howell</author><author pid="02/3927">Jeremy Elson</author><author pid="90/1807">Colin Meek</author><author pid="188/9927">Vishesh Khemani</author><author pid="188/9903">Stefan Fulger</author><author pid="93/1801">Pan Gu</author><author pid="78/5003">Lakshminath Bhuvanagiri</author><author pid="50/9322">Jason Hunter</author><author pid="188/9977">Roberto Peon</author><author pid="189/0053">Larry Kai</author><author pid="s/AlexanderShraer">Alexander Shraer</author><author pid="40/3294">Arif Merchant</author><author pid="151/5602">Kfir Lev-Ari</author></authors><title>Slicer: Auto-Sharding for Datacenter Applications.</title><venue>OSDI</venue><pages>739-753</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AdyaMHEMKFGBHPK16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya</ee><url>https://dblp.org/rec/conf/osdi/AdyaMHEMKFGBHPK16</url></info>
+<url>URL#3892954</url>
+</hit>
+<hit score="3" id="3892955">
+<info><authors><author pid="154/0847">Ramnatthan Alagappan</author><author pid="150/3388">Aishwarya Ganesan</author><author pid="124/5787">Yuvraj Patel</author><author pid="135/6845">Thanumalayan Sankaranarayana Pillai</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="a/RemziHArpaciDusseau">Remzi H. Arpaci-Dusseau</author></authors><title>Correlated Crash Vulnerabilities.</title><venue>OSDI</venue><pages>151-167</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AlagappanGPPAA16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/alagappan</ee><url>https://dblp.org/rec/conf/osdi/AlagappanGPPAA16</url></info>
+<url>URL#3892955</url>
+</hit>
+<hit score="3" id="3892956">
+<info><authors><author pid="132/8480">Sebastian Angel</author><author pid="68/8463">Srinath T. V. Setty</author></authors><title>Unobservable Communication over Fully Untrusted Infrastructure.</title><venue>OSDI</venue><pages>551-569</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/AngelS16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/angel</ee><url>https://dblp.org/rec/conf/osdi/AngelS16</url></info>
+<url>URL#3892956</url>
+</hit>
+<hit score="3" id="3892957">
+<info><authors><author pid="156/3300">Sergei Arnautov</author><author pid="189/0114">Bohdan Trach</author><author pid="188/9991">Franz Gregor</author><author pid="46/7509">Thomas Knauth</author><author pid="45/9936">André Martin</author><author pid="161/6100">Christian Priebe</author><author pid="188/9951">Joshua Lind</author><author pid="55/755">Divya Muthukumaran</author><author pid="24/8298">Dan O&apos;Keeffe</author><author pid="30/7684">Mark Stillwell</author><author pid="189/0097">David Goltzsche</author><author pid="55/684">David M. Eyers</author><author pid="27/2697">Rüdiger Kapitza</author><author pid="45/4887">Peter R. Pietzuch</author><author pid="f/ChristofFetzer">Christof Fetzer</author></authors><title>SCONE: Secure Linux Containers with Intel SGX.</title><venue>OSDI</venue><pages>689-703</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ArnautovTGKMPLM16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/arnautov</ee><url>https://dblp.org/rec/conf/osdi/ArnautovTGKMPLM16</url></info>
+<url>URL#3892957</url>
+</hit>
+<hit score="3" id="3892958">
+<info><authors><author pid="74/2131">Philip H. Carns</author><author pid="45/2893">John Jenkins</author><author pid="11/5709">Charles D. Cranor</author><author pid="33/3303">Scott Atchley</author><author pid="84/4431">Sangmin Seo</author><author pid="161/4479">Shane Snyder</author><author pid="r/RBRoss">Robert B. Ross</author></authors><title>Enabling NVM for Data-Intensive Scientific Services.</title><venue>INFLOW@OSDI</venue><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/CarnsJCASSR16</key><ee>https://www.usenix.org/conference/inflow16/workshop-program/presentation/carns</ee><url>https://dblp.org/rec/conf/osdi/CarnsJCASSR16</url></info>
+<url>URL#3892958</url>
+</hit>
+<hit score="3" id="3892959">
+<info><authors><author pid="15/7525">Himanshu Chauhan</author><author pid="126/2046">Irina Calciu</author><author pid="07/10563">Vijay Chidambaram</author><author pid="33/3357">Eric Schkufza</author><author pid="m/OnurMutlu">Onur Mutlu</author><author pid="64/2373">Pratap Subrahmanyam</author></authors><title>NVMOVE: Helping Programmers Move to Byte-Based Persistence.</title><venue>INFLOW@OSDI</venue><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ChauhanCCSMS16</key><ee>https://www.usenix.org/conference/inflow16/workshop-program/presentation/chauhan</ee><url>https://dblp.org/rec/conf/osdi/ChauhanCCSMS16</url></info>
+<url>URL#3892959</url>
+</hit>
+<hit score="3" id="3892960">
+<info><authors><author pid="51/5429">Michael Chow</author><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="82/231">Michael J. Cafarella</author><author pid="14/85">Jason Flinn</author></authors><title>DQBarge: Improving Data-Quality Tradeoffs in Large-Scale Internet Services.</title><venue>OSDI</venue><pages>771-786</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ChowVCF16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/chow</ee><url>https://dblp.org/rec/conf/osdi/ChowVCF16</url></info>
+<url>URL#3892960</url>
+</hit>
+<hit score="3" id="3892961">
+<info><authors><author pid="44/1341">Matthew Curtis-Maury</author><author pid="92/6039">Vinay Devadas</author><author pid="189/0091">Vania Fang</author><author pid="93/8636">Aditya Kulkarni</author></authors><title>To Waffinity and Beyond: A Scalable Architecture for Incremental Parallelization of File System Code.</title><venue>OSDI</venue><pages>419-434</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Curtis-MauryDFK16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/curtis-maury</ee><url>https://dblp.org/rec/conf/osdi/Curtis-MauryDFK16</url></info>
+<url>URL#3892961</url>
+</hit>
+<hit score="3" id="3892962">
+<info><authors><author pid="03/3113">Seyed Kaveh Fayaz</author><author pid="75/8719">Tushar Sharma</author><author pid="132/2548">Ari Fogel</author><author pid="81/6327">Ratul Mahajan</author><author pid="93/4679">Todd D. Millstein</author><author pid="45/4044">Vyas Sekar</author><author pid="v/GeorgeVarghese">George Varghese</author></authors><title>Efficient Network Reachability Analysis Using a Succinct Control Plane Representation.</title><venue>OSDI</venue><pages>217-232</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/FayazSFMMSV16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/fayaz</ee><url>https://dblp.org/rec/conf/osdi/FayazSFMMSV16</url></info>
+<url>URL#3892962</url>
+</hit>
+<hit score="3" id="3892963">
+<info><authors><author pid="117/4352">Peter Xiang Gao</author><author pid="71/11357-1">Akshay Narayan 0001</author><author pid="145/2275">Sagar Karandikar</author><author pid="61/5621">João Carreira</author><author pid="87/6455">Sangjin Han</author><author pid="41/5447-1">Rachit Agarwal 0001</author><author pid="68/5579">Sylvia Ratnasamy</author><author pid="34/5593">Scott Shenker</author></authors><title>Network Requirements for Resource Disaggregation.</title><venue>OSDI</venue><pages>249-264</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GaoNKCH0RS16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/gao</ee><url>https://dblp.org/rec/conf/osdi/GaoNKCH0RS16</url></info>
+<url>URL#3892963</url>
+</hit>
+<hit score="3" id="3892964">
+<info><authors><author pid="161/0169">Ionel Gog</author><author pid="49/7988">Malte Schwarzkopf</author><author pid="189/0008">Adam Gleave</author><author pid="70/2118">Robert N. M. Watson</author><author pid="69/6457">Steven Hand 0001</author></authors><title>Firmament: Fast, Centralized Cluster Scheduling at Scale.</title><venue>OSDI</venue><pages>99-115</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GogSGWH16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/gog</ee><url>https://dblp.org/rec/conf/osdi/GogSGWH16</url></info>
+<url>URL#3892964</url>
+</hit>
+<hit score="3" id="3892965">
+<info><authors><author pid="117/4351">Robert Grandl</author><author pid="42/1518">Mosharaf Chowdhury</author><author pid="a/AdityaAkella">Aditya Akella</author><author pid="08/5351">Ganesh Ananthanarayanan</author></authors><title>Altruistic Scheduling in Multi-Resource Clusters.</title><venue>OSDI</venue><pages>65-80</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GrandlCAA16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/grandl_altruistic</ee><url>https://dblp.org/rec/conf/osdi/GrandlCAA16</url></info>
+<url>URL#3892965</url>
+</hit>
+<hit score="3" id="3892966">
+<info><authors><author pid="117/4351">Robert Grandl</author><author pid="k/SrikanthKandula">Srikanth Kandula</author><author pid="07/1315">Sriram Rao</author><author pid="a/AdityaAkella">Aditya Akella</author><author pid="54/1978">Janardhan Kulkarni</author></authors><title>GRAPHENE: Packing and Dependency-Aware Scheduling for Data-Parallel Clusters.</title><venue>OSDI</venue><pages>81-97</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GrandlKRAK16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/grandl_graphene</ee><url>https://dblp.org/rec/conf/osdi/GrandlKRAK16</url></info>
+<url>URL#3892966</url>
+</hit>
+<hit score="3" id="3892967">
+<info><authors><author pid="155/8148">Ronghui Gu</author><author pid="s/ZhongShao">Zhong Shao</author><author pid="175/3324-23">Hao Chen 0023</author><author pid="06/9687">Xiongnan (Newman) Wu</author><author pid="64/10475">Jieung Kim</author><author pid="72/7563">Vilhelm Sjöberg</author><author pid="84/11041">David Costanzo</author></authors><title>CertiKOS: An Extensible Architecture for Building Certified Concurrent OS Kernels.</title><venue>OSDI</venue><pages>653-669</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GuSCWKSC16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/gu</ee><url>https://dblp.org/rec/conf/osdi/GuSCWKSC16</url></info>
+<url>URL#3892967</url>
+</hit>
+<hit score="3" id="3892968">
+<info><authors><author pid="g/RachidGuerraoui">Rachid Guerraoui</author><author pid="178/5515">Matej Pavlovic</author><author pid="178/5504">Dragos-Adrian Seredinschi</author></authors><title>Incremental Consistency Guarantees for Replicated Objects.</title><venue>OSDI</venue><pages>169-184</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/GuerraouiPS16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/guerraoui</ee><url>https://dblp.org/rec/conf/osdi/GuerraouiPS16</url></info>
+<url>URL#3892968</url>
+</hit>
+<hit score="3" id="3892969">
+<info><authors><author pid="189/0088">Tyler Hunt</author><author pid="12/5782">Zhiting Zhu</author><author pid="60/9826">Yuanzhong Xu</author><author pid="43/3917">Simon Peter 0001</author><author pid="76/6082">Emmett Witchel</author></authors><title>Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data.</title><venue>OSDI</venue><pages>533-549</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/HuntZXPW16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/hunt</ee><url>https://dblp.org/rec/conf/osdi/HuntZXPW16</url></info>
+<url>URL#3892969</url>
+</hit>
+<hit score="3" id="3892970">
+<info><authors><author pid="142/2461">Sangeetha Abdu Jyothi</author><author pid="c/CarloCurino">Carlo Curino</author><author pid="65/5280">Ishai Menache</author><author pid="63/1469">Shravan Matthur Narayanamurthy</author><author pid="41/6224">Alexey Tumanov</author><author pid="55/10257">Jonathan Yaniv</author><author pid="153/5383">Ruslan Mavlyutov</author><author pid="47/3727">Iñigo Goiri</author><author pid="159/6290">Subru Krishnan</author><author pid="54/1978">Janardhan Kulkarni</author><author pid="07/1315">Sriram Rao</author></authors><title>Morpheus: Towards Automated SLOs for Enterprise Clusters.</title><venue>OSDI</venue><pages>117-134</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/JyothiCMNTYMGKK16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/jyothi</ee><url>https://dblp.org/rec/conf/osdi/JyothiCMNTYMGKK16</url></info>
+<url>URL#3892970</url>
+</hit>
+<hit score="3" id="3892971">
+<info><authors><author pid="145/5124">Stefan Kaestle</author><author pid="163/1550">Reto Achermann</author><author pid="188/9908">Roni Haecki</author><author pid="188/9957-1">Moritz Hoffmann 0001</author><author pid="73/9463">Sabela Ramos</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author></authors><title>Machine-Aware Atomic Broadcast Trees for Multicores.</title><venue>OSDI</venue><pages>33-48</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KaestleAHHRR16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/kaestle</ee><url>https://dblp.org/rec/conf/osdi/KaestleAHHRR16</url></info>
+<url>URL#3892971</url>
+</hit>
+<hit score="3" id="3892972">
+<info><authors><author pid="149/9171">Anuj Kalia</author><author pid="09/4259">Michael Kaminsky</author><author pid="a/DavidGAndersen">David G. Andersen</author></authors><title>FaSST: Fast, Scalable and Simple Distributed Transactions with Two-Sided (RDMA) Datagram RPCs.</title><venue>OSDI</venue><pages>185-201</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KaliaKA16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/kalia</ee><url>https://dblp.org/rec/conf/osdi/KaliaKA16</url></info>
+<url>URL#3892972</url>
+</hit>
+<hit score="3" id="3892973">
+<info><authors><author pid="94/8239">Youngjin Kwon</author><author pid="189/0050">Hangchen Yu</author><author pid="43/3917">Simon Peter 0001</author><author pid="46/991">Christopher J. Rossbach</author><author pid="76/6082">Emmett Witchel</author></authors><title>Coordinated and Efficient Huge Page Management with Ingens.</title><venue>OSDI</venue><pages>705-721</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/KwonYPRW16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/kwon</ee><url>https://dblp.org/rec/conf/osdi/KwonYPRW16</url></info>
+<url>URL#3892973</url>
+</hit>
+<hit score="3" id="3892974">
+<info><authors><author pid="120/7701">Rahman Lavaee</author><author pid="169/7836">I. Stephen Choi</author><author pid="81/5871">Yang-Suk Kee</author><author pid="83/2822-1">Chen Ding 0001</author></authors><title>ElCached: Elastic Multi-Level Key-Value Cache.</title><venue>INFLOW@OSDI</venue><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LavaeeCKD16</key><ee>https://www.usenix.org/conference/inflow16/workshop-program/presentation/lavaee</ee><url>https://dblp.org/rec/conf/osdi/LavaeeCKD16</url></info>
+<url>URL#3892974</url>
+</hit>
+<hit score="3" id="3892975">
+<info><authors><author pid="117/9944">David Lazar</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata.</title><venue>OSDI</venue><pages>571-586</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LazarZ16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/lazar</ee><url>https://dblp.org/rec/conf/osdi/LazarZ16</url></info>
+<url>URL#3892975</url>
+</hit>
+<hit score="3" id="3892976">
+<info><authors><author pid="75/4924-1">Jialin Li 0001</author><author pid="191/4186">Ellis Michael</author><author pid="88/8770">Naveen Kr. Sharma</author><author pid="69/9867">Adriana Szekeres</author><author pid="03/6105">Dan R. K. Ports</author></authors><title>Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering.</title><venue>OSDI</venue><pages>467-483</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LiESSP16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li</ee><url>https://dblp.org/rec/conf/osdi/LiESSP16</url></info>
+<url>URL#3892976</url>
+</hit>
+<hit score="3" id="3892977">
+<info><authors><author pid="154/0951">David Lion</author><author pid="189/0054">Adrian Chiu</author><author pid="21/1509-1">Hailong Sun 0001</author><author pid="78/7703">Xin Zhuang</author><author pid="99/7045">Nikola Grcevski</author><author pid="230/9043-4">Ding Yuan 0004</author></authors><title>Don&apos;t Get Caught in the Cold, Warm-up Your JVM: Understand and Eliminate JVM Warm-up Overhead in Data-Parallel Systems.</title><venue>OSDI</venue><pages>383-400</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LionCSZGY16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/lion</ee><url>https://dblp.org/rec/conf/osdi/LionCSZGY16</url></info>
+<url>URL#3892977</url>
+</hit>
+<hit score="3" id="3892978">
+<info><authors><author pid="168/8953">James Litton</author><author pid="161/0161">Anjo Vahldiek-Oberwagner</author><author pid="13/10811">Eslam Elnikety</author><author pid="45/6786-1">Deepak Garg 0001</author><author pid="b/BobbyBhattacharjee">Bobby Bhattacharjee</author><author pid="d/PDruschel">Peter Druschel</author></authors><title>Light-Weight Contexts: An OS Abstraction for Safety and Performance.</title><venue>OSDI</venue><pages>49-64</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LittonVE0BD16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/litton</ee><url>https://dblp.org/rec/conf/osdi/LittonVE0BD16</url></info>
+<url>URL#3892978</url>
+</hit>
+<hit score="3" id="3892979">
+<info><authors><author pid="52/9705">Shengyun Liu</author><author pid="159/6277">Paolo Viotti</author><author pid="c/ChristianCachin">Christian Cachin</author><author pid="33/2617">Vivien Quéma</author><author pid="57/6250">Marko Vukolic</author></authors><title>XFT: Practical Fault Tolerance beyond Crashes.</title><venue>OSDI</venue><pages>485-500</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LiuVCQV16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/liu</ee><url>https://dblp.org/rec/conf/osdi/LiuVCQV16</url></info>
+<url>URL#3892979</url>
+</hit>
+<hit score="3" id="3892980">
+<info><authors><author pid="129/0998">Haonan Lu</author><author pid="188/9937">Christopher Hodsdon</author><author pid="189/0001">Khiem Ngo</author><author pid="98/7677-1">Shuai Mu 0001</author><author pid="21/1059">Wyatt Lloyd</author></authors><title>The SNOW Theorem and Latency-Optimal Read-Only Transactions.</title><venue>OSDI</venue><pages>135-150</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/LuHNML16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/lu</ee><url>https://dblp.org/rec/conf/osdi/LuHNML16</url></info>
+<url>URL#3892980</url>
+</hit>
+<hit score="3" id="3892982">
+<info><authors><author pid="53/6791-1">Khanh Nguyen 0001</author><author pid="33/8116-3">Lu Fang 0003</author><author pid="90/8705">Guoqing Xu 0001</author><author pid="47/3381">Brian Demsky</author><author pid="31/5916-1">Shan Lu 0001</author><author pid="189/0090">Sanazsadat Alamian</author><author pid="m/OnurMutlu">Onur Mutlu</author></authors><title>Yak: A High-Performance Big-Data-Friendly Garbage Collector.</title><venue>OSDI</venue><pages>349-365</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/NguyenFXDLAM16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/nguyen</ee><url>https://dblp.org/rec/conf/osdi/NguyenFXDLAM16</url></info>
+<url>URL#3892982</url>
+</hit>
+<hit score="3" id="3892983">
+<info><authors><author pid="55/925">Aurojit Panda</author><author pid="87/6455">Sangjin Han</author><author pid="40/503">Keon Jang</author><author pid="182/6299">Melvin Walls</author><author pid="68/5579">Sylvia Ratnasamy</author><author pid="34/5593">Scott Shenker</author></authors><title>NetBricks: Taking the V out of NFV.</title><venue>OSDI</venue><pages>203-216</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PandaHJWRS16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda</ee><url>https://dblp.org/rec/conf/osdi/PandaHJWRS16</url></info>
+<url>URL#3892983</url>
+</hit>
+<hit score="3" id="3892984">
+<info><authors><author pid="25/5315">Antonis Papadimitriou</author><author pid="94/5385">Ranjita Bhagwan</author><author pid="77/5616">Nishanth Chandran</author><author pid="97/117">Ramachandran Ramjee</author><author pid="60/4358">Andreas Haeberlen</author><author pid="75/6889">Harmeet Singh</author><author pid="188/9976">Abhishek Modi</author><author pid="138/8997">Saikrishna Badrinarayanan</author></authors><title>Big Data Analytics over Encrypted Datasets with Seabed.</title><venue>OSDI</venue><pages>587-602</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PapadimitriouBC16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/papadimitriou</ee><url>https://dblp.org/rec/conf/osdi/PapadimitriouBC16</url></info>
+<url>URL#3892984</url>
+</hit>
+<hit score="3" id="3892985">
+<info><authors><author pid="59/4160">Barry Porter</author><author pid="188/9968">Matthew Grieves</author><author pid="167/8003">Roberto Rodrigues Filho</author><author pid="167/3113">David Leslie</author></authors><title>REX: A Development Platform and Online Learning Approach for Runtime Emergent Software Systems.</title><venue>OSDI</venue><pages>333-348</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/PorterGFL16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/porter</ee><url>https://dblp.org/rec/conf/osdi/PorterGFL16</url></info>
+<url>URL#3892985</url>
+</hit>
+<hit score="3" id="3892986">
+<info><authors><author pid="150/3134-1">Andrew Quinn 0001</author><author pid="127/3085">David Devecsery</author><author pid="c/PeterMChen">Peter M. Chen</author><author pid="14/85">Jason Flinn</author></authors><title>JetStream: Cluster-Scale Parallelization of Information Flow Queries.</title><venue>OSDI</venue><pages>451-466</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/QuinnDCF16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/quinn</ee><url>https://dblp.org/rec/conf/osdi/QuinnDCF16</url></info>
+<url>URL#3892986</url>
+</hit>
+<hit score="3" id="3892987">
+<info><authors><author pid="40/7113">K. V. Rashmi</author><author pid="42/1518">Mosharaf Chowdhury</author><author pid="188/9911">Jack Kosaian</author><author pid="s/IonStoica">Ion Stoica</author><author pid="53/5765">Kannan Ramchandran</author></authors><title>EC-Cache: Load-Balanced, Low-Latency Cluster Caching with Online Erasure Coding.</title><venue>OSDI</venue><pages>401-417</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/RashmiCKSR16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/rashmi</ee><url>https://dblp.org/rec/conf/osdi/RashmiCKSR16</url></info>
+<url>URL#3892987</url>
+</hit>
+<hit score="3" id="3892988">
+<info><authors><author pid="150/5905">Dan Schatzberg</author><author pid="150/6020">James Cadden</author><author pid="97/11145">Han Dong</author><author pid="73/2727">Orran Krieger</author><author pid="36/248">Jonathan Appavoo</author></authors><title>EbbRT: A Framework for Building Per-Application Library Operating Systems.</title><venue>OSDI</venue><pages>671-688</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SchatzbergCDKA16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/schatzberg</ee><url>https://dblp.org/rec/conf/osdi/SchatzbergCDKA16</url></info>
+<url>URL#3892988</url>
+</hit>
+<hit score="3" id="3892989">
+<info><authors><author pid="68/8463">Srinath T. V. Setty</author><author pid="18/10537">Chunzhi Su</author><author pid="25/3228">Jacob R. Lorch</author><author pid="z/LidongZhou">Lidong Zhou</author><author pid="175/3324-30">Hao Chen 0030</author><author pid="90/506">Parveen Patel</author><author pid="67/8972">Jinglei Ren</author></authors><title>Realizing the Fault-Tolerance Promise of Cloud Storage Using Locks with Intent.</title><venue>OSDI</venue><pages>501-516</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/SettySLZCPR16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/setty</ee><url>https://dblp.org/rec/conf/osdi/SettySLZCPR16</url></info>
+<url>URL#3892989</url>
+</hit>
+<hit score="3" id="3892990">
+<info><authors><author pid="151/7509">Jiaxin Shi</author><author pid="189/0133">Youyang Yao</author><author pid="22/6904-1">Rong Chen 0001</author><author pid="31/6601-1">Haibo Chen 0001</author><author pid="l/FeifeiLi">Feifei Li 0001</author></authors><title>Fast and Concurrent RDF Queries with RDMA-Based Distributed Graph Exploration.</title><venue>OSDI</venue><pages>317-332</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ShiYCCL16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/shi</ee><url>https://dblp.org/rec/conf/osdi/ShiYCCL16</url></info>
+<url>URL#3892990</url>
+</hit>
+<hit score="3" id="3892991">
+<info><authors><author pid="226/6130">Mustafa M. Shihab</author><author pid="84/6889-48">Jie Zhang 0048</author><author pid="178/1465">Shuwen Gao</author><author pid="189/0017">Josep Sloan</author><author pid="115/6279">Myoungsoo Jung</author></authors><title>Couture: Tailoring STT-MRAM for Persistent Main Memory.</title><venue>INFLOW@OSDI</venue><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ShihabZGSJ16</key><ee>https://www.usenix.org/conference/inflow16/workshop-program/presentation/shihab</ee><url>https://dblp.org/rec/conf/osdi/ShihabZGSJ16</url></info>
+<url>URL#3892991</url>
+</hit>
+<hit score="3" id="3892992">
+<info><authors><author pid="150/6007">Helgi Sigurbjarnarson</author><author pid="142/3208">James Bornholt</author><author pid="55/1457">Emina Torlak</author><author pid="08/5760-5">Xi Wang 0005</author></authors><title>Push-Button Verification of File Systems via Crash Refinement.</title><venue>OSDI</venue><pages>1-16</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Sigurbjarnarson16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/sigurbjarnarson</ee><url>https://dblp.org/rec/conf/osdi/Sigurbjarnarson16</url></info>
+<url>URL#3892992</url>
+</hit>
+<hit score="3" id="3892993">
+<info><authors><author pid="174/9515">Praveen Tammana</author><author pid="41/5447-1">Rachit Agarwal 0001</author><author pid="53/2649">Myungjin Lee</author></authors><title>Simplifying Datacenter Network Debugging with PathDump.</title><venue>OSDI</venue><pages>233-248</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Tammana0L16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/tammana</ee><url>https://dblp.org/rec/conf/osdi/Tammana0L16</url></info>
+<url>URL#3892993</url>
+</hit>
+<hit score="3" id="3892994">
+<info><authors><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="25/1821">Justin Meza</author><author pid="130/1368">David Chou</author><author pid="39/6144">Wonho Kim</author><author pid="189/0000">Sonia Margulis</author><author pid="189/0126">Scott Michelson</author><author pid="78/5296">Rajesh Nishtala</author><author pid="133/3718">Daniel Obenshain</author><author pid="72/7218">Dmitri Perelman</author><author pid="93/2816">Yee Jiun Song</author></authors><title>Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services.</title><venue>OSDI</venue><pages>635-651</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/VeeraraghavanMC16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/veeraraghavan</ee><url>https://dblp.org/rec/conf/osdi/VeeraraghavanMC16</url></info>
+<url>URL#3892994</url>
+</hit>
+<hit score="3" id="3892995">
+<info><authors><author pid="189/0047">Robin Verschoren</author><author pid="h/BennyVanHoudt">Benny Van Houdt</author></authors><title>On the Impact of Garbage Collection on Flash-Based SSD Endurance.</title><venue>INFLOW@OSDI</venue><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/VerschorenH16</key><ee>https://www.usenix.org/conference/inflow16/workshop-program/presentation/verschoren</ee><url>https://dblp.org/rec/conf/osdi/VerschorenH16</url></info>
+<url>URL#3892995</url>
+</hit>
+<hit score="3" id="3892996">
+<info><authors><author pid="44/8262">Raajay Viswanathan</author><author pid="08/5351">Ganesh Ananthanarayanan</author><author pid="a/AdityaAkella">Aditya Akella</author></authors><title>CLARINET: WAN-Aware Optimization for Analytics Queries.</title><venue>OSDI</venue><pages>435-450</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ViswanathanAA16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/viswanathan</ee><url>https://dblp.org/rec/conf/osdi/ViswanathanAA16</url></info>
+<url>URL#3892996</url>
+</hit>
+<hit score="3" id="3892997">
+<info><authors><author pid="68/8270">David Williams-King</author><author pid="189/0026">Graham Gobieski</author><author pid="189/0101">Kent Williams-King</author><author pid="188/9970">James P. Blake</author><author pid="70/10355">Xinhao Yuan</author><author pid="15/10322">Patrick Colp</author><author pid="189/0130">Michelle Zheng</author><author pid="87/1029">Vasileios P. Kemerlis</author><author pid="71/3724">Junfeng Yang</author><author pid="a/WilliamAiello">William Aiello</author></authors><title>Shuffler: Fast and Deployable Continuous Code Re-Randomization.</title><venue>OSDI</venue><pages>367-382</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/Williams-KingGW16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/williams-king</ee><url>https://dblp.org/rec/conf/osdi/Williams-KingGW16</url></info>
+<url>URL#3892997</url>
+</hit>
+<hit score="3" id="3892998">
+<info><authors><author pid="188/9887">Joel van der Woude</author><author pid="09/2334">Matthew Hicks</author></authors><title>Intermittent Computation without Hardware Support or Programmer Intervention.</title><venue>OSDI</venue><pages>17-32</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/WoudeH16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/vanderwoude</ee><url>https://dblp.org/rec/conf/osdi/WoudeH16</url></info>
+<url>URL#3892998</url>
+</hit>
+<hit score="3" id="3893000">
+<info><authors><author pid="84/6889-48">Jie Zhang 0048</author><author pid="188/9926">Miryeong Kwon</author><author pid="170/5430-3">Chanyoung Park 0003</author><author pid="115/6279">Myoungsoo Jung</author><author pid="78/2018">Songkuk Kim</author></authors><title>ROSS: A Design of Read-Oriented STT-MRAM Storage for Energy-Efficient Non-Uniform Cache Architecture.</title><venue>INFLOW@OSDI</venue><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhangKPJK16</key><ee>https://www.usenix.org/conference/inflow16/workshop-program/presentation/zhang</ee><url>https://dblp.org/rec/conf/osdi/ZhangKPJK16</url></info>
+<url>URL#3893000</url>
+</hit>
+<hit score="3" id="3893001">
+<info><authors><author pid="68/1122">Irene Zhang</author><author pid="139/8104">Niel Lebeck</author><author pid="11/3119-1">Pedro Fonseca 0001</author><author pid="145/7763">Brandon Holt</author><author pid="32/10971-1">Raymond Cheng 0001</author><author pid="188/9895">Ariadna Norberg</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Diamond: Automating Data Management and Storage for Wide-Area, Reactive Applications.</title><venue>OSDI</venue><pages>723-738</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhangLFHCNKL16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/zhang-irene</ee><url>https://dblp.org/rec/conf/osdi/ZhangLFHCNKL16</url></info>
+<url>URL#3893001</url>
+</hit>
+<hit score="3" id="3893002">
+<info><authors><author pid="89/5923">Yunqi Zhang</author><author pid="16/9420">George Prekas</author><author pid="164/7907">Giovanni Matteo Fumarola</author><author pid="54/3895">Marcus Fontoura</author><author pid="47/3727">Iñigo Goiri</author><author pid="85/2722">Ricardo Bianchini</author></authors><title>History-Based Harvesting of Spare Cycles and Storage in Large-Scale Datacenters.</title><venue>OSDI</venue><pages>755-770</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhangPFFGB16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/zhang-yunqi</ee><url>https://dblp.org/rec/conf/osdi/ZhangPFFGB16</url></info>
+<url>URL#3893002</url>
+</hit>
+<hit score="3" id="3893003">
+<info><authors><author pid="153/5382">Mingxing Zhang</author><author pid="38/880">Yongwei Wu 0001</author><author pid="91/6670">Kang Chen</author><author pid="42/5189">Xuehai Qian</author><author pid="181/2710">Xue Li</author><author pid="45/6990">Weimin Zheng</author></authors><title>Exploring the Hidden Dimension in Graph Processing.</title><venue>OSDI</venue><pages>285-300</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhangWCQLZ16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/zhang-mingxing</ee><url>https://dblp.org/rec/conf/osdi/ZhangWCQLZ16</url></info>
+<url>URL#3893003</url>
+</hit>
+<hit score="3" id="3893004">
+<info><authors><author pid="37/3580-4">Xu Zhao 0004</author><author pid="188/9963">Kirk Rodrigues</author><author pid="45/6469-6">Yu Luo 0006</author><author pid="230/9043-4">Ding Yuan 0004</author><author pid="82/5150">Michael Stumm</author></authors><title>Non-Intrusive Performance Profiling for Entire Software Stacks Based on the Flow Reconstruction Principle.</title><venue>OSDI</venue><pages>603-618</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhaoRLYS16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/zhao</ee><url>https://dblp.org/rec/conf/osdi/ZhaoRLYS16</url></info>
+<url>URL#3893004</url>
+</hit>
+<hit score="3" id="3893005">
+<info><authors><author pid="141/8790">Xiaowei Zhu</author><author pid="60/810">Wenguang Chen</author><author pid="45/6990">Weimin Zheng</author><author pid="m/XiaosongMa">Xiaosong Ma</author></authors><title>Gemini: A Computation-Centric Distributed Graph Processing System.</title><venue>OSDI</venue><pages>301-316</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/osdi/ZhuCZM16</key><ee>https://www.usenix.org/conference/osdi16/technical-sessions/presentation/zhu</ee><url>https://dblp.org/rec/conf/osdi/ZhuCZM16</url></info>
+<url>URL#3893005</url>
+</hit>
+</hits>
+</result>
