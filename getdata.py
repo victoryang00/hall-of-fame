@@ -24,7 +24,7 @@ print(last5)
 for y in range(1969, 2023, 2):
     print("SOSP", y)
     try:
-        a = dblp.searchvenue("/conf/sosp/" + str(y), "SOSP")
+        a = dblp.getvenueauthors("/conf/sosp/" + str(y), "SOSP")
         for x in a:
             sosp[x] = sosp.get(x, 0) + 1
             total[x] = total.get(x, 0) + 1
@@ -36,7 +36,7 @@ for y in range(1969, 2023, 2):
 for y in range(2023, next_year, 1):
     print("SOSP", y)
     try:
-        a = dblp.searchvenue("/conf/sosp/" + str(y))
+        a = dblp.getvenueauthors("/conf/sosp/" + str(y), "SOSP")
         for x in a:
             sosp[x] = sosp.get(x, 0) + 1
             total[x] = total.get(x, 0) + 1
@@ -47,7 +47,7 @@ for y in range(2023, next_year, 1):
 for y in range(1994, 2020, 2):
     print("OSDI", y)
     try:
-        a = dblp.searchvenue("/conf/osdi/" + str(y))
+        a = dblp.getvenueauthors("/conf/osdi/" + str(y), "OSDI")
         for x in a:
             osdi[x] = osdi.get(x, 0) + 1
         total[x] = total.get(x, 0) + 1
@@ -60,7 +60,7 @@ for y in range(1994, 2020, 2):
 for y in range(2020, next_year, 1):
     print("OSDI", y)
     try:
-        a = dblp.searchvenue("/conf/osdi/osdi" + str(y))
+        a = dblp.getvenueauthors("/conf/osdi/" + str(y), "OSDI")
         for x in a:
             osdi[x] = osdi.get(x, 0) + 1
         total[x] = total.get(x, 0) + 1
