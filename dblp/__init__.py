@@ -2,7 +2,7 @@ import requests
 from lxml import etree
 from collections import namedtuple
 
-DBLP_BASE_URL = 'http://dblp.uni-trier.de/'
+DBLP_BASE_URL = 'https://dblp.org/'
 DBLP_AUTHOR_SEARCH_URL = DBLP_BASE_URL + 'search/author'
 
 DBLP_PERSON_URL = DBLP_BASE_URL + 'pers/xk/{urlpt}'
