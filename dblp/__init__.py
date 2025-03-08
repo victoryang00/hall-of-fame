@@ -1,5 +1,6 @@
 import requests
 from lxml import etree
+import os
 from collections import namedtuple
 
 DBLP_BASE_URL = 'https://dblp.org/'
@@ -167,10 +168,22 @@ def searchvenue(venue_str):
     return [Publication(url) for url in root.xpath('//info/key/text()')]
 
 def getvenueauthors(venue_str, venue_short):
-    resp = requests.get(DBLP_PUB_SEARCH_URL, params={'q':venue_str, 'h':100})
-    #TODO error handlin
-    resp.raise_for_status()
-    root = etree.fromstring(resp.content)
+    cache_filename = f"{venue_short}_{venue_str}_cache.xml"
+    
+    # 2. If the file exists, read from it; otherwise, request from DBLP and save it
+    if os.path.exists(cache_filename):
+        with open(cache_filename, "rb") as f:
+            content = f.read()
+    else:
+        # Make HTTP request
+        resp = requests.get(DBLP_PUB_SEARCH_URL, params={"q": venue_str, "h": 100})
+        resp.raise_for_status()
+        content = resp.content
+        
+        # Save to file for future reuse
+        with open(cache_filename, "wb") as f:
+            f.write(content)
+    root = etree.fromstring(content)
     ans = []
     for x in root.findall(".//info/[venue='" + venue_short + "']/../"):
         ptext = [y.text for y in x.findall("./pages")]

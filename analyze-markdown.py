@@ -87,7 +87,8 @@ def mprint(i, rank, x, c, c5):
         flame_bar += "&#128293;";
     flame_bar +="|"
 
-    ans = "|" + str(i) + "|" + str(rank) + "|" + ''.join((x, flame_bar, str(c) ,"|", str(c5))).encode('ascii', 'xmlcharrefreplace').strip()
+    content = ''.join((x, flame_bar, str(c), "|", str(c5)))
+    ans = f"|{i}|{rank}|" + content.encode('ascii', 'xmlcharrefreplace').strip().decode('ascii')
 
     '''
     if c5 >= 10:
