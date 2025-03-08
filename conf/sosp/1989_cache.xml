@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="286485">conf* sosp* 1989*</query>
+<status code="200">OK</status>
+<time unit="msecs">101.11</time>
+<completions total="1" computed="1" sent="1">
+<c sc="20" dc="20" oc="20" id="58180068">1989</c>
+</completions>
+<hits total="20" computed="20" sent="20" first="0">
+<hit score="3" id="7563841">
+<info><authors><author pid="74/1476">Vadim Abrossimov</author><author pid="04/1812">Marc Rozier</author><author pid="s/MarcShapiro">Marc Shapiro 0001</author></authors><title>Generic Virtual Memory Management for Operating System Kernels.</title><venue>SOSP</venue><pages>123-136</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AbrossimovR89</key><doi>10.1145/74850.74863</doi><ee>https://doi.org/10.1145/74850.74863</ee><url>https://dblp.org/rec/conf/sosp/AbrossimovR89</url></info>
+<url>URL#7563841</url>
+</hit>
+<hit score="3" id="7563842">
+<info><authors><author pid="19/2920">Ronald E. Barkley</author><author pid="25/4350">T. Paul Lee</author></authors><title>A Lazy Buddy System Bounded by Two Coalescing Delays per Class.</title><venue>SOSP</venue><pages>167-176</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BarkleyL89</key><doi>10.1145/74850.74867</doi><ee>https://doi.org/10.1145/74850.74867</ee><url>https://dblp.org/rec/conf/sosp/BarkleyL89</url></info>
+<url>URL#7563842</url>
+</hit>
+<hit score="3" id="7563843">
+<info><authors><author pid="b/BNBershad">Brian N. Bershad</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author><author pid="l/EDLazowska">Edward D. Lazowska</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Lightweight Remote Procedure Call.</title><venue>SOSP</venue><pages>102-113</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BershadALL89</key><doi>10.1145/74850.74861</doi><ee>https://doi.org/10.1145/74850.74861</ee><url>https://dblp.org/rec/conf/sosp/BershadALL89</url></info>
+<url>URL#7563843</url>
+</hit>
+<hit score="3" id="7563844">
+<info><authors><author pid="b/WJBolosky">William J. Bolosky</author><author pid="43/1260">Robert P. Fitzgerald</author><author pid="s/MichaelLScott">Michael L. Scott</author></authors><title>Simple But Effective Techniques for NUMA Memory Management.</title><venue>SOSP</venue><pages>19-31</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BoloskyFS89</key><doi>10.1145/74850.74854</doi><ee>https://doi.org/10.1145/74850.74854</ee><url>https://dblp.org/rec/conf/sosp/BoloskyFS89</url></info>
+<url>URL#7563844</url>
+</hit>
+<hit score="3" id="7563845">
+<info><authors><author pid="74/3086">Andrew Braunstein</author><author pid="65/2586">Mark Riley</author><author pid="w/JohnWilkes">John Wilkes</author></authors><title>Improving the Efficiency of UNIX File Buffer Caches.</title><venue>SOSP</venue><pages>71-82</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BraunsteinRW89</key><doi>10.1145/74850.74858</doi><ee>https://doi.org/10.1145/74850.74858</ee><url>https://dblp.org/rec/conf/sosp/BraunsteinRW89</url></info>
+<url>URL#7563845</url>
+</hit>
+<hit score="3" id="7563846">
+<info><authors><author pid="73/615">Michael Burrows</author><author pid="a/MartinAbadi">Martín Abadi</author><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>A Logic of Authentication.</title><venue>SOSP</venue><pages>1-13</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BurrowsAN89</key><doi>10.1145/74850.74852</doi><ee>https://doi.org/10.1145/74850.74852</ee><url>https://dblp.org/rec/conf/sosp/BurrowsAN89</url></info>
+<url>URL#7563846</url>
+</hit>
+<hit score="3" id="7563847">
+<info><authors><author pid="c/JSChase">Jeffrey S. Chase</author><author pid="03/3444">Franz G. Amador</author><author pid="l/EDLazowska">Edward D. Lazowska</author><author pid="l/HenryMLevy">Henry M. Levy</author><author pid="72/2095">Richard J. Littlefield</author></authors><title>The Amber System: Parallel Programming on a Network of Multiprocessors.</title><venue>SOSP</venue><pages>147-158</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChaseALLL89</key><doi>10.1145/74850.74865</doi><ee>https://doi.org/10.1145/74850.74865</ee><url>https://dblp.org/rec/conf/sosp/ChaseALLL89</url></info>
+<url>URL#7563847</url>
+</hit>
+<hit score="3" id="7563848">
+<info><authors><author pid="c/AlanLCox">Alan L. Cox</author><author pid="82/3240">Robert J. Fowler</author></authors><title>The Implementation of a Coherent Memory Abstraction on a NUMA Multiprocessor: Experiences with PLATINUM.</title><venue>SOSP</venue><pages>32-44</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CoxF89</key><doi>10.1145/74850.74855</doi><ee>https://doi.org/10.1145/74850.74855</ee><url>https://dblp.org/rec/conf/sosp/CoxF89</url></info>
+<url>URL#7563848</url>
+</hit>
+<hit score="3" id="7563849">
+<info><authors><author pid="d/DanDuchamp">Dan Duchamp</author></authors><title>Analysis of Transaction Management Performance.</title><venue>SOSP</venue><pages>177-190</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Duchamp89</key><doi>10.1145/74850.74868</doi><ee>https://doi.org/10.1145/74850.74868</ee><url>https://dblp.org/rec/conf/sosp/Duchamp89</url></info>
+<url>URL#7563849</url>
+</hit>
+<hit score="3" id="7563850">
+<info><authors><author pid="09/1471">David A. Edwards</author><author pid="27/1471">Martin S. McKendry</author></authors><title>Exploiting Read-Mostly Workloads in The FileNet File System.</title><venue>SOSP</venue><pages>58-70</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/EdwardsM89</key><doi>10.1145/74850.74857</doi><ee>https://doi.org/10.1145/74850.74857</ee><url>https://dblp.org/rec/conf/sosp/EdwardsM89</url></info>
+<url>URL#7563850</url>
+</hit>
+<hit score="3" id="7563851">
+<info><authors><author pid="f/BrettDFleisch">Brett D. Fleisch</author><author pid="62/6214">Gerald J. Popek</author></authors><title>Mirage: A Coherent Distributed Shared Memory Design.</title><venue>SOSP</venue><pages>211-223</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FleischP89</key><doi>10.1145/74850.74871</doi><ee>https://doi.org/10.1145/74850.74871</ee><url>https://dblp.org/rec/conf/sosp/FleischP89</url></info>
+<url>URL#7563851</url>
+</hit>
+<hit score="3" id="7563852">
+<info><authors><author pid="47/950">Cary G. Gray</author><author pid="c/DRCheriton">David R. Cheriton</author></authors><title>Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency.</title><venue>SOSP</venue><pages>202-210</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GrayC89</key><doi>10.1145/74850.74870</doi><ee>https://doi.org/10.1145/74850.74870</ee><url>https://dblp.org/rec/conf/sosp/GrayC89</url></info>
+<url>URL#7563852</url>
+</hit>
+<hit score="3" id="7563853">
+<info><authors><author pid="40/920">Norman C. Hutchinson</author><author pid="p/LLPeterson">Larry L. Peterson</author><author pid="46/4532">Mark B. Abbott</author><author pid="93/1254">Sean W. O&apos;Malley</author></authors><title>RPC in the x-Kernel: Evaluating New Design Techniques.</title><venue>SOSP</venue><pages>91-101</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HutchinsonPAO89</key><doi>10.1145/74850.74860</doi><ee>https://doi.org/10.1145/74850.74860</ee><url>https://dblp.org/rec/conf/sosp/HutchinsonPAO89</url></info>
+<url>URL#7563853</url>
+</hit>
+<hit score="3" id="7563854">
+<info><authors><author pid="15/3130">T. Mark A. Lomas</author><author pid="46/6786">Li Gong</author><author pid="s/JeromeHSaltzer">Jerome H. Saltzer</author><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>Reducing Risks from Poorly Chosen Keys.</title><venue>SOSP</venue><pages>14-18</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LomasGSN89</key><doi>10.1145/74850.74853</doi><ee>https://doi.org/10.1145/74850.74853</ee><url>https://dblp.org/rec/conf/sosp/LomasGSN89</url></info>
+<url>URL#7563854</url>
+</hit>
+<hit score="3" id="7563855">
+<info><authors><author pid="66/5507">Henry Massalin</author><author pid="p/CaltonPu">Calton Pu</author></authors><title>Threads and Input/Output in the Synthesis Kernel.</title><venue>SOSP</venue><pages>191-201</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MassalinP89</key><doi>10.1145/74850.74869</doi><ee>https://doi.org/10.1145/74850.74869</ee><url>https://dblp.org/rec/conf/sosp/MassalinP89</url></info>
+<url>URL#7563855</url>
+</hit>
+<hit score="3" id="7563856">
+<info><authors><author pid="54/7010">Bryan S. Rosenburg</author></authors><title>Low-Synchronization Translation Lookaside Buffer Consistency in Large-Scale Shared-Memory Multiprocessors.</title><venue>SOSP</venue><pages>137-146</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Rosenburg89</key><doi>10.1145/74850.74864</doi><ee>https://doi.org/10.1145/74850.74864</ee><url>https://dblp.org/rec/conf/sosp/Rosenburg89</url></info>
+<url>URL#7563856</url>
+</hit>
+<hit score="3" id="7563857">
+<info><authors><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author><author pid="73/615">Michael Burrows</author></authors><title>Performance of Firefly RPC.</title><venue>SOSP</venue><pages>83-90</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchroederB89</key><doi>10.1145/74850.74859</doi><ee>https://doi.org/10.1145/74850.74859</ee><url>https://dblp.org/rec/conf/sosp/SchroederB89</url></info>
+<url>URL#7563857</url>
+</hit>
+<hit score="3" id="7563858">
+<info><authors><author pid="15/2307">V. Srinivasan</author><author pid="m/JeffreyCMogul">Jeffrey C. Mogul</author></authors><title>Spritely NFS: Experiments with Cache-Consistency Protocols.</title><venue>SOSP</venue><pages>45-57</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SrinivasanM89</key><doi>10.1145/74850.74856</doi><ee>https://doi.org/10.1145/74850.74856</ee><url>https://dblp.org/rec/conf/sosp/SrinivasanM89</url></info>
+<url>URL#7563858</url>
+</hit>
+<hit score="3" id="7563859">
+<info><authors><author pid="73/1920">Andrew Tucker</author><author pid="g/AnoopGupta">Anoop Gupta</author></authors><title>Process Control and Scheduling Issues for Multiprogrammed Shared-Memory Multiprocessors.</title><venue>SOSP</venue><pages>159-166</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TuckerG89</key><doi>10.1145/74850.74866</doi><ee>https://doi.org/10.1145/74850.74866</ee><url>https://dblp.org/rec/conf/sosp/TuckerG89</url></info>
+<url>URL#7563859</url>
+</hit>
+<hit score="3" id="7563860">
+<info><authors><author pid="w/MarkWeiser">Mark D. Weiser</author><author pid="03/5860">Alan J. Demers</author><author pid="h/CarlHHauser">Carl Hauser</author></authors><title>The Portable Common Runtime Approach to Interoperability.</title><venue>SOSP</venue><pages>114-122</pages><year>1989</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WeiserDH89</key><doi>10.1145/74850.74862</doi><ee>https://doi.org/10.1145/74850.74862</ee><url>https://dblp.org/rec/conf/sosp/WeiserDH89</url></info>
+<url>URL#7563860</url>
+</hit>
+</hits>
+</result>

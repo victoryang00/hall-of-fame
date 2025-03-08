@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287006">conf* sosp* 1971*</query>
+<status code="200">OK</status>
+<time unit="msecs">102.09</time>
+<completions total="1" computed="1" sent="1">
+<c sc="23" dc="23" oc="23" id="58179386">1971</c>
+</completions>
+<hits total="23" computed="23" sent="23" first="0">
+<hit score="3" id="7731749">
+<info><authors><author pid="56/4634">Peter Alsberg</author></authors><title>Extensible Data Features in the Operating System Language OSL/2.</title><venue>SOSP</venue><pages>31-34</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Alsberg71</key><doi>10.1145/800212.806496</doi><ee>https://doi.org/10.1145/800212.806496</ee><url>https://dblp.org/rec/conf/sosp/Alsberg71</url></info>
+<url>URL#7731749</url>
+</hit>
+<hit score="3" id="7731750">
+<info><authors><author pid="32/4888">Forest Baskett</author></authors><title>The Dependence of Computer System Queues upon Processing Time Distribution and Central Processor Scheduling.</title><venue>SOSP</venue><pages>109-113</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Baskett71</key><doi>10.1145/800212.806508</doi><ee>https://doi.org/10.1145/800212.806508</ee><url>https://dblp.org/rec/conf/sosp/Baskett71</url></info>
+<url>URL#7731750</url>
+</hit>
+<hit score="3" id="7731751">
+<info><authors><author pid="b/DGBobrow">Daniel G. Bobrow</author><author pid="39/4814">Jerry D. Burchfiel</author><author pid="55/2787">Daniel L. Murphy 0001</author><author pid="75/3402">Raymond S. Tomlinson</author></authors><title>TENEX, a Paged Time Sharing System for the PDP-10 (Abstract).</title><venue>SOSP</venue><pages>1-10</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BobrowBMT71</key><doi>10.1145/800212.806492</doi><ee>https://doi.org/10.1145/800212.806492</ee><url>https://dblp.org/rec/conf/sosp/BobrowBMT71</url></info>
+<url>URL#7731751</url>
+</hit>
+<hit score="3" id="7731752">
+<info><authors><author pid="c/EdwardGCoffmanJr">Edward G. Coffman Jr.</author><author pid="54/2344">T. A. Ryan</author></authors><title>A Study of Storage Partitioning Using a Mathematical Model (Abstract).</title><venue>SOSP</venue><pages>122-129</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CoffmanR71</key><doi>10.1145/800212.806510</doi><ee>https://doi.org/10.1145/800212.806510</ee><url>https://dblp.org/rec/conf/sosp/CoffmanR71</url></info>
+<url>URL#7731752</url>
+</hit>
+<hit score="3" id="7731753">
+<info><authors><author pid="d/PJDenning">Peter J. Denning</author><author pid="36/1175">Stuart C. Schwartz</author></authors><title>Properties of the Working Set Model (Abstract).</title><venue>SOSP</venue><pages>130-140</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DenningS71</key><doi>10.1145/800212.806511</doi><ee>https://doi.org/10.1145/800212.806511</ee><url>https://dblp.org/rec/conf/sosp/DenningS71</url></info>
+<url>URL#7731753</url>
+</hit>
+<hit score="3" id="7731754">
+<info><authors><author pid="66/1874">William B. Easton</author></authors><title>Process Synchronization without Long-Term Interlock.</title><venue>SOSP</venue><pages>95-100</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Easton71</key><doi>10.1145/800212.806505</doi><ee>https://doi.org/10.1145/800212.806505</ee><url>https://dblp.org/rec/conf/sosp/Easton71</url></info>
+<url>URL#7731754</url>
+</hit>
+<hit score="3" id="7731755">
+<info><authors><author pid="08/4686">Richard J. Feiertag</author><author pid="16/2237">Elliott I. Organick</author></authors><title>The MULTICS Input/Output System.</title><venue>SOSP</venue><pages>35-41</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FeiertagO71</key><doi>10.1145/800212.806497</doi><ee>https://doi.org/10.1145/800212.806497</ee><url>https://dblp.org/rec/conf/sosp/FeiertagO71</url></info>
+<url>URL#7731755</url>
+</hit>
+<hit score="3" id="7731756">
+<info><authors><author pid="32/2862">Rafael O. Fontao</author></authors><title>A Concurrent Algorithm for Avoiding Deadlocks.</title><venue>SOSP</venue><pages>72-79</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Fontao71</key><doi>10.1145/800212.806502</doi><ee>https://doi.org/10.1145/800212.806502</ee><url>https://dblp.org/rec/conf/sosp/Fontao71</url></info>
+<url>URL#7731756</url>
+</hit>
+<hit score="3" id="7731757">
+<info><authors><author pid="71/973">R. Stockton Gaines</author></authors><title>An Operating System Based on the Concept of a Supervisory Computer (Abstract).</title><venue>SOSP</venue><pages>17-23</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Gaines71</key><doi>10.1145/800212.806494</doi><ee>https://doi.org/10.1145/800212.806494</ee><url>https://dblp.org/rec/conf/sosp/Gaines71</url></info>
+<url>URL#7731757</url>
+</hit>
+<hit score="3" id="7731758">
+<info><authors><author pid="17/241">Jeffrey L. Gertz</author></authors><title>Storage Reallocation in Hierarchical Associative Memories.</title><venue>SOSP</venue><pages>58-63</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Gertz71</key><doi>10.1145/800212.806500</doi><ee>https://doi.org/10.1145/800212.806500</ee><url>https://dblp.org/rec/conf/sosp/Gertz71</url></info>
+<url>URL#7731758</url>
+</hit>
+<hit score="3" id="7731759">
+<info><authors><author pid="03/116">Mark L. Greenberg</author></authors><title>An Algorithm for Drum Storage Management in Time-Sharing Systems.</title><venue>SOSP</venue><pages>141-148</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Greenberg71</key><doi>10.1145/800212.806512</doi><ee>https://doi.org/10.1145/800212.806512</ee><url>https://dblp.org/rec/conf/sosp/Greenberg71</url></info>
+<url>URL#7731759</url>
+</hit>
+<hit score="3" id="7731760">
+<info><authors><author pid="14/6778">A. Nico Habermann</author></authors><title>Synchronization of Communicating Processes (Abstract).</title><venue>SOSP</venue><pages>80-85</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Habermann71</key><doi>10.1145/800212.806503</doi><ee>https://doi.org/10.1145/800212.806503</ee><url>https://dblp.org/rec/conf/sosp/Habermann71</url></info>
+<url>URL#7731760</url>
+</hit>
+<hit score="3" id="7731761">
+<info><authors><author pid="h/PerBrinchHansen">Per Brinch Hansen</author></authors><title>Short Term Scheduling in Multiprogramming Systems.</title><venue>SOSP</venue><pages>101-105</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Hansen71</key><doi>10.1145/800212.806506</doi><ee>https://doi.org/10.1145/800212.806506</ee><url>https://dblp.org/rec/conf/sosp/Hansen71</url></info>
+<url>URL#7731761</url>
+</hit>
+<hit score="3" id="7731762">
+<info><authors><author pid="h/RichardCHolt">Richard C. Holt</author></authors><title>Some Deadlock Properties of Computer Systems.</title><venue>SOSP</venue><pages>64-71</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Holt71</key><doi>10.1145/800212.806501</doi><ee>https://doi.org/10.1145/800212.806501</ee><url>https://dblp.org/rec/conf/sosp/Holt71</url></info>
+<url>URL#7731762</url>
+</hit>
+<hit score="3" id="7731763">
+<info><authors><author pid="60/3862">Sam Howry</author></authors><title>A Multiprogramming System for Control.</title><venue>SOSP</venue><pages>24-30</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Howry71</key><doi>10.1145/800212.806495</doi><ee>https://doi.org/10.1145/800212.806495</ee><url>https://dblp.org/rec/conf/sosp/Howry71</url></info>
+<url>URL#7731763</url>
+</hit>
+<hit score="3" id="7731764">
+<info><authors><author pid="k/GillesKahn">Gilles Kahn</author></authors><title>An Approach to System Correctness.</title><venue>SOSP</venue><pages>86-94</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Kahn71</key><doi>10.1145/800212.806504</doi><ee>https://doi.org/10.1145/800212.806504</ee><url>https://dblp.org/rec/conf/sosp/Kahn71</url></info>
+<url>URL#7731764</url>
+</hit>
+<hit score="3" id="7731765">
+<info><authors><author pid="l/BarbaraLiskov">Barbara H. Liskov</author></authors><title>The Design of the Venus Operating System.</title><venue>SOSP</venue><pages>11-16</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Liskov71</key><doi>10.1145/800212.806493</doi><ee>https://doi.org/10.1145/800212.806493</ee><url>https://dblp.org/rec/conf/sosp/Liskov71</url></info>
+<url>URL#7731765</url>
+</hit>
+<hit score="3" id="7731766">
+<info><authors><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>Handling Difficult Faults in Operating Systems.</title><venue>SOSP</venue><pages>55-57</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Needham71</key><doi>10.1145/800212.806499</doi><ee>https://doi.org/10.1145/800212.806499</ee><url>https://dblp.org/rec/conf/sosp/Needham71</url></info>
+<url>URL#7731766</url>
+</hit>
+<hit score="3" id="7731767">
+<info><authors><author pid="35/6833">Juan Rodriguez-Rosell</author></authors><title>Experimental Data on How Program Behavior Affects the Choice of Scheduler Parameters.</title><venue>SOSP</venue><pages>156-163</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Rodriguez-Rosell71</key><doi>10.1145/800212.806514</doi><ee>https://doi.org/10.1145/800212.806514</ee><url>https://dblp.org/rec/conf/sosp/Rodriguez-Rosell71</url></info>
+<url>URL#7731767</url>
+</hit>
+<hit score="3" id="7731768">
+<info><authors><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author><author pid="s/JeromeHSaltzer">Jerome H. Saltzer</author></authors><title>A Hardware Architecture for Implementing Protection Rings (Abstract).</title><venue>SOSP</venue><pages>42-54</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchroederS71</key><doi>10.1145/800212.806498</doi><ee>https://doi.org/10.1145/800212.806498</ee><url>https://dblp.org/rec/conf/sosp/SchroederS71</url></info>
+<url>URL#7731768</url>
+</hit>
+<hit score="3" id="7731769">
+<info><authors><author pid="t/TobyJTeorey">Toby J. Teorey</author><author pid="03/2182">Tad B. Pinkerton</author></authors><title>A Comparative Analysis of Disk Scheduling Policies (Abstract).</title><venue>SOSP</venue><pages>114-121</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TeoreyP71</key><doi>10.1145/800212.806509</doi><ee>https://doi.org/10.1145/800212.806509</ee><url>https://dblp.org/rec/conf/sosp/TeoreyP71</url></info>
+<url>URL#7731769</url>
+</hit>
+<hit score="3" id="7731770">
+<info><authors><author pid="22/6531">Robert C. Varney</author></authors><title>Process Selection in an Hierarchical Operating System.</title><venue>SOSP</venue><pages>106-108</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Varney71</key><doi>10.1145/800212.806507</doi><ee>https://doi.org/10.1145/800212.806507</ee><url>https://dblp.org/rec/conf/sosp/Varney71</url></info>
+<url>URL#7731770</url>
+</hit>
+<hit score="3" id="7731771">
+<info><authors><author pid="83/2846">Joseph Winograd</author><author pid="24/5327">S. J. Morganstein</author><author pid="87/5237">R. Herman</author></authors><title>Simulation Studies of a Virtual Memory, Time Shared, Demand Paging Operating System.</title><venue>SOSP</venue><pages>149-155</pages><year>1971</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WinogradMH71</key><doi>10.1145/800212.806513</doi><ee>https://doi.org/10.1145/800212.806513</ee><url>https://dblp.org/rec/conf/sosp/WinogradMH71</url></info>
+<url>URL#7731771</url>
+</hit>
+</hits>
+</result>

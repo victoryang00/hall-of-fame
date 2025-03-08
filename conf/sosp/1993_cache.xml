@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="286490">conf* sosp* 1993*</query>
+<status code="200">OK</status>
+<time unit="msecs">4.02</time>
+<completions total="1" computed="1" sent="1">
+<c sc="21" dc="21" oc="21" id="58180200">1993</c>
+</completions>
+<hits total="21" computed="21" sent="21" first="0">
+<hit score="3" id="7441133">
+<info><authors><author pid="b/AndrewBirrell">Andrew Birrell</author><author pid="54/4359">Greg Nelson</author><author pid="06/3161">Susan S. Owicki</author><author pid="88/1825">Edward Wobber</author></authors><title>Network Objects.</title><venue>SOSP</venue><pages>217-230</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BirrellNOW93</key><doi>10.1145/168619.168637</doi><ee>https://doi.org/10.1145/168619.168637</ee><url>https://dblp.org/rec/conf/sosp/BirrellNOW93</url></info>
+<url>URL#7441133</url>
+</hit>
+<hit score="3" id="7441134">
+<info><authors><author pid="40/5996">J. Bradley Chen</author><author pid="b/BNBershad">Brian N. Bershad</author></authors><title>The Impact of Operating System Structure on Memory System Performance.</title><venue>SOSP</venue><pages>120-133</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChenB93</key><doi>10.1145/168619.168629</doi><ee>https://doi.org/10.1145/168619.168629</ee><url>https://dblp.org/rec/conf/sosp/ChenB93</url></info>
+<url>URL#7441134</url>
+</hit>
+<hit score="3" id="7441135">
+<info><authors><author pid="c/DRCheriton">David R. Cheriton</author><author pid="60/5458">Dale Skeen</author></authors><title>Understanding the Limitations of Causally and Totally Ordered Communication.</title><venue>SOSP</venue><pages>44-57</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CheritonS93</key><doi>10.1145/168619.168623</doi><ee>https://doi.org/10.1145/168619.168623</ee><url>https://dblp.org/rec/conf/sosp/CheritonS93</url></info>
+<url>URL#7441135</url>
+</hit>
+<hit score="3" id="7441136">
+<info><authors><author pid="d/PDruschel">Peter Druschel</author><author pid="p/LLPeterson">Larry L. Peterson</author></authors><title>Fbufs: A High-Bandwidth Cross-Domain Transfer Facility.</title><venue>SOSP</venue><pages>189-202</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DruschelP93</key><doi>10.1145/168619.168634</doi><ee>https://doi.org/10.1145/168619.168634</ee><url>https://dblp.org/rec/conf/sosp/DruschelP93</url></info>
+<url>URL#7441136</url>
+</hit>
+<hit score="3" id="7441137">
+<info><authors><author pid="81/2346">Graham Hamilton</author><author pid="01/5700">Michael L. Powell</author><author pid="94/2654">James G. Mitchell</author></authors><title>Subcontract: A Flexible Base for Distributed Programming.</title><venue>SOSP</venue><pages>69-79</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HamiltonPM93</key><doi>10.1145/168619.168625</doi><ee>https://doi.org/10.1145/168619.168625</ee><url>https://dblp.org/rec/conf/sosp/HamiltonPM93</url></info>
+<url>URL#7441137</url>
+</hit>
+<hit score="3" id="7441138">
+<info><authors><author pid="h/JohnHHartman">John H. Hartman</author><author pid="o/JohnKOusterhout">John K. Ousterhout</author></authors><title>The Zebra Striped Network File System.</title><venue>SOSP</venue><pages>29-43</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HartmanO93</key><doi>10.1145/168619.168622</doi><ee>https://doi.org/10.1145/168619.168622</ee><url>https://dblp.org/rec/conf/sosp/HartmanO93</url></info>
+<url>URL#7441138</url>
+</hit>
+<hit score="3" id="7441139">
+<info><authors><author pid="h/CarlHHauser">Carl Hauser</author><author pid="35/2718">Christian Jacobi</author><author pid="56/724">Marvin Theimer</author><author pid="w/BrentBWelch">Brent B. Welch</author><author pid="w/MarkWeiser">Mark D. Weiser</author></authors><title>Using Threads in Interactive Systems: A Case Study.</title><venue>SOSP</venue><pages>94-105</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HauserJTWW93</key><doi>10.1145/168619.168627</doi><ee>https://doi.org/10.1145/168619.168627</ee><url>https://dblp.org/rec/conf/sosp/HauserJTWW93</url></info>
+<url>URL#7441139</url>
+</hit>
+<hit score="3" id="7441140">
+<info><authors><author pid="h/AntonyLHosking">Antony L. Hosking</author><author pid="m/JEliotBMoss">J. Eliot B. Moss</author></authors><title>Protection Traps and Alternatives for Memory Management of an Object-Oriented Language.</title><venue>SOSP</venue><pages>106-119</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HoskingM93</key><doi>10.1145/168619.168628</doi><ee>https://doi.org/10.1145/168619.168628</ee><url>https://dblp.org/rec/conf/sosp/HoskingM93</url></info>
+<url>URL#7441140</url>
+</hit>
+<hit score="3" id="7441141">
+<info><authors><author pid="j/MichaelBJones">Michael B. Jones</author></authors><title>Interposition Agents: Transparently Interposing User Code at the System Interface.</title><venue>SOSP</venue><pages>80-93</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Jones93</key><doi>10.1145/168619.168626</doi><ee>https://doi.org/10.1145/168619.168626</ee><url>https://dblp.org/rec/conf/sosp/Jones93</url></info>
+<url>URL#7441141</url>
+</hit>
+<hit score="3" id="7441142">
+<info><authors><author pid="11/6171">Alan Jones</author><author pid="h/AndyHopper">Andrew Hopper</author></authors><title>Handling Audio and Video Streams in a Distributed Environment.</title><venue>SOSP</venue><pages>231-243</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JonesH93</key><doi>10.1145/168619.168638</doi><ee>https://doi.org/10.1145/168619.168638</ee><url>https://dblp.org/rec/conf/sosp/JonesH93</url></info>
+<url>URL#7441142</url>
+</hit>
+<hit score="3" id="7441143">
+<info><authors><author pid="j/WiebrendeJonge">Wiebren de Jonge</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="31/1764">Wilson C. Hsieh</author></authors><title>The Logical Disk: A New Approach to Improving File Systems.</title><venue>SOSP</venue><pages>15-28</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JongeKH93</key><doi>10.1145/168619.168621</doi><ee>https://doi.org/10.1145/168619.168621</ee><url>https://dblp.org/rec/conf/sosp/JongeKH93</url></info>
+<url>URL#7441143</url>
+</hit>
+<hit score="3" id="7441144">
+<info><authors><author pid="k/YousefYAKhalidi">Yousef Y. A. Khalidi</author><author pid="90/6936">Michael N. Nelson</author></authors><title>Extensible File Systems in Spring.</title><venue>SOSP</venue><pages>1-14</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KhalidiN93</key><doi>10.1145/168619.168620</doi><ee>https://doi.org/10.1145/168619.168620</ee><url>https://dblp.org/rec/conf/sosp/KhalidiN93</url></info>
+<url>URL#7441144</url>
+</hit>
+<hit score="3" id="7441145">
+<info><authors><author pid="07/1586">Jochen Liedtke</author></authors><title>Improving IPC by Kernel Design.</title><venue>SOSP</venue><pages>175-188</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Liedtke93</key><doi>10.1145/168619.168633</doi><ee>https://doi.org/10.1145/168619.168633</ee><url>https://dblp.org/rec/conf/sosp/Liedtke93</url></info>
+<url>URL#7441145</url>
+</hit>
+<hit score="3" id="7441146">
+<info><authors><author pid="74/6565">Chris Maeda</author><author pid="b/BNBershad">Brian N. Bershad</author></authors><title>Protocol Service Decomposition for High-Performance Networking.</title><venue>SOSP</venue><pages>244-255</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MaedaB93</key><doi>10.1145/168619.168639</doi><ee>https://doi.org/10.1145/168619.168639</ee><url>https://dblp.org/rec/conf/sosp/MaedaB93</url></info>
+<url>URL#7441146</url>
+</hit>
+<hit score="3" id="7441147">
+<info><authors><author pid="88/6703">James W. O&apos;Toole Jr.</author><author pid="71/3029">Scott Nettles</author><author pid="g/DavidKGifford">David K. Gifford</author></authors><title>Concurrent Compacting Garbage Collection of a Persistent Heap.</title><venue>SOSP</venue><pages>161-174</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OTooleNG93</key><doi>10.1145/168619.168632</doi><ee>https://doi.org/10.1145/168619.168632</ee><url>https://dblp.org/rec/conf/sosp/OTooleNG93</url></info>
+<url>URL#7441147</url>
+</hit>
+<hit score="3" id="7441148">
+<info><authors><author pid="10/651">Brian M. Oki</author><author pid="35/5120">Manfred Pflügl</author><author pid="72/6596">Alex Siegel</author><author pid="60/5458">Dale Skeen</author></authors><title>The Information Bus - An Architecture for Extensible Distributed Systems.</title><venue>SOSP</venue><pages>58-68</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OkiPSS93</key><doi>10.1145/168619.168624</doi><ee>https://doi.org/10.1145/168619.168624</ee><url>https://dblp.org/rec/conf/sosp/OkiPSS93</url></info>
+<url>URL#7441148</url>
+</hit>
+<hit score="3" id="7441149">
+<info><authors><author pid="93/3664">Sharon E. Perl</author><author pid="16/6237">William E. Weihl</author></authors><title>Performance Assertion Checking.</title><venue>SOSP</venue><pages>134-145</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PerlW93</key><doi>10.1145/168619.168630</doi><ee>https://doi.org/10.1145/168619.168630</ee><url>https://dblp.org/rec/conf/sosp/PerlW93</url></info>
+<url>URL#7441149</url>
+</hit>
+<hit score="3" id="7441150">
+<info><authors><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author><author pid="47/2398">Henry H. Mashburn</author><author pid="09/5254-1">Puneet Kumar 0001</author><author pid="71/5709">David C. Steere</author><author pid="12/56">James J. Kistler</author></authors><title>Lightweight Recoverable Virtual Memory.</title><venue>SOSP</venue><pages>146-160</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SatyanarayananMKSK93</key><doi>10.1145/168619.168631</doi><ee>https://doi.org/10.1145/168619.168631</ee><url>https://dblp.org/rec/conf/sosp/SatyanarayananMKSK93</url></info>
+<url>URL#7441150</url>
+</hit>
+<hit score="3" id="7441151">
+<info><authors><author pid="94/538">Mike Spreitzer</author><author pid="56/724">Marvin Theimer</author></authors><title>Providing Location Information in a Ubiquitous Computing Environment.</title><venue>SOSP</venue><pages>270-283</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SpreitzerT93</key><doi>10.1145/168619.168641</doi><ee>https://doi.org/10.1145/168619.168641</ee><url>https://dblp.org/rec/conf/sosp/SpreitzerT93</url></info>
+<url>URL#7441151</url>
+</hit>
+<hit score="3" id="7441152">
+<info><authors><author pid="75/5151">Robert Wahbe</author><author pid="53/306">Steven Lucco</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author><author pid="31/6647">Susan L. Graham</author></authors><title>Efficient Software-Based Fault Isolation.</title><venue>SOSP</venue><pages>203-216</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WahbeLAG93</key><doi>10.1145/168619.168635</doi><ee>https://doi.org/10.1145/168619.168635</ee><url>https://dblp.org/rec/conf/sosp/WahbeLAG93</url></info>
+<url>URL#7441152</url>
+</hit>
+<hit score="3" id="7441153">
+<info><authors><author pid="88/1825">Edward Wobber</author><author pid="a/MartinAbadi">Martín Abadi</author><author pid="73/615">Michael Burrows</author><author pid="l/ButlerWLampson">Butler W. Lampson</author></authors><title>Authentication in the Taos Operating System.</title><venue>SOSP</venue><pages>256-269</pages><year>1993</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WobberABL93</key><doi>10.1145/168619.168640</doi><ee>https://doi.org/10.1145/168619.168640</ee><url>https://dblp.org/rec/conf/sosp/WobberABL93</url></info>
+<url>URL#7441153</url>
+</hit>
+</hits>
+</result>

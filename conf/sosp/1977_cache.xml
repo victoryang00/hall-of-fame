@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287893">conf* sosp* 1977*</query>
+<status code="200">OK</status>
+<time unit="msecs">0.90</time>
+<completions total="1" computed="1" sent="1">
+<c sc="21" dc="21" oc="21" id="58179645">1977</c>
+</completions>
+<hits total="21" computed="21" sent="21" first="0">
+<hit score="3" id="7704437">
+<info><authors><author pid="a/Arvind">Arvind</author><author pid="40/5364">Kim P. Gostelow</author><author pid="10/1012">Wil Plouffe</author></authors><title>Indeterminancy, Monitors, and Dataflow.</title><venue>SOSP</venue><pages>159-169</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ArvindGP77</key><doi>10.1145/800214.806559</doi><ee>https://doi.org/10.1145/800214.806559</ee><url>https://dblp.org/rec/conf/sosp/ArvindGP77</url></info>
+<url>URL#7704437</url>
+</hit>
+<hit score="3" id="7704438">
+<info><authors><author pid="19/7018">J. Y. Babonneau</author><author pid="72/3342">M. S. Achard</author><author pid="00/1041">Gérard Morisset</author><author pid="84/4469">M. B. Mounajjed</author></authors><title>Automatic and General Solution to the Adaption of Programs in a Paging Environment.</title><venue>SOSP</venue><pages>109-116</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BabonneauAMM77</key><doi>10.1145/800214.806553</doi><ee>https://doi.org/10.1145/800214.806553</ee><url>https://dblp.org/rec/conf/sosp/BabonneauAMM77</url></info>
+<url>URL#7704438</url>
+</hit>
+<hit score="3" id="7704439">
+<info><authors><author pid="32/4888">Forest Baskett</author><author pid="84/488">John H. Howard</author><author pid="08/609">John T. Montague</author></authors><title>Task Communication in DEMOS.</title><venue>SOSP</venue><pages>23-31</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BaskettHM77</key><doi>10.1145/800214.806544</doi><ee>https://doi.org/10.1145/800214.806544</ee><url>https://dblp.org/rec/conf/sosp/BaskettHM77</url></info>
+<url>URL#7704439</url>
+</hit>
+<hit score="3" id="7704440">
+<info><authors><author pid="39/2044">Liam M. Casey</author><author pid="45/5539">N. H. Shelness</author></authors><title>A Domain Structure for Distributed Computer Systems.</title><venue>SOSP</venue><pages>101-108</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CaseyS77</key><doi>10.1145/800214.806552</doi><ee>https://doi.org/10.1145/800214.806552</ee><url>https://dblp.org/rec/conf/sosp/CaseyS77</url></info>
+<url>URL#7704440</url>
+</hit>
+<hit score="3" id="7704441">
+<info><authors><author pid="c/DRCheriton">David R. Cheriton</author><author pid="20/2977">Michael A. Malcolm</author><author pid="12/3723">Lawrence S. Melen</author><author pid="17/6920">Gary R. Sager</author></authors><title>Thoth, a Portable Real-Time Operating System (Extended Abstract).</title><venue>SOSP</venue><pages>171</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CheritonMMS77</key><doi>10.1145/800214.806560</doi><ee>https://doi.org/10.1145/800214.806560</ee><url>https://dblp.org/rec/conf/sosp/CheritonMMS77</url></info>
+<url>URL#7704441</url>
+</hit>
+<hit score="3" id="7704442">
+<info><authors><author pid="03/3373">Ellis S. Cohen</author></authors><title>Information Transmission in Computational Systems.</title><venue>SOSP</venue><pages>133-139</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Cohen77</key><doi>10.1145/800214.806556</doi><ee>https://doi.org/10.1145/800214.806556</ee><url>https://dblp.org/rec/conf/sosp/Cohen77</url></info>
+<url>URL#7704442</url>
+</hit>
+<hit score="3" id="7704443">
+<info><authors><author pid="e/ClarenceAEllis">Clarence A. Ellis</author></authors><title>Consistency and Correctness of Duplicate Database Systems.</title><venue>SOSP</venue><pages>67-84</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Ellis77</key><doi>10.1145/800214.806548</doi><ee>https://doi.org/10.1145/800214.806548</ee><url>https://dblp.org/rec/conf/sosp/Ellis77</url></info>
+<url>URL#7704443</url>
+</hit>
+<hit score="3" id="7704444">
+<info><authors><author pid="08/4686">Richard J. Feiertag</author><author pid="l/KarlNLevitt">Karl N. Levitt</author><author pid="82/6128">Lawrence Robinson</author></authors><title>Proving Multilevel Security of a System Design.</title><venue>SOSP</venue><pages>57-65</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FeiertagLR77</key><doi>10.1145/800214.806547</doi><ee>https://doi.org/10.1145/800214.806547</ee><url>https://dblp.org/rec/conf/sosp/FeiertagLR77</url></info>
+<url>URL#7704444</url>
+</hit>
+<hit score="3" id="7704445">
+<info><authors><author pid="l/KPLohr">Klaus-Peter Löhr</author></authors><title>Beyond Concurrent Pascal.</title><venue>SOSP</venue><pages>173-180</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Lohr77</key><doi>10.1145/800214.806561</doi><ee>https://doi.org/10.1145/800214.806561</ee><url>https://dblp.org/rec/conf/sosp/Lohr77</url></info>
+<url>URL#7704445</url>
+</hit>
+<hit score="3" id="7704446">
+<info><authors><author pid="32/1499">Takashi Masuda</author></authors><title>Effect of Program Localities on Memory Management Strategies.</title><venue>SOSP</venue><pages>117-124</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Masuda77</key><doi>10.1145/800214.806554</doi><ee>https://doi.org/10.1145/800214.806554</ee><url>https://dblp.org/rec/conf/sosp/Masuda77</url></info>
+<url>URL#7704446</url>
+</hit>
+<hit score="3" id="7704447">
+<info><authors><author pid="67/650">Gene McDaniel</author></authors><title>METRIC: A Kernel Instrumentation System for Distributed Environments.</title><venue>SOSP</venue><pages>93-99</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/McDaniel77</key><doi>10.1145/800214.806551</doi><ee>https://doi.org/10.1145/800214.806551</ee><url>https://dblp.org/rec/conf/sosp/McDaniel77</url></info>
+<url>URL#7704447</url>
+</hit>
+<hit score="3" id="7704448">
+<info><authors><author pid="06/3570">Warren A. Montgomery</author></authors><title>Measurements of Sharing in Multics.</title><venue>SOSP</venue><pages>85-90</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Montgomery77</key><doi>10.1145/800214.806549</doi><ee>https://doi.org/10.1145/800214.806549</ee><url>https://dblp.org/rec/conf/sosp/Montgomery77</url></info>
+<url>URL#7704448</url>
+</hit>
+<hit score="3" id="7704449">
+<info><authors><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>The CAP Project - An Interim Evaluation.</title><venue>SOSP</venue><pages>17-22</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Needham77</key><doi>10.1145/800214.806543</doi><ee>https://doi.org/10.1145/800214.806543</ee><url>https://dblp.org/rec/conf/sosp/Needham77</url></info>
+<url>URL#7704449</url>
+</hit>
+<hit score="3" id="7704450">
+<info><authors><author pid="n/RogerNeedham">Roger M. Needham</author><author pid="b/AndrewBirrell">Andrew Birrell</author></authors><title>The Cap Filing System.</title><venue>SOSP</venue><pages>11-16</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NeedhamB77</key><doi>10.1145/800214.806542</doi><ee>https://doi.org/10.1145/800214.806542</ee><url>https://dblp.org/rec/conf/sosp/NeedhamB77</url></info>
+<url>URL#7704450</url>
+</hit>
+<hit score="3" id="7704451">
+<info><authors><author pid="n/RogerNeedham">Roger M. Needham</author><author pid="40/2300">R. D. H. Walker</author></authors><title>The Cambridge CAP Computer and its Protection System.</title><venue>SOSP</venue><pages>1-10</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NeedhamW77</key><doi>10.1145/800214.806541</doi><ee>https://doi.org/10.1145/800214.806541</ee><url>https://dblp.org/rec/conf/sosp/NeedhamW77</url></info>
+<url>URL#7704451</url>
+</hit>
+<hit score="3" id="7704452">
+<info><authors><author pid="30/1190">Dominique Potier</author></authors><title>Analysis of Demand Paging Policies with Swapped Working Sets.</title><venue>SOSP</venue><pages>125-131</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Potier77</key><doi>10.1145/800214.806555</doi><ee>https://doi.org/10.1145/800214.806555</ee><url>https://dblp.org/rec/conf/sosp/Potier77</url></info>
+<url>URL#7704452</url>
+</hit>
+<hit score="3" id="7704453">
+<info><authors><author pid="01/5700">Michael L. Powell</author></authors><title>The DEMOS File System.</title><venue>SOSP</venue><pages>33-42</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Powell77</key><doi>10.1145/800214.806545</doi><ee>https://doi.org/10.1145/800214.806545</ee><url>https://dblp.org/rec/conf/sosp/Powell77</url></info>
+<url>URL#7704453</url>
+</hit>
+<hit score="3" id="7704454">
+<info><authors><author pid="83/916">David P. Reed</author><author pid="04/4423">Rajendra K. Kanodia</author></authors><title>Synchronization with Eventcounts and Sequencers (Extended Abstract).</title><venue>SOSP</venue><pages>91</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ReedK77</key><doi>10.1145/800214.806550</doi><ee>https://doi.org/10.1145/800214.806550</ee><url>https://dblp.org/rec/conf/sosp/ReedK77</url></info>
+<url>URL#7704454</url>
+</hit>
+<hit score="3" id="7704455">
+<info><authors><author pid="43/3112">David L. Russell</author></authors><title>Process Backup in Producer-Consumer Systems.</title><venue>SOSP</venue><pages>151-157</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Russell77</key><doi>10.1145/800214.806558</doi><ee>https://doi.org/10.1145/800214.806558</ee><url>https://dblp.org/rec/conf/sosp/Russell77</url></info>
+<url>URL#7704455</url>
+</hit>
+<hit score="3" id="7704456">
+<info><authors><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author><author pid="c/DavidDClark">David D. Clark</author><author pid="s/JeromeHSaltzer">Jerome H. Saltzer</author></authors><title>The Multics Kernel Design Project.</title><venue>SOSP</venue><pages>43-56</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchroederCS77</key><doi>10.1145/800214.806546</doi><ee>https://doi.org/10.1145/800214.806546</ee><url>https://dblp.org/rec/conf/sosp/SchroederCS77</url></info>
+<url>URL#7704456</url>
+</hit>
+<hit score="3" id="7704457">
+<info><authors><author pid="369/8358-1">Lawrence Snyder 0001</author></authors><title>On the Synthesis and Analysis of Protection Systems.</title><venue>SOSP</venue><pages>141-150</pages><year>1977</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Snyder77</key><doi>10.1145/800214.806557</doi><ee>https://doi.org/10.1145/800214.806557</ee><url>https://dblp.org/rec/conf/sosp/Snyder77</url></info>
+<url>URL#7704457</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287122">conf* sosp* 1981*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.80</time>
+<completions total="1" computed="1" sent="1">
+<c sc="26" dc="24" oc="26" id="58179807">1981</c>
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="6" id="7677215">
+<info><authors><author pid="35/2992">John Howard</author><author pid="83/916">David P. Reed</author></authors><title>Proceedings of the Eighth Symposium on Operating System Principles, SOSP 1981, Asilomar Conference Grounds, Pacific Grove, California, USA, December 14-16, 1981</title><venue>SOSP</venue><publisher>ACM</publisher><year>1981</year><type>Editorship</type><key>conf/sosp/1981</key><doi>10.1145/800216</doi><ee>https://doi.org/10.1145/800216</ee><url>https://dblp.org/rec/conf/sosp/1981</url></info>
+<url>URL#7677215</url>
+</hit>
+<hit score="3" id="7676730">
+<info><authors><author pid="b/OBabaoglu">Özalp Babaoglu</author><author pid="52/6819">William N. Joy</author></authors><title>Converting a Swap-Based System to do Paging in an Architecture Lacking Page-Reference Bits.</title><venue>SOSP</venue><pages>78-86</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BabaogluJ81</key><doi>10.1145/800216.806595</doi><ee>https://doi.org/10.1145/800216.806595</ee><url>https://dblp.org/rec/conf/sosp/BabaogluJ81</url></info>
+<url>URL#7676730</url>
+</hit>
+<hit score="3" id="7676731">
+<info><authors><author pid="17/1117">Joel F. Bartlett</author></authors><title>A NonStop Kernel.</title><venue>SOSP</venue><pages>22-19</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Bartlett81</key><doi>10.1145/800216.806587</doi><ee>https://doi.org/10.1145/800216.806587</ee><url>https://dblp.org/rec/conf/sosp/Bartlett81</url></info>
+<url>URL#7676731</url>
+</hit>
+<hit score="3" id="7676732">
+<info><authors><author pid="25/5137">Arthur J. Bernstein</author><author pid="47/1420">Paul K. Harter Jr.</author></authors><title>Proving Real-Time Properties of Programs with Temporal Logic.</title><venue>SOSP</venue><pages>1-11</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BernsteinH81</key><doi>10.1145/800216.806585</doi><ee>https://doi.org/10.1145/800216.806585</ee><url>https://dblp.org/rec/conf/sosp/BernsteinH81</url></info>
+<url>URL#7676732</url>
+</hit>
+<hit score="3" id="7676733">
+<info><authors><author pid="b/AndrewBirrell">Andrew Birrell</author><author pid="83/749">Roy Levin</author><author pid="n/RogerNeedham">Roger M. Needham</author><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author></authors><title>Gravevine: An Exercise in Distributed Computing (summary).</title><venue>SOSP</venue><pages>178-179</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BirrellLNS81</key><doi>10.1145/800216.806606</doi><ee>https://doi.org/10.1145/800216.806606</ee><url>https://dblp.org/rec/conf/sosp/BirrellLNS81</url></info>
+<url>URL#7676733</url>
+</hit>
+<hit score="3" id="7676734">
+<info><authors><author pid="b/MattBishop">Matt Bishop</author></authors><title>Hierarchical Take-Grant Protection Systems.</title><venue>SOSP</venue><pages>109-122</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Bishop81</key><doi>10.1145/800216.806598</doi><ee>https://doi.org/10.1145/800216.806598</ee><url>https://dblp.org/rec/conf/sosp/Bishop81</url></info>
+<url>URL#7676734</url>
+</hit>
+<hit score="3" id="7676735">
+<info><authors><author pid="84/317">Richard W. Carr</author><author pid="h/JohnLHennessy">John L. Hennessy</author></authors><title>WSClock - A Simple and Effective Algorithm for Virtual Memory Management.</title><venue>SOSP</venue><pages>87-95</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CarrH81</key><doi>10.1145/800216.806596</doi><ee>https://doi.org/10.1145/800216.806596</ee><url>https://dblp.org/rec/conf/sosp/CarrH81</url></info>
+<url>URL#7676735</url>
+</hit>
+<hit score="3" id="7676736">
+<info><authors><author pid="84/4162">George W. Cox</author><author pid="64/3311">William M. Corwin</author><author pid="l/KonradLai">Konrad K. Lai</author><author pid="92/4303">Fred J. Pollack</author></authors><title>A Unified Model and Implementation for Interprocess Communication in a Multiprocessor Environment.</title><venue>SOSP</venue><pages>125-126</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CoxCLP81</key><doi>10.1145/800216.806600</doi><ee>https://doi.org/10.1145/800216.806600</ee><url>https://dblp.org/rec/conf/sosp/CoxCLP81</url></info>
+<url>URL#7676736</url>
+</hit>
+<hit score="3" id="7676737">
+<info><authors><author pid="69/3296">Marek Fridrich</author><author pid="98/204">William J. Older</author></authors><title>The Felix File System.</title><venue>SOSP</venue><pages>37-44</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FridrichO81</key><doi>10.1145/800216.806589</doi><ee>https://doi.org/10.1145/800216.806589</ee><url>https://dblp.org/rec/conf/sosp/FridrichO81</url></info>
+<url>URL#7676737</url>
+</hit>
+<hit score="3" id="7676738">
+<info><authors><author pid="g/DavidKGifford">David K. Gifford</author></authors><title>Cryptographic Sealing for Information Secrecy and Authentication (Summary).</title><venue>SOSP</venue><pages>123-124</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Gifford81</key><doi>10.1145/800216.806599</doi><ee>https://doi.org/10.1145/800216.806599</ee><url>https://dblp.org/rec/conf/sosp/Gifford81</url></info>
+<url>URL#7676738</url>
+</hit>
+<hit score="3" id="7676739">
+<info><authors><author pid="28/1410">A. J. Herbert</author><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>Sequencing Computation Steps in a Network.</title><venue>SOSP</venue><pages>59-63</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HerbertN81</key><doi>10.1145/800216.806592</doi><ee>https://doi.org/10.1145/800216.806592</ee><url>https://dblp.org/rec/conf/sosp/HerbertN81</url></info>
+<url>URL#7676739</url>
+</hit>
+<hit score="3" id="7676740">
+<info><authors><author pid="45/4795">Kevin C. Kahn</author><author pid="64/3311">William M. Corwin</author><author pid="39/6392">T. Don Dennis</author><author pid="83/4260">Herman D&apos;Hooge</author><author pid="77/772">David E. Hubka</author><author pid="37/4294">Linda A. Hutchins</author><author pid="08/609">John T. Montague</author><author pid="92/4303">Fred J. Pollack</author></authors><title>iMAX: A Multiprocessor Operating System for an Object-Based Computer.</title><venue>SOSP</venue><pages>127-136</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KahnCDDHHMP81</key><doi>10.1145/800216.806601</doi><ee>https://doi.org/10.1145/800216.806601</ee><url>https://dblp.org/rec/conf/sosp/KahnCDDHHMP81</url></info>
+<url>URL#7676740</url>
+</hit>
+<hit score="3" id="7676741">
+<info><authors><author pid="50/2899">Hugh C. Lauer</author></authors><title>Observations on the Development of an Operating System.</title><venue>SOSP</venue><pages>30-36</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Lauer81</key><doi>10.1145/800216.806588</doi><ee>https://doi.org/10.1145/800216.806588</ee><url>https://dblp.org/rec/conf/sosp/Lauer81</url></info>
+<url>URL#7676741</url>
+</hit>
+<hit score="3" id="7676742">
+<info><authors><author pid="l/EDLazowska">Edward D. Lazowska</author><author pid="l/HenryMLevy">Henry M. Levy</author><author pid="96/4475">Guy T. Almes</author><author pid="f/MichaelJFischer">Michael J. Fischer</author><author pid="82/3240">Robert J. Fowler</author><author pid="09/4849">Stephen C. Vestal</author></authors><title>The Architecture of the Eden System.</title><venue>SOSP</venue><pages>148-159</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LazowskaLAFFV81</key><doi>10.1145/800216.806603</doi><ee>https://doi.org/10.1145/800216.806603</ee><url>https://dblp.org/rec/conf/sosp/LazowskaLAFFV81</url></info>
+<url>URL#7676742</url>
+</hit>
+<hit score="3" id="7676743">
+<info><authors><author pid="82/2394">Gottfried W. R. Luderer</author><author pid="23/241">H. Che</author><author pid="58/4311">J. P. Haggerty</author><author pid="03/2737">Peter A. Kirslis</author><author pid="51/1344">W. T. Marshall</author></authors><title>A Distributed UNIX System Based on a Virtual Circuit Switch.</title><venue>SOSP</venue><pages>160-168</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LudererCHKM81</key><doi>10.1145/800216.806604</doi><ee>https://doi.org/10.1145/800216.806604</ee><url>https://dblp.org/rec/conf/sosp/LudererCHKM81</url></info>
+<url>URL#7676743</url>
+</hit>
+<hit score="3" id="7676744">
+<info><authors><author pid="72/3026">Norman K. Meyrowitz</author><author pid="58/2615">Margaret Moser</author></authors><title>BRUWIN: An Adaptable Design Strategy for Window Manager / Virtual Terminal Systems.</title><venue>SOSP</venue><pages>180-189</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MeyrowitzM81</key><doi>10.1145/800216.806607</doi><ee>https://doi.org/10.1145/800216.806607</ee><url>https://dblp.org/rec/conf/sosp/MeyrowitzM81</url></info>
+<url>URL#7676744</url>
+</hit>
+<hit score="3" id="7676745">
+<info><authors><author pid="94/2654">James G. Mitchell</author><author pid="14/6931">Jeremy Dion</author></authors><title>A Comparison of Two Network-Based File Servers.</title><venue>SOSP</venue><pages>45-46</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MitchellD81</key><doi>10.1145/800216.806590</doi><ee>https://doi.org/10.1145/800216.806590</ee><url>https://dblp.org/rec/conf/sosp/MitchellD81</url></info>
+<url>URL#7676745</url>
+</hit>
+<hit score="3" id="7676746">
+<info><authors><author pid="92/4303">Fred J. Pollack</author><author pid="45/4795">Kevin C. Kahn</author><author pid="13/250">Roy M. Wilkinson</author></authors><title>The iMAX-432 Object Filing System.</title><venue>SOSP</venue><pages>137-147</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PollackKW81</key><doi>10.1145/800216.806602</doi><ee>https://doi.org/10.1145/800216.806602</ee><url>https://dblp.org/rec/conf/sosp/PollackKW81</url></info>
+<url>URL#7676746</url>
+</hit>
+<hit score="3" id="7676747">
+<info><authors><author pid="62/6214">Gerald J. Popek</author><author pid="76/850">Bruce J. Walker</author><author pid="18/1789">Johanna M. Chow</author><author pid="09/1471">David A. Edwards</author><author pid="78/6248">Charles S. Kline</author><author pid="46/6709">Gerard Rudisin</author><author pid="79/7037">Greg Thiel</author></authors><title>LOCUS - A Network Transparent, High Reliability Distributed System.</title><venue>SOSP</venue><pages>169-177</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PopekWCERT81</key><doi>10.1145/800216.806605</doi><ee>https://doi.org/10.1145/800216.806605</ee><url>https://dblp.org/rec/conf/sosp/PopekWCERT81</url></info>
+<url>URL#7676747</url>
+</hit>
+<hit score="3" id="7676748">
+<info><authors><author pid="r/RichardFRashid">Richard F. Rashid</author><author pid="r/GGRobertson">George G. Robertson</author></authors><title>Accent: A Communication Oriented Network Operating System Kernel.</title><venue>SOSP</venue><pages>64-75</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RashidR81</key><doi>10.1145/800216.806593</doi><ee>https://doi.org/10.1145/800216.806593</ee><url>https://dblp.org/rec/conf/sosp/RashidR81</url></info>
+<url>URL#7676748</url>
+</hit>
+<hit score="3" id="7676749">
+<info><authors><author pid="02/3378">John M. Rushby</author></authors><title>Design and Verification of Secure Systems.</title><venue>SOSP</venue><pages>12-21</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Rushby81</key><doi>10.1145/800216.806586</doi><ee>https://doi.org/10.1145/800216.806586</ee><url>https://dblp.org/rec/conf/sosp/Rushby81</url></info>
+<url>URL#7676749</url>
+</hit>
+<hit score="3" id="7676750">
+<info><authors><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author></authors><title>A Study of File Sizes and Functional Lifetimes.</title><venue>SOSP</venue><pages>96-108</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Satyanarayanan81</key><doi>10.1145/800216.806597</doi><ee>https://doi.org/10.1145/800216.806597</ee><url>https://dblp.org/rec/conf/sosp/Satyanarayanan81</url></info>
+<url>URL#7676750</url>
+</hit>
+<hit score="3" id="7676751">
+<info><authors><author pid="s/AlfredZSpector">Alfred Z. Spector</author></authors><title>Performing Remore Operations Efficiently on a Local Computer Network (Summary).</title><venue>SOSP</venue><pages>76-77</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Spector81</key><doi>10.1145/800216.806594</doi><ee>https://doi.org/10.1145/800216.806594</ee><url>https://dblp.org/rec/conf/sosp/Spector81</url></info>
+<url>URL#7676751</url>
+</hit>
+<hit score="3" id="7676752">
+<info><authors><author pid="76/5566">Liba Svobodova</author></authors><title>A Reliable Object-Oriented Data Repository for a Distributed Computer System.</title><venue>SOSP</venue><pages>47-58</pages><year>1981</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Svobodova81</key><doi>10.1145/800216.806591</doi><ee>https://doi.org/10.1145/800216.806591</ee><url>https://dblp.org/rec/conf/sosp/Svobodova81</url></info>
+<url>URL#7676752</url>
+</hit>
+</hits>
+</result>

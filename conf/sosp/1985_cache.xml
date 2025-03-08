@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287128">conf* sosp* 1985*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.56</time>
+<completions total="1" computed="1" sent="1">
+<c sc="19" dc="19" oc="19" id="58179958">1985</c>
+</completions>
+<hits total="19" computed="19" sent="19" first="0">
+<hit score="3" id="7634686">
+<info><authors><author pid="b/KPBirman">Kenneth P. Birman</author></authors><title>Replication and Fault-Tolerance in the ISIS System.</title><venue>SOSP</venue><pages>79-86</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Birman85</key><doi>10.1145/323647.323636</doi><ee>https://doi.org/10.1145/323647.323636</ee><url>https://dblp.org/rec/conf/sosp/Birman85</url></info>
+<url>URL#7634686</url>
+</hit>
+<hit score="3" id="7634687">
+<info><authors><author pid="b/APBlack">Andrew P. Black</author></authors><title>Supporting Distributed Applications: Experience with Eden.</title><venue>SOSP</venue><pages>181-193</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Black85</key><doi>10.1145/323647.323646</doi><ee>https://doi.org/10.1145/323647.323646</ee><url>https://dblp.org/rec/conf/sosp/Black85</url></info>
+<url>URL#7634687</url>
+</hit>
+<hit score="3" id="7634688">
+<info><authors><author pid="21/2167">Nicholas Carriero</author><author pid="g/DavidGelernter">David Gelernter</author></authors><title>The S/Net&apos;s Linda Kernel (extended abstract).</title><venue>SOSP</venue><pages>160</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CarrieroG85</key><doi>10.1145/323647.323643</doi><ee>https://doi.org/10.1145/323647.323643</ee><url>https://dblp.org/rec/conf/sosp/CarrieroG85</url></info>
+<url>URL#7634688</url>
+</hit>
+<hit score="3" id="7634689">
+<info><authors><author pid="c/DavidDClark">David D. Clark</author></authors><title>The Structuring of Systems Using Upcalls.</title><venue>SOSP</venue><pages>171-180</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Clark85</key><doi>10.1145/323647.323645</doi><ee>https://doi.org/10.1145/323647.323645</ee><url>https://dblp.org/rec/conf/sosp/Clark85</url></info>
+<url>URL#7634689</url>
+</hit>
+<hit score="3" id="7634690">
+<info><authors><author pid="39/935">Eric C. Cooper</author></authors><title>Replicated Distributed Programs.</title><venue>SOSP</venue><pages>63-78</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Cooper85</key><doi>10.1145/323647.323635</doi><ee>https://doi.org/10.1145/323647.323635</ee><url>https://dblp.org/rec/conf/sosp/Cooper85</url></info>
+<url>URL#7634690</url>
+</hit>
+<hit score="3" id="7634691">
+<info><authors><author pid="53/830">Danco Davcev</author><author pid="b/WABurkhard">Walter A. Burkhard</author></authors><title>Consistency and Recovery Control for Replicated Files.</title><venue>SOSP</venue><pages>87-96</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DavcevB85</key><doi>10.1145/323647.323637</doi><ee>https://doi.org/10.1145/323647.323637</ee><url>https://dblp.org/rec/conf/sosp/DavcevB85</url></info>
+<url>URL#7634691</url>
+</hit>
+<hit score="3" id="7634692">
+<info><authors><author pid="43/1260">Robert P. Fitzgerald</author><author pid="r/RichardFRashid">Richard F. Rashid</author></authors><title>The Integration of Virtual Memory Management and Interprocess Communication in Accent (Abstract).</title><venue>SOSP</venue><pages>13-14</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FitzgeraldR85</key><doi>10.1145/323647.323630</doi><ee>https://doi.org/10.1145/323647.323630</ee><url>https://dblp.org/rec/conf/sosp/FitzgeraldR85</url></info>
+<url>URL#7634692</url>
+</hit>
+<hit score="3" id="7634693">
+<info><authors><author pid="g/DavidKGifford">David K. Gifford</author><author pid="95/1072">Robert W. Baldwin</author><author pid="04/3324">Stephen T. Berlin</author><author pid="76/3840">John M. Lucassen</author></authors><title>An Architecture for Large Scale Information Systems.</title><venue>SOSP</venue><pages>161-170</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GiffordBBL85</key><doi>10.1145/323647.323644</doi><ee>https://doi.org/10.1145/323647.323644</ee><url>https://dblp.org/rec/conf/sosp/GiffordBBL85</url></info>
+<url>URL#7634693</url>
+</hit>
+<hit score="3" id="7634694">
+<info><authors><author pid="90/3847">Nancy P. Kronenberg</author><author pid="l/HenryMLevy">Henry M. Levy</author><author pid="83/793">William D. Strecker</author></authors><title>VAXclusters: A Closely-Coupled Distributed System (Abstract).</title><venue>SOSP</venue><pages>1</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KronenbergLS85</key><doi>10.1145/323647.323628</doi><ee>https://doi.org/10.1145/323647.323628</ee><url>https://dblp.org/rec/conf/sosp/KronenbergLS85</url></info>
+<url>URL#7634694</url>
+</hit>
+<hit score="3" id="7634695">
+<info><authors><author pid="29/1210">Mohammad Malkawi</author><author pid="21/127">Janak H. Patel</author></authors><title>Compiler Directed Memory Management Policy For Numerical Programs.</title><venue>SOSP</venue><pages>97-106</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MalkawiP85</key><doi>10.1145/323647.323638</doi><ee>https://doi.org/10.1145/323647.323638</ee><url>https://dblp.org/rec/conf/sosp/MalkawiP85</url></info>
+<url>URL#7634695</url>
+</hit>
+<hit score="3" id="7634696">
+<info><authors><author pid="m/SapeJMullender">Sape J. Mullender</author><author pid="t/AndrewSTanenbaum">Andrew S. Tanenbaum</author></authors><title>A Distributed File Service Based on Optimistic Concurrency Control.</title><venue>SOSP</venue><pages>51-62</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MullenderT85</key><doi>10.1145/323647.323634</doi><ee>https://doi.org/10.1145/323647.323634</ee><url>https://dblp.org/rec/conf/sosp/MullenderT85</url></info>
+<url>URL#7634696</url>
+</hit>
+<hit score="3" id="7634697">
+<info><authors><author pid="10/651">Brian M. Oki</author><author pid="l/BarbaraLiskov">Barbara Liskov</author><author pid="19/2672">Robert Scheifler</author></authors><title>Reliable Object Storage to Support Atomic Actions.</title><venue>SOSP</venue><pages>147-159</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OkiLS85</key><doi>10.1145/323647.323642</doi><ee>https://doi.org/10.1145/323647.323642</ee><url>https://dblp.org/rec/conf/sosp/OkiLS85</url></info>
+<url>URL#7634697</url>
+</hit>
+<hit score="3" id="7634698">
+<info><authors><author pid="o/JohnKOusterhout">John K. Ousterhout</author><author pid="72/2603">Hervé Da Costa</author><author pid="26/424">David Harrison</author><author pid="96/1650">John A. Kunze</author><author pid="90/2338">Michael D. Kupfer</author><author pid="95/4015">James G. Thompson</author></authors><title>A Trace-Driven Analysis of the UNIX 4.2 BSD File System.</title><venue>SOSP</venue><pages>15-24</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OusterhoutCHKKT85</key><doi>10.1145/323647.323631</doi><ee>https://doi.org/10.1145/323647.323631</ee><url>https://dblp.org/rec/conf/sosp/OusterhoutCHKKT85</url></info>
+<url>URL#7634698</url>
+</hit>
+<hit score="3" id="7634699">
+<info><authors><author pid="63/10720">Steven P. Reinhardt</author></authors><title>A Data-Flow Approach to Multitasking ob CRAY X-MP Compputers.</title><venue>SOSP</venue><pages>107-114</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Reinhardt85</key><doi>10.1145/323647.323639</doi><ee>https://doi.org/10.1145/323647.323639</ee><url>https://dblp.org/rec/conf/sosp/Reinhardt85</url></info>
+<url>URL#7634699</url>
+</hit>
+<hit score="3" id="7634700">
+<info><authors><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author><author pid="84/488">John H. Howard</author><author pid="52/1430">David A. Nichols</author><author pid="43/2426">Robert N. Sidebotham</author><author pid="s/AlfredZSpector">Alfred Z. Spector</author><author pid="45/3686">Michael J. West</author></authors><title>The ITC Distributed File System: Principles and Design.</title><venue>SOSP</venue><pages>35-50</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SatyanarayananHNSSW85</key><doi>10.1145/323647.323633</doi><ee>https://doi.org/10.1145/323647.323633</ee><url>https://dblp.org/rec/conf/sosp/SatyanarayananHNSSW85</url></info>
+<url>URL#7634700</url>
+</hit>
+<hit score="3" id="7634701">
+<info><authors><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author><author pid="g/DavidKGifford">David K. Gifford</author><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>A Caching File System For a Programmer&apos;s Workstation.</title><venue>SOSP</venue><pages>25-34</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchroederGN85</key><doi>10.1145/323647.323632</doi><ee>https://doi.org/10.1145/323647.323632</ee><url>https://dblp.org/rec/conf/sosp/SchroederGN85</url></info>
+<url>URL#7634701</url>
+</hit>
+<hit score="3" id="7634702">
+<info><authors><author pid="s/AlfredZSpector">Alfred Z. Spector</author><author pid="61/4188">Dean S. Daniels</author><author pid="d/DanDuchamp">Dan Duchamp</author><author pid="33/3104">Jeffrey L. Eppinger</author><author pid="p/RandyFPausch">Randy F. Pausch</author></authors><title>Distributed Transactions for Reliable Systems.</title><venue>SOSP</venue><pages>127-146</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SpectorDDEP85</key><doi>10.1145/323647.323641</doi><ee>https://doi.org/10.1145/323647.323641</ee><url>https://dblp.org/rec/conf/sosp/SpectorDDEP85</url></info>
+<url>URL#7634702</url>
+</hit>
+<hit score="3" id="7634703">
+<info><authors><author pid="56/724">Marvin Theimer</author><author pid="95/5851">Keith A. Lantz</author><author pid="c/DRCheriton">David R. Cheriton</author></authors><title>Preemptable Remote Execution Facilities for the V-System.</title><venue>SOSP</venue><pages>2-12</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TheimerLC85</key><doi>10.1145/323647.323629</doi><ee>https://doi.org/10.1145/323647.323629</ee><url>https://dblp.org/rec/conf/sosp/TheimerLC85</url></info>
+<url>URL#7634703</url>
+</hit>
+<hit score="3" id="7634704">
+<info><authors><author pid="27/5556">Matthew J. Weinstein</author><author pid="66/138">Thomas W. Page Jr.</author><author pid="67/4750">Brian Livezey</author><author pid="62/6214">Gerald J. Popek</author></authors><title>Transactions and Synchronization in a Distributed Operating System.</title><venue>SOSP</venue><pages>115-126</pages><year>1985</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WeinsteinPLP85</key><doi>10.1145/323647.323640</doi><ee>https://doi.org/10.1145/323647.323640</ee><url>https://dblp.org/rec/conf/sosp/WeinsteinPLP85</url></info>
+<url>URL#7634704</url>
+</hit>
+</hits>
+</result>

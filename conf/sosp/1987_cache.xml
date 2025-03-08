@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287013">conf* sosp* 1987*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.73</time>
+<completions total="1" computed="1" sent="1">
+<c sc="19" dc="19" oc="19" id="58180014">1987</c>
+</completions>
+<hits total="19" computed="19" sent="19" first="0">
+<hit score="3" id="7603991">
+<info><authors><author pid="b/KPBirman">Kenneth P. Birman</author><author pid="10/2887">Thomas A. Joseph</author></authors><title>Exploiting Virtual Synchrony in Distributed Systems.</title><venue>SOSP</venue><pages>123-138</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BirmanJ87</key><doi>10.1145/41457.37515</doi><ee>https://doi.org/10.1145/41457.37515</ee><url>https://dblp.org/rec/conf/sosp/BirmanJ87</url></info>
+<url>URL#7603991</url>
+</hit>
+<hit score="3" id="7603992">
+<info><authors><author pid="b/AndrewBirrell">Andrew Birrell</author><author pid="g/JohnVGuttag">John V. Guttag</author><author pid="h/JamesJHorning">James J. Horning</author><author pid="83/749">Roy Levin</author></authors><title>Synchronization Primitives for a Multiprocessor: A Formal Specification.</title><venue>SOSP</venue><pages>94-102</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BirrellGHL87</key><doi>10.1145/41457.37509</doi><ee>https://doi.org/10.1145/41457.37509</ee><url>https://dblp.org/rec/conf/sosp/BirrellGHL87</url></info>
+<url>URL#7603992</url>
+</hit>
+<hit score="3" id="7603993">
+<info><authors><author pid="b/AndrewBirrell">Andrew Birrell</author><author pid="j/MichaelBJones">Michael B. Jones</author><author pid="88/1825">Edward Wobber</author></authors><title>A Simple and Efficient Implementation for Small Databases.</title><venue>SOSP</venue><pages>149-154</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BirrellJW87</key><doi>10.1145/41457.37517</doi><ee>https://doi.org/10.1145/41457.37517</ee><url>https://dblp.org/rec/conf/sosp/BirrellJW87</url></info>
+<url>URL#7603993</url>
+</hit>
+<hit score="3" id="7603994">
+<info><authors><author pid="97/1433">Albert Chang</author><author pid="95/5382">Mark F. Mergen</author></authors><title>801 Storage: Architecture and Programming (Extended Abstract).</title><venue>SOSP</venue><pages>109-110</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChangM87</key><doi>10.1145/41457.37513</doi><ee>https://doi.org/10.1145/41457.37513</ee><url>https://dblp.org/rec/conf/sosp/ChangM87</url></info>
+<url>URL#7603994</url>
+</hit>
+<hit score="3" id="7603995">
+<info><authors><author pid="93/3336">Ross S. Finlayson</author><author pid="c/DRCheriton">David R. Cheriton</author></authors><title>Log Files: An Extended File Service Exploiting Write-Once Storage.</title><venue>SOSP</venue><pages>139-148</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FinlaysonC87</key><doi>10.1145/41457.37516</doi><ee>https://doi.org/10.1145/41457.37516</ee><url>https://dblp.org/rec/conf/sosp/FinlaysonC87</url></info>
+<url>URL#7603995</url>
+</hit>
+<hit score="3" id="7603996">
+<info><authors><author pid="12/2764">Robert B. Hagmann</author></authors><title>Reimplementing the Cedar File System Using Logging and Group Commit.</title><venue>SOSP</venue><pages>155-162</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Hagmann87</key><doi>10.1145/41457.37518</doi><ee>https://doi.org/10.1145/41457.37518</ee><url>https://dblp.org/rec/conf/sosp/Hagmann87</url></info>
+<url>URL#7603996</url>
+</hit>
+<hit score="3" id="7603997">
+<info><authors><author pid="43/3416">Roger L. Haskin</author><author pid="01/2887">Yoni Malachi</author><author pid="83/2689">Wayne Sawdon</author><author pid="36/3012">Gregory Chan</author></authors><title>Recovery Management in QuickSilver (Extended Abstract).</title><venue>SOSP</venue><pages>107-108</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HaskinMSC87</key><doi>10.1145/41457.37512</doi><ee>https://doi.org/10.1145/41457.37512</ee><url>https://dblp.org/rec/conf/sosp/HaskinMSC87</url></info>
+<url>URL#7603997</url>
+</hit>
+<hit score="3" id="7603998">
+<info><authors><author pid="84/488">John H. Howard</author><author pid="64/99">Michael L. Kazar</author><author pid="42/5613">Sherri G. Menees</author><author pid="52/1430">David A. Nichols</author><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author><author pid="43/2426">Robert N. Sidebotham</author><author pid="45/3686">Michael J. West</author></authors><title>Scale and Performance in a Distributed File System (Extended Abstract).</title><venue>SOSP</venue><pages>1-2</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HowardKMNSSW87</key><doi>10.1145/41457.37500</doi><ee>https://doi.org/10.1145/41457.37500</ee><url>https://dblp.org/rec/conf/sosp/HowardKMNSSW87</url></info>
+<url>URL#7603998</url>
+</hit>
+<hit score="3" id="7603999">
+<info><authors><author pid="21/5579">David R. Jefferson</author><author pid="11/5659">Brian Beckman</author><author pid="91/4264">Frederick Wieland</author><author pid="55/3496">Leo Blume</author><author pid="34/5244">Mike Di Loreto</author><author pid="14/3625">Phil Hontalas</author><author pid="77/6090">Pierre Laroche</author><author pid="75/4951">Kathy Sturdevant</author><author pid="14/4835">Jack Tupman</author><author pid="71/114">L. Van Warren</author><author pid="75/1744">John J. Wedel</author><author pid="92/2172">Herb Younger</author><author pid="84/1346">Steve Bellenot</author></authors><title>Distributed Simulation and the Time Wrap Operating System.</title><venue>SOSP</venue><pages>77-93</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JeffersonBWBLHLSTWWYB87</key><doi>10.1145/41457.37508</doi><ee>https://doi.org/10.1145/41457.37508</ee><url>https://dblp.org/rec/conf/sosp/JeffersonBWBLHLSTWWYB87</url></info>
+<url>URL#7603999</url>
+</hit>
+<hit score="3" id="7604000">
+<info><authors><author pid="95/1442">Eric Jul</author><author pid="l/HenryMLevy">Henry M. Levy</author><author pid="40/920">Norman C. Hutchinson</author><author pid="b/APBlack">Andrew P. Black</author></authors><title>Fine-Grained Mobility in the Emerald System (Extended Abstract).</title><venue>SOSP</venue><pages>105-106</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JulLHB87</key><doi>10.1145/41457.37511</doi><ee>https://doi.org/10.1145/41457.37511</ee><url>https://dblp.org/rec/conf/sosp/JulLHB87</url></info>
+<url>URL#7604000</url>
+</hit>
+<hit score="3" id="7604001">
+<info><authors><author pid="l/BarbaraLiskov">Barbara Liskov</author><author pid="c/DCurtis">Dorothy Curtis</author><author pid="38/2987-1">Paul Johnson 0001</author><author pid="19/2672">Robert Scheifler</author></authors><title>Implementation of Argus.</title><venue>SOSP</venue><pages>111-122</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiskovCJS87</key><doi>10.1145/41457.37514</doi><ee>https://doi.org/10.1145/41457.37514</ee><url>https://dblp.org/rec/conf/sosp/LiskovCJS87</url></info>
+<url>URL#7604001</url>
+</hit>
+<hit score="3" id="7604002">
+<info><authors><author pid="m/JeffreyCMogul">Jeffrey C. Mogul</author><author pid="r/RichardFRashid">Richard F. Rashid</author><author pid="59/4452">Michael J. Accetta</author></authors><title>The Packet Filter: An Efficient Mechanism for User-level Network Code.</title><venue>SOSP</venue><pages>39-51</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MogulRA87</key><doi>10.1145/41457.37505</doi><ee>https://doi.org/10.1145/41457.37505</ee><url>https://dblp.org/rec/conf/sosp/MogulRA87</url></info>
+<url>URL#7604002</url>
+</hit>
+<hit score="3" id="7604003">
+<info><authors><author pid="90/6936">Michael N. Nelson</author><author pid="w/BrentBWelch">Brent B. Welch</author><author pid="o/JohnKOusterhout">John K. Ousterhout</author></authors><title>Caching in the Sprite Network File System (Extended Abstract).</title><venue>SOSP</venue><pages>3-4</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NelsonWO87</key><doi>10.1145/41457.37501</doi><ee>https://doi.org/10.1145/41457.37501</ee><url>https://dblp.org/rec/conf/sosp/NelsonWO87</url></info>
+<url>URL#7604003</url>
+</hit>
+<hit score="3" id="7604004">
+<info><authors><author pid="52/1430">David A. Nichols</author></authors><title>Using Idle Workstations in a Shared Computing Environment.</title><venue>SOSP</venue><pages>5-12</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Nichols87</key><doi>10.1145/41457.37502</doi><ee>https://doi.org/10.1145/41457.37502</ee><url>https://dblp.org/rec/conf/sosp/Nichols87</url></info>
+<url>URL#7604004</url>
+</hit>
+<hit score="3" id="7604005">
+<info><authors><author pid="12/359">Michael F. Schwartz</author><author pid="z/JZahorjan">John Zahorjan</author><author pid="n/DavidNotkin">David Notkin</author></authors><title>A Name Service for Evolving, Heterogeneous Systems.</title><venue>SOSP</venue><pages>52-62</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchwartzZN87</key><doi>10.1145/41457.37506</doi><ee>https://doi.org/10.1145/41457.37506</ee><url>https://dblp.org/rec/conf/sosp/SchwartzZN87</url></info>
+<url>URL#7604005</url>
+</hit>
+<hit score="3" id="7604006">
+<info><authors><author pid="06/965">Douglas B. Terry</author><author pid="95/652">Daniel C. Swinehart</author></authors><title>Managing Stored Voice in the Etherphone System (Extended Abstract).</title><venue>SOSP</venue><pages>103-104</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TerryS87</key><doi>10.1145/41457.37510</doi><ee>https://doi.org/10.1145/41457.37510</ee><url>https://dblp.org/rec/conf/sosp/TerryS87</url></info>
+<url>URL#7604006</url>
+</hit>
+<hit score="3" id="7604007">
+<info><authors><author pid="v/GeorgeVarghese">George Varghese</author><author pid="45/1469">Anthony Lauck</author></authors><title>Hashed and Hierarchical Timing Wheels: Data Structures for the Efficient Implementation of a Timer Facility.</title><venue>SOSP</venue><pages>25-38</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VargheseL87</key><doi>10.1145/41457.37504</doi><ee>https://doi.org/10.1145/41457.37504</ee><url>https://dblp.org/rec/conf/sosp/VargheseL87</url></info>
+<url>URL#7604007</url>
+</hit>
+<hit score="3" id="7604008">
+<info><authors><author pid="18/6094">Michael Young</author><author pid="15/4089">Avadis Tevanian</author><author pid="r/RichardFRashid">Richard F. Rashid</author><author pid="66/6972">David B. Golub</author><author pid="33/3104">Jeffrey L. Eppinger</author><author pid="81/6825">Jonathan Chew</author><author pid="b/WJBolosky">William J. Bolosky</author><author pid="76/1966-1">David L. Black 0001</author><author pid="14/5555">Robert V. Baron</author></authors><title>The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System.</title><venue>SOSP</venue><pages>63-76</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/YoungTRGECBBB87</key><doi>10.1145/41457.37507</doi><ee>https://doi.org/10.1145/41457.37507</ee><url>https://dblp.org/rec/conf/sosp/YoungTRGECBBB87</url></info>
+<url>URL#7604008</url>
+</hit>
+<hit score="3" id="7604009">
+<info><authors><author pid="47/349">Edward R. Zayas</author></authors><title>Attacking the Process Migration Bottleneck.</title><venue>SOSP</venue><pages>13-24</pages><year>1987</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Zayas87</key><doi>10.1145/41457.37503</doi><ee>https://doi.org/10.1145/41457.37503</ee><url>https://dblp.org/rec/conf/sosp/Zayas87</url></info>
+<url>URL#7604009</url>
+</hit>
+</hits>
+</result>

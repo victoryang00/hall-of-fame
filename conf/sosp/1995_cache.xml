@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287135">conf* sosp* 1995*</query>
+<status code="200">OK</status>
+<time unit="msecs">4.16</time>
+<completions total="1" computed="1" sent="1">
+<c sc="30" dc="30" oc="30" id="58180258">1995</c>
+</completions>
+<hits total="30" computed="30" sent="30" first="0">
+<hit score="4" id="7354525">
+<info><authors><author pid="06/965">Douglas B. Terry</author><author pid="56/724">Marvin Theimer</author><author pid="81/1825">Karin Petersen</author><author pid="03/5860">Alan J. Demers</author><author pid="94/538">Mike Spreitzer</author><author pid="h/CarlHHauser">Carl Hauser</author></authors><title>Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System.</title><venue>SOSP</venue><pages>172-183</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TerryTPDSH95</key><doi>10.1145/224056.224070</doi><ee>https://doi.org/10.1145/224056.224070</ee><url>https://dblp.org/rec/conf/sosp/TerryTPDSH95</url></info>
+<url>URL#7354525</url>
+</hit>
+<hit score="3" id="7354497">
+<info><authors><author pid="a/ThomasEAnderson">Thomas E. Anderson</author><author pid="d/MDahlin">Michael Dahlin</author><author pid="81/5025">Jeanna M. Neefe</author><author pid="p/DAPatterson">David A. Patterson 0001</author><author pid="71/428">Drew S. Roselli</author><author pid="69/1132">Randolph Y. Wang</author></authors><title>Serverless Network File Systems.</title><venue>SOSP</venue><pages>109-126</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AndersonDNPRW95</key><doi>10.1145/224056.224066</doi><ee>https://doi.org/10.1145/224056.224066</ee><url>https://dblp.org/rec/conf/sosp/AndersonDNPRW95</url></info>
+<url>URL#7354497</url>
+</hit>
+<hit score="3" id="7354498">
+<info><authors><author pid="70/5087-1">Eric W. Anderson 0001</author><author pid="p/JPasquale">Joseph Pasquale</author></authors><title>The Performance of the Container Shipping I/O System.</title><venue>SOSP</venue><pages>229</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AndersonP95</key><doi>10.1145/224056.225831</doi><ee>https://doi.org/10.1145/224056.225831</ee><url>https://dblp.org/rec/conf/sosp/AndersonP95</url></info>
+<url>URL#7354498</url>
+</hit>
+<hit score="3" id="7354499">
+<info><authors><author pid="b/BNBershad">Brian N. Bershad</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="79/5347">Przemyslaw Pardyak</author><author pid="s/EminGunSirer">Emin Gün Sirer</author><author pid="81/447">Marc E. Fiuczynski</author><author pid="94/5555">David Becker</author><author pid="c/CraigChambers">Craig Chambers</author><author pid="e/SJEggers">Susan J. Eggers</author></authors><title>Extensibility, Safety and Performance in the SPIN Operating System.</title><venue>SOSP</venue><pages>267-284</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BershadSPSFBCE95</key><doi>10.1145/224056.224077</doi><ee>https://doi.org/10.1145/224056.224077</ee><url>https://dblp.org/rec/conf/sosp/BershadSPSFBCE95</url></info>
+<url>URL#7354499</url>
+</hit>
+<hit score="3" id="7354500">
+<info><authors><author pid="b/ThomasCBressoud">Thomas C. Bressoud</author><author pid="s/FredBSchneider">Fred B. Schneider</author></authors><title>Hypervisor-based Fault-tolerance.</title><venue>SOSP</venue><pages>1-11</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BressoudS95</key><doi>10.1145/224056.224058</doi><ee>https://doi.org/10.1145/224056.224058</ee><url>https://dblp.org/rec/conf/sosp/BressoudS95</url></info>
+<url>URL#7354500</url>
+</hit>
+<hit score="3" id="7354501">
+<info><authors><author pid="18/2307">John Chapin</author><author pid="r/MendelRosenblum">Mendel Rosenblum</author><author pid="16/3914">Scott Devine</author><author pid="46/49">Tirthankar Lahiri</author><author pid="00/5676-2">Dan Teodosiu 0002</author><author pid="g/AnoopGupta">Anoop Gupta</author></authors><title>Hive: Fault Containment for Shared-Memory Multiprocessors.</title><venue>SOSP</venue><pages>12-25</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChapinRDLTG95</key><doi>10.1145/224056.224059</doi><ee>https://doi.org/10.1145/224056.224059</ee><url>https://dblp.org/rec/conf/sosp/ChapinRDLTG95</url></info>
+<url>URL#7354501</url>
+</hit>
+<hit score="3" id="7354502">
+<info><authors><author pid="40/5996">J. Bradley Chen</author><author pid="e/YasuhiroEndo">Yasuhiro Endo</author><author pid="07/4568">Kee Chan</author><author pid="m/DMazieres">David Mazières</author><author pid="45/5263">Antonio Dias</author><author pid="s/MargoISeltzer">Margo I. Seltzer</author><author pid="163/1790-1">Michael D. Smith 0001</author></authors><title>The Measured Performance of Personal Computer Operating Systems.</title><venue>SOSP</venue><pages>299-313</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChenECMDSS95</key><doi>10.1145/224056.224079</doi><ee>https://doi.org/10.1145/224056.224079</ee><url>https://dblp.org/rec/conf/sosp/ChenECMDSS95</url></info>
+<url>URL#7354502</url>
+</hit>
+<hit score="3" id="7354503">
+<info><authors><author pid="c/DRCheriton">David R. Cheriton</author><author pid="49/2790">Kenneth J. Duda</author></authors><title>Logged Virtual Memory.</title><venue>SOSP</venue><pages>26-39</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CheritonD95</key><doi>10.1145/224056.224060</doi><ee>https://doi.org/10.1145/224056.224060</ee><url>https://dblp.org/rec/conf/sosp/CheritonD95</url></info>
+<url>URL#7354503</url>
+</hit>
+<hit score="3" id="7354504">
+<info><authors><author pid="76/5208">Thorsten von Eicken</author><author pid="39/1541">Anindya Basu</author><author pid="26/5437">Vineet Buch</author><author pid="v/WernerVogels">Werner Vogels</author></authors><title>U-Net: A User-Level Network Interface for Parallel and Distributed Computing.</title><venue>SOSP</venue><pages>40-53</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/EickenBBV95</key><doi>10.1145/224056.224061</doi><ee>https://doi.org/10.1145/224056.224061</ee><url>https://dblp.org/rec/conf/sosp/EickenBBV95</url></info>
+<url>URL#7354504</url>
+</hit>
+<hit score="3" id="7354505">
+<info><authors><author pid="e/DREngler">Dawson R. Engler</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="88/6703">James W. O&apos;Toole Jr.</author></authors><title>Exokernel: An Operating System Architecture for Application-Level Resource Management.</title><venue>SOSP</venue><pages>251-266</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/EnglerKO95</key><doi>10.1145/224056.224076</doi><ee>https://doi.org/10.1145/224056.224076</ee><url>https://dblp.org/rec/conf/sosp/EnglerKO95</url></info>
+<url>URL#7354505</url>
+</hit>
+<hit score="3" id="7354506">
+<info><authors><author pid="f/MJFeeley">Michael J. Feeley</author><author pid="40/2560">William E. Morgan</author><author pid="p/FredericPighin">Frédéric H. Pighin</author><author pid="k/AnnaRKarlin">Anna R. Karlin</author><author pid="l/HenryMLevy">Henry M. Levy</author><author pid="13/3927">Chandramohan A. Thekkath</author></authors><title>Implementing Global Memory Management in a Workstation Cluster.</title><venue>SOSP</venue><pages>201-212</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FeeleyMPKL95</key><doi>10.1145/224056.224072</doi><ee>https://doi.org/10.1145/224056.224072</ee><url>https://dblp.org/rec/conf/sosp/FeeleyMPKL95</url></info>
+<url>URL#7354506</url>
+</hit>
+<hit score="3" id="7354507">
+<info><authors><author pid="83/4382">Liana L. Fong</author><author pid="67/3865">Mark S. Squillante</author></authors><title>Time-Function Scheduling: A General Approach To Controllable Resource Management.</title><venue>SOSP</venue><pages>230</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FongS95</key><doi>10.1145/224056.225832</doi><ee>https://doi.org/10.1145/224056.225832</ee><url>https://dblp.org/rec/conf/sosp/FongS95</url></info>
+<url>URL#7354507</url>
+</hit>
+<hit score="3" id="7354508">
+<info><authors><author pid="f/BryanFord">Bryan Ford</author><author pid="h/MikeHibler">Mike Hibler</author><author pid="l/JayLepreau">Jay Lepreau</author></authors><title>Using Annotated Interface Definitions to Optimize RPC.</title><venue>SOSP</venue><pages>232</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FordHL95</key><doi>10.1145/224056.225833</doi><ee>https://doi.org/10.1145/224056.225833</ee><url>https://dblp.org/rec/conf/sosp/FordHL95</url></info>
+<url>URL#7354508</url>
+</hit>
+<hit score="3" id="7354509">
+<info><authors><author pid="g/SGhemawat">Sanjay Ghemawat</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="l/BarbaraLiskov">Barbara Liskov</author></authors><title>Using a Modified Object Buffer to Improve the Write Performance of an Object-Oriented Database.</title><venue>SOSP</venue><pages>235</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GhemawatKL95</key><doi>10.1145/224056.225834</doi><ee>https://doi.org/10.1145/224056.225834</ee><url>https://dblp.org/rec/conf/sosp/GhemawatKL95</url></info>
+<url>URL#7354509</url>
+</hit>
+<hit score="3" id="7354510">
+<info><authors><author pid="89/5071">R. Gopalakrishnan</author><author pid="50/4579">Guru M. Parulkar</author></authors><title>A Real-time Upcall Facility for Protocol Processing with QoS Guarantees.</title><venue>SOSP</venue><pages>231</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GopalakrishnanP95</key><doi>10.1145/224056.225835</doi><ee>https://doi.org/10.1145/224056.225835</ee><url>https://dblp.org/rec/conf/sosp/GopalakrishnanP95</url></info>
+<url>URL#7354510</url>
+</hit>
+<hit score="3" id="7354511">
+<info><authors><author pid="56/5902">James Gwertzman</author><author pid="s/MargoISeltzer">Margo I. Seltzer</author></authors><title>Autonomous Replication Across Wide-Area Internetworks.</title><venue>SOSP</venue><pages>234</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GwertzmanS95</key><doi>10.1145/224056.225836</doi><ee>https://doi.org/10.1145/224056.225836</ee><url>https://dblp.org/rec/conf/sosp/GwertzmanS95</url></info>
+<url>URL#7354511</url>
+</hit>
+<hit score="3" id="7354512">
+<info><authors><author pid="01/3967">Mor Harchol-Balter</author><author pid="62/6735">Allen B. Downey</author></authors><title>Exploiting Process Lifetime Distributions for Dynamic Load Balancing.</title><venue>SOSP</venue><pages>236</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Harchol-BalterD95</key><doi>10.1145/224056.225838</doi><ee>https://doi.org/10.1145/224056.225838</ee><url>https://dblp.org/rec/conf/sosp/Harchol-BalterD95</url></info>
+<url>URL#7354512</url>
+</hit>
+<hit score="3" id="7354513">
+<info><authors><author pid="h/JohnSHeidemann">John S. Heidemann</author><author pid="62/6214">Gerald J. Popek</author></authors><title>Performance of Cache Coherence in Stackable Filing.</title><venue>SOSP</venue><pages>127-142</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HeidemannP95</key><doi>10.1145/224056.224067</doi><ee>https://doi.org/10.1145/224056.224067</ee><url>https://dblp.org/rec/conf/sosp/HeidemannP95</url></info>
+<url>URL#7354513</url>
+</hit>
+<hit score="3" id="7354514">
+<info><authors><author pid="49/4513">Kirk L. Johnson</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author><author pid="53/6138">Deborah A. Wallach</author></authors><title>CRL: High-Performance All-Software Distributed Shared Memory.</title><venue>SOSP</venue><pages>213-228</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JohnsonKW95</key><doi>10.1145/224056.224073</doi><ee>https://doi.org/10.1145/224056.224073</ee><url>https://dblp.org/rec/conf/sosp/JohnsonKW95</url></info>
+<url>URL#7354514</url>
+</hit>
+<hit score="3" id="7354515">
+<info><authors><author pid="30/2317">Anthony D. Joseph</author><author pid="42/4356">Alan F. deLespinasse</author><author pid="97/6559">Joshua A. Tauber</author><author pid="g/DavidKGifford">David K. Gifford</author><author pid="k/MFransKaashoek">M. Frans Kaashoek</author></authors><title>Rover: A Toolkit for Mobile Information Access.</title><venue>SOSP</venue><pages>156-171</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JosephdTGK95</key><doi>10.1145/224056.224069</doi><ee>https://doi.org/10.1145/224056.224069</ee><url>https://dblp.org/rec/conf/sosp/JosephdTGK95</url></info>
+<url>URL#7354515</url>
+</hit>
+<hit score="3" id="7354516">
+<info><authors><author pid="07/1586">Jochen Liedtke</author></authors><title>On micro-Kernel Construction.</title><venue>SOSP</venue><pages>237-250</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Liedtke95</key><doi>10.1145/224056.224075</doi><ee>https://doi.org/10.1145/224056.224075</ee><url>https://dblp.org/rec/conf/sosp/Liedtke95</url></info>
+<url>URL#7354516</url>
+</hit>
+<hit score="3" id="7354517">
+<info><authors><author pid="m/LilyBMummert">Lily B. Mummert</author><author pid="e/MariaEbling">Maria Ebling</author><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author></authors><title>Exploiting Weak Connectivity for Mobile File Access.</title><venue>SOSP</venue><pages>143-155</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MummertES95</key><doi>10.1145/224056.224068</doi><ee>https://doi.org/10.1145/224056.224068</ee><url>https://dblp.org/rec/conf/sosp/MummertES95</url></info>
+<url>URL#7354517</url>
+</hit>
+<hit score="3" id="7354518">
+<info><authors><author pid="90/6936">Michael N. Nelson</author><author pid="36/2393">Mark A. Linton</author><author pid="06/3161">Susan S. Owicki</author></authors><title>A Highly Available, Scalable ITV System.</title><venue>SOSP</venue><pages>54-67</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NelsonLO95</key><doi>10.1145/224056.224062</doi><ee>https://doi.org/10.1145/224056.224062</ee><url>https://dblp.org/rec/conf/sosp/NelsonLO95</url></info>
+<url>URL#7354518</url>
+</hit>
+<hit score="3" id="7354519">
+<info><authors><author pid="n/JasonNieh">Jason Nieh</author><author pid="l/MonicaSLam">Monica S. Lam</author></authors><title>SMART: A Processor Scheduler for Multimedia Applications.</title><venue>SOSP</venue><pages>233</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NiehL95</key><doi>10.1145/224056.225837</doi><ee>https://doi.org/10.1145/224056.225837</ee><url>https://dblp.org/rec/conf/sosp/NiehL95</url></info>
+<url>URL#7354519</url>
+</hit>
+<hit score="3" id="7354520">
+<info><authors><author pid="31/1760">R. Hugo Patterson</author><author pid="g/GarthAGibson">Garth A. Gibson</author><author pid="78/721">Eka Ginting</author><author pid="20/1094">Daniel Stodolsky</author><author pid="12/4836">Jim Zelenka</author></authors><title>Informed Prefetching and Caching.</title><venue>SOSP</venue><pages>79-95</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PattersonGGSZ95</key><doi>10.1145/224056.224064</doi><ee>https://doi.org/10.1145/224056.224064</ee><url>https://dblp.org/rec/conf/sosp/PattersonGGSZ95</url></info>
+<url>URL#7354520</url>
+</hit>
+<hit score="3" id="7354521">
+<info><authors><author pid="p/CaltonPu">Calton Pu</author><author pid="78/6118">Tito Autrey</author><author pid="b/APBlack">Andrew P. Black</author><author pid="c/CConsel">Charles Consel</author><author pid="c/CrispinCowan">Crispin Cowan</author><author pid="20/4326">Jon Inouye</author><author pid="52/1157">Lakshmi Kethana</author><author pid="50/3443">Jonathan Walpole</author><author pid="20/4152">Ke Zhang</author></authors><title>Optimistic Incremental Specialization: Streamlining a Commercial Operating System.</title><venue>SOSP</venue><pages>314-324</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PuABCCIKWZ95</key><doi>10.1145/224056.224080</doi><ee>https://doi.org/10.1145/224056.224080</ee><url>https://dblp.org/rec/conf/sosp/PuABCCIKWZ95</url></info>
+<url>URL#7354521</url>
+</hit>
+<hit score="3" id="7354522">
+<info><authors><author pid="r/MendelRosenblum">Mendel Rosenblum</author><author pid="b/EBugnion">Edouard Bugnion</author><author pid="69/2725">Stephen Alan Herrod</author><author pid="76/6082">Emmett Witchel</author><author pid="g/AnoopGupta">Anoop Gupta</author></authors><title>The Impact of Architectural Trends on Operating System Performance.</title><venue>SOSP</venue><pages>285-298</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RosenblumBHWG95</key><doi>10.1145/224056.224078</doi><ee>https://doi.org/10.1145/224056.224078</ee><url>https://dblp.org/rec/conf/sosp/RosenblumBHWG95</url></info>
+<url>URL#7354522</url>
+</hit>
+<hit score="3" id="7354523">
+<info><authors><author pid="s/BjarneSteensgaard">Bjarne Steensgaard</author><author pid="95/1442">Eric Jul</author></authors><title>Object and Native Code Thread Mobility Among Heterogeneous Computers.</title><venue>SOSP</venue><pages>68-78</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SteensgaardJ95</key><doi>10.1145/224056.224063</doi><ee>https://doi.org/10.1145/224056.224063</ee><url>https://dblp.org/rec/conf/sosp/SteensgaardJ95</url></info>
+<url>URL#7354523</url>
+</hit>
+<hit score="3" id="7354524">
+<info><authors><author pid="t/MadhusudhanTalluri">Madhusudhan Talluri</author><author pid="h/MarkDHill">Mark D. Hill</author><author pid="k/YousefYAKhalidi">Yousef Y. A. Khalidi</author></authors><title>A New Page Table for 64-bit Address Spaces.</title><venue>SOSP</venue><pages>184-200</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/TalluriHK95</key><doi>10.1145/224056.224071</doi><ee>https://doi.org/10.1145/224056.224071</ee><url>https://dblp.org/rec/conf/sosp/TalluriHK95</url></info>
+<url>URL#7354524</url>
+</hit>
+<hit score="3" id="7354526">
+<info><authors><author pid="w/JohnWilkes">John Wilkes</author><author pid="g/RichardAGolding">Richard A. Golding</author><author pid="86/1617">Carl Staelin</author><author pid="27/78">Tim Sullivan 0002</author></authors><title>The HP AutoRAID Hierarchical Storage System.</title><venue>SOSP</venue><pages>96-108</pages><year>1995</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WilkesGSS95</key><doi>10.1145/224056.224065</doi><ee>https://doi.org/10.1145/224056.224065</ee><url>https://dblp.org/rec/conf/sosp/WilkesGSS95</url></info>
+<url>URL#7354526</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287010">conf* sosp* 1983*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.54</time>
+<completions total="1" computed="1" sent="1">
+<c sc="16" dc="16" oc="16" id="58179890">1983</c>
+</completions>
+<hits total="16" computed="16" sent="16" first="0">
+<hit score="3" id="7657957">
+<info><authors><author pid="b/AndrewBirrell">Andrew Birrell</author><author pid="76/601">Bruce Jay Nelson</author></authors><title>Implementing Remote Procedure Calls (Abstract).</title><venue>SOSP</venue><pages>3</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BirrellN83</key><doi>10.1145/800217.806609</doi><ee>https://doi.org/10.1145/800217.806609</ee><url>https://dblp.org/rec/conf/sosp/BirrellN83</url></info>
+<url>URL#7657957</url>
+</hit>
+<hit score="3" id="7657958">
+<info><authors><author pid="b/APBlack">Andrew P. Black</author></authors><title>An Asymmetric Stream Communication System.</title><venue>SOSP</venue><pages>4-10</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Black83</key><doi>10.1145/800217.806610</doi><ee>https://doi.org/10.1145/800217.806610</ee><url>https://dblp.org/rec/conf/sosp/Black83</url></info>
+<url>URL#7657958</url>
+</hit>
+<hit score="3" id="7657959">
+<info><authors><author pid="b/AnitaBorg">Anita Borg</author><author pid="67/3624">Jim Baumbach</author><author pid="69/1175">Sam Glazer</author></authors><title>A Message System Supporting Fault Tolerance.</title><venue>SOSP</venue><pages>90-99</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BorgBG83</key><doi>10.1145/800217.806617</doi><ee>https://doi.org/10.1145/800217.806617</ee><url>https://dblp.org/rec/conf/sosp/BorgBG83</url></info>
+<url>URL#7657959</url>
+</hit>
+<hit score="3" id="7657960">
+<info><authors><author pid="c/DRCheriton">David R. Cheriton</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author></authors><title>The Distributed V Kernel and its Performance for Diskless Workstations.</title><venue>SOSP</venue><pages>129-140</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CheritonZ83</key><doi>10.1145/800217.806621</doi><ee>https://doi.org/10.1145/800217.806621</ee><url>https://dblp.org/rec/conf/sosp/CheritonZ83</url></info>
+<url>URL#7657960</url>
+</hit>
+<hit score="3" id="7657961">
+<info><authors><author pid="02/6103">Daniel H. Craft</author></authors><title>Resource Management In A Decentralized System.</title><venue>SOSP</venue><pages>11-19</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Craft83</key><doi>10.1145/800217.806611</doi><ee>https://doi.org/10.1145/800217.806611</ee><url>https://dblp.org/rec/conf/sosp/Craft83</url></info>
+<url>URL#7657961</url>
+</hit>
+<hit score="3" id="7657962">
+<info><authors><author pid="l/ButlerWLampson">Butler W. Lampson</author></authors><title>Hints for Computer System Design.</title><venue>SOSP</venue><pages>33-48</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Lampson83</key><doi>10.1145/800217.806614</doi><ee>https://doi.org/10.1145/800217.806614</ee><url>https://dblp.org/rec/conf/sosp/Lampson83</url></info>
+<url>URL#7657962</url>
+</hit>
+<hit score="3" id="7657963">
+<info><authors><author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author><author pid="h/LauraMHaas">Laura M. Haas</author><author pid="m/CMohan">C. Mohan 0001</author><author pid="00/708">Paul F. Wilms</author><author pid="72/1678">Robert A. Yost</author></authors><title>Computation &amp; Communication in R*: A Distributed Database Manager (Extended Abstract).</title><venue>SOSP</venue><pages>1-2</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LindsayHMWY83</key><doi>10.1145/800217.806608</doi><ee>https://doi.org/10.1145/800217.806608</ee><url>https://dblp.org/rec/conf/sosp/LindsayHMWY83</url></info>
+<url>URL#7657963</url>
+</hit>
+<hit score="3" id="7657964">
+<info><authors><author pid="m/ErikTMueller">Erik T. Mueller</author><author pid="m/JohannaDMoore">Johanna D. Moore</author><author pid="62/6214">Gerald J. Popek</author></authors><title>A Nested Transaction Mechanism for LOCUS.</title><venue>SOSP</venue><pages>71-89</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MuellerMP83</key><doi>10.1145/800217.806616</doi><ee>https://doi.org/10.1145/800217.806616</ee><url>https://dblp.org/rec/conf/sosp/MuellerMP83</url></info>
+<url>URL#7657964</url>
+</hit>
+<hit score="3" id="7657965">
+<info><authors><author pid="01/5700">Michael L. Powell</author><author pid="10/5768">David L. Presotto</author></authors><title>PUBLISHING: A Reliable Broadcast Communication Mechanism.</title><venue>SOSP</venue><pages>100-109</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PowellP83</key><doi>10.1145/800217.806618</doi><ee>https://doi.org/10.1145/800217.806618</ee><url>https://dblp.org/rec/conf/sosp/PowellP83</url></info>
+<url>URL#7657965</url>
+</hit>
+<hit score="3" id="7657966">
+<info><authors><author pid="01/5700">Michael L. Powell</author><author pid="m/BartonPMiller">Barton P. Miller</author></authors><title>Process Migration in DEMOS/MP.</title><venue>SOSP</venue><pages>110-119</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PresottoM83</key><doi>10.1145/800217.806619</doi><ee>https://doi.org/10.1145/800217.806619</ee><url>https://dblp.org/rec/conf/sosp/PresottoM83</url></info>
+<url>URL#7657966</url>
+</hit>
+<hit score="3" id="7657967">
+<info><authors><author pid="66/2478">Loretta Guarino Reid</author><author pid="34/6997">Philip L. Karlton</author></authors><title>A File System Supporting Cooperation between Programs.</title><venue>SOSP</venue><pages>20-19</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ReidK83</key><doi>10.1145/800217.806612</doi><ee>https://doi.org/10.1145/800217.806612</ee><url>https://dblp.org/rec/conf/sosp/ReidK83</url></info>
+<url>URL#7657967</url>
+</hit>
+<hit score="3" id="7657968">
+<info><authors><author pid="99/4205">M. F. Richardson</author><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>The TRIPOS Filing Machine, a Front End to a File Server.</title><venue>SOSP</venue><pages>120-128</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RichardsonN83</key><doi>10.1145/800217.806620</doi><ee>https://doi.org/10.1145/800217.806620</ee><url>https://dblp.org/rec/conf/sosp/RichardsonN83</url></info>
+<url>URL#7657968</url>
+</hit>
+<hit score="3" id="7657969">
+<info><authors><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author><author pid="b/AndrewBirrell">Andrew Birrell</author><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>Experience with Grapevine: The Growth of a Distributed System (Summary).</title><venue>SOSP</venue><pages>141-142</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchroederBN83</key><doi>10.1145/800217.806622</doi><ee>https://doi.org/10.1145/800217.806622</ee><url>https://dblp.org/rec/conf/sosp/SchroederBN83</url></info>
+<url>URL#7657969</url>
+</hit>
+<hit score="3" id="7657970">
+<info><authors><author pid="84/4542">Jonathan M. Silverman</author></authors><title>Reflections on the Verification of the Security of an Operating System Kernel.</title><venue>SOSP</venue><pages>143-154</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Silverman83</key><doi>10.1145/800217.806623</doi><ee>https://doi.org/10.1145/800217.806623</ee><url>https://dblp.org/rec/conf/sosp/Silverman83</url></info>
+<url>URL#7657970</url>
+</hit>
+<hit score="3" id="7657971">
+<info><authors><author pid="63/4810">C. J. Stephenson</author></authors><title>Fast Fits.</title><venue>SOSP</venue><pages>30-32</pages><year>1983</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/sosp/Stephenson83</key><url>https://dblp.org/rec/conf/sosp/Stephenson83</url></info>
+<url>URL#7657971</url>
+</hit>
+<hit score="3" id="7657972">
+<info><authors><author pid="76/850">Bruce J. Walker</author><author pid="62/6214">Gerald J. Popek</author><author pid="42/3212">Robert English</author><author pid="78/6248">Charles S. Kline</author><author pid="79/7037">Greg Thiel</author></authors><title>The LOCUS Distributed Operating System.</title><venue>SOSP</venue><pages>49-70</pages><year>1983</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WalkerPEKT83</key><doi>10.1145/800217.806615</doi><ee>https://doi.org/10.1145/800217.806615</ee><url>https://dblp.org/rec/conf/sosp/WalkerPEKT83</url></info>
+<url>URL#7657972</url>
+</hit>
+</hits>
+</result>

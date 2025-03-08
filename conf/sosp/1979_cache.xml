@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287895">conf* sosp* 1979*</query>
+<status code="200">OK</status>
+<time unit="msecs">0.96</time>
+<completions total="1" computed="1" sent="1">
+<c sc="26" dc="24" oc="26" id="58179715">1979</c>
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="6" id="7691985">
+<info><authors><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author><author pid="01/5537">Anita K. Jones</author></authors><title>Proceedings of the Seventh Symposium on Operating System Principles, SOSP 1979, Asilomar Conference Grounds, Pacific Grove, California, USA, 10-12, December 1979</title><venue>SOSP</venue><publisher>ACM</publisher><year>1979</year><type>Editorship</type><key>conf/sosp/1979</key><doi>10.1145/800215</doi><ee>https://doi.org/10.1145/800215</ee><url>https://dblp.org/rec/conf/sosp/1979</url></info>
+<url>URL#7691985</url>
+</hit>
+<hit score="3" id="7691718">
+<info><authors><author pid="96/4475">Guy T. Almes</author><author pid="l/EDLazowska">Edward D. Lazowska</author></authors><title>The Behavior of Ethernet-Like Computer Communication Networks.</title><venue>SOSP</venue><pages>66-81</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AimesL79</key><doi>10.1145/800215.806572</doi><ee>https://doi.org/10.1145/800215.806572</ee><url>https://dblp.org/rec/conf/sosp/AimesL79</url></info>
+<url>URL#7691718</url>
+</hit>
+<hit score="3" id="7691719">
+<info><authors><author pid="b/MattBishop">Matt Bishop</author><author pid="369/8358-1">Lawrence Snyder 0001</author></authors><title>The Transfer of Information and Authority in a Protection System.</title><venue>SOSP</venue><pages>45-54</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BishopS79</key><doi>10.1145/800215.806569</doi><ee>https://doi.org/10.1145/800215.806569</ee><url>https://dblp.org/rec/conf/sosp/BishopS79</url></info>
+<url>URL#7691719</url>
+</hit>
+<hit score="3" id="7691720">
+<info><authors><author pid="98/4768">Toby Bloom</author></authors><title>Evaluating Synchronization Mechanisms.</title><venue>SOSP</venue><pages>24-32</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Bloom79</key><doi>10.1145/800215.806566</doi><ee>https://doi.org/10.1145/800215.806566</ee><url>https://dblp.org/rec/conf/sosp/Bloom79</url></info>
+<url>URL#7691720</url>
+</hit>
+<hit score="3" id="7691721">
+<info><authors><author pid="94/5254">M. D. Canon</author><author pid="26/4527">D. H. Fritz</author><author pid="84/488">John H. Howard</author><author pid="81/1252">T. D. Howell</author><author pid="25/5361">Michael F. Mitoma</author><author pid="65/616">Juan Rodriguez-Rossel</author></authors><title>A Virtual Machine Emulator for Performance Evaluation (Summary).</title><venue>SOSP</venue><pages>1</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CanonFHHMR79</key><doi>10.1145/800215.806562</doi><ee>https://doi.org/10.1145/800215.806562</ee><url>https://dblp.org/rec/conf/sosp/CanonFHHMR79</url></info>
+<url>URL#7691721</url>
+</hit>
+<hit score="3" id="7691722">
+<info><authors><author pid="07/1810">Douglas Cook</author></authors><title>In Support of Domain Structure for Operating Systems.</title><venue>SOSP</venue><pages>128-130</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Cook79</key><doi>10.1145/800215.806580</doi><ee>https://doi.org/10.1145/800215.806580</ee><url>https://dblp.org/rec/conf/sosp/Cook79</url></info>
+<url>URL#7691722</url>
+</hit>
+<hit score="3" id="7691723">
+<info><authors><author pid="19/4447">Edward F. Gehringer</author></authors><title>Variable-Length Capabilities as a Solution to the Small-Object Problem.</title><venue>SOSP</venue><pages>131-142</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Gehringer79</key><doi>10.1145/800215.806581</doi><ee>https://doi.org/10.1145/800215.806581</ee><url>https://dblp.org/rec/conf/sosp/Gehringer79</url></info>
+<url>URL#7691723</url>
+</hit>
+<hit score="3" id="7691724">
+<info><authors><author pid="g/DavidKGifford">David K. Gifford</author></authors><title>Weighted Voting for Replicated Data.</title><venue>SOSP</venue><pages>150-162</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Gifford79</key><doi>10.1145/800215.806583</doi><ee>https://doi.org/10.1145/800215.806583</ee><url>https://dblp.org/rec/conf/sosp/Gifford79</url></info>
+<url>URL#7691724</url>
+</hit>
+<hit score="3" id="7691725">
+<info><authors><author pid="01/5537">Anita K. Jones</author><author pid="25/5141">Robert J. Chansler Jr.</author><author pid="65/1765">Ivor Durham</author><author pid="s/KarstenSchwan">Karsten Schwan</author><author pid="28/5520">Steven R. Vegdahl</author></authors><title>StarOS, a Multiprocessor Operating System for the Support of Task Forces.</title><venue>SOSP</venue><pages>117-127</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JonesCDSV79</key><doi>10.1145/800215.806579</doi><ee>https://doi.org/10.1145/800215.806579</ee><url>https://dblp.org/rec/conf/sosp/JonesCDSV79</url></info>
+<url>URL#7691725</url>
+</hit>
+<hit score="3" id="7691726">
+<info><authors><author pid="38/5462">B. Kumar</author><author pid="12/6704">Timothy A. Gonsalves</author></authors><title>Modelling and Analysis of Distributed Software Systems.</title><venue>SOSP</venue><pages>2-8</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KumarG79</key><doi>10.1145/800215.806563</doi><ee>https://doi.org/10.1145/800215.806563</ee><url>https://dblp.org/rec/conf/sosp/KumarG79</url></info>
+<url>URL#7691726</url>
+</hit>
+<hit score="3" id="7691727">
+<info><authors><author pid="l/ButlerWLampson">Butler W. Lampson</author><author pid="03/811">David D. Redell</author></authors><title>Experience with Processes and Monitors in Mesa (Summary).</title><venue>SOSP</venue><pages>43-44</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LampsonR79</key><doi>10.1145/800215.806568</doi><ee>https://doi.org/10.1145/800215.806568</ee><url>https://dblp.org/rec/conf/sosp/LampsonR79</url></info>
+<url>URL#7691727</url>
+</hit>
+<hit score="3" id="7691728">
+<info><authors><author pid="l/ButlerWLampson">Butler W. Lampson</author><author pid="34/1657">Robert F. Sproull</author></authors><title>An Open Operating System for a Single-User Machine.</title><venue>SOSP</venue><pages>98-105</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LampsonS79</key><doi>10.1145/800215.806575</doi><ee>https://doi.org/10.1145/800215.806575</ee><url>https://dblp.org/rec/conf/sosp/LampsonS79</url></info>
+<url>URL#7691728</url>
+</hit>
+<hit score="3" id="7691729">
+<info><authors><author pid="95/5851">Keith A. Lantz</author><author pid="r/RichardFRashid">Richard F. Rashid</author></authors><title>Virtual Terminal Management in a Multiple Process Environment.</title><venue>SOSP</venue><pages>86-97</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LantzR79</key><doi>10.1145/800215.806574</doi><ee>https://doi.org/10.1145/800215.806574</ee><url>https://dblp.org/rec/conf/sosp/LantzR79</url></info>
+<url>URL#7691729</url>
+</hit>
+<hit score="3" id="7691730">
+<info><authors><author pid="l/BarbaraLiskov">Barbara H. Liskov</author></authors><title>Primitives for Distributed Computing.</title><venue>SOSP</venue><pages>33-42</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Liskov79</key><doi>10.1145/800215.806567</doi><ee>https://doi.org/10.1145/800215.806567</ee><url>https://dblp.org/rec/conf/sosp/Liskov79</url></info>
+<url>URL#7691730</url>
+</hit>
+<hit score="3" id="7691731">
+<info><authors><author pid="06/3570">Warren A. Montgomery</author></authors><title>Polyvalues: A Tool for Implementing Atomic Updates to Distributed Data.</title><venue>SOSP</venue><pages>143-149</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Montgomery79</key><doi>10.1145/800215.806582</doi><ee>https://doi.org/10.1145/800215.806582</ee><url>https://dblp.org/rec/conf/sosp/Montgomery79</url></info>
+<url>URL#7691731</url>
+</hit>
+<hit score="3" id="7691732">
+<info><authors><author pid="n/RogerNeedham">Roger M. Needham</author></authors><title>Systems Aspects of the Cambridge Ring.</title><venue>SOSP</venue><pages>82-85</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Needham79</key><doi>10.1145/800215.806573</doi><ee>https://doi.org/10.1145/800215.806573</ee><url>https://dblp.org/rec/conf/sosp/Needham79</url></info>
+<url>URL#7691732</url>
+</hit>
+<hit score="3" id="7691733">
+<info><authors><author pid="o/JohnKOusterhout">John K. Ousterhout</author><author pid="19/6563">Donald A. Scelza</author><author pid="60/3688">Pradeep S. Sindhu</author></authors><title>Medusa: An Experiment in Distributed Operating System Structure (Summary).</title><venue>SOSP</venue><pages>115-116</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/OusterhoutSS79</key><doi>10.1145/800215.806578</doi><ee>https://doi.org/10.1145/800215.806578</ee><url>https://dblp.org/rec/conf/sosp/OusterhoutSS79</url></info>
+<url>URL#7691733</url>
+</hit>
+<hit score="3" id="7691734">
+<info><authors><author pid="42/5401">William H. Paxton</author></authors><title>A Client-Based Transaction System to Maintain Data Integrity.</title><venue>SOSP</venue><pages>18-23</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Paxton79</key><doi>10.1145/800215.806565</doi><ee>https://doi.org/10.1145/800215.806565</ee><url>https://dblp.org/rec/conf/sosp/Paxton79</url></info>
+<url>URL#7691734</url>
+</hit>
+<hit score="3" id="7691735">
+<info><authors><author pid="03/811">David D. Redell</author><author pid="42/1261">Yogen K. Dalal</author><author pid="05/2335">Thomas R. Horsley</author><author pid="50/2899">Hugh C. Lauer</author><author pid="82/5858">William C. Lynch</author><author pid="m/PaulRMcJones">Paul R. McJones</author><author pid="67/3720">Hal G. Murray</author><author pid="04/6237">Stephen C. Purcell</author></authors><title>Pilot: An Operating System for a Personal Computer (Summary).</title><venue>SOSP</venue><pages>106-107</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RedellDHLLMMP79</key><doi>10.1145/800215.806576</doi><ee>https://doi.org/10.1145/800215.806576</ee><url>https://dblp.org/rec/conf/sosp/RedellDHLLMMP79</url></info>
+<url>URL#7691735</url>
+</hit>
+<hit score="3" id="7691736">
+<info><authors><author pid="83/916">David P. Reed</author></authors><title>Implementing Atomic Actions on Decentralized Data.</title><venue>SOSP</venue><pages>163</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Reed79</key><doi>10.1145/800215.806584</doi><ee>https://doi.org/10.1145/800215.806584</ee><url>https://dblp.org/rec/conf/sosp/Reed79</url></info>
+<url>URL#7691736</url>
+</hit>
+<hit score="3" id="7691737">
+<info><authors><author pid="68/5828">Richard P. Reitman</author></authors><title>A Mechanism for Information Control in Parallel Systems.</title><venue>SOSP</venue><pages>55-63</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Reitman79</key><doi>10.1145/800215.806570</doi><ee>https://doi.org/10.1145/800215.806570</ee><url>https://dblp.org/rec/conf/sosp/Reitman79</url></info>
+<url>URL#7691737</url>
+</hit>
+<hit score="3" id="7691738">
+<info><authors><author pid="s/MarvinHSolomon">Marvin H. Solomon</author><author pid="f/RAFinkel">Raphael A. Finkel</author></authors><title>The ROSCOE Distributed Operating System.</title><venue>SOSP</venue><pages>108-114</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SolomonF79</key><doi>10.1145/800215.806577</doi><ee>https://doi.org/10.1145/800215.806577</ee><url>https://dblp.org/rec/conf/sosp/SolomonF79</url></info>
+<url>URL#7691738</url>
+</hit>
+<hit score="3" id="7691739">
+<info><authors><author pid="95/652">Daniel C. Swinehart</author><author pid="67/650">Gene McDaniel</author><author pid="98/5887">David R. Boggs</author></authors><title>WFS: A Simple Shared File System for a Distributed Environment.</title><venue>SOSP</venue><pages>9-17</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SwinehartMB79</key><doi>10.1145/800215.806564</doi><ee>https://doi.org/10.1145/800215.806564</ee><url>https://dblp.org/rec/conf/sosp/SwinehartMB79</url></info>
+<url>URL#7691739</url>
+</hit>
+<hit score="3" id="7691740">
+<info><authors><author pid="76/850">Bruce J. Walker</author><author pid="k/RAKemmerer">Richard A. Kemmerer</author><author pid="62/6214">Gerald J. Popek</author></authors><title>Specification and Verification of the UCLA Unix Security Kernel (Extended Abstract).</title><venue>SOSP</venue><pages>64-65</pages><year>1979</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WalkerKP79</key><doi>10.1145/800215.806571</doi><ee>https://doi.org/10.1145/800215.806571</ee><url>https://dblp.org/rec/conf/sosp/WalkerKP79</url></info>
+<url>URL#7691740</url>
+</hit>
+</hits>
+</result>

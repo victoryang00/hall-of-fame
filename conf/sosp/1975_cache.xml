@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287890">conf* sosp* 1975*</query>
+<status code="200">OK</status>
+<time unit="msecs">106.82</time>
+<completions total="1" computed="1" sent="1">
+<c sc="26" dc="26" oc="26" id="58179558">1975</c>
+</completions>
+<hits total="26" computed="26" sent="26" first="0">
+<hit score="4" id="7715537">
+<info><authors><author pid="99/2021">Steven B. Lipner</author></authors><title>A Comment on the Confinement Problem.</title><venue>SOSP</venue><pages>192-196</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Lipner75</key><doi>10.1145/800213.806537</doi><ee>https://doi.org/10.1145/800213.806537</ee><url>https://dblp.org/rec/conf/sosp/Lipner75</url></info>
+<url>URL#7715537</url>
+</hit>
+<hit score="3" id="7715518">
+<info><authors><author pid="a/AshokKAgrawala">Ashok K. Agrawala</author><author pid="45/4349">Raymond M. Bryant</author></authors><title>Models of Memory Scheduling.</title><venue>SOSP</venue><pages>217-222</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AgrawalaB75</key><doi>10.1145/800213.806540</doi><ee>https://doi.org/10.1145/800213.806540</ee><url>https://dblp.org/rec/conf/sosp/AgrawalaB75</url></info>
+<url>URL#7715518</url>
+</hit>
+<hit score="3" id="7715519">
+<info><authors><author pid="35/5332">Eralp A. Akkoyunlu</author><author pid="48/4273">K. Ekanandham</author><author pid="22/5528">R. V. Huber</author></authors><title>Some Constraints and Tradeoffs in the Design of Network Communications.</title><venue>SOSP</venue><pages>67-74</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AkkoyunluEH75</key><doi>10.1145/800213.806523</doi><ee>https://doi.org/10.1145/800213.806523</ee><url>https://dblp.org/rec/conf/sosp/AkkoyunluEH75</url></info>
+<url>URL#7715519</url>
+</hit>
+<hit score="3" id="7715520">
+<info><authors><author pid="62/4264">Bruce W. Arden</author><author pid="75/5342">Alan D. Berenbaum</author></authors><title>A Multi-Microprocessor Computer System Architecture.</title><venue>SOSP</venue><pages>114-121</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ArdenB75</key><doi>10.1145/800213.806529</doi><ee>https://doi.org/10.1145/800213.806529</ee><url>https://dblp.org/rec/conf/sosp/ArdenB75</url></info>
+<url>URL#7715520</url>
+</hit>
+<hit score="3" id="7715521">
+<info><authors><author pid="45/4150">John D. Bagley</author><author pid="61/6832">E. R. Floto</author><author pid="50/396">S. C. Hsieh</author><author pid="20/5865">V. Watson</author></authors><title>Sharing Data and Services in a Virtual Machine System.</title><venue>SOSP</venue><pages>82-88</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BagleyFHW75</key><doi>10.1145/800213.806525</doi><ee>https://doi.org/10.1145/800213.806525</ee><url>https://dblp.org/rec/conf/sosp/BagleyFHW75</url></info>
+<url>URL#7715521</url>
+</hit>
+<hit score="3" id="7715522">
+<info><authors><author pid="81/3206">Douglas L. Bayer</author><author pid="82/5202">H. Lycklama</author></authors><title>MERT - A Multi-Environment Real-Time Operating System.</title><venue>SOSP</venue><pages>33-42</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BayerL75</key><doi>10.1145/800213.806519</doi><ee>https://doi.org/10.1145/800213.806519</ee><url>https://dblp.org/rec/conf/sosp/BayerL75</url></info>
+<url>URL#7715522</url>
+</hit>
+<hit score="3" id="7715523">
+<info><authors><author pid="07/495">Gérald Belpaire</author><author pid="73/753">Nai-Ting Hsu</author></authors><title>Formal Properties of Recursive Virtual Machine Architectures.</title><venue>SOSP</venue><pages>89-96</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BelpaireN75</key><doi>10.1145/800213.806526</doi><ee>https://doi.org/10.1145/800213.806526</ee><url>https://dblp.org/rec/conf/sosp/BelpaireN75</url></info>
+<url>URL#7715523</url>
+</hit>
+<hit score="3" id="7715524">
+<info><authors><author pid="19/1217">Robert E. Brundage</author><author pid="88/1865">Alan P. Batson</author></authors><title>Computational Processor Demands of Algol-60 Programs.</title><venue>SOSP</venue><pages>161-168</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BrundageB75</key><doi>10.1145/800213.806533</doi><ee>https://doi.org/10.1145/800213.806533</ee><url>https://dblp.org/rec/conf/sosp/BrundageB75</url></info>
+<url>URL#7715524</url>
+</hit>
+<hit score="3" id="7715525">
+<info><authors><author pid="c/KManiChandy">K. Mani Chandy</author><author pid="76/4110">P. F. Reynolds</author></authors><title>Scheduling Partially Ordered Tasks with Probabilistic Execution Times.</title><venue>SOSP</venue><pages>169-177</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ChandyR75</key><doi>10.1145/800213.806534</doi><ee>https://doi.org/10.1145/800213.806534</ee><url>https://dblp.org/rec/conf/sosp/ChandyR75</url></info>
+<url>URL#7715525</url>
+</hit>
+<hit score="3" id="7715526">
+<info><authors><author pid="45/3078">Gregory L. Chesson</author></authors><title>The Network Unix System.</title><venue>SOSP</venue><pages>60-66</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Chesson75</key><doi>10.1145/800213.806522</doi><ee>https://doi.org/10.1145/800213.806522</ee><url>https://dblp.org/rec/conf/sosp/Chesson75</url></info>
+<url>URL#7715526</url>
+</hit>
+<hit score="3" id="7715527">
+<info><authors><author pid="c/EdwardGCoffmanJr">Edward G. Coffman Jr.</author><author pid="92/126">Isi Mitrani</author></authors><title>Selecting a Scheduling Rule that Meets Pre-Specified Response Time Demands.</title><venue>SOSP</venue><pages>187-191</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CoffmanM75</key><doi>10.1145/800213.806536</doi><ee>https://doi.org/10.1145/800213.806536</ee><url>https://dblp.org/rec/conf/sosp/CoffmanM75</url></info>
+<url>URL#7715527</url>
+</hit>
+<hit score="3" id="7715528">
+<info><authors><author pid="03/3373">Ellis S. Cohen</author><author pid="58/5163">David Jefferson</author></authors><title>Protection in the HYDRA Operating System.</title><venue>SOSP</venue><pages>141-160</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CohenJ75</key><doi>10.1145/800213.806532</doi><ee>https://doi.org/10.1145/800213.806532</ee><url>https://dblp.org/rec/conf/sosp/CohenJ75</url></info>
+<url>URL#7715528</url>
+</hit>
+<hit score="3" id="7715529">
+<info><authors><author pid="03/3587">Bernard P. Cosell</author><author pid="66/1236">Paul R. Johnson</author><author pid="79/3160">J. H. Malman</author><author pid="49/617">Richard E. Schantz</author><author pid="19/3618">J. Sussman</author><author pid="19/5639">Robert H. Thomas</author><author pid="59/2860">David C. Walden</author></authors><title>An Operating System for Computer Resource Sharing.</title><venue>SOSP</venue><pages>75-81</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CosellJMSSTW75</key><doi>10.1145/800213.806524</doi><ee>https://doi.org/10.1145/800213.806524</ee><url>https://dblp.org/rec/conf/sosp/CosellJMSSTW75</url></info>
+<url>URL#7715529</url>
+</hit>
+<hit score="3" id="7715530">
+<info><authors><author pid="d/PJDenning">Peter J. Denning</author><author pid="45/4795">Kevin C. Kahn</author></authors><title>A Study of Program Locality and Lifetime Functions.</title><venue>SOSP</venue><pages>207-216</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DenningK75</key><doi>10.1145/800213.806539</doi><ee>https://doi.org/10.1145/800213.806539</ee><url>https://dblp.org/rec/conf/sosp/DenningK75</url></info>
+<url>URL#7715530</url>
+</hit>
+<hit score="3" id="7715531">
+<info><authors><author pid="h/MichaelAHarrison">Michael A. Harrison</author><author pid="r/WalterLRuzzo">Walter L. Ruzzo</author><author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author></authors><title>On Protection in Operating System.</title><venue>SOSP</venue><pages>14-24</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/HarrisonRU75</key><doi>10.1145/800213.806517</doi><ee>https://doi.org/10.1145/800213.806517</ee><url>https://dblp.org/rec/conf/sosp/HarrisonRU75</url></info>
+<url>URL#7715531</url>
+</hit>
+<hit score="3" id="7715532">
+<info><authors><author pid="j/PhilippeAJanson">Philippe A. Janson</author></authors><title>Dynamic Linking and Environment Initialization in a Multi-Domain Process.</title><venue>SOSP</venue><pages>43-50</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Janson75</key><doi>10.1145/800213.806520</doi><ee>https://doi.org/10.1145/800213.806520</ee><url>https://dblp.org/rec/conf/sosp/Janson75</url></info>
+<url>URL#7715532</url>
+</hit>
+<hit score="3" id="7715533">
+<info><authors><author pid="01/5537">Anita K. Jones</author><author pid="l/RichardJLipton">Richard J. Lipton</author></authors><title>The Enforcement of Security Policies for Computation.</title><venue>SOSP</venue><pages>197-206</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/JonesL75</key><doi>10.1145/800213.806538</doi><ee>https://doi.org/10.1145/800213.806538</ee><url>https://dblp.org/rec/conf/sosp/JonesL75</url></info>
+<url>URL#7715533</url>
+</hit>
+<hit score="3" id="7715534">
+<info><authors><author pid="33/4788">Richard Y. Kain</author></authors><title>How to Evaluate Page Replacement Algorithms.</title><venue>SOSP</venue><pages>1-5</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Kain75</key><doi>10.1145/800213.806515</doi><ee>https://doi.org/10.1145/800213.806515</ee><url>https://dblp.org/rec/conf/sosp/Kain75</url></info>
+<url>URL#7715534</url>
+</hit>
+<hit score="3" id="7715535">
+<info><authors><author pid="20/3150">Shui Lam</author><author pid="34/3026">Ravi Sethi</author></authors><title>Analysis of a Level Algorithm for Preemptive Scheduling.</title><venue>SOSP</venue><pages>178-186</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LamS75</key><doi>10.1145/800213.806535</doi><ee>https://doi.org/10.1145/800213.806535</ee><url>https://dblp.org/rec/conf/sosp/LamS75</url></info>
+<url>URL#7715535</url>
+</hit>
+<hit score="3" id="7715536">
+<info><authors><author pid="83/749">Roy Levin</author><author pid="03/3373">Ellis S. Cohen</author><author pid="64/3311">William M. Corwin</author><author pid="92/4303">Fred J. Pollack</author><author pid="w/WilliamAWulf">William A. Wulf</author></authors><title>Policy/Mechanism Separation in HYDRA.</title><venue>SOSP</venue><pages>132-140</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LevinCCPW75</key><doi>10.1145/800213.806531</doi><ee>https://doi.org/10.1145/800213.806531</ee><url>https://dblp.org/rec/conf/sosp/LevinCCPW75</url></info>
+<url>URL#7715536</url>
+</hit>
+<hit score="3" id="7715538">
+<info><authors><author pid="62/6214">Gerald J. Popek</author><author pid="78/6248">Charles S. Kline</author></authors><title>The PDP-11 Virtual Machine Architecture: A Case Study.</title><venue>SOSP</venue><pages>97-105</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PopekK75</key><doi>10.1145/800213.806527</doi><ee>https://doi.org/10.1145/800213.806527</ee><url>https://dblp.org/rec/conf/sosp/PopekK75</url></info>
+<url>URL#7715538</url>
+</hit>
+<hit score="3" id="7715539">
+<info><authors><author pid="52/1311">J. L. Pruitt</author><author pid="62/2058">W. W. Case</author></authors><title>Architecture of a Real-Time Operating System.</title><venue>SOSP</venue><pages>51-59</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PruittC75</key><doi>10.1145/800213.806521</doi><ee>https://doi.org/10.1145/800213.806521</ee><url>https://dblp.org/rec/conf/sosp/PruittC75</url></info>
+<url>URL#7715539</url>
+</hit>
+<hit score="3" id="7715540">
+<info><authors><author pid="43/3112">David L. Russell</author><author pid="59/7037">Thomas H. Bredt</author></authors><title>Error Resynchronization in Producer-Consumer Systems.</title><venue>SOSP</venue><pages>106-113</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RussellB75</key><doi>10.1145/800213.806528</doi><ee>https://doi.org/10.1145/800213.806528</ee><url>https://dblp.org/rec/conf/sosp/RussellB75</url></info>
+<url>URL#7715540</url>
+</hit>
+<hit score="3" id="7715541">
+<info><authors><author pid="10/5548">Eitan Sadeh</author></authors><title>An Analysis of the Performance of the Page Fault Frequency (PFF) Replacement Algorithm.</title><venue>SOSP</venue><pages>6-13</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Sadeh75</key><doi>10.1145/800213.806516</doi><ee>https://doi.org/10.1145/800213.806516</ee><url>https://dblp.org/rec/conf/sosp/Sadeh75</url></info>
+<url>URL#7715541</url>
+</hit>
+<hit score="3" id="7715542">
+<info><authors><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author></authors><title>Engineering a Security Kernel for Multics.</title><venue>SOSP</venue><pages>25-32</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Schroeder75</key><doi>10.1145/800213.806518</doi><ee>https://doi.org/10.1145/800213.806518</ee><url>https://dblp.org/rec/conf/sosp/Schroeder75</url></info>
+<url>URL#7715542</url>
+</hit>
+<hit score="3" id="7715543">
+<info><authors><author pid="w/WilliamAWulf">William A. Wulf</author><author pid="83/749">Roy Levin</author><author pid="66/919">C. Pierson</author></authors><title>Overview of the HYDRA Operating System Development.</title><venue>SOSP</venue><pages>122-131</pages><year>1975</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/WulfLP75</key><doi>10.1145/800213.806530</doi><ee>https://doi.org/10.1145/800213.806530</ee><url>https://dblp.org/rec/conf/sosp/WulfLP75</url></info>
+<url>URL#7715543</url>
+</hit>
+</hits>
+</result>

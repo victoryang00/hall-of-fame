@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287115">conf* sosp* 1969*</query>
+<status code="200">OK</status>
+<time unit="msecs">107.11</time>
+<completions total="1" computed="1" sent="1">
+<c sc="24" dc="24" oc="24" id="58179269">1969</c>
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="3" id="7736379">
+<info><authors><author pid="56/4634">Peter Alsberg</author><author pid="164/0370">Carlton R. Mills</author></authors><title>The structure of the ILLIAC IV operating system.</title><venue>SOSP</venue><pages>92-96</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AlsbergM69</key><doi>10.1145/961053.961090</doi><ee>https://doi.org/10.1145/961053.961090</ee><url>https://dblp.org/rec/conf/sosp/AlsbergM69</url></info>
+<url>URL#7736379</url>
+</hit>
+<hit score="3" id="7736380">
+<info><authors><author pid="62/4264">Bruce W. Arden</author><author pid="164/0310">Donald W. Boettner</author></authors><title>Measurement and performance of a multiprogramming system.</title><venue>SOSP</venue><pages>130-146</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/ArdenB69</key><doi>10.1145/961053.961101</doi><ee>https://doi.org/10.1145/961053.961101</ee><url>https://dblp.org/rec/conf/sosp/ArdenB69</url></info>
+<url>URL#7736380</url>
+</hit>
+<hit score="3" id="7736381">
+<info><authors><author pid="88/1865">Alan P. Batson</author><author pid="76/5647">Shy-Ming Ju</author><author pid="34/3217">David C. Wood</author></authors><title>Measurements of segment size.</title><venue>SOSP</venue><pages>25-29</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BatsonJW69</key><doi>10.1145/961053.961067</doi><ee>https://doi.org/10.1145/961053.961067</ee><url>https://dblp.org/rec/conf/sosp/BatsonJW69</url></info>
+<url>URL#7736381</url>
+</hit>
+<hit score="3" id="7736382">
+<info><authors><author pid="60/3631">A. Bensoussan</author><author pid="22/4275">C. T. Clingen</author><author pid="57/4401">Robert C. Daley</author></authors><title>The multics virtual memory.</title><venue>SOSP</venue><pages>30-42</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BensoussanCD69</key><doi>10.1145/961053.961069</doi><ee>https://doi.org/10.1145/961053.961069</ee><url>https://dblp.org/rec/conf/sosp/BensoussanCD69</url></info>
+<url>URL#7736382</url>
+</hit>
+<hit score="3" id="7736383">
+<info><authors><author pid="25/5137">Arthur J. Bernstein</author><author pid="63/2057">G. D. Detlefsen</author><author pid="164/0339">R. H. Kerr</author></authors><title>Process control and communication.</title><venue>SOSP</venue><pages>60-66</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BernsteinDK69</key><doi>10.1145/961053.961078</doi><ee>https://doi.org/10.1145/961053.961078</ee><url>https://dblp.org/rec/conf/sosp/BernsteinDK69</url></info>
+<url>URL#7736383</url>
+</hit>
+<hit score="3" id="7736384">
+<info><authors><author pid="12/6819">Claude Bétourné</author><author pid="97/2184">Jacques Boulenger</author><author pid="08/3501">Jean Ferrié</author><author pid="k/ClaudeKaiser">Claude Kaiser</author><author pid="98/4373">Jean Kott</author><author pid="k/SachaKrakowiak">Sacha Krakowiak</author><author pid="08/3432">Jacques Mossière</author></authors><title>Process management and resource sharing in the multiaccess system &quot;ESOPE&quot;.</title><venue>SOSP</venue><pages>67-74</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BetourneBFKKKM69</key><doi>10.1145/961053.961080</doi><ee>https://doi.org/10.1145/961053.961080</ee><url>https://dblp.org/rec/conf/sosp/BetourneBFKKKM69</url></info>
+<url>URL#7736384</url>
+</hit>
+<hit score="3" id="7736385">
+<info><authors><author pid="124/5941">G. E. Bryan</author><author pid="54/4471">Jack E. Shemer</author></authors><title>The UTS time-sharing system: performance analysis and instrumentation.</title><venue>SOSP</venue><pages>147-158</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BryanS69</key><doi>10.1145/961053.961102</doi><ee>https://doi.org/10.1145/961053.961102</ee><url>https://dblp.org/rec/conf/sosp/BryanS69</url></info>
+<url>URL#7736385</url>
+</hit>
+<hit score="3" id="7736386">
+<info><authors><author pid="164/0428">Douglas B. Earl</author><author pid="164/0382">Faith L. Bugely</author></authors><title>Basic time-sharing: a system of computing principles.</title><venue>SOSP</venue><pages>75-79</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/EarlB69</key><doi>10.1145/961053.961082</doi><ee>https://doi.org/10.1145/961053.961082</ee><url>https://dblp.org/rec/conf/sosp/EarlB69</url></info>
+<url>URL#7736386</url>
+</hit>
+<hit score="3" id="7736387">
+<info><authors><author pid="41/1950">Kazuhiro Fuchi</author><author pid="68/7007">Hozumi Tanaka</author><author pid="164/0371">Yuriko Manago</author><author pid="15/379">Toshitsugu Yuba</author></authors><title>A program simulator by partial interpretation.</title><venue>SOSP</venue><pages>97-104</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/FuchiTMY69</key><doi>10.1145/961053.961092</doi><ee>https://doi.org/10.1145/961053.961092</ee><url>https://dblp.org/rec/conf/sosp/FuchiTMY69</url></info>
+<url>URL#7736387</url>
+</hit>
+<hit score="3" id="7736388">
+<info><authors><author pid="11/6337">Herbert Hellerman</author></authors><title>Complementary replacement: a meta scheduling principle.</title><venue>SOSP</venue><pages>43-46</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Hellerman69</key><doi>10.1145/961053.961070</doi><ee>https://doi.org/10.1145/961053.961070</ee><url>https://dblp.org/rec/conf/sosp/Hellerman69</url></info>
+<url>URL#7736388</url>
+</hit>
+<hit score="3" id="7736389">
+<info><authors><author pid="17/4602">John B. Johnston</author></authors><title>Structure of multiple activity algorithms.</title><venue>SOSP</venue><pages>80-82</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Johnston69</key><doi>10.1145/961053.961084</doi><ee>https://doi.org/10.1145/961053.961084</ee><url>https://dblp.org/rec/conf/sosp/Johnston69</url></info>
+<url>URL#7736389</url>
+</hit>
+<hit score="3" id="7736390">
+<info><authors><author pid="164/0268">Arnold D. Karush</author></authors><title>Two approaches for measuring the performance of time-sharing systems.</title><venue>SOSP</venue><pages>159-166</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Karush69</key><doi>10.1145/961053.961103</doi><ee>https://doi.org/10.1145/961053.961103</ee><url>https://dblp.org/rec/conf/sosp/Karush69</url></info>
+<url>URL#7736390</url>
+</hit>
+<hit score="3" id="7736391">
+<info><authors><author pid="k/BWKernighan">Brian W. Kernighan</author></authors><title>Optimal segmentation points for programs.</title><venue>SOSP</venue><pages>47-53</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Kernighan69</key><doi>10.1145/961053.961072</doi><ee>https://doi.org/10.1145/961053.961072</ee><url>https://dblp.org/rec/conf/sosp/Kernighan69</url></info>
+<url>URL#7736391</url>
+</hit>
+<hit score="3" id="7736392">
+<info><authors><author pid="08/7755">Helene E. Kulsrud</author></authors><title>HELPER: an interactive extensible debugging system.</title><venue>SOSP</venue><pages>105-111</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Kulsrud69</key><doi>10.1145/961053.961095</doi><ee>https://doi.org/10.1145/961053.961095</ee><url>https://dblp.org/rec/conf/sosp/Kulsrud69</url></info>
+<url>URL#7736392</url>
+</hit>
+<hit score="3" id="7736393">
+<info><authors><author pid="02/4810">George H. Mealy</author></authors><title>The system design cycle.</title><venue>SOSP</venue><pages>1-7</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Mealy69</key><doi>10.1145/961053.961057</doi><ee>https://doi.org/10.1145/961053.961057</ee><url>https://dblp.org/rec/conf/sosp/Mealy69</url></info>
+<url>URL#7736393</url>
+</hit>
+<hit score="3" id="7736394">
+<info><authors><author pid="10/4492">David L. Mills</author></authors><title>Multiprogramming in a small-systems environment.</title><venue>SOSP</venue><pages>112-119</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Mills69</key><doi>10.1145/961053.961096</doi><ee>https://doi.org/10.1145/961053.961096</ee><url>https://dblp.org/rec/conf/sosp/Mills69</url></info>
+<url>URL#7736394</url>
+</hit>
+<hit score="3" id="7736395">
+<info><authors><author pid="n/RogerNeedham">Roger M. Needham</author><author pid="123/3885">David F. Hartley</author></authors><title>Theory and practice in operating system design.</title><venue>SOSP</venue><pages>8-12</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/NeedhamH69</key><doi>10.1145/961053.961058</doi><ee>https://doi.org/10.1145/961053.961058</ee><url>https://dblp.org/rec/conf/sosp/NeedhamH69</url></info>
+<url>URL#7736395</url>
+</hit>
+<hit score="3" id="7736396">
+<info><authors><author pid="n/PeterGNeumann">Peter G. Neumann</author></authors><title>The role of motherhood in the pop art of system programming.</title><venue>SOSP</venue><pages>13-18</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Neumann69</key><doi>10.1145/961053.961060</doi><ee>https://doi.org/10.1145/961053.961060</ee><url>https://dblp.org/rec/conf/sosp/Neumann69</url></info>
+<url>URL#7736396</url>
+</hit>
+<hit score="3" id="7736397">
+<info><authors><author pid="164/0342">Rajani M. Patel</author></authors><title>Basic I/O handling on burroughs B6500.</title><venue>SOSP</venue><pages>120-129</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Patel69</key><doi>10.1145/961053.961098</doi><ee>https://doi.org/10.1145/961053.961098</ee><url>https://dblp.org/rec/conf/sosp/Patel69</url></info>
+<url>URL#7736397</url>
+</hit>
+<hit score="3" id="7736398">
+<info><authors><author pid="54/2957">Peter C. Poole</author><author pid="w/WilliamMWaite">William M. Waite</author></authors><title>Machine independent software.</title><venue>SOSP</venue><pages>19-24</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/PooleW69</key><doi>10.1145/961053.961063</doi><ee>https://doi.org/10.1145/961053.961063</ee><url>https://dblp.org/rec/conf/sosp/PooleW69</url></info>
+<url>URL#7736398</url>
+</hit>
+<hit score="3" id="7736399">
+<info><authors><author pid="s/JeromeHSaltzer">Jerome H. Saltzer</author><author pid="47/3089">John Gintell</author></authors><title>The instrumentation of multics.</title><venue>SOSP</venue><pages>167-174</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SaltzerG69</key><doi>10.1145/961053.961104</doi><ee>https://doi.org/10.1145/961053.961104</ee><url>https://dblp.org/rec/conf/sosp/SaltzerG69</url></info>
+<url>URL#7736399</url>
+</hit>
+<hit score="3" id="7736400">
+<info><authors><author pid="36/3426">Michael J. Spier</author><author pid="16/2237">Elliott I. Organick</author></authors><title>The multics interprocess communication facility.</title><venue>SOSP</venue><pages>83-91</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SpierO69</key><doi>10.1145/961053.961086</doi><ee>https://doi.org/10.1145/961053.961086</ee><url>https://dblp.org/rec/conf/sosp/SpierO69</url></info>
+<url>URL#7736400</url>
+</hit>
+<hit score="3" id="7736401">
+<info><authors><author pid="164/0330">Albin L. Vareha</author><author pid="125/8202">Ronald M. Rutledge</author><author pid="11/5935">Michael M. Gold</author></authors><title>Strategies for structuring two level memories in a paging environment.</title><venue>SOSP</venue><pages>54-59</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VarehaRG69</key><doi>10.1145/961053.961075</doi><ee>https://doi.org/10.1145/961053.961075</ee><url>https://dblp.org/rec/conf/sosp/VarehaRG69</url></info>
+<url>URL#7736401</url>
+</hit>
+<hit score="3" id="7736402">
+<info><authors><author pid="w/WilliamAWulf">William A. Wulf</author></authors><title>Performance monitors for multi-programming systems.</title><venue>SOSP</venue><pages>175-181</pages><year>1969</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/Wulf69</key><doi>10.1145/961053.961105</doi><ee>https://doi.org/10.1145/961053.961105</ee><url>https://dblp.org/rec/conf/sosp/Wulf69</url></info>
+<url>URL#7736402</url>
+</hit>
+</hits>
+</result>

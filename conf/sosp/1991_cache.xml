@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="286486">conf* sosp* 1991*</query>
+<status code="200">OK</status>
+<time unit="msecs">4.15</time>
+<completions total="1" computed="1" sent="1">
+<c sc="21" dc="19" oc="21" id="58180136">1991</c>
+</completions>
+<hits total="19" computed="19" sent="19" first="0">
+<hit score="6" id="7511662">
+<info><authors><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Proceedings of the Thirteenth ACM Symposium on Operating System Principles, SOSP 1991, Asilomar Conference Center, Pacific Grove, California, USA, October 13-16, 1991</title><venue>SOSP</venue><publisher>ACM</publisher><year>1991</year><type>Editorship</type><key>conf/sosp/1991</key><doi>10.1145/121132</doi><ee>https://doi.org/10.1145/121132</ee><url>https://dblp.org/rec/conf/sosp/1991</url></info>
+<url>URL#7511662</url>
+</hit>
+<hit score="3" id="7509571">
+<info><authors><author pid="a/ThomasEAnderson">Thomas E. Anderson</author><author pid="b/BNBershad">Brian N. Bershad</author><author pid="l/EDLazowska">Edward D. Lazowska</author><author pid="l/HenryMLevy">Henry M. Levy</author></authors><title>Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism.</title><venue>SOSP</venue><pages>95-109</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/AndersonBLL91</key><doi>10.1145/121132.121151</doi><ee>https://doi.org/10.1145/121132.121151</ee><url>https://dblp.org/rec/conf/sosp/AndersonBLL91</url></info>
+<url>URL#7509571</url>
+</hit>
+<hit score="3" id="7509572">
+<info><authors><author pid="b/MaryBaker">Mary Baker</author><author pid="h/JohnHHartman">John H. Hartman</author><author pid="90/2338">Michael D. Kupfer</author><author pid="90/4169">Ken Shirriff</author><author pid="o/JohnKOusterhout">John K. Ousterhout</author></authors><title>Measurements of a Distributed File System.</title><venue>SOSP</venue><pages>198-212</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/BakerHKSO91</key><doi>10.1145/121132.121164</doi><ee>https://doi.org/10.1145/121132.121164</ee><url>https://dblp.org/rec/conf/sosp/BakerHKSO91</url></info>
+<url>URL#7509572</url>
+</hit>
+<hit score="3" id="7509573">
+<info><authors><author pid="c/JohnBCarter">John B. Carter</author><author pid="b/JKBennett">John K. Bennett</author><author pid="z/WZwaenepoel">Willy Zwaenepoel</author></authors><title>Implementation and Performance of Munin.</title><venue>SOSP</venue><pages>152-164</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/CarterBZ91</key><doi>10.1145/121132.121159</doi><ee>https://doi.org/10.1145/121132.121159</ee><url>https://dblp.org/rec/conf/sosp/CarterBZ91</url></info>
+<url>URL#7509573</url>
+</hit>
+<hit score="3" id="7509574">
+<info><authors><author pid="09/5874">Richard Draves</author><author pid="b/BNBershad">Brian N. Bershad</author><author pid="r/RichardFRashid">Richard F. Rashid</author><author pid="17/6120">Randall W. Dean</author></authors><title>Using Continuations to Implement Thread Management and Communication in Operating Systems.</title><venue>SOSP</venue><pages>122-136</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/DravesBRD91</key><doi>10.1145/121132.121155</doi><ee>https://doi.org/10.1145/121132.121155</ee><url>https://dblp.org/rec/conf/sosp/DravesBRD91</url></info>
+<url>URL#7509574</url>
+</hit>
+<hit score="3" id="7509575">
+<info><authors><author pid="g/DavidKGifford">David K. Gifford</author><author pid="79/630">Pierre Jouvelot</author><author pid="74/2146">Mark A. Sheldon</author><author pid="88/6703">James W. O&apos;Toole Jr.</author></authors><title>Semantic File Systems.</title><venue>SOSP</venue><pages>16-25</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GiffordJSO91</key><doi>10.1145/121132.121138</doi><ee>https://doi.org/10.1145/121132.121138</ee><url>https://dblp.org/rec/conf/sosp/GiffordJSO91</url></info>
+<url>URL#7509575</url>
+</hit>
+<hit score="3" id="7509576">
+<info><authors><author pid="g/RameshGovindan">Ramesh Govindan</author><author pid="00/4091">David P. Anderson</author></authors><title>Scheduling and IPC Mechanisms for Continuous Media.</title><venue>SOSP</venue><pages>68-80</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/GovindanA91</key><doi>10.1145/121132.121147</doi><ee>https://doi.org/10.1145/121132.121147</ee><url>https://dblp.org/rec/conf/sosp/GovindanA91</url></info>
+<url>URL#7509576</url>
+</hit>
+<hit score="3" id="7509577">
+<info><authors><author pid="k/AnnaRKarlin">Anna R. Karlin</author><author pid="l/KaiLi1">Kai Li 0001</author><author pid="m/MarkSManasse">Mark S. Manasse</author><author pid="06/3161">Susan S. Owicki</author></authors><title>Empirical Studies of Competitive Spinning for a Shared-Memory Multiprocessor.</title><venue>SOSP</venue><pages>41-55</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KarlinLMO91</key><doi>10.1145/121132.286599</doi><ee>https://doi.org/10.1145/121132.286599</ee><url>https://dblp.org/rec/conf/sosp/KarlinLMO91</url></info>
+<url>URL#7509577</url>
+</hit>
+<hit score="3" id="7509578">
+<info><authors><author pid="12/56">James J. Kistler</author><author pid="s/MahadevSatyanarayanan">Mahadev Satyanarayanan</author></authors><title>Disconnected Operation in the Coda File System.</title><venue>SOSP</venue><pages>213-225</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/KistlerS91</key><doi>10.1145/121132.121166</doi><ee>https://doi.org/10.1145/121132.121166</ee><url>https://dblp.org/rec/conf/sosp/KistlerS91</url></info>
+<url>URL#7509578</url>
+</hit>
+<hit score="3" id="7509579">
+<info><authors><author pid="53/2531">Richard P. LaRowe Jr.</author><author pid="e/CSEllis">Carla Schlatter Ellis</author><author pid="16/6459">Laurence S. Kaplan</author></authors><title>The Robustness of NUMA Memory Management.</title><venue>SOSP</venue><pages>137-151</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LaRoweEK91</key><doi>10.1145/121132.121158</doi><ee>https://doi.org/10.1145/121132.121158</ee><url>https://dblp.org/rec/conf/sosp/LaRoweEK91</url></info>
+<url>URL#7509579</url>
+</hit>
+<hit score="3" id="7509580">
+<info><authors><author pid="l/ButlerWLampson">Butler W. Lampson</author><author pid="a/MartinAbadi">Martín Abadi</author><author pid="73/615">Michael Burrows</author><author pid="88/1825">Edward Wobber</author></authors><title>Authentication in Distributed Systems: Theory and Practice.</title><venue>SOSP</venue><pages>165-182</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LampsonABW91</key><doi>10.1145/121132.121160</doi><ee>https://doi.org/10.1145/121132.121160</ee><url>https://dblp.org/rec/conf/sosp/LampsonABW91</url></info>
+<url>URL#7509580</url>
+</hit>
+<hit score="3" id="7509581">
+<info><authors><author pid="l/BarbaraLiskov">Barbara Liskov</author><author pid="g/SGhemawat">Sanjay Ghemawat</author><author pid="g/RobertGruber">Robert Gruber</author><author pid="38/2987-1">Paul Johnson 0001</author><author pid="s/LiubaShrira">Liuba Shrira</author><author pid="55/6103">Michael Williams</author></authors><title>Replication in the Harp File System.</title><venue>SOSP</venue><pages>226-238</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/LiskovGGJSW91</key><doi>10.1145/121132.121169</doi><ee>https://doi.org/10.1145/121132.121169</ee><url>https://dblp.org/rec/conf/sosp/LiskovGGJSW91</url></info>
+<url>URL#7509581</url>
+</hit>
+<hit score="3" id="7509582">
+<info><authors><author pid="15/4610">Brian D. Marsh</author><author pid="s/MichaelLScott">Michael L. Scott</author><author pid="77/2432">Thomas J. LeBlanc</author><author pid="m/EvangelosPMarkatos">Evangelos P. Markatos</author></authors><title>First-Class User-Level Theads.</title><venue>SOSP</venue><pages>110-121</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MarshSLM91</key><doi>10.1145/121132.344329</doi><ee>https://doi.org/10.1145/121132.344329</ee><url>https://dblp.org/rec/conf/sosp/MarshSLM91</url></info>
+<url>URL#7509582</url>
+</hit>
+<hit score="3" id="7509583">
+<info><authors><author pid="55/3013">Keith Muller</author><author pid="p/JPasquale">Joseph Pasquale</author></authors><title>A High Performance Multi-Structured File System Design.</title><venue>SOSP</venue><pages>56-67</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/MullerP91</key><doi>10.1145/121132.286600</doi><ee>https://doi.org/10.1145/121132.286600</ee><url>https://dblp.org/rec/conf/sosp/MullerP91</url></info>
+<url>URL#7509583</url>
+</hit>
+<hit score="3" id="7509584">
+<info><authors><author pid="r/PVRangan">P. Venkat Rangan</author><author pid="v/HarrickMVin">Harrick M. Vin</author></authors><title>Designing File Systems for Digital Video and Audio.</title><venue>SOSP</venue><pages>81-94</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RanganV91</key><doi>10.1145/121132.121149</doi><ee>https://doi.org/10.1145/121132.121149</ee><url>https://dblp.org/rec/conf/sosp/RanganV91</url></info>
+<url>URL#7509584</url>
+</hit>
+<hit score="3" id="7509585">
+<info><authors><author pid="r/TLRodeheffer">Thomas L. Rodeheffer</author><author pid="s/MichaelDSchroeder">Michael D. Schroeder</author></authors><title>Automatic Reconfiguration in Autonet.</title><venue>SOSP</venue><pages>183-197</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RodehefferS91</key><doi>10.1145/121132.121162</doi><ee>https://doi.org/10.1145/121132.121162</ee><url>https://dblp.org/rec/conf/sosp/RodehefferS91</url></info>
+<url>URL#7509585</url>
+</hit>
+<hit score="3" id="7509586">
+<info><authors><author pid="r/MendelRosenblum">Mendel Rosenblum</author><author pid="o/JohnKOusterhout">John K. Ousterhout</author></authors><title>The Design and Implementation of a Log-Structured File System.</title><venue>SOSP</venue><pages>1-15</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/RosenblumO91</key><doi>10.1145/121132.121137</doi><ee>https://doi.org/10.1145/121132.121137</ee><url>https://dblp.org/rec/conf/sosp/RosenblumO91</url></info>
+<url>URL#7509586</url>
+</hit>
+<hit score="3" id="7509587">
+<info><authors><author pid="60/1686">Frank B. Schmuck</author><author pid="21/89">James C. Wyllie</author></authors><title>Experience with Transactions in QuickSilver.</title><venue>SOSP</venue><pages>239-253</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/SchmuckW91</key><doi>10.1145/121132.121171</doi><ee>https://doi.org/10.1145/121132.121171</ee><url>https://dblp.org/rec/conf/sosp/SchmuckW91</url></info>
+<url>URL#7509587</url>
+</hit>
+<hit score="3" id="7509588">
+<info><authors><author pid="97/1861">Raj Vaswani</author><author pid="z/JZahorjan">John Zahorjan</author></authors><title>The Implications of Cache Affinity on Processor Scheduling for Multiprogrammed, Shared Memory Multiprocessors.</title><venue>SOSP</venue><pages>26-40</pages><year>1991</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sosp/VaswaniZ91</key><doi>10.1145/121132.121140</doi><ee>https://doi.org/10.1145/121132.121140</ee><url>https://dblp.org/rec/conf/sosp/VaswaniZ91</url></info>
+<url>URL#7509588</url>
+</hit>
+</hits>
+</result>
